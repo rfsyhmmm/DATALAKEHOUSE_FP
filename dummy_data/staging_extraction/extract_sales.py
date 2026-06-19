@@ -39,7 +39,7 @@ def get_schema_tables(conn, schema: str) -> list[str]:
         return [row[0] for row in cur.fetchall()]
 
 
-def extract_table(conn, schema: str, table: str, output_dir: str, timestamp: str) -> int:
+def extract_table(conn, schema: str, table: str, output_dir: str, timestamp: str) -> tuple[int, str]:
     table_dir = os.path.join(output_dir, table)
     os.makedirs(table_dir, exist_ok=True)
 
@@ -69,17 +69,26 @@ def main():
         conn.close()
         return
 
-    print(f"Found {len(tables)} table(s): {', '.join(tables)}\n")
+    print(f"Found {len(tables)} table(s): {', '.join(tables)}\n", flush=True)
 
+    failures = []
     for table in tables:
         try:
             row_count, filepath = extract_table(conn, TARGET_SCHEMA, table, BASE_OUTPUT_DIR, timestamp)
-            print(f"  [OK] {TARGET_SCHEMA}.{table:40s} -> {row_count:>7,} rows -> {os.path.relpath(filepath)}")
+            print(f"  [OK] {TARGET_SCHEMA}.{table:40s} -> {row_count:>7,} rows -> {os.path.relpath(filepath)}", flush=True)
         except Exception as e:
-            print(f"  [FAIL] {TARGET_SCHEMA}.{table}: {e}", file=sys.stderr)
+            failures.append(table)
+            print(f"  [FAIL] {TARGET_SCHEMA}.{table}: {e}", file=sys.stderr, flush=True)
 
     conn.close()
     print(f"\nDone. Files written to: {BASE_OUTPUT_DIR}")
+
+    # Exit non-zero if any table failed so callers (run_extractions.py,
+    # build pipelines) don't treat a partial extraction as success.
+    if failures:
+        print(f"[ERROR] {len(failures)} table(s) failed to extract: "
+              f"{', '.join(failures)}", file=sys.stderr, flush=True)
+        sys.exit(1)
 
 
 if __name__ == "__main__":

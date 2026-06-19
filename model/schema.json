@@ -1,0 +1,312 @@
+{
+  "dim_date": {
+    "columns": [
+      {
+        "name": "date_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "full_date",
+        "type": "DATE"
+      },
+      {
+        "name": "day",
+        "type": "BIGINT"
+      },
+      {
+        "name": "month",
+        "type": "BIGINT"
+      },
+      {
+        "name": "month_name",
+        "type": "VARCHAR(20)"
+      },
+      {
+        "name": "quarter",
+        "type": "BIGINT"
+      },
+      {
+        "name": "year",
+        "type": "BIGINT"
+      }
+    ],
+    "primary_key": "date_key",
+    "foreign_keys": []
+  },
+  "dim_product": {
+    "columns": [
+      {
+        "name": "product_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "product_id",
+        "type": "BIGINT"
+      },
+      {
+        "name": "product_name",
+        "type": "VARCHAR(255)"
+      },
+      {
+        "name": "product_number",
+        "type": "VARCHAR(50)"
+      },
+      {
+        "name": "color",
+        "type": "VARCHAR(50)"
+      },
+      {
+        "name": "size",
+        "type": "VARCHAR(50)"
+      },
+      {
+        "name": "category",
+        "type": "VARCHAR(100)"
+      },
+      {
+        "name": "subcategory",
+        "type": "VARCHAR(100)"
+      },
+      {
+        "name": "standard_cost",
+        "type": "NUMERIC(18,4)"
+      },
+      {
+        "name": "list_price",
+        "type": "NUMERIC(18,4)"
+      }
+    ],
+    "primary_key": "product_key",
+    "foreign_keys": []
+  },
+  "dim_customer": {
+    "columns": [
+      {
+        "name": "customer_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "customer_id",
+        "type": "BIGINT"
+      },
+      {
+        "name": "customer_type",
+        "type": "VARCHAR(20)"
+      },
+      {
+        "name": "territory_id",
+        "type": "BIGINT"
+      }
+    ],
+    "primary_key": "customer_key",
+    "foreign_keys": []
+  },
+  "dim_channel": {
+    "columns": [
+      {
+        "name": "channel_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "channel_name",
+        "type": "VARCHAR(20)"
+      }
+    ],
+    "primary_key": "channel_key",
+    "foreign_keys": []
+  },
+  "dim_aspect": {
+    "columns": [
+      {
+        "name": "aspect_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "aspect_name",
+        "type": "VARCHAR(50)"
+      }
+    ],
+    "primary_key": "aspect_key",
+    "foreign_keys": []
+  },
+  "dim_sentiment": {
+    "columns": [
+      {
+        "name": "sentiment_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "sentiment_label",
+        "type": "VARCHAR(20)"
+      },
+      {
+        "name": "sentiment_score",
+        "type": "BIGINT"
+      }
+    ],
+    "primary_key": "sentiment_key",
+    "foreign_keys": []
+  },
+  "fact_sales": {
+    "columns": [
+      {
+        "name": "sales_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "date_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "customer_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "product_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "channel_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "sales_order_id",
+        "type": "BIGINT"
+      },
+      {
+        "name": "source_type",
+        "type": "VARCHAR(20)"
+      },
+      {
+        "name": "order_qty",
+        "type": "BIGINT"
+      },
+      {
+        "name": "unit_price",
+        "type": "NUMERIC(18,4)"
+      },
+      {
+        "name": "unit_price_discount",
+        "type": "NUMERIC(18,4)"
+      },
+      {
+        "name": "line_total",
+        "type": "NUMERIC(18,4)"
+      },
+      {
+        "name": "sales_count",
+        "type": "BIGINT"
+      }
+    ],
+    "primary_key": "sales_key",
+    "foreign_keys": [
+      {
+        "column": "date_key",
+        "references": "dim_date(date_key)"
+      },
+      {
+        "column": "customer_key",
+        "references": "dim_customer(customer_key)"
+      },
+      {
+        "column": "product_key",
+        "references": "dim_product(product_key)"
+      },
+      {
+        "column": "channel_key",
+        "references": "dim_channel(channel_key)"
+      }
+    ]
+  },
+  "fact_sentiment": {
+    "columns": [
+      {
+        "name": "sentiment_fact_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "date_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "product_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "aspect_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "sentiment_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "tweet_id",
+        "type": "VARCHAR(32)"
+      },
+      {
+        "name": "screen_name",
+        "type": "VARCHAR(100)"
+      },
+      {
+        "name": "lang",
+        "type": "VARCHAR(10)"
+      },
+      {
+        "name": "source",
+        "type": "VARCHAR(50)"
+      },
+      {
+        "name": "verified",
+        "type": "BOOLEAN"
+      },
+      {
+        "name": "is_spike",
+        "type": "BOOLEAN"
+      },
+      {
+        "name": "followers_count",
+        "type": "BIGINT"
+      },
+      {
+        "name": "favorite_count",
+        "type": "BIGINT"
+      },
+      {
+        "name": "retweet_count",
+        "type": "BIGINT"
+      },
+      {
+        "name": "engagement_total",
+        "type": "BIGINT"
+      },
+      {
+        "name": "sentiment_score",
+        "type": "BIGINT"
+      },
+      {
+        "name": "tweet_count",
+        "type": "BIGINT"
+      }
+    ],
+    "primary_key": "sentiment_fact_key",
+    "foreign_keys": [
+      {
+        "column": "date_key",
+        "references": "dim_date(date_key)"
+      },
+      {
+        "column": "product_key",
+        "references": "dim_product(product_key)"
+      },
+      {
+        "column": "aspect_key",
+        "references": "dim_aspect(aspect_key)"
+      },
+      {
+        "column": "sentiment_key",
+        "references": "dim_sentiment(sentiment_key)"
+      }
+    ]
+  }
+}

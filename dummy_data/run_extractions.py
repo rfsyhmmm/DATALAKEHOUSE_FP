@@ -70,12 +70,12 @@ run(tweet_cmd)
 
 
 # ---------------------------------------------------------------------------
-# 3. Generate invoice PDFs
+# 3. Generate invoice PDFs  (uses pre-filtered offline_store_csv from step 1c)
 # ---------------------------------------------------------------------------
 print('\n=== [3] Generating invoice PDFs ===')
 
-header_csv      = latest_in('salesorderheader', 'salesorderheader_*.csv')
-detail_csv      = latest_in('salesorderdetail', 'salesorderdetail_*.csv')
+header_csv      = latest_in('offline_store_csv/salesorderheader', 'salesorderheader_offline_*.csv')
+detail_csv      = latest_in('offline_store_csv/salesorderdetail', 'salesorderdetail_offline_*.csv')
 customer_csv    = latest_in('customer',          'customer_*.csv')
 product_csv     = latest_in('product_and_sub',   'product_[0-9]*.csv')
 subcat_csv      = latest_in('product_and_sub',   'productsubcategory_*.csv')
