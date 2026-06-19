@@ -1,0 +1,11 @@
+Cara menggunakan awc_invoices.py:
+
+1. Install dependensi: pip install reportlab
+
+2. Persiapkan file CSV dari AdventureWorks (header, product, subcategory, category, detail, customer, address, dll).
+
+3. Jalankan perintah: python awc_invoices.py --header salesorderheader.csv --product product.csv --subcategory productsubcategory.csv --category productcategory.csv --detail salesorderdetail.csv --customer customer.csv --address address.csv --salesperson salesperson.csv --territory salesterritory.csv --shipmethod shipmethod.csv --output-dir invoices
+
+4. Output: Satu file PDF gabungan (invoices_onlineorderflag_false.pdf) berisi semua invoice dengan onlineorderflag=false, satu halaman per order, dengan rincian item, alamat, dan total.
+
+5. Opsional: Tambah flag --one-file-per-invoice untuk pisah tiap invoice ke file terpisah, atau --combined-name namafile.pdf untuk ganti nama output.

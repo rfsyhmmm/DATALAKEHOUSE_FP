@@ -1,0 +1,8 @@
+Ya, output berupa .json (atau .ndjson jika --format ndjson). Defaultnya satu file per hari (tweets_2026-06-10.json, tweets_2026-06-11.json, dst) atau satu file gabungan tweets_all.json jika --split none.
+Cara pakai:
+bashpython3 generate_tweets.py \
+  --product product.csv --subcategory subcategory.csv --category category.csv \
+  --count 6000 --start-date 2026-06-10 --end-date 2026-06-14 \
+  --spike-date 2026-06-12 --spike-subcategory "Mountain Bikes" \
+  --output my_tweets
+Selesai — folder my_tweets/ akan berisi file JSON dengan 6000 tweet, lalu buka dengan text editor atau load di Python: json.load(open('my_tweets/tweets_all.json')) untuk analisis sentimen, aspek, bias produk, dan spike detection.
