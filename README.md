@@ -98,15 +98,15 @@ load_warehouse.py      model/ ──► warehouseDB.dw_sales  (CREATE TABLE + CO
 
 Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact utama adalah **`dim_product`** (+ hierarki kategori). Semua dim yang dirujuk fact memiliki anggota **Unknown (`key = -1`)** agar tidak pernah orphan.
 
+> **Prinsip fact tabel:** fact **hanya berisi surrogate key + measure**, tidak ada teks deskriptif. Satu-satunya pengecualian adalah *degenerate key* (`sales_order_id`, `tweet_id`) — identitas natural pada grain. Semua atribut teks dipindah ke dimensi.
+
 ```
-            dim_customer   dim_channel
-                  \           /
-   dim_date ────  fact_sales            ◄── shared: dim_date, dim_product
-       \            /        \              /
-        \          /          \            /
-         dim_product ──── fact_sentiment
-                  /            \
-            dim_aspect      dim_sentiment
+   dim_customer  dim_channel  dim_source              dim_author  dim_tweet_context
+          \          |          /                          \           /
+           \         |         /                            \         /
+   dim_date ─────  fact_sales  ─── dim_product ─── fact_sentiment  ───── dim_date
+                                   (shared)                \         /
+                                                        dim_aspect  dim_sentiment
 ```
 
 | Tabel | Baris | Peran | Keterangan |
@@ -115,10 +115,13 @@ Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact ut
 | `dim_product` | 505 | konform | product_key, product_id, product_name, product_number, category, subcategory, cost, price |
 | `dim_customer` | 19,821 | sales | customer_key, customer_id, customer_type (Individual/Store/Unknown), territory_id |
 | `dim_channel` | 2 | sales | channel_key (1=Online, 2=Offline), channel_name |
+| `dim_source` | 3 | sales | source_key, source_type (csv_online / pdf_offline) — provenance ingestion |
 | `dim_aspect` | 6 | sentiment | aspect_key, aspect_name (Quality/Delivery/Price/Service/Durability/General) |
 | `dim_sentiment` | 3 | sentiment | sentiment_key, sentiment_label, sentiment_score (+1/0/−1) |
-| `fact_sales` | 111,656 | fact | Grain: 1 line item. FK: date/customer/product/channel. Measure: order_qty, unit_price, unit_price_discount, line_total, sales_count. Degenerate: sales_order_id, source_type |
-| `fact_sentiment` | 2,000 | fact | Grain: 1 tweet. FK: date/product/aspect/sentiment. Measure: favorite_count, retweet_count, engagement_total, sentiment_score, tweet_count. Degenerate: tweet_id, screen_name, lang, source, is_spike, verified |
+| `dim_author` | 2,001 | sentiment | author_key, screen_name, verified — profil penulis tweet |
+| `dim_tweet_context` | 7 | sentiment | context_key, lang, source_app — junk dim (bahasa + aplikasi posting) |
+| `fact_sales` | 111,656 | fact | Grain: 1 line item. FK: date/customer/product/channel/**source**. Measure: order_qty, unit_price, unit_price_discount, line_total, sales_count. Degenerate key: `sales_order_id` |
+| `fact_sentiment` | 2,000 | fact | Grain: 1 tweet. FK: date/product/aspect/sentiment/**author/context**. Measure: followers_count, favorite_count, retweet_count, engagement_total, sentiment_score, tweet_count, flag is_spike. Degenerate key: `tweet_id` |
 
 > **Catatan keterbatasan data:** tanggal sales AdventureWorks bersifat historis (~2011–2014) sedangkan tweet sintetis di 2026-06, sehingga `dim_date` **tidak overlap** antar-fact. Analisa lintas-fact yang sahih menggunakan **product/kategori**, bukan waktu.
 

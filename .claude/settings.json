@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Lenovo/Desktop/DATALAKEHOUSE_FP/**)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -c ' *)"
+    ]
+  }
+}

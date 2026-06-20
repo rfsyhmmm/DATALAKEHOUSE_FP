@@ -136,10 +136,49 @@ def build_dim_sentiment() -> pd.DataFrame:
     })
 
 
+def _with_unknown(df: pd.DataFrame, key_col: str, unknown_row: dict) -> pd.DataFrame:
+    """Prepend an Unknown(-1) member so facts never orphan on this dimension."""
+    return pd.concat([pd.DataFrame([unknown_row]), df], ignore_index=True)
+
+
+def build_dim_source(sales: pd.DataFrame) -> pd.DataFrame:
+    """Ingestion provenance for fact_sales (replaces the literal source_type text)."""
+    vals = sales["source_type"].fillna("Unknown").drop_duplicates().sort_values()
+    d = pd.DataFrame({"source_type": vals}).reset_index(drop=True)
+    d.insert(0, "source_key", d.index + 1)
+    d = _with_unknown(d, "source_key", {"source_key": UNKNOWN_KEY, "source_type": "Unknown"})
+    return d[["source_key", "source_type"]]
+
+
+def build_dim_author(sentiment: pd.DataFrame) -> pd.DataFrame:
+    """Tweet author profile for fact_sentiment (replaces literal screen_name/verified)."""
+    a = sentiment[["screen_name", "verified"]].copy()
+    a["screen_name"] = a["screen_name"].fillna("Unknown")
+    a["verified"] = a["verified"].fillna(False).astype(bool)
+    a = a.drop_duplicates(subset=["screen_name"]).sort_values("screen_name").reset_index(drop=True)
+    a.insert(0, "author_key", a.index + 1)
+    a = _with_unknown(a, "author_key",
+                      {"author_key": UNKNOWN_KEY, "screen_name": "Unknown", "verified": False})
+    return a[["author_key", "screen_name", "verified"]]
+
+
+def build_dim_tweet_context(sentiment: pd.DataFrame) -> pd.DataFrame:
+    """Junk dimension: low-cardinality tweet context (language + posting app)."""
+    c = sentiment[["lang", "source"]].copy()
+    c["lang"] = c["lang"].fillna("Unknown")
+    c["source"] = c["source"].fillna("Unknown")
+    c = c.drop_duplicates().sort_values(["lang", "source"]).reset_index(drop=True)
+    c = c.rename(columns={"source": "source_app"})
+    c.insert(0, "context_key", c.index + 1)
+    c = _with_unknown(c, "context_key",
+                      {"context_key": UNKNOWN_KEY, "lang": "Unknown", "source_app": "Unknown"})
+    return c[["context_key", "lang", "source_app"]]
+
+
 # --------------------------------------------------------------------------- #
 # Facts
 # --------------------------------------------------------------------------- #
-def build_fact_sales(sales, dim_customer, dim_product) -> pd.DataFrame:
+def build_fact_sales(sales, dim_customer, dim_product, dim_source) -> pd.DataFrame:
     f = sales.copy()
     f["date_key"] = _date_key(f["order_date"])
     f["channel_key"] = f["channel"].map({"Online": 1, "Offline": 2}).astype("Int64")
@@ -150,14 +189,19 @@ def build_fact_sales(sales, dim_customer, dim_product) -> pd.DataFrame:
     prod_map = dim_product.set_index("product_id")["product_key"]
     f["product_key"] = f["product_id"].map(prod_map).fillna(UNKNOWN_KEY).astype("int64")
 
-    f = f.rename(columns={"salesorderid": "sales_order_id", "order_qty": "order_qty"})
+    src_map = dim_source.set_index("source_type")["source_key"]
+    f["source_key"] = f["source_type"].fillna("Unknown").map(src_map).fillna(UNKNOWN_KEY).astype("int64")
+
+    f = f.rename(columns={"salesorderid": "sales_order_id"})
     f["sales_count"] = 1
-    return f[["date_key", "customer_key", "product_key", "channel_key",
-              "sales_order_id", "source_type", "order_qty", "unit_price",
+    # facts carry KEYS + MEASURES only; sales_order_id is the degenerate order key.
+    return f[["date_key", "customer_key", "product_key", "channel_key", "source_key",
+              "sales_order_id", "order_qty", "unit_price",
               "unit_price_discount", "line_total", "sales_count"]]
 
 
-def build_fact_sentiment(sentiment, dim_product, dim_aspect, dim_sentiment) -> pd.DataFrame:
+def build_fact_sentiment(sentiment, dim_product, dim_aspect, dim_sentiment,
+                         dim_author, dim_context) -> pd.DataFrame:
     f = sentiment.copy()
     f["date_key"] = _date_key(f["event_date"])
 
@@ -176,9 +220,20 @@ def build_fact_sentiment(sentiment, dim_product, dim_aspect, dim_sentiment) -> p
     f["sentiment_key"] = f["sentiment"].map(sent_map).fillna(
         sent_map.get("neutral")).astype("int64")
 
+    # author via screen_name; context via (lang, source) junk dim -> keys only
+    auth_map = dim_author.set_index("screen_name")["author_key"]
+    f["author_key"] = f["screen_name"].fillna("Unknown").map(auth_map).fillna(UNKNOWN_KEY).astype("int64")
+
+    f["lang"] = f["lang"].fillna("Unknown")
+    f["source"] = f["source"].fillna("Unknown")
+    ctx = dim_context.rename(columns={"source_app": "source"})
+    f = f.merge(ctx[["lang", "source", "context_key"]], on=["lang", "source"], how="left")
+    f["context_key"] = f["context_key"].fillna(UNKNOWN_KEY).astype("int64")
+
     f["tweet_count"] = 1
+    # facts carry KEYS + MEASURES only; tweet_id is the degenerate tweet key.
     return f[["date_key", "product_key", "aspect_key", "sentiment_key",
-              "tweet_id", "screen_name", "lang", "source", "verified", "is_spike",
+              "author_key", "context_key", "tweet_id", "is_spike",
               "followers_count", "favorite_count", "retweet_count",
               "engagement_total", "sentiment_score", "tweet_count"]]
 
@@ -199,24 +254,31 @@ def run() -> dict:
     dim_product   = build_dim_product(product, subcat, cat)
     dim_customer  = build_dim_customer(customer)
     dim_channel   = build_dim_channel()
+    dim_source    = build_dim_source(sales)
     dim_aspect    = build_dim_aspect()
     dim_sentiment = build_dim_sentiment()
+    dim_author    = build_dim_author(sentiment)
+    dim_context   = build_dim_tweet_context(sentiment)
 
-    fact_sales     = build_fact_sales(sales, dim_customer, dim_product)
-    fact_sentiment = build_fact_sentiment(sentiment, dim_product, dim_aspect, dim_sentiment)
+    fact_sales     = build_fact_sales(sales, dim_customer, dim_product, dim_source)
+    fact_sentiment = build_fact_sentiment(sentiment, dim_product, dim_aspect,
+                                          dim_sentiment, dim_author, dim_context)
 
     counts = {
-        "dim_date":       _write(dim_date, "dim_date"),
-        "dim_product":    _write(dim_product, "dim_product"),
-        "dim_customer":   _write(dim_customer, "dim_customer"),
-        "dim_channel":    _write(dim_channel, "dim_channel"),
-        "dim_aspect":     _write(dim_aspect, "dim_aspect"),
-        "dim_sentiment":  _write(dim_sentiment, "dim_sentiment"),
-        "fact_sales":     _write(fact_sales, "fact_sales"),
-        "fact_sentiment": _write(fact_sentiment, "fact_sentiment"),
+        "dim_date":          _write(dim_date, "dim_date"),
+        "dim_product":       _write(dim_product, "dim_product"),
+        "dim_customer":      _write(dim_customer, "dim_customer"),
+        "dim_channel":       _write(dim_channel, "dim_channel"),
+        "dim_source":        _write(dim_source, "dim_source"),
+        "dim_aspect":        _write(dim_aspect, "dim_aspect"),
+        "dim_sentiment":     _write(dim_sentiment, "dim_sentiment"),
+        "dim_author":        _write(dim_author, "dim_author"),
+        "dim_tweet_context": _write(dim_context, "dim_tweet_context"),
+        "fact_sales":        _write(fact_sales, "fact_sales"),
+        "fact_sentiment":    _write(fact_sentiment, "fact_sentiment"),
     }
     for k, v in counts.items():
-        print(f"  [OK] {k:16s} {v:>8,} rows", flush=True)
+        print(f"  [OK] {k:18s} {v:>8,} rows", flush=True)
 
     # FK integrity report (Unknown members should absorb all unmatched rows)
     date_keys = set(dim_date["date_key"])
@@ -225,6 +287,7 @@ def run() -> dict:
         "customer_key": int(fact_sales["customer_key"].isna().sum()),
         "product_key":  int(fact_sales["product_key"].isna().sum()),
         "channel_key":  int(fact_sales["channel_key"].isna().sum()),
+        "source_key":   int(fact_sales["source_key"].isna().sum()),
     }
     sent_unknown_prod = int((fact_sentiment["product_key"] == UNKNOWN_KEY).sum())
     print(f"  [CHECK] fact_sales orphan FKs: {sales_orphans}", flush=True)

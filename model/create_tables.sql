@@ -40,6 +40,12 @@ CREATE TABLE dim_channel (
     PRIMARY KEY (channel_key)
 );
 
+CREATE TABLE dim_source (
+    source_key             BIGINT NOT NULL,
+    source_type            VARCHAR(20),
+    PRIMARY KEY (source_key)
+);
+
 CREATE TABLE dim_aspect (
     aspect_key             BIGINT NOT NULL,
     aspect_name            VARCHAR(50),
@@ -53,14 +59,28 @@ CREATE TABLE dim_sentiment (
     PRIMARY KEY (sentiment_key)
 );
 
+CREATE TABLE dim_author (
+    author_key             BIGINT NOT NULL,
+    screen_name            VARCHAR(100),
+    verified               BOOLEAN,
+    PRIMARY KEY (author_key)
+);
+
+CREATE TABLE dim_tweet_context (
+    context_key            BIGINT NOT NULL,
+    lang                   VARCHAR(10),
+    source_app             VARCHAR(50),
+    PRIMARY KEY (context_key)
+);
+
 CREATE TABLE fact_sales (
     sales_key              BIGINT NOT NULL,
     date_key               BIGINT NOT NULL,
     customer_key           BIGINT NOT NULL,
     product_key            BIGINT NOT NULL,
     channel_key            BIGINT NOT NULL,
+    source_key             BIGINT NOT NULL,
     sales_order_id         BIGINT,
-    source_type            VARCHAR(20),
     order_qty              BIGINT,
     unit_price             NUMERIC(18,4),
     unit_price_discount    NUMERIC(18,4),
@@ -70,7 +90,8 @@ CREATE TABLE fact_sales (
     FOREIGN KEY (date_key) REFERENCES dim_date (date_key),
     FOREIGN KEY (customer_key) REFERENCES dim_customer (customer_key),
     FOREIGN KEY (product_key) REFERENCES dim_product (product_key),
-    FOREIGN KEY (channel_key) REFERENCES dim_channel (channel_key)
+    FOREIGN KEY (channel_key) REFERENCES dim_channel (channel_key),
+    FOREIGN KEY (source_key) REFERENCES dim_source (source_key)
 );
 
 CREATE TABLE fact_sentiment (
@@ -79,11 +100,9 @@ CREATE TABLE fact_sentiment (
     product_key            BIGINT NOT NULL,
     aspect_key             BIGINT NOT NULL,
     sentiment_key          BIGINT NOT NULL,
+    author_key             BIGINT NOT NULL,
+    context_key            BIGINT NOT NULL,
     tweet_id               VARCHAR(32),
-    screen_name            VARCHAR(100),
-    lang                   VARCHAR(10),
-    source                 VARCHAR(50),
-    verified               BOOLEAN,
     is_spike               BOOLEAN,
     followers_count        BIGINT,
     favorite_count         BIGINT,
@@ -95,5 +114,7 @@ CREATE TABLE fact_sentiment (
     FOREIGN KEY (date_key) REFERENCES dim_date (date_key),
     FOREIGN KEY (product_key) REFERENCES dim_product (product_key),
     FOREIGN KEY (aspect_key) REFERENCES dim_aspect (aspect_key),
-    FOREIGN KEY (sentiment_key) REFERENCES dim_sentiment (sentiment_key)
+    FOREIGN KEY (sentiment_key) REFERENCES dim_sentiment (sentiment_key),
+    FOREIGN KEY (author_key) REFERENCES dim_author (author_key),
+    FOREIGN KEY (context_key) REFERENCES dim_tweet_context (context_key)
 );

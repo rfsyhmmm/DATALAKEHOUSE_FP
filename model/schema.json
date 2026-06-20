@@ -115,6 +115,20 @@
     "primary_key": "channel_key",
     "foreign_keys": []
   },
+  "dim_source": {
+    "columns": [
+      {
+        "name": "source_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "source_type",
+        "type": "VARCHAR(20)"
+      }
+    ],
+    "primary_key": "source_key",
+    "foreign_keys": []
+  },
   "dim_aspect": {
     "columns": [
       {
@@ -147,6 +161,42 @@
     "primary_key": "sentiment_key",
     "foreign_keys": []
   },
+  "dim_author": {
+    "columns": [
+      {
+        "name": "author_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "screen_name",
+        "type": "VARCHAR(100)"
+      },
+      {
+        "name": "verified",
+        "type": "BOOLEAN"
+      }
+    ],
+    "primary_key": "author_key",
+    "foreign_keys": []
+  },
+  "dim_tweet_context": {
+    "columns": [
+      {
+        "name": "context_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "lang",
+        "type": "VARCHAR(10)"
+      },
+      {
+        "name": "source_app",
+        "type": "VARCHAR(50)"
+      }
+    ],
+    "primary_key": "context_key",
+    "foreign_keys": []
+  },
   "fact_sales": {
     "columns": [
       {
@@ -170,12 +220,12 @@
         "type": "BIGINT"
       },
       {
-        "name": "sales_order_id",
+        "name": "source_key",
         "type": "BIGINT"
       },
       {
-        "name": "source_type",
-        "type": "VARCHAR(20)"
+        "name": "sales_order_id",
+        "type": "BIGINT"
       },
       {
         "name": "order_qty",
@@ -215,6 +265,10 @@
       {
         "column": "channel_key",
         "references": "dim_channel(channel_key)"
+      },
+      {
+        "column": "source_key",
+        "references": "dim_source(source_key)"
       }
     ]
   },
@@ -241,24 +295,16 @@
         "type": "BIGINT"
       },
       {
+        "name": "author_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "context_key",
+        "type": "BIGINT"
+      },
+      {
         "name": "tweet_id",
         "type": "VARCHAR(32)"
-      },
-      {
-        "name": "screen_name",
-        "type": "VARCHAR(100)"
-      },
-      {
-        "name": "lang",
-        "type": "VARCHAR(10)"
-      },
-      {
-        "name": "source",
-        "type": "VARCHAR(50)"
-      },
-      {
-        "name": "verified",
-        "type": "BOOLEAN"
       },
       {
         "name": "is_spike",
@@ -306,6 +352,14 @@
       {
         "column": "sentiment_key",
         "references": "dim_sentiment(sentiment_key)"
+      },
+      {
+        "column": "author_key",
+        "references": "dim_author(author_key)"
+      },
+      {
+        "column": "context_key",
+        "references": "dim_tweet_context(context_key)"
       }
     ]
   }

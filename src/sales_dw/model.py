@@ -51,6 +51,10 @@ SPEC = {
         "pk": "channel_key", "fks": [],
         "columns": [("channel_key", "BIGINT"), ("channel_name", "VARCHAR(20)")],
     },
+    "dim_source": {
+        "pk": "source_key", "fks": [],
+        "columns": [("source_key", "BIGINT"), ("source_type", "VARCHAR(20)")],
+    },
     # --- sentiment-private dimensions ---
     "dim_aspect": {
         "pk": "aspect_key", "fks": [],
@@ -61,17 +65,28 @@ SPEC = {
         "columns": [("sentiment_key", "BIGINT"), ("sentiment_label", "VARCHAR(20)"),
                     ("sentiment_score", "BIGINT")],
     },
-    # --- facts ---
+    "dim_author": {
+        "pk": "author_key", "fks": [],
+        "columns": [("author_key", "BIGINT"), ("screen_name", "VARCHAR(100)"),
+                    ("verified", "BOOLEAN")],
+    },
+    "dim_tweet_context": {
+        "pk": "context_key", "fks": [],
+        "columns": [("context_key", "BIGINT"), ("lang", "VARCHAR(10)"),
+                    ("source_app", "VARCHAR(50)")],
+    },
+    # --- facts (keys + measures only; *_order_id / tweet_id are degenerate keys) ---
     "fact_sales": {
         "pk": "sales_key",
         "fks": [("date_key", "dim_date", "date_key"),
                 ("customer_key", "dim_customer", "customer_key"),
                 ("product_key", "dim_product", "product_key"),
-                ("channel_key", "dim_channel", "channel_key")],
+                ("channel_key", "dim_channel", "channel_key"),
+                ("source_key", "dim_source", "source_key")],
         "columns": [("sales_key", "BIGINT"), ("date_key", "BIGINT"),
                     ("customer_key", "BIGINT"), ("product_key", "BIGINT"),
-                    ("channel_key", "BIGINT"), ("sales_order_id", "BIGINT"),
-                    ("source_type", "VARCHAR(20)"),
+                    ("channel_key", "BIGINT"), ("source_key", "BIGINT"),
+                    ("sales_order_id", "BIGINT"),
                     ("order_qty", "BIGINT"), ("unit_price", "NUMERIC(18,4)"),
                     ("unit_price_discount", "NUMERIC(18,4)"), ("line_total", "NUMERIC(18,4)"),
                     ("sales_count", "BIGINT")],
@@ -81,12 +96,13 @@ SPEC = {
         "fks": [("date_key", "dim_date", "date_key"),
                 ("product_key", "dim_product", "product_key"),
                 ("aspect_key", "dim_aspect", "aspect_key"),
-                ("sentiment_key", "dim_sentiment", "sentiment_key")],
+                ("sentiment_key", "dim_sentiment", "sentiment_key"),
+                ("author_key", "dim_author", "author_key"),
+                ("context_key", "dim_tweet_context", "context_key")],
         "columns": [("sentiment_fact_key", "BIGINT"), ("date_key", "BIGINT"),
                     ("product_key", "BIGINT"), ("aspect_key", "BIGINT"),
-                    ("sentiment_key", "BIGINT"), ("tweet_id", "VARCHAR(32)"),
-                    ("screen_name", "VARCHAR(100)"), ("lang", "VARCHAR(10)"),
-                    ("source", "VARCHAR(50)"), ("verified", "BOOLEAN"),
+                    ("sentiment_key", "BIGINT"), ("author_key", "BIGINT"),
+                    ("context_key", "BIGINT"), ("tweet_id", "VARCHAR(32)"),
                     ("is_spike", "BOOLEAN"), ("followers_count", "BIGINT"),
                     ("favorite_count", "BIGINT"), ("retweet_count", "BIGINT"),
                     ("engagement_total", "BIGINT"), ("sentiment_score", "BIGINT"),
@@ -95,8 +111,9 @@ SPEC = {
 }
 
 # DDL emit order: all dims before facts (FK dependency)
-TABLE_ORDER = ["dim_date", "dim_product", "dim_customer", "dim_channel",
-               "dim_aspect", "dim_sentiment", "fact_sales", "fact_sentiment"]
+TABLE_ORDER = ["dim_date", "dim_product", "dim_customer", "dim_channel", "dim_source",
+               "dim_aspect", "dim_sentiment", "dim_author", "dim_tweet_context",
+               "fact_sales", "fact_sentiment"]
 KEY_SUFFIX = "_key"
 
 
