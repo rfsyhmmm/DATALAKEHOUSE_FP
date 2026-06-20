@@ -1,5 +1,7 @@
-pandas
-psycopg2-binary
-reportlab
-pyarrow
-pdfplumber
+# DATALAKEHOUSE_FP — dependencies (selaras dengan pipeline saat ini)
+# Hanya stdlib + 5 paket berikut yang dipakai di seluruh alur.
+pandas            # transform & IO seluruh layer (silver / gold / model / warehouse)
+pyarrow           # baca/tulis Parquet (silver, gold, model)
+psycopg2-binary   # PostgreSQL: extract sumber (adventureworks_local) + load DW (warehouseDB)
+reportlab         # generate invoice PDF (factory / dummy_data)
+pdfplumber        # parse invoice PDF -> silver/document (offline sales)

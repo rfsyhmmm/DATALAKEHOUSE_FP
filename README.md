@@ -2,31 +2,35 @@
 
 **Final Project — Semester 4 Data Lakehouse**
 
-Proyek ini membangun pipeline Data Lakehouse end-to-end berbasis arsitektur **Medallion (Bronze → Silver → Gold)** menggunakan tiga sumber data heterogen: data transaksional OLTP dari database AdventureWorks, data media sosial sintetis, dan dokumen invoice PDF. Seluruh data di-ingest melalui zona landing (`pool/`) sebelum masuk ke lapisan medallion.
+Proyek ini membangun pipeline Data Lakehouse end-to-end berbasis arsitektur **Medallion (Bronze → Silver → Gold)** dari tiga sumber data heterogen — data transaksional OLTP (AdventureWorks), data media sosial sintetis (tweet berlabel sentimen), dan dokumen invoice PDF — lalu memodelkannya menjadi **galaxy schema (fact constellation)** dengan dua fact yang berbagi dimensi (`fact_sales` + `fact_sentiment`), dan akhirnya **dimuat ke Data Warehouse PostgreSQL** (`warehouseDB`, schema `dw_sales`). Seluruh data masuk lewat zona landing (`pool/`) sebelum medallion.
 
 ---
 
 ## Arsitektur Sistem
 
 ```
-   FACTORY                    OUTSIDE WORLD          LAKEHOUSE (hanya kenal pool/)
-┌──────────────┐            ┌──────────────┐   ┌─────────┬─────────┬─────────┐
-│ dummy_data/  │  move_to   │    pool/     │   │ Bronze  │ Silver  │  Gold   │
-│ staging_     │ ─_pool.py─►│ OLTP (CSV)   │──►│ (asli)  │(Parquet)│(Parquet)│──► Power BI
-│ extraction   │            │ social (JSON)│   │ CSV/PDF │ struktur│  star   │
-│ (generate)   │            │ document(PDF)│   └─────────┴─────────┴─────────┘
-└──────────────┘            └──────────────┘
+   FACTORY                 OUTSIDE WORLD        LAKEHOUSE (hanya kenal pool/)             DATA WAREHOUSE
+┌──────────────┐  move_to  ┌────────────┐  ┌────────┬─────────┬──────────────┬────────┐  ┌──────────────┐
+│ dummy_data/  │ ─_pool.py►│   pool/    │─►│ Bronze │ Silver  │ Gold (galaxy)│ model/ │─►│ PostgreSQL   │
+│ - OLTP CSV   │   COPY    │ OLTP (CSV) │  │ (asli) │(Parquet)│ fact_sales + │  DW-   │  │ warehouseDB  │
+│ - tweet JSON │           │ social JSON│  │ by     │ typed,  │ fact_sentiment│ ready │  │ schema       │
+│ - invoice PDF│           │ doc  PDF   │  │ format │ cleaned │ + shared dims│ +DDL   │  │ dw_sales     │
+└──────────────┘           └────────────┘  └────────┴─────────┴──────────────┴────────┘  └──────────────┘
+                                                                       │
+                                                                       └──► Power BI (import Parquet langsung)
 ```
 
 **Boundary rule penting:** lapisan medallion (bronze/silver/gold) **hanya membaca dari `pool/`** — tidak pernah menyentuh `dummy_data/`. `dummy_data/` adalah *pabrik* yang men-generate data; `pool/` adalah *dunia luar / source system*.
 
 | Tahap | Zona | Format | Deskripsi |
 |-------|------|--------|-----------|
-| Factory | `dummy_data/staging_extraction/` | CSV/JSON/PDF | Ekstraksi DB, generate tweet & invoice |
+| Factory | `dummy_data/` | CSV/JSON/PDF | Ekstraksi DB, generate tweet & invoice |
 | Pool / Landing | `pool/` | mentah (CSV/JSON/PDF) | Data terpilih dipindah ke sini + `_manifest.json` (lineage) |
-| Bronze | `medallion_layer/bronze/` | **format asli** (CSV/PDF) | Raw ingestion dari pool, belum direstrukturisasi |
-| Silver | `medallion_layer/silver/` | **Parquet** | Typed, cleaned, deduped, derived columns |
-| Gold | `medallion_layer/gold/` | **Parquet** | Star schema siap Power BI |
+| Bronze | `medallion_layer/bronze/` | **format asli** (CSV/PDF/JSON) | Raw ingestion by FORMAT, belum direstrukturisasi |
+| Silver | `medallion_layer/silver/` | **Parquet** | Typed, cleaned, deduped, derived & analyzed |
+| Gold | `medallion_layer/gold/` | **Parquet** | **Galaxy schema** (2 fact + dim konform) |
+| Model | `model/` | **Parquet + DDL** | dim/fact final relational-ready, siap ship ke DW |
+| Data Warehouse | `warehouseDB.dw_sales` | **Tabel PostgreSQL** | Hasil load `model/` (PK + FK), siap dikueri |
 
 ---
 
@@ -34,42 +38,7 @@ Proyek ini membangun pipeline Data Lakehouse end-to-end berbasis arsitektur **Me
 
 ### 1. OLTP — AdventureWorks (PostgreSQL)
 
-Database `adventureworks_local` (PostgreSQL 5432) berisi data penjualan sepeda fiktif dari Microsoft AdventureWorks.
-
-**Schema `sales` — 19 tabel:**
-
-| Tabel | Baris | Keterangan |
-|-------|------:|------------|
-| salesorderheader | 31,465 | Header transaksi; `onlineorderflag` membedakan online vs offline |
-| salesorderdetail | 121,317 | Line item per transaksi |
-| salesorderheadersalesreason | 27,647 | Alasan penjualan (hanya online) |
-| customer | 19,820 | Data pelanggan |
-| personcreditcard | 19,118 | Kartu kredit pelanggan |
-| creditcard | 19,118 | Master kartu kredit |
-| currencyrate | 13,532 | Kurs mata uang historis |
-| specialofferproduct | 538 | Produk yang masuk promo |
-| salespersonquotahistory | 163 | Kuota sales per periode |
-| salestaxrate | 29 | Tarif pajak per wilayah |
-| countryregioncurrency | 109 | Mata uang per negara |
-| currency | 105 | Master mata uang |
-| store | 0 | Data toko (kosong di dataset ini) |
-| salesperson | 17 | Data tenaga penjual |
-| salesterritoryhistory | 17 | Riwayat territory sales |
-| salesterritory | 10 | Territory penjualan |
-| salesreason | 10 | Master alasan penjualan |
-| specialoffer | 16 | Penawaran spesial |
-| shoppingcartitem | 3 | Item keranjang belanja |
-
-**Schema `production`, `person`, `purchasing` — tabel pendukung:**
-
-| Tabel | Schema | Subfolder Output | Baris |
-|-------|--------|-----------------|------:|
-| product | production | `product_and_sub/` | 504 |
-| productsubcategory | production | `product_and_sub/` | 37 |
-| productcategory | production | `product_and_sub/` | 4 |
-| address | person | `address/` | 19,614 |
-| person | person | `person/` | 0 |
-| shipmethod | purchasing | `shipmethod/` | 5 |
+Database `adventureworks_local` (PostgreSQL 5432). Schema `sales` (19 tabel) + tabel pendukung `production` (product/subcategory/category), `person` (address/person), `purchasing` (shipmethod).
 
 **Split berdasarkan channel penjualan (`onlineorderflag`):**
 
@@ -79,221 +48,210 @@ Database `adventureworks_local` (PostgreSQL 5432) berisi data penjualan sepeda f
 | salesorderdetail | 60,398 | 60,919 |
 | salesorderheadersalesreason | 27,647 | 0 |
 
-### 2. Social Media — Synthetic Tweet Data
+> Channel ini menentukan dari mana data sales diambil di silver: **online → CSV**, **offline → PDF invoice** (lihat *Branch A*).
 
-Tweet sintetis berbahasa campuran (EN/ID) yang disimulasikan sebagai data media sosial terkait produk AdventureWorks.
+### 2. Social Media — Synthetic Tweet (berlabel sentimen)
 
-- **Volume:** 2,000 tweet
-- **Periode:** 2026-06-01 s/d 2026-06-19 (19 hari)
-- **Granularitas:** 1 file JSON per hari (~105–106 tweet/hari)
-- **Format file:** `tweets_YYYY-MM-DD.json`
-- **Konten:** user_id, username, timestamp, text (mention produk dari katalog), lang, hashtags
+Tweet sintetis EN/ID terkait produk AdventureWorks, **sudah membawa ground-truth label** di blok `_meta`.
+
+- **Volume:** 2,000 tweet · **Periode:** 2026-06-01 s/d 2026-06-19 · **Format:** `tweets_YYYY-MM-DD.json` (1 file/hari)
+- **Field utama:** `id_str, created_at, text, lang, user{screen_name, followers_count, verified}, retweet_count, favorite_count, source`
+- **`_meta`:** `sentiment` (positive/neutral/negative), `aspect` (kualitas/pengiriman/harga/layanan/durabilitas/umum), `product`, `category`, `subcategory`, `product_bias`, `spike`
 
 ### 3. Document — Invoice PDF
 
-PDF invoice yang di-generate dari data offline sales order (reseller/B2B).
+PDF invoice yang di-generate dari **offline sales order** (`onlineorderflag = false`, 3,806 order).
 
-- **Filter:** `onlineorderflag = false` → 3,806 qualifying orders
-- **Output:** 1 file PDF (`invoices_onlineorderflag_false.pdf`, ~8 MB)
-- **Konten per invoice:** nomor order, tanggal, detail item, subtotal, pajak, alamat pengiriman, nama sales rep, metode pengiriman
+- **Output:** 1 file PDF (`invoices_onlineorderflag_false.pdf`), 1 halaman = 1 invoice
+- **Konten per invoice:** nomor order, tanggal, line item, subtotal, pajak, freight, total, territory, sales rep
+- Order sangat panjang dipotong (`… additional line items truncated …`) → line item *best-effort*, header/total selalu lengkap.
+
+---
+
+## Alur Pipeline (DAG)
+
+Urutan stage mengkodekan dependensi data. **Offline sales diambil dari PDF**, jadi *document silver wajib jalan sebelum sales silver*; gold (galaxy) butuh **kedua** silver fact.
+
+```
+move_to_pool.py        dummy_data/ ──COPY──► pool/  (+ _manifest.json)
+└─ build_lakehouse.py
+   ├─ bronze.py              pool/ ──MOVE(drain)──► bronze/{csv,pdf,json}
+   ├─ document_dw/silver.py  bronze/pdf  ──► silver/document/invoice_{header,line}.parquet
+   ├─ sales_dw/silver.py     bronze/csv + silver/document ──► silver/sales/ (base + sales.parquet)
+   ├─ social_dw/silver.py    bronze/json ──► silver/social/sentiment.parquet
+   ├─ sales_dw/gold.py       silver/sales + silver/social ──► gold/  (galaxy: 6 dim + 2 fact)
+   └─ sales_dw/model.py      gold/ ──► model/ (parquet + schema.json + create_tables.sql)
+
+load_warehouse.py      model/ ──► warehouseDB.dw_sales  (CREATE TABLE + COPY, PK/FK)
+```
+
+### Aturan aliran data
+
+- **`dummy_data/` → `pool/` = COPY** — factory tetap menyimpan arsipnya.
+- **`pool/` → `bronze/` = MOVE (drain)** — file hilang dari pool begitu ditarik bronze (`_manifest.json` tetap sebagai log lineage).
+- **Bronze dikelompokkan by FORMAT** (`bronze/csv|pdf|json`), bukan by source.
+- Karena bronze menguras pool, jalankan `move_to_pool.py` lagi sebelum build berikutnya.
+
+---
+
+## Gold — Galaxy Schema (Fact Constellation)
+
+Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact utama adalah **`dim_product`** (+ hierarki kategori). Semua dim yang dirujuk fact memiliki anggota **Unknown (`key = -1`)** agar tidak pernah orphan.
+
+```
+            dim_customer   dim_channel
+                  \           /
+   dim_date ────  fact_sales            ◄── shared: dim_date, dim_product
+       \            /        \              /
+        \          /          \            /
+         dim_product ──── fact_sentiment
+                  /            \
+            dim_aspect      dim_sentiment
+```
+
+| Tabel | Baris | Peran | Keterangan |
+|-------|------:|-------|------------|
+| `dim_date` | 1,144 | konform | `date_key (YYYYMMDD)`, full_date, day, month, month_name, quarter, year (union tanggal sales + tweet) |
+| `dim_product` | 505 | konform | product_key, product_id, product_name, product_number, category, subcategory, cost, price |
+| `dim_customer` | 19,821 | sales | customer_key, customer_id, customer_type (Individual/Store/Unknown), territory_id |
+| `dim_channel` | 2 | sales | channel_key (1=Online, 2=Offline), channel_name |
+| `dim_aspect` | 6 | sentiment | aspect_key, aspect_name (Quality/Delivery/Price/Service/Durability/General) |
+| `dim_sentiment` | 3 | sentiment | sentiment_key, sentiment_label, sentiment_score (+1/0/−1) |
+| `fact_sales` | 111,656 | fact | Grain: 1 line item. FK: date/customer/product/channel. Measure: order_qty, unit_price, unit_price_discount, line_total, sales_count. Degenerate: sales_order_id, source_type |
+| `fact_sentiment` | 2,000 | fact | Grain: 1 tweet. FK: date/product/aspect/sentiment. Measure: favorite_count, retweet_count, engagement_total, sentiment_score, tweet_count. Degenerate: tweet_id, screen_name, lang, source, is_spike, verified |
+
+> **Catatan keterbatasan data:** tanggal sales AdventureWorks bersifat historis (~2011–2014) sedangkan tweet sintetis di 2026-06, sehingga `dim_date` **tidak overlap** antar-fact. Analisa lintas-fact yang sahih menggunakan **product/kategori**, bukan waktu.
+
+---
+
+## Branch Silver — detail
+
+### Branch A — Sales (unified: online CSV ∪ offline PDF) → `silver/sales/sales.parquet`
+
+`sales_dw/silver.py` menghasilkan tabel base typed (header, detail, customer, product, dst.) **dan** satu fact sales tergabung pada grain line item:
+
+- **Online** ← `bronze/csv` (`onlineorderflag = true`) join detail; `product_id` membawa `product_number`/`product_name`.
+- **Offline** ← `silver/document/invoice_line` join `invoice_header`; `product_id` di-resolve via `product_number → product.productnumber` (key bersih).
+- Kolom konform: `salesorderid, salesorderdetailid, order_date, ship_date, customer_id, product_id, product_number, product_name, order_qty, unit_price, unit_price_discount, line_total, channel, source_type, truncated_flag`.
+
+> Tidak ada double-count (online hanya dari CSV, offline hanya dari PDF). **Trade-off (by design):** offline memakai PDF, jadi 752 invoice yang ter-truncate kehilangan sebagian line item (header/total tetap akurat, ditandai `truncated_flag`). Itu sebabnya `fact_sales` = 111,656 (60,398 online + 51,258 offline), bukan total CSV penuh.
+
+### Branch B — Document (PDF tak terstruktur → terstruktur) → `silver/document/`
+
+`document_dw/silver.py` mem-parse invoice PDF dengan `pdfplumber`:
+
+| Tabel | Baris | Keterangan |
+|-------|------:|------------|
+| `invoice_header` | 3,806 | 1 baris/invoice: salesorderid, po, tanggal, total, `truncated_flag`, `source_page` (1-based) |
+| `invoice_line` | 51,258 | 1 baris/line item (best-effort; 752 invoice ter-truncate) |
+
+> Hasil ini menjadi **sumber sisi offline** untuk `sales.parquet` (Branch A).
+
+### Branch C — Social (tweet → sentimen terstruktur) → `silver/social/sentiment.parquet`
+
+`social_dw/silver.py` mem-flatten tweet + `_meta`, dedupe `tweet_id`, lalu menambah fitur analitik: `sentiment_score` (+1/0/−1), `aspect_en` (Indonesia→Inggris), `engagement_total`, `event_date`, `clean_text` (emoji/mention/URL dibersihkan). Output 1 baris/tweet (2,000).
+
+---
+
+## Data Warehouse — load `model/` → PostgreSQL
+
+`src/load_warehouse.py` mempromosikan output lakehouse (`model/`) menjadi DW relational nyata:
+
+1. **Ensure database** `warehouseDB` (dibuat otomatis jika belum ada).
+2. **(Re)create schema** `dw_sales` (drop + rebuild — idempotent).
+3. **CREATE TABLE** untuk 6 dim + 2 fact (PK + FK, schema-qualified) dari `model/schema.json`.
+4. **Bulk-load** tiap Parquet via `COPY` (dim dulu, lalu fact).
+5. **Verify** row count + 1 query lintas-fact (revenue × avg sentiment per kategori).
+
+```powershell
+.venv\Scripts\python.exe src\load_warehouse.py
+```
+
+> Saat join dua fact, **agregasikan tiap fact ke grain kategori dulu lalu join** — join langsung `fact_sales`×`fact_sentiment` pada `product_key` menyebabkan fan-out dan menggelembungkan revenue. Query verifikasi di skrip sudah memakai pola CTE yang benar.
+
+---
+
+## Control Bridge & Reset
+
+### Bridge — `src/datalakehouse.py` (satu pintu untuk semua service)
+
+```powershell
+.venv\Scripts\python.exe src\datalakehouse.py                 # menu interaktif (loop)
+.venv\Scripts\python.exe src\datalakehouse.py warehouse.create # jalankan 1 action (key)
+.venv\Scripts\python.exe src\datalakehouse.py 9                # ...atau by nomor
+.venv\Scripts\python.exe src\datalakehouse.py list             # tampilkan menu lalu keluar
+.venv\Scripts\python.exe src\datalakehouse.py lake.reset --yes # auto-confirm action destruktif
+```
+
+| Action | Fungsi |
+|--------|--------|
+| `dummy.create` | Generate dummy data (butuh `adventureworks_local`) |
+| `dummy.reset` | Hapus output `*.csv/*.json/*.pdf` (generator `.py` aman) |
+| `lake.move` / `lake.build` / `lake.create` | Move ke pool / build lakehouse / keduanya |
+| `pool.reset` / `medallion.reset` / `lake.reset` | Reset pool / medallion+model / keduanya |
+| `warehouse.create` / `warehouse.reset` | Load `model/` → DW / drop schema `dw_sales` |
+| `full.rebuild` | move → build lakehouse → load warehouse |
+
+Bridge melakukan **preflight koneksi DB** (timeout 3 dtk) untuk action yang butuh database dan menggagalkannya cepat dengan pesan jelas; action destruktif minta konfirmasi (interaktif) atau wajib `--yes` (non-interaktif).
+
+### Reset scripts (dapat dipanggil langsung)
+
+Tiap reset mendukung `--dry-run` (lihat target tanpa menghapus), `--yes` (skip prompt), default prompt.
+
+| Script | Yang direset | Yang dijaga |
+|--------|--------------|-------------|
+| `src/reset_dummy_data.py` | output `*.csv/*.json/*.pdf` + `__pycache__` | semua generator `.py` |
+| `src/reset_pool.py` | isi `pool/` (OLTP/social/document + manifest) | folder `pool/` |
+| `src/reset_medallion.py` | isi `medallion_layer/` + `model/` | dua folder root |
+| `src/reset_warehouse.py` | schema `dw_sales` (`--schema` ubah target) | database `warehouseDB` |
 
 ---
 
 ## Prerequisites
 
 - Python 3.10+
-- PostgreSQL berjalan di `localhost:5432`
-- Database `adventureworks_local` sudah di-restore dari dataset AdventureWorks
-- Kredensial default: user `postgres`, password `postgres` (ubah di script jika berbeda)
+- PostgreSQL di `localhost:5432`, user `postgres` / password `postgres` (ubah di script jika berbeda)
+- Database **sumber** `adventureworks_local` sudah di-restore (untuk `dummy.create`)
+- Database **warehouse** `warehouseDB` — **otomatis dibuat** oleh `load_warehouse.py` bila belum ada
 
 ---
 
 ## Cara Menjalankan
 
-### Cara termudah — `run.bat`
-
-Double-click `run.bat` dari File Explorer, atau jalankan di terminal:
+### Termudah — lewat bridge
 
 ```powershell
-.\run.bat
+.venv\Scripts\python.exe src\datalakehouse.py
+# pilih: 5 (lake.create) -> 9 (warehouse.create)   atau langsung 11 (full.rebuild)
 ```
 
-Script ini otomatis:
-1. Membuat virtual environment `.venv` jika belum ada
-2. Menginstall semua dependencies dari `requirements.txt`
-3. Menjalankan full pipeline (`dummy_data/run_extractions.py`)
-
-Tidak perlu aktivasi venv manual.
-
-### Menjalankan pipeline secara manual
+### Manual (granular)
 
 ```powershell
-.venv\Scripts\python.exe dummy_data\run_extractions.py
+.venv\Scripts\python.exe src\move_to_pool.py        # factory -> pool (COPY + manifest)
+.venv\Scripts\python.exe src\build_lakehouse.py     # pool -> bronze -> silver -> gold -> model
+.venv\Scripts\python.exe src\load_warehouse.py      # model -> warehouseDB.dw_sales
 ```
+
+> Untuk meng-generate ulang dummy data dari awal: `.venv\Scripts\python.exe dummy_data\run_extractions.py` (butuh `adventureworks_local`). `run.bat` juga menjalankan langkah ini.
 
 ---
 
-## Pipeline Detail
+## Analisa Power BI
 
-`run_extractions.py` mengorkestrasi lima step berurutan:
+Surrogate key integer membuat relationship dim→fact auto-detect. Pilih salah satu sumber:
+1. **Import Parquet langsung** dari `medallion_layer/gold/` atau `model/` (Get Data → Folder/Parquet) — tanpa DB server.
+2. **Connect ke Data Warehouse** `warehouseDB.dw_sales` via konektor PostgreSQL (setelah `load_warehouse.py`).
 
-### Step 1 — Extract schema `sales`
+| Business question | Kolom | Pola |
+|-------------------|-------|------|
+| Revenue per kategori/produk | `dim_product[category/product_name]` × `fact_sales[line_total]` | `Revenue = SUM(fact_sales[line_total])` |
+| Online vs Offline | `dim_channel[channel_name]` × Revenue | bar/donut |
+| Revenue × sentimen (lintas-fact) | `dim_product[category]`, agregasi `fact_sales` & `fact_sentiment` terpisah lalu gabung | quadrant champions/at-risk |
+| Pain point per aspek | `dim_aspect[aspect_name]` × `fact_sentiment` (negatif) | bar |
+| Spike (recall) | `fact_sentiment[is_spike]` × produk/kategori | tabel |
 
-```powershell
-.venv\Scripts\python.exe dummy_data\staging_extraction\extract_sales.py
-```
-
-Menyambung ke PostgreSQL, auto-discover semua tabel di schema `sales`, lalu mengekspor setiap tabel ke CSV terpisah dengan timestamp.
-
-Output: `dummy_data/staging_extraction/<table>/<table>_YYYYMMDDHHMM.csv`
-
-### Step 1b — Extract tabel pendukung
-
-```powershell
-.venv\Scripts\python.exe dummy_data\staging_extraction\extract_production.py
-```
-
-Mengekstrak tabel dari schema `production` (product, subcategory, category), `person` (address, person), dan `purchasing` (shipmethod).
-
-Output: `dummy_data/staging_extraction/<subfolder>/<table>_YYYYMMDDHHMM.csv`
-
-### Step 1c — Split order berdasarkan channel
-
-```powershell
-.venv\Scripts\python.exe dummy_data\staging_extraction\split_by_channel.py
-```
-
-Membaca `salesorderheader` terbaru, memisahkan baris berdasarkan nilai kolom `onlineorderflag`, lalu mem-filter tabel terkait (`salesorderdetail`, `salesorderheadersalesreason`) menggunakan `salesorderid` yang cocok.
-
-Output:
-- `dummy_data/staging_extraction/online_store_csv/<table>/<table>_online_YYYYMMDDHHMM.csv`
-- `dummy_data/staging_extraction/offline_store_csv/<table>/<table>_offline_YYYYMMDDHHMM.csv`
-
-### Step 2 — Generate tweet sintetis
-
-```powershell
-.venv\Scripts\python.exe dummy_data\tweetgenerate\generate_tweets.py `
-    --count 2000 --start-date 2026-06-01 --end-date 2026-06-19 `
-    --lang mixed --split day --output dummy_data\tweetgenerate\output `
-    --products dummy_data\staging_extraction\product_and_sub\<product_file>.csv
-```
-
-Menggunakan katalog produk dari step 1b sebagai referensi nama produk dalam tweet.
-
-Output: `dummy_data/tweetgenerate/output/tweets_YYYY-MM-DD.json`
-
-### Step 3 — Generate invoice PDF
-
-```powershell
-.venv\Scripts\python.exe dummy_data\generate_invoice\awc_invoices.py `
-    --header  dummy_data\staging_extraction\offline_store_csv\salesorderheader\<file>.csv `
-    --detail  dummy_data\staging_extraction\offline_store_csv\salesorderdetail\<file>.csv `
-    --product dummy_data\staging_extraction\product_and_sub\<file>.csv `
-    --output-dir dummy_data\generate_invoice\output_invoices
-```
-
-Menggunakan output **pre-filtered** dari step 1c (`offline_store_csv`) — hanya 3,806 header rows dan 60,919 detail rows yang relevan, bukan seluruh dataset (31,465 / 121,317). File CSV dipilih otomatis oleh `run_extractions.py` (latest timestamp per tabel). Tabel pendukung (customer, address, product, shipmethod, dll.) tetap diambil dari folder ekstraksi lengkap.
-
-Output: `dummy_data/generate_invoice/output_invoices/invoices_onlineorderflag_false.pdf`
-
----
-
-## Data Lakehouse (Medallion) — `src/`
-
-Setelah `dummy_data/` (factory) menghasilkan data, pipeline lakehouse memprosesnya lewat `pool/` → bronze → silver → gold → model. Semua kode ada di `src/` dan **hanya membaca dari `pool/`** (tidak pernah menyentuh `dummy_data/`).
-
-### Aturan aliran data
-
-- **`dummy_data/` → `pool/` = COPY** — factory tetap menyimpan arsipnya.
-- **`pool/` → `bronze/` = MOVE (drain)** — begitu bronze menarik file, file itu **hilang dari pool**. Pool adalah inbox transient. (`_manifest.json` tetap sebagai log lineage.)
-- **Bronze dikelompokkan by FORMAT** (`bronze/csv/`, `bronze/pdf/`, `bronze/json/`), bukan by source.
-
-### Urutan menjalankan
-
-```powershell
-# 0. Factory → pool (COPY data terpilih + manifest lineage)
-.venv\Scripts\python.exe src\move_to_pool.py
-
-# 1. Lakehouse: pool → bronze(drain) → silver → gold → model  (semua branch)
-.venv\Scripts\python.exe src\build_lakehouse.py
-```
-
-> Karena bronze menguras pool, jalankan `move_to_pool.py` lagi sebelum build berikutnya (mengisi ulang pool dari factory tanpa generate ulang).
-
-### Branch A — Sales Data Warehouse (Scenario 1)
-
-`bronze/csv` → `silver/sales` (Parquet bersih, + `line_total` turunan) → `gold/sales` (star schema) → `model/sales` (siap DW). Star schema:
-
-| Tabel | Baris | Keterangan |
-|-------|------:|------------|
-| `fact_sales` | 121,317 | Grain: 1 produk per order line. FK: date/customer/product/channel. Measure: `order_qty, unit_price, unit_price_discount, line_total, sales_count` |
-| `dim_date` | 1,124 | `date_key (YYYYMMDD), full_date, day, month, month_name, quarter, year` |
-| `dim_customer` | 19,820 | `customer_key, customer_id, customer_type (Individual/Store/Unknown), territory_id` |
-| `dim_product` | 504 | `product_key, product_id, product_name, category, subcategory, standard_cost, list_price, ...` |
-| `dim_channel` | 2 | `channel_key (1=Online, 2=Offline), channel_name` |
-
-> `line_total` dihitung (`order_qty × unit_price × (1 − unit_price_discount)`) karena kolom ini *computed* di AdventureWorks dan tidak ikut terekspor.
-
-### Branch B — Document (PDF tak terstruktur → terstruktur)
-
-`bronze/pdf` → `silver/document` (Parquet). Demonstrasi pemrosesan data tak terstruktur memakai `pdfplumber`:
-
-| Tabel | Baris | Keterangan |
-|-------|------:|------------|
-| `invoice_header` | 3,806 | 1 baris/invoice: salesorderid, po, tanggal, total, `truncated_flag`, `source_page` |
-| `invoice_line` | 51,258 | 1 baris/line item (best-effort) |
-
-> Order yang sangat panjang dipotong di PDF ("… additional line items truncated …") sehingga line item bersifat *best-effort* (752 invoice ter-truncate); header & total selalu lengkap. Validasi: `total_due` PDF cocok 100% dengan CSV sumber (selisih maks $0.005, rounding), dan line count 100% match untuk 3,054 invoice non-truncate.
-
----
-
-## Gold vs Model vs Data Warehouse — & cara analisa Power BI
-
-Sumber kebingungan umum: **"data warehouse" dan "Parquet" bukan dua pilihan** —
-- **Data warehouse** = *model*-nya (star schema: `dim_*` + `fact_sales` dengan relationship). Ini desain logis.
-- **Parquet** = *format penyimpanan*-nya (file kolumnar efisien).
-
-Jadi tiga konsep di proyek ini:
-
-| Layer | Isi | Peran |
-|-------|-----|-------|
-| **gold/** | Semua `dim_*` + `fact_sales` Parquet hasil lakehouse | Data analitik. Tidak semua tabel harus dikirim ke DW. |
-| **model/** | dim/fact **terpilih** yang final + `schema.json` + `create_tables.sql` | Star schema relational-ready, **siap di-ship ke Data Warehouse**. |
-| **Data Warehouse** | Tabel relational hasil load `model/` (mis. Postgres) | Tujuan akhir (opsional; DDL sudah disediakan). |
-
-**Power BI fleksibel** — pilih salah satu:
-1. **Import Parquet langsung** dari `gold/sales/` atau `model/sales/` (Get Data → Folder/Parquet). Tanpa DB server. Surrogate key integer → relationship dim→fact auto-detect.
-2. **Connect ke Data Warehouse** (setelah `model/` di-load ke DB) via SQL connector.
-
-### Mapping business question → schema → visual Power BI
-
-| Business question | Kolom dipakai | Visual | DAX |
-|-------------------|---------------|--------|-----|
-| Tren revenue per bulan/tahun | `dim_date[year, month_name]` × measure | Line chart | `Revenue = SUM(fact_sales[line_total])` |
-| Online vs Offline | `dim_channel[channel_name]` × Revenue | Donut / Bar | `Revenue` (di atas) |
-| Produk / kategori terlaris | `dim_product[product_name / category]` × Revenue | Bar (Top N) | `Units = SUM(fact_sales[order_qty])` |
-| Individual vs Store | `dim_customer[customer_type]` × Revenue | Stacked bar | `Orders = SUM(fact_sales[sales_count])` |
-
-Pola umum: **dim_* = sumbu/slicer/legend**, **fact_sales = measure** (agregasi `line_total`, `order_qty`, `sales_count`).
-
----
-
-## Dependencies
-
-```
-pandas            # transform & IO
-psycopg2-binary   # koneksi PostgreSQL (factory)
-reportlab         # generate invoice PDF (factory)
-pyarrow           # baca/tulis Parquet (silver & gold)
-pdfplumber        # ekstraksi teks PDF (document silver)
-```
-
-Install manual (tanpa `run.bat`):
-
-```powershell
-python -m venv .venv
-.venv\Scripts\pip install -r requirements.txt
-```
+Pola umum: **dim_* = sumbu/slicer/legend**, **fact = measure**. Jangan join dua fact baris-ke-baris pada `product_key` (fan-out) — agregasikan ke grain kategori dulu.
 
 ---
 
@@ -301,81 +259,46 @@ python -m venv .venv
 
 ```
 DATALAKEHOUSE_FP/
-├── run.bat                                      # Entry point — jalankan ini
-├── requirements.txt
-├── pyproject.toml
+├── run.bat · requirements.txt · pyproject.toml
 │
-├── dummy_data/                                  # Zona data mentah & generator
-│   ├── run_extractions.py                       # Master pipeline (step 1–3)
-│   │
-│   ├── staging_extraction/                      # Output ekstraksi OLTP
-│   │   ├── extract_sales.py                    # Step 1  : sales schema → CSV
-│   │   ├── extract_production.py               # Step 1b : production/person/purchasing → CSV
-│   │   ├── split_by_channel.py                 # Step 1c : pisah online / offline
-│   │   │
-│   │   ├── salesorderheader/                   # Full header (semua 31,465 baris)
-│   │   ├── salesorderdetail/                   # Full detail (semua 121,317 baris)
-│   │   ├── salesorderheadersalesreason/        # Sales reason (semua 27,647 baris)
-│   │   ├── customer/
-│   │   ├── product_and_sub/                    # product + productsubcategory + productcategory
-│   │   ├── address/
-│   │   ├── person/
-│   │   ├── shipmethod/
-│   │   ├── salesperson/
-│   │   ├── salesterritory/
-│   │   ├── <tabel lainnya>/                    # 10 tabel sales lainnya
-│   │   │
-│   │   ├── online_store_csv/                   # Split hasil step 1c
-│   │   │   ├── salesorderheader/               # 27,659 baris
-│   │   │   ├── salesorderdetail/               # 60,398 baris
-│   │   │   └── salesorderheadersalesreason/    # 27,647 baris
-│   │   │
-│   │   └── offline_store_csv/                  # Split hasil step 1c
-│   │       ├── salesorderheader/               # 3,806 baris
-│   │       ├── salesorderdetail/               # 60,919 baris
-│   │       └── salesorderheadersalesreason/    # 0 baris
-│   │
-│   ├── tweetgenerate/
-│   │   ├── generate_tweets.py                  # Step 2 : tweet generator
-│   │   └── output/                             # tweets_YYYY-MM-DD.json (19 file)
-│   │
-│   └── generate_invoice/
-│       ├── awc_invoices.py                     # Step 3 : invoice PDF generator
-│       └── output_invoices/                    # invoices_onlineorderflag_false.pdf
+├── dummy_data/                                  # FACTORY — generator + output
+│   ├── run_extractions.py                       # master generator (step 1–3)
+│   ├── staging_extraction/
+│   │   ├── extract_sales.py · extract_production.py · split_by_channel.py
+│   │   ├── <tabel>/                             # CSV per tabel (full)
+│   │   ├── online_store_csv/  · offline_store_csv/   # hasil split per channel
+│   ├── tweetgenerate/  generate_tweets.py · output/tweets_*.json
+│   └── generate_invoice/ awc_invoices.py · output_invoices/*.pdf
 │
-├── src/                                         # Pipeline lakehouse (baca dari pool/ saja)
-│   ├── move_to_pool.py                          # Factory → pool (COPY) + manifest lineage
-│   ├── bronze.py                                # Shared: drain pool → bronze/{csv,pdf,json} (MOVE)
-│   ├── build_lakehouse.py                       # Orchestrator utama (bronze→silver→gold→model)
-│   ├── sales_dw/                                # Branch A — CSV → star schema → model
-│   │   ├── silver.py  gold.py  model.py
-│   │   └── build_sales_dw.py                    # silver→gold→model
-│   └── document_dw/                             # Branch B — PDF → terstruktur
-│       ├── silver.py
-│       └── build_document_dw.py                 # silver only
+├── src/                                         # LAKEHOUSE + DW + tooling (baca pool/ saja)
+│   ├── datalakehouse.py                         # ★ control bridge (menu semua service)
+│   ├── move_to_pool.py                          # factory -> pool (COPY) + manifest
+│   ├── bronze.py                                # drain pool -> bronze/{csv,pdf,json} (MOVE)
+│   ├── build_lakehouse.py                       # orchestrator (bronze->silver->gold->model)
+│   ├── load_warehouse.py                        # model/ -> warehouseDB.dw_sales
+│   ├── reset_dummy_data.py · reset_pool.py · reset_medallion.py · reset_warehouse.py
+│   ├── sales_dw/                                # silver(+sales.parquet) · gold(galaxy) · model
+│   │   ├── silver.py · gold.py · model.py · build_sales_dw.py
+│   ├── document_dw/                             # PDF -> silver/document
+│   │   ├── silver.py · build_document_dw.py
+│   └── social_dw/                               # tweet -> silver/social/sentiment
+│       ├── silver.py · build_social_dw.py
 │
 ├── pool/                                        # OUTSIDE WORLD (transient, FLAT, terkuras)
-│   ├── _manifest.json                           # audit lineage tiap file (tetap walau pool kosong)
-│   ├── OLTP/*.csv                               # flat, tanpa folder per-tabel
-│   ├── social_media/tweets_*.json
-│   └── document/invoices_onlineorderflag_false.pdf
+│   ├── _manifest.json · OLTP/*.csv · social_media/tweets_*.json · document/*.pdf
 │
 ├── medallion_layer/
-│   ├── bronze/                                  # BY FORMAT (hasil drain pool)
-│   │   ├── csv/*.csv                            # raw OLTP (nama kanonik, format asli)
-│   │   ├── pdf/*.pdf                            # raw PDF
-│   │   └── json/*.json                          # raw tweet (stage utk Scenario 2)
+│   ├── bronze/{csv,pdf,json}/                   # raw by FORMAT (hasil drain pool)
 │   ├── silver/
-│   │   ├── sales/*.parquet                      # typed, deduped, + line_total
-│   │   └── document/                            # invoice_header / invoice_line .parquet
-│   └── gold/
-│       └── sales/                               # dim_* + fact_sales .parquet
+│   │   ├── sales/    *.parquet + sales.parquet  # base typed + unified sales fact
+│   │   ├── document/ invoice_{header,line}.parquet
+│   │   └── social/   sentiment.parquet
+│   └── gold/                                    # GALAXY (flat): dim_*.parquet + fact_sales/fact_sentiment
 │
-└── model/                                       # DW-READY (jembatan ke Data Warehouse)
-    └── sales/
-        ├── dim_*.parquet  fact_sales.parquet    # star schema final (relational-ready)
-        ├── schema.json                          # kolom+tipe, PK, FK
-        └── create_tables.sql                    # DDL load ke DW
+└── model/                                       # DW-READY (flat, jembatan ke warehouseDB)
+    ├── dim_*.parquet · fact_sales.parquet · fact_sentiment.parquet
+    ├── schema.json                             # kolom+tipe, PK, FK (galaxy)
+    └── create_tables.sql                       # DDL load ke DW (PK + FK)
 ```
 
 ---
@@ -385,9 +308,9 @@ DATALAKEHOUSE_FP/
 | Tipe | Pola | Contoh |
 |------|------|--------|
 | OLTP full | `<table>_YYYYMMDDHHMM.csv` | `salesorderheader_202606191313.csv` |
-| OLTP split online | `<table>_online_YYYYMMDDHHMM.csv` | `salesorderheader_online_202606191313.csv` |
-| OLTP split offline | `<table>_offline_YYYYMMDDHHMM.csv` | `salesorderheader_offline_202606191313.csv` |
+| OLTP split online/offline | `<table>_online|offline_YYYYMMDDHHMM.csv` | `salesorderheader_offline_202606191313.csv` |
 | Social media | `tweets_YYYY-MM-DD.json` | `tweets_2026-06-01.json` |
 | Document | `invoices_onlineorderflag_false.pdf` | — |
+| Bronze CSV | nama kanonik (timestamp di-strip) | `salesorderheader.csv` |
 
-Jika pipeline dijalankan ulang, file lama tidak ditimpa — file baru dibuat dengan timestamp baru. Script selalu membaca file dengan timestamp terbaru (lexicographic sort).
+File lama tidak ditimpa saat re-run factory — file baru dibuat dengan timestamp baru; script selalu membaca timestamp terbaru (lexicographic sort).
