@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000026767",
+    "created_at": "2022-10-08T07:07:07Z",
+    "text": "Expected so much more from the LL Mountain Front Wheel — rattles and feels flimsy Do better AdventureWorks Cycles. 😣 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "2215340169",
+      "name": "Andi Lopez",
+      "screen_name": "andilope1262",
+      "followers_count": 740,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026648",
+    "created_at": "2022-10-08T08:08:13Z",
+    "text": "The HL Mountain Frame - Silver from AdventureWorks Cycles has been fantastic — zero wear after heavy use Five stars. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "9569516078",
+      "name": "Maria Clark",
+      "screen_name": "mariclar6952",
+      "followers_count": 1048,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026738",
+    "created_at": "2022-10-08T08:32:10Z",
+    "text": "Akhirnya pakai Hex Nut 18 dan puas pol — terasa kokoh dan rapi Nggak nyesel. 😎 #AdventureWorks #AWcycles #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "7213191226",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit7872",
+      "followers_count": 537,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026692",
+    "created_at": "2022-10-08T08:32:14Z",
+    "text": "Naik level gowes ku gara-gara Lock Washer 3 — CS-nya cepat dan ramah Bakal beli lagi. 🙌 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "193834239",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa9719",
+      "followers_count": 1521,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026614",
+    "created_at": "2022-10-08T09:28:46Z",
+    "text": "Upgraded to the ML Fork and no looking back — shipping was fast and packaging perfect Will buy again. #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4503455616",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida8912",
+      "followers_count": 122,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026694",
+    "created_at": "2022-10-08T13:14:44Z",
+    "text": "So glad I picked up the Lock Washer 5 — delivery was smooth Zero regrets. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "4642576853",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee2748",
+      "followers_count": 287,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026606",
+    "created_at": "2022-10-08T20:01:50Z",
+    "text": "Akhirnya pakai LL Road Frame - Red dan puas pol — kualitasnya premium Nggak nyesel. 💯 #bikes #AdventureWorks #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "5948916864",
+      "name": "Citra Halim",
+      "screen_name": "citrhali4980",
+      "followers_count": 2236,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026774",
+    "created_at": "2022-10-08T22:23:53Z",
+    "text": "Rear Derailleur Cage dari AdventureWorks Cycles mantap sih — terasa kokoh dan rapi Bakal beli lagi. 😎 #bikes #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3929551639",
+      "name": "Bayu Putra",
+      "screen_name": "bayuputr1453",
+      "followers_count": 675,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000076027",
+    "created_at": "2023-06-05T10:29:32Z",
+    "text": "Expected so much more from the Paint - Silver — overpriced for what you get Never again. #AdventureWorks #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3349763456",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope2837",
+      "followers_count": 1830,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 43,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Paint - Silver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075940",
+    "created_at": "2023-06-05T13:01:44Z",
+    "text": "Two stars for the Thin-Jam Lock Nut 10 from AdventureWorks Cycles — it broke after two weeks Lesson learned. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "8909737434",
+      "name": "Andi Lopez",
+      "screen_name": "andilope7098",
+      "followers_count": 221,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075973",
+    "created_at": "2023-06-05T15:14:07Z",
+    "text": "LL Mountain Frame - Silver dari AdventureWorks Cycles mantap sih — terasa kokoh dan rapi Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "9124696351",
+      "name": "Sam Lee",
+      "screen_name": "samlee9218",
+      "followers_count": 1050,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075928",
+    "created_at": "2023-06-05T17:32:45Z",
+    "text": "RT @tom24: Suka banget sama Thin-Jam Hex Nut 2 dari AWC — performanya mulus Bakal beli lagi. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "6514366914",
+      "name": "Alex Saputra",
+      "screen_name": "alexsapu724",
+      "followers_count": 483,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076008",
+    "created_at": "2023-06-05T19:47:48Z",
+    "text": "Naik level gowes ku gara-gara Chain Stays — kualitasnya premium Bakal beli lagi. 💯 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "737523295",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow353",
+      "followers_count": 1766,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chain Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076043",
+    "created_at": "2023-06-05T20:38:19Z",
+    "text": "Capek deh sama Flat Washer 9 dari @AdventureWorks — proses retur ribet 😣 #AdventureWorks #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5923834680",
+      "name": "Tom Garcia",
+      "screen_name": "tomgarc1184",
+      "followers_count": 37,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076050",
+    "created_at": "2023-06-05T20:50:55Z",
+    "text": "Kecewa banget sama Road-250 Black — komplain didiemin Tolong AdventureWorks Cycles dibenahi. 👎 #AdventureWorks #AWcycles #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5025403647",
+      "name": "Bayu Wijaya",
+      "screen_name": "bayuwija9977",
+      "followers_count": 604,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road-250 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075971",
+    "created_at": "2023-06-05T22:46:06Z",
+    "text": "So glad I picked up the Thin-Jam Lock Nut 16 — still rock solid after months Highly recommend. 💯 #rideon #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5548698071",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy4174",
+      "followers_count": 2655,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

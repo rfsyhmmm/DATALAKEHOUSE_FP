@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000108735",
+    "created_at": "2023-11-12T04:56:50Z",
+    "text": "Salut buat @AdventureWorks soal Men's Sports Shorts — terasa kokoh dan rapi ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "3555444962",
+      "name": "Raka Garcia",
+      "screen_name": "rakagarc6186",
+      "followers_count": 1010,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Men's Sports Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000108539",
+    "created_at": "2023-11-12T07:54:49Z",
+    "text": "Just unboxed the Touring-2000 Blue, will report back 🧐 #bikelife #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "2412344581",
+      "name": "Raka Nguyen",
+      "screen_name": "rakanguy3888",
+      "followers_count": 204,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000108664",
+    "created_at": "2023-11-12T11:43:02Z",
+    "text": "Three weeks on the Headset Ball Bearings and I'm sold — delivery was smooth Five stars. #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8532803625",
+      "name": "Putri Halim",
+      "screen_name": "putrhali3363",
+      "followers_count": 2131,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Headset Ball Bearings",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000108591",
+    "created_at": "2023-11-12T13:40:02Z",
+    "text": "The Lock Nut 10 from @AWCycles has been fantastic — build quality feels premium 👍 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4431528617",
+      "name": "Mia Garcia",
+      "screen_name": "miagarc3754",
+      "followers_count": 16,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000108527",
+    "created_at": "2023-11-12T16:33:47Z",
+    "text": "Nggak nyesel beli Lock Nut 17 — masih awet setelah berbulan-bulan Nggak nyesel. 🚴 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8002570190",
+      "name": "Mia Nguyen",
+      "screen_name": "mianguy5826",
+      "followers_count": 144,
+      "verified": false
+    },
+    "retweet_count": 31,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000108705",
+    "created_at": "2023-11-12T16:51:39Z",
+    "text": "Shoutout to AWC for the Men's Sports Shorts — customer service sorted it instantly 😍 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2126612947",
+      "name": "Dewi Anwar",
+      "screen_name": "dewianwa4021",
+      "followers_count": 2716,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Men's Sports Shorts, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000108552",
+    "created_at": "2023-11-12T16:59:04Z",
+    "text": "Three weeks on the Hex Nut 15 and I'm sold — build quality feels premium 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "3024847503",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa2421",
+      "followers_count": 243,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000108632",
+    "created_at": "2023-11-12T18:34:10Z",
+    "text": "Bintang dua buat Paint - Yellow dari @AdventureWorks — bahannya murahan 😤 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "459571284",
+      "name": "Eko Clark",
+      "screen_name": "ekoclar4486",
+      "followers_count": 1229,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 50,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Paint - Yellow",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

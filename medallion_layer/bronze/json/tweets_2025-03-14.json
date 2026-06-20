@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000209804",
+    "created_at": "2025-03-14T02:55:18Z",
+    "text": "Shoutout to AWC for the Freewheel — holding up great on rough trails 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "1250378295",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa7460",
+      "followers_count": 2455,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000209727",
+    "created_at": "2025-03-14T04:04:13Z",
+    "text": "Two stars for the Rear Derailleur Cage from @AdventureWorks — rattles and feels flimsy Never again. 😡 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4971185562",
+      "name": "Bayu Clark",
+      "screen_name": "bayuclar6262",
+      "followers_count": 1654,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000209617",
+    "created_at": "2025-03-14T12:55:17Z",
+    "text": "Terkesan banget sama Cone-Shaped Race — performanya mulus Nggak nyesel. 🔥 #cycling #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "5583158475",
+      "name": "Citra Putra",
+      "screen_name": "citrputr4321",
+      "followers_count": 46,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Cone-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000209652",
+    "created_at": "2025-03-14T13:18:14Z",
+    "text": "RT @bayu32: Akhirnya pakai Hex Nut 4 dan puas pol — kuat di trek kasar Recommended. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "9677996093",
+      "name": "Lina Smith",
+      "screen_name": "linasmit2438",
+      "followers_count": 1058,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000209808",
+    "created_at": "2025-03-14T16:50:29Z",
+    "text": "HL Nipple dari @AWCycles mantap sih — admin responsif banget 💯 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "962552369",
+      "name": "Bayu Smith",
+      "screen_name": "bayusmit7993",
+      "followers_count": 454,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Nipple",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000209757",
+    "created_at": "2025-03-14T19:44:15Z",
+    "text": "Two stars for the Road-650 Black from AdventureWorks Cycles — poor build, cheap materials Lesson learned. 😣 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "1449754489",
+      "name": "Sam Halim",
+      "screen_name": "samhali5656",
+      "followers_count": 391,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-650 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000209620",
+    "created_at": "2025-03-14T22:56:27Z",
+    "text": "Shoutout to @AWCycles for the Short-Sleeve Classic Jersey — feels solid and well made Five stars. 👍 #rideon #AWcycles #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9014452906",
+      "name": "Nadia Kim",
+      "screen_name": "nadikim3269",
+      "followers_count": 3706,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000209692",
+    "created_at": "2025-03-14T23:16:51Z",
+    "text": "Salut buat AWC soal Mountain-200 Silver — harga sebanding kualitas Nggak nyesel. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9667954555",
+      "name": "Dewi Clark",
+      "screen_name": "dewiclar1267",
+      "followers_count": 2050,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-200 Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

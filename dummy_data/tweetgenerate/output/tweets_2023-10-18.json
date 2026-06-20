@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000103556",
+    "created_at": "2023-10-18T07:32:36Z",
+    "text": "Three weeks on the Road-250 Black and I'm sold — the team was super helpful Highly recommend.",
+    "lang": "en",
+    "user": {
+      "id_str": "7882787231",
+      "name": "Chris Halim",
+      "screen_name": "chrihali9759",
+      "followers_count": 3017,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103445",
+    "created_at": "2023-10-18T07:44:56Z",
+    "text": "Really impressed with the ML Mountain Pedal — exceeded my expectations Zero regrets.",
+    "lang": "en",
+    "user": {
+      "id_str": "5738880708",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar6625",
+      "followers_count": 1070,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103539",
+    "created_at": "2023-10-18T08:12:46Z",
+    "text": "Shoutout to AWC for the Lock Nut 9 — feels solid and well made ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "3016225611",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy4099",
+      "followers_count": 1260,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103408",
+    "created_at": "2023-10-18T13:04:26Z",
+    "text": "Kecewa banget sama Lock Nut 21 — bunyi-bunyi dan ringkih 👎 #bikes #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "8272557619",
+      "name": "Rizky Putra",
+      "screen_name": "rizkputr5892",
+      "followers_count": 58,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103462",
+    "created_at": "2023-10-18T14:32:34Z",
+    "text": "Absolutely loving my new Thin-Jam Lock Nut 4 from AdventureWorks — delivery was smooth 💯 #AdventureWorks #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6313890263",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit7950",
+      "followers_count": 736,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103504",
+    "created_at": "2023-10-18T16:28:19Z",
+    "text": "Suka banget sama ML Road Frame - Red dari @AdventureWorks — kirimnya lancar Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "3568511897",
+      "name": "Eko Lee",
+      "screen_name": "ekolee5445",
+      "followers_count": 3417,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103586",
+    "created_at": "2023-10-18T19:24:45Z",
+    "text": "Done with the ML Road Seat/Saddle honestly — rattles and feels flimsy Avoid. #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2837763710",
+      "name": "Maria Smith",
+      "screen_name": "marismit3428",
+      "followers_count": 1624,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103372",
+    "created_at": "2023-10-18T20:01:42Z",
+    "text": "Really impressed with the HL Road Frame - Black — performs flawlessly 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "1015700920",
+      "name": "Bayu Saputra",
+      "screen_name": "bayusapu2987",
+      "followers_count": 114,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

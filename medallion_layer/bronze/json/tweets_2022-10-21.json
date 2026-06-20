@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000029660",
+    "created_at": "2022-10-21T12:11:33Z",
+    "text": "Thinking about the Paint - Red. Any reviews? 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "9172086962",
+      "name": "Maria Pratama",
+      "screen_name": "mariprat9077",
+      "followers_count": 1124,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029557",
+    "created_at": "2022-10-21T12:22:20Z",
+    "text": "Really disappointed with the Thin-Jam Hex Nut 7 — shipping took forever Do better @AWCycles.",
+    "lang": "en",
+    "user": {
+      "id_str": "7294515431",
+      "name": "Rizky Wijaya",
+      "screen_name": "rizkwija2496",
+      "followers_count": 2214,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029612",
+    "created_at": "2022-10-21T13:14:11Z",
+    "text": "Terkesan banget sama Metal Sheet 2 — beli yang tepat sih Nggak nyesel. 👍 #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5414792428",
+      "name": "Citra Kim",
+      "screen_name": "citrkim7088",
+      "followers_count": 2870,
+      "verified": true
+    },
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029635",
+    "created_at": "2022-10-21T15:13:02Z",
+    "text": "The Mountain Bottle Cage from AdventureWorks Cycles has been fantastic — performs flawlessly Zero regrets. 🙌 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "7337241107",
+      "name": "Hannah Kim",
+      "screen_name": "hannkim1452",
+      "followers_count": 3961,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain Bottle Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029631",
+    "created_at": "2022-10-21T15:22:42Z",
+    "text": "RT @bayu6: Salut buat AWC soal LL Hub — worth it banget Bintang lima. 😎 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "289542592",
+      "name": "Mia Smith",
+      "screen_name": "miasmit1791",
+      "followers_count": 1029,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029508",
+    "created_at": "2022-10-21T19:44:22Z",
+    "text": "Shoutout to @AdventureWorks for the Chainring Nut — holding up great on rough trails #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "2167605394",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow4035",
+      "followers_count": 606,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Chainring Nut",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029536",
+    "created_at": "2022-10-21T19:59:16Z",
+    "text": "Udah sebulan pakai Metal Plate 1, oke terus — kualitasnya premium",
+    "lang": "in",
+    "user": {
+      "id_str": "4587477967",
+      "name": "Sam Brown",
+      "screen_name": "sambrow5683",
+      "followers_count": 364,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Plate 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029563",
+    "created_at": "2022-10-21T21:49:33Z",
+    "text": "My Hex Nut 2 from AdventureWorks is excellent — fair price for this quality Five stars. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "8983631490",
+      "name": "Mia Brown",
+      "screen_name": "miabrow5081",
+      "followers_count": 314,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

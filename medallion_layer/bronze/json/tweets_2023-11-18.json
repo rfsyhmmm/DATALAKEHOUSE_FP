@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000109970",
+    "created_at": "2023-11-18T12:28:14Z",
+    "text": "Touring-3000 Yellow dari @AdventureWorks bikin nyesel — finishing-nya asal Tolong @AdventureWorks dibenahi. 😣 #cycling #MTB #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5046518114",
+      "name": "Galih Santoso",
+      "screen_name": "galisant4693",
+      "followers_count": 1029,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109987",
+    "created_at": "2023-11-18T13:22:15Z",
+    "text": "Really disappointed with the LL Touring Handlebars — the finish is sloppy 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "3001760133",
+      "name": "Sofia Anwar",
+      "screen_name": "sofianwa6017",
+      "followers_count": 493,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110015",
+    "created_at": "2023-11-18T14:55:02Z",
+    "text": "Bintang dua buat Classic Vest dari AdventureWorks — kirimnya lama banget Kapok. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "7193451684",
+      "name": "Kevin Putra",
+      "screen_name": "keviputr6115",
+      "followers_count": 376,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Classic Vest, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109995",
+    "created_at": "2023-11-18T15:20:41Z",
+    "text": "Suka banget sama LL Mountain Seat/Saddle dari AWC — puas pol Nggak nyesel. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "5500747658",
+      "name": "Bayu Wijaya",
+      "screen_name": "bayuwija6717",
+      "followers_count": 76,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109915",
+    "created_at": "2023-11-18T15:50:27Z",
+    "text": "Nggak nyesel beli Touring-3000 Blue — pelayanannya membantu Bintang lima. 💯 #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2694316735",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow3214",
+      "followers_count": 1218,
+      "verified": true
+    },
+    "retweet_count": 8,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring-3000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109944",
+    "created_at": "2023-11-18T17:19:01Z",
+    "text": "Not happy with my Mountain-100 Silver at all — rattles and feels flimsy Lesson learned. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "9662908541",
+      "name": "Maya Wijaya",
+      "screen_name": "mayawija7317",
+      "followers_count": 1785,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109997",
+    "created_at": "2023-11-18T18:31:13Z",
+    "text": "RT @kevi22: Saw the Paint - Blue in store today, looks interesting #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9416991761",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida777",
+      "followers_count": 1718,
+      "verified": true
+    },
+    "retweet_count": 28,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Paint - Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109879",
+    "created_at": "2023-11-18T19:36:23Z",
+    "text": "Salut buat @AWCycles soal Mountain-500 Black — kualitasnya premium 🙌 #AdventureWorks #MTB #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1274813620",
+      "name": "Citra Kim",
+      "screen_name": "citrkim1969",
+      "followers_count": 1758,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

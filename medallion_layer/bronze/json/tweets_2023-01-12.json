@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000046673",
+    "created_at": "2023-01-12T04:25:50Z",
+    "text": "Shoutout to @AWCycles for the Road End Caps — zero wear after heavy use Zero regrets. 😍 #AWcycles #bikes #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5035112482",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc679",
+      "followers_count": 657,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 61,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046674",
+    "created_at": "2023-01-12T06:34:41Z",
+    "text": "Akhirnya pakai Mountain Pump dan puas pol — worth it banget Nggak nyesel. 😍 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7101648370",
+      "name": "Sofia Putra",
+      "screen_name": "sofiputr6469",
+      "followers_count": 3651,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain Pump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046514",
+    "created_at": "2023-01-12T09:48:38Z",
+    "text": "Hex Nut 22 dari AdventureWorks Cycles mantap sih — terasa kokoh dan rapi Recommended. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "4351258567",
+      "name": "Andi Smith",
+      "screen_name": "andismit9576",
+      "followers_count": 1250,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 43,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046664",
+    "created_at": "2023-01-12T13:50:40Z",
+    "text": "Capek deh sama ML Road Front Wheel dari AdventureWorks — jebol pas ride pertama Pelajaran mahal. #bikelife #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6315900355",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc7332",
+      "followers_count": 1966,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046717",
+    "created_at": "2023-01-12T14:36:14Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Sport-100 Helmet — performs flawlessly Will buy again. 👍 #bikelife #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2897825794",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant188",
+      "followers_count": 2450,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046545",
+    "created_at": "2023-01-12T18:37:01Z",
+    "text": "Capek deh sama Mountain-200 Black dari AdventureWorks — finishing-nya asal 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "710693353",
+      "name": "Maria Garcia",
+      "screen_name": "marigarc6364",
+      "followers_count": 787,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046640",
+    "created_at": "2023-01-12T19:33:54Z",
+    "text": "Two stars for the LL Road Frame - Black from AdventureWorks — overpriced for what you get ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "952880969",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida8494",
+      "followers_count": 478,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Road Frame - Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046591",
+    "created_at": "2023-01-12T20:56:32Z",
+    "text": "Lagi mikir mau beli Cone-Shaped Race. Ada review? #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "1342470749",
+      "name": "Sam Brown",
+      "screen_name": "sambrow9870",
+      "followers_count": 2574,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Cone-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

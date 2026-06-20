@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000180506",
+    "created_at": "2024-10-24T07:36:42Z",
+    "text": "My Road-650 Red from AdventureWorks Cycles is excellent — delivery was smooth Highly recommend. 🙌 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "1628526490",
+      "name": "Dewi Nguyen",
+      "screen_name": "dewinguy3143",
+      "followers_count": 737,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-650 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180547",
+    "created_at": "2024-10-24T08:43:05Z",
+    "text": "Not happy with my Fork Crown at all — just a bad buy Never again. 😣 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9147391046",
+      "name": "Tom Garcia",
+      "screen_name": "tomgarc2691",
+      "followers_count": 3232,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Fork Crown",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180557",
+    "created_at": "2024-10-24T16:41:45Z",
+    "text": "The Road-250 Black from AWC let me down — it arrived late and damaged Do better AWC. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "614771228",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar5794",
+      "followers_count": 1196,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-250 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180573",
+    "created_at": "2024-10-24T18:37:53Z",
+    "text": "Thinking about the LL Mountain Frame - Black. Any reviews? 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "359653661",
+      "name": "Galih Lee",
+      "screen_name": "galilee9052",
+      "followers_count": 666,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180596",
+    "created_at": "2024-10-24T18:44:10Z",
+    "text": "Upgraded to the LL Touring Frame - Yellow and no looking back — feels solid and well made Highly recommend. 😎 #bikes #rideon #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5331778722",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr5251",
+      "followers_count": 2334,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180490",
+    "created_at": "2024-10-24T19:11:46Z",
+    "text": "RT @raka44: The Flat Washer 8 from @AWCycles has been fantastic — fair price for this quality Will buy again. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "3023550482",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee2231",
+      "followers_count": 3625,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Flat Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180644",
+    "created_at": "2024-10-24T19:30:57Z",
+    "text": "Lagi banding-bandingin Men's Sports Shorts sama merek lain 🤷 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7803651950",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant1381",
+      "followers_count": 525,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180678",
+    "created_at": "2024-10-24T22:39:53Z",
+    "text": "Three weeks on the Thin-Jam Hex Nut 6 and I'm sold — performs flawlessly Zero regrets. ✨ #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9357602073",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija1354",
+      "followers_count": 2764,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

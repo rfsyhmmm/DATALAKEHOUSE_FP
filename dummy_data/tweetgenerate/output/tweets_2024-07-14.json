@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000159574",
+    "created_at": "2024-07-14T08:04:45Z",
+    "text": "Bintang dua buat Long-Sleeve Logo Jersey dari @AdventureWorks — cepet aus banget 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "3396356907",
+      "name": "Mia Clark",
+      "screen_name": "miaclar5565",
+      "followers_count": 975,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159561",
+    "created_at": "2024-07-14T09:28:41Z",
+    "text": "The Mountain Bike Socks from AWC has been fantastic — performs flawlessly #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "4183462361",
+      "name": "Tom Halim",
+      "screen_name": "tomhali4595",
+      "followers_count": 819,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain Bike Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159471",
+    "created_at": "2024-07-14T16:36:50Z",
+    "text": "Nggak nyesel beli LL Road Frame - Red — masih awet setelah berbulan-bulan Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "4916332237",
+      "name": "Alex Wijaya",
+      "screen_name": "alexwija313",
+      "followers_count": 2059,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159580",
+    "created_at": "2024-07-14T17:17:23Z",
+    "text": "Naik level gowes ku gara-gara HL Touring Frame - Yellow — harga sebanding kualitas 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "1355307534",
+      "name": "Bayu Kim",
+      "screen_name": "bayukim1941",
+      "followers_count": 605,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159523",
+    "created_at": "2024-07-14T18:01:49Z",
+    "text": "Nyesel beli Stem — bunyi-bunyi dan ringkih Hindari. 😤 #rideon #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3835290413",
+      "name": "Galih Anwar",
+      "screen_name": "galianwa8269",
+      "followers_count": 510,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Stem",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159485",
+    "created_at": "2024-07-14T19:44:59Z",
+    "text": "Naik level gowes ku gara-gara Road-250 Red — pengiriman cepat dan packing rapi Bakal beli lagi. 😎 #AdventureWorks #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4462135451",
+      "name": "Hannah Garcia",
+      "screen_name": "hanngarc6263",
+      "followers_count": 621,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159615",
+    "created_at": "2024-07-14T20:42:35Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Road-550-W Yellow — holding up great on rough trails Highly recommend. 💯 #AdventureWorks #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7607712976",
+      "name": "Galih Brown",
+      "screen_name": "galibrow3515",
+      "followers_count": 1398,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159511",
+    "created_at": "2024-07-14T21:11:35Z",
+    "text": "Tadi liat LL Touring Seat Assembly di toko, lumayan menarik 🧐 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "9963003968",
+      "name": "Andi Smith",
+      "screen_name": "andismit6541",
+      "followers_count": 74,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000227356",
+    "created_at": "2025-06-09T03:36:17Z",
+    "text": "Upgraded to the Women's Tights and no looking back — feels solid and well made ✨ #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "4091521749",
+      "name": "Rizky Nguyen",
+      "screen_name": "rizknguy3743",
+      "followers_count": 2470,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 47,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Women's Tights, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227363",
+    "created_at": "2025-06-09T07:34:20Z",
+    "text": "Terkesan banget sama Touring-3000 Yellow — kualitasnya premium Recommended.",
+    "lang": "in",
+    "user": {
+      "id_str": "3729929459",
+      "name": "Maria Lee",
+      "screen_name": "marilee6603",
+      "followers_count": 1114,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227280",
+    "created_at": "2025-06-09T15:29:49Z",
+    "text": "Bintang dua buat Touring-3000 Blue dari AWC — bunyi-bunyi dan ringkih Pelajaran mahal. 👎 #cycling #AdventureWorks #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "592897903",
+      "name": "Raka Kim",
+      "screen_name": "rakakim7602",
+      "followers_count": 1580,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 55,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227440",
+    "created_at": "2025-06-09T16:22:53Z",
+    "text": "RT @bayu56: Absolutely loving my new Flat Washer 7 from @AdventureWorks — performs flawlessly 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "5229723686",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc666",
+      "followers_count": 919,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227394",
+    "created_at": "2025-06-09T18:07:19Z",
+    "text": "Suka banget sama Hex Nut 8 dari @AWCycles — terasa kokoh dan rapi",
+    "lang": "in",
+    "user": {
+      "id_str": "1541273693",
+      "name": "Jordan Hidayat",
+      "screen_name": "jordhida4806",
+      "followers_count": 2347,
+      "verified": true
+    },
+    "retweet_count": 10,
+    "favorite_count": 48,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227307",
+    "created_at": "2025-06-09T19:20:33Z",
+    "text": "Kecewa banget sama Classic Vest — salah beli Pelajaran mahal. 🙄 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3479953193",
+      "name": "Nadia Clark",
+      "screen_name": "nadiclar2358",
+      "followers_count": 1125,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227435",
+    "created_at": "2025-06-09T19:58:05Z",
+    "text": "RT @rizk2: Udah sebulan pakai LL Road Handlebars, oke terus — puas pol Bakal beli lagi. 💯 #MTB #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5242204422",
+      "name": "Mia Garcia",
+      "screen_name": "miagarc81",
+      "followers_count": 1349,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227299",
+    "created_at": "2025-06-09T20:26:28Z",
+    "text": "Shoutout to AdventureWorks Cycles for the HL Road Frame - Red — arrived a day early, well packed 🙌 #AWcycles #cycling #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "891125649",
+      "name": "Rizky Hidayat",
+      "screen_name": "rizkhida7661",
+      "followers_count": 349,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

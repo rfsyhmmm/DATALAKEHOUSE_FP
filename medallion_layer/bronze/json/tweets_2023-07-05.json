@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000081706",
+    "created_at": "2023-07-05T06:43:04Z",
+    "text": "Touring-2000 Blue dari AWC mantap sih — kuat di trek kasar Recommended. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "3832829182",
+      "name": "Citra Garcia",
+      "screen_name": "citrgarc2373",
+      "followers_count": 703,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 64,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-2000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081759",
+    "created_at": "2023-07-05T07:07:03Z",
+    "text": "Suka banget sama Hydration Pack - 70 oz. dari AdventureWorks Cycles — harga sebanding kualitas 🙌 #cycling #AWcycles #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9158518847",
+      "name": "Putri Clark",
+      "screen_name": "putrclar6759",
+      "followers_count": 337,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hydration Pack - 70 oz.",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081832",
+    "created_at": "2023-07-05T10:26:08Z",
+    "text": "Not happy with my Hex Nut 3 at all — packaging was a mess Avoid. 😩 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8908937355",
+      "name": "Andi Lee",
+      "screen_name": "andilee3212",
+      "followers_count": 420,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081670",
+    "created_at": "2023-07-05T12:53:30Z",
+    "text": "So glad I picked up the Flat Washer 3 — build quality feels premium Five stars. #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "5154466040",
+      "name": "Maria Garcia",
+      "screen_name": "marigarc1582",
+      "followers_count": 3774,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081799",
+    "created_at": "2023-07-05T14:27:13Z",
+    "text": "RT @mia84: Udah sebulan pakai ML Mountain Rim, oke terus — sampai lebih cepat, aman #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "8337083553",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc9750",
+      "followers_count": 242,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081738",
+    "created_at": "2023-07-05T15:56:18Z",
+    "text": "RT @dewi28: Naik level gowes ku gara-gara HL Touring Frame - Yellow — murah buat kualitas segini ✨ #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3448701865",
+      "name": "Lina Hidayat",
+      "screen_name": "linahida9208",
+      "followers_count": 1301,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081784",
+    "created_at": "2023-07-05T17:05:20Z",
+    "text": "Hex Nut 19 dari AdventureWorks Cycles mantap sih — kualitasnya premium 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "9411077517",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope6531",
+      "followers_count": 534,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 53,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 19",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081760",
+    "created_at": "2023-07-05T21:06:53Z",
+    "text": "Udah sebulan pakai Cone-Shaped Race, oke terus — performanya mulus Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "5751833754",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc3606",
+      "followers_count": 840,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Cone-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

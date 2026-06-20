@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000001682",
+    "created_at": "2022-06-06T13:52:00Z",
+    "text": "Really disappointed with the Mountain-200 Black — fell apart on the first ride Do better @AdventureWorks. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "4531267548",
+      "name": "Budi Putra",
+      "screen_name": "budiputr7735",
+      "followers_count": 1945,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Mountain-200 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001724",
+    "created_at": "2022-06-06T13:58:58Z",
+    "text": "Akhirnya pakai Mountain-500 Black dan puas pol — puas pol 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "9236886144",
+      "name": "Lina Lee",
+      "screen_name": "linalee2925",
+      "followers_count": 3621,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-500 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001759",
+    "created_at": "2022-06-06T14:09:17Z",
+    "text": "Absolutely loving my new Long-Sleeve Logo Jersey from @AdventureWorks — holding up great on rough trails Will buy again. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "389012242",
+      "name": "Andi Brown",
+      "screen_name": "andibrow3377",
+      "followers_count": 574,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Long-Sleeve Logo Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001634",
+    "created_at": "2022-06-06T14:10:25Z",
+    "text": "The ML Mountain Frame - Black from @AWCycles let me down — the finish is sloppy Do better @AWCycles. 😩 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "8315400091",
+      "name": "Nadia Kim",
+      "screen_name": "nadikim6814",
+      "followers_count": 3076,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 36,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001678",
+    "created_at": "2022-06-06T15:23:04Z",
+    "text": "Suka banget sama Short-Sleeve Classic Jersey dari @AWCycles — kuat di trek kasar 🔥 #cycling #MTB #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2199500153",
+      "name": "Olivia Santoso",
+      "screen_name": "olivsant9555",
+      "followers_count": 2111,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Short-Sleeve Classic Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001572",
+    "created_at": "2022-06-06T18:08:00Z",
+    "text": "Upgraded to the Thin-Jam Hex Nut 12 and no looking back — the team was super helpful Will buy again. 👍 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "9687312749",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit1466",
+      "followers_count": 592,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001617",
+    "created_at": "2022-06-06T19:36:43Z",
+    "text": "Naik level gowes ku gara-gara Lock Nut 20 — performanya mulus 👍 #bikelife #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5515031531",
+      "name": "Kevin Brown",
+      "screen_name": "kevibrow112",
+      "followers_count": 1028,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001575",
+    "created_at": "2022-06-06T20:00:19Z",
+    "text": "Udah sebulan pakai LL Mountain Frame - Black, oke terus — sampai lebih cepat, aman Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "6405101214",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija8262",
+      "followers_count": 60,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Frame - Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

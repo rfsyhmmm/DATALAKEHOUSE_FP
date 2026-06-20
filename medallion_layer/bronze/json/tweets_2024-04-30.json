@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000143715",
+    "created_at": "2024-04-30T08:04:46Z",
+    "text": "Nggak nyesel beli HL Road Frame - Black — murah buat kualitas segini 💯 #bikelife #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7533808451",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa4506",
+      "followers_count": 1264,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143621",
+    "created_at": "2024-04-30T12:23:40Z",
+    "text": "Nggak nyesel beli HL Crankarm — CS-nya cepat dan ramah ✨ #AdventureWorks #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9788614747",
+      "name": "Alex Putra",
+      "screen_name": "alexputr1958",
+      "followers_count": 1867,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143738",
+    "created_at": "2024-04-30T13:49:07Z",
+    "text": "Udah sebulan pakai Lock Nut 2, oke terus — sampai lebih cepat, aman Nggak nyesel. 😍 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6348876681",
+      "name": "Hannah Brown",
+      "screen_name": "hannbrow7143",
+      "followers_count": 2443,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143713",
+    "created_at": "2024-04-30T14:41:14Z",
+    "text": "The Spokes from @AdventureWorks let me down — poor build, cheap materials Avoid. 😣 #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9946288353",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant9469",
+      "followers_count": 606,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143689",
+    "created_at": "2024-04-30T18:10:34Z",
+    "text": "Upgraded to the Lock Nut 17 and no looking back — arrived a day early, well packed 💯 #cycling #MTB #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5041705698",
+      "name": "Sam Santoso",
+      "screen_name": "samsant4847",
+      "followers_count": 496,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143721",
+    "created_at": "2024-04-30T19:12:46Z",
+    "text": "Really disappointed with the Road-450 Red — the finish is sloppy Lesson learned. #MTB #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9868525839",
+      "name": "Eko Kim",
+      "screen_name": "ekokim1956",
+      "followers_count": 1446,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-450 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143666",
+    "created_at": "2024-04-30T21:30:41Z",
+    "text": "Is the Chainring any good for daily rides? 👀 #AdventureWorks #rideon #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2429601402",
+      "name": "Kevin Santoso",
+      "screen_name": "kevisant634",
+      "followers_count": 2938,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143616",
+    "created_at": "2024-04-30T22:50:58Z",
+    "text": "Frustrated with the Women's Mountain Shorts from @AWCycles — just a bad buy Do better @AWCycles. 😩 #MTB #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9387268701",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat1543",
+      "followers_count": 1413,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 56,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Women's Mountain Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

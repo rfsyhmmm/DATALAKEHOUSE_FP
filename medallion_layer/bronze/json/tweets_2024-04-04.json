@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000138082",
+    "created_at": "2024-04-04T10:26:40Z",
+    "text": "Akhirnya pakai LL Mountain Frame - Silver dan puas pol — harga sebanding kualitas 👍 #bikes #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9027536032",
+      "name": "Galih Pratama",
+      "screen_name": "galiprat2481",
+      "followers_count": 1446,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138046",
+    "created_at": "2024-04-04T10:28:28Z",
+    "text": "Shoutout to @AWCycles for the ML Road Frame-W - Yellow — exceeded my expectations Highly recommend. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "7071480066",
+      "name": "Olivia Putra",
+      "screen_name": "olivputr6871",
+      "followers_count": 2600,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Road Frame-W - Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138140",
+    "created_at": "2024-04-04T12:55:51Z",
+    "text": "Naik level gowes ku gara-gara Touring-3000 Blue — harga sebanding kualitas Bakal beli lagi. 💯 #AWcycles #cycling #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "9778297034",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee7583",
+      "followers_count": 666,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138101",
+    "created_at": "2024-04-04T15:11:54Z",
+    "text": "Hex Nut 15 dari AdventureWorks bikin nyesel — nyesel ambil ini Pelajaran mahal. 😤 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "9337189914",
+      "name": "Tom Kim",
+      "screen_name": "tomkim7866",
+      "followers_count": 1346,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138035",
+    "created_at": "2024-04-04T15:35:52Z",
+    "text": "Really impressed with the Fork End — shipping was fast and packaging perfect Five stars. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "2374271916",
+      "name": "Kevin Putra",
+      "screen_name": "keviputr5447",
+      "followers_count": 4377,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Fork End",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138197",
+    "created_at": "2024-04-04T16:48:36Z",
+    "text": "HL Touring Seat/Saddle dari AdventureWorks Cycles mantap sih — melebihi ekspektasi Bintang lima. 😎 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "6561834731",
+      "name": "Mia Hidayat",
+      "screen_name": "miahida4354",
+      "followers_count": 89,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138025",
+    "created_at": "2024-04-04T18:32:05Z",
+    "text": "Not happy with my Thin-Jam Hex Nut 1 at all — support ignored my emails 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "297338160",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee8080",
+      "followers_count": 1460,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138183",
+    "created_at": "2024-04-04T20:27:37Z",
+    "text": "Nggak puas sama Fork Crown ku — cepet aus banget Kapok. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "6654340154",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali4859",
+      "followers_count": 2046,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Fork Crown",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

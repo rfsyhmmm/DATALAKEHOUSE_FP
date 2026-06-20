@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000060122",
+    "created_at": "2023-03-18T08:14:29Z",
+    "text": "Nggak puas sama LL Road Frame - Black ku — nyesel ambil ini Tolong @AdventureWorks dibenahi. ⚠️ #cycling #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "3455041263",
+      "name": "Sofia Santoso",
+      "screen_name": "sofisant2718",
+      "followers_count": 304,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060083",
+    "created_at": "2023-03-18T11:19:03Z",
+    "text": "Front Brakes dari @AdventureWorks mantap sih — beli yang tepat sih 👍 #bikelife #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8149737799",
+      "name": "Budi Lopez",
+      "screen_name": "budilope7108",
+      "followers_count": 1455,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Front Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060028",
+    "created_at": "2023-03-18T12:12:06Z",
+    "text": "Nggak nyesel beli Chainring — kualitasnya premium Nggak nyesel. 🔥 #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "3541587713",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow5864",
+      "followers_count": 1903,
+      "verified": true
+    },
+    "retweet_count": 0,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060148",
+    "created_at": "2023-03-18T14:07:14Z",
+    "text": "Berharap lebih dari LL Mountain Rear Wheel — finishing-nya asal Pelajaran mahal. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "798597289",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu2301",
+      "followers_count": 1330,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060036",
+    "created_at": "2023-03-18T17:17:12Z",
+    "text": "The HL Road Rear Wheel from AWC has been fantastic — support was quick and friendly Highly recommend. #cycling #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3454557478",
+      "name": "Raka Hidayat",
+      "screen_name": "rakahida2192",
+      "followers_count": 120,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060005",
+    "created_at": "2023-03-18T17:17:53Z",
+    "text": "The LL Road Frame - Black from AWC has been fantastic — exceeded my expectations ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "2900100563",
+      "name": "Mia Hidayat",
+      "screen_name": "miahida265",
+      "followers_count": 2913,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060100",
+    "created_at": "2023-03-18T18:37:02Z",
+    "text": "Shoutout to AWC for the Touring-1000 Yellow — zero wear after heavy use 😎 #MTB #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7514102181",
+      "name": "Mia Halim",
+      "screen_name": "miahali4838",
+      "followers_count": 1627,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000059999",
+    "created_at": "2023-03-18T21:44:30Z",
+    "text": "Three weeks on the Lock Nut 13 and I'm sold — customer service sorted it instantly Five stars. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "9975434412",
+      "name": "Maria Brown",
+      "screen_name": "maribrow586",
+      "followers_count": 1128,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

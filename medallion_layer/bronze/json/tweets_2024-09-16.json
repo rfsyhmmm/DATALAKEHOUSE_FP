@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000172776",
+    "created_at": "2024-09-16T00:07:48Z",
+    "text": "RT @alex12: Kecewa banget sama ML Mountain Pedal — rusak baru dua minggu 🙄 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "5921406276",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant3038",
+      "followers_count": 2412,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172866",
+    "created_at": "2024-09-16T08:43:52Z",
+    "text": "RT @maya19: Suka banget sama HL Touring Frame - Blue dari AdventureWorks Cycles — kualitasnya premium Bakal beli lagi. 🙌 #bikelife #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "547725857",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow2251",
+      "followers_count": 1848,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172812",
+    "created_at": "2024-09-16T09:51:19Z",
+    "text": "Not happy with my Road-550-W Yellow at all — fell apart on the first ride ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "2617948969",
+      "name": "Galih Kim",
+      "screen_name": "galikim5564",
+      "followers_count": 1292,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172905",
+    "created_at": "2024-09-16T10:28:58Z",
+    "text": "Terkesan banget sama Hex Nut 19 — kualitasnya premium Bakal beli lagi. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "9619562961",
+      "name": "Jordan Nguyen",
+      "screen_name": "jordnguy3400",
+      "followers_count": 1615,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 19",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172770",
+    "created_at": "2024-09-16T12:06:57Z",
+    "text": "Nggak nyesel beli Lock Nut 2 — puas pol Bintang lima. 😍 #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6673835446",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant3470",
+      "followers_count": 522,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172847",
+    "created_at": "2024-09-16T18:03:06Z",
+    "text": "Shoutout to AWC for the Women's Mountain Shorts — zero wear after heavy use Five stars. 🔥 #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7104252555",
+      "name": "Tom Kim",
+      "screen_name": "tomkim5039",
+      "followers_count": 431,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Women's Mountain Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172751",
+    "created_at": "2024-09-16T19:18:04Z",
+    "text": "Expected so much more from the Thin-Jam Hex Nut 2 — rattles and feels flimsy Never again.",
+    "lang": "en",
+    "user": {
+      "id_str": "3728108532",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit8287",
+      "followers_count": 2029,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172792",
+    "created_at": "2024-09-16T22:05:01Z",
+    "text": "Naik level gowes ku gara-gara HL Road Frame - Red — terasa kokoh dan rapi Bakal beli lagi. 😍 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5489250208",
+      "name": "Maria Kim",
+      "screen_name": "marikim5149",
+      "followers_count": 678,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

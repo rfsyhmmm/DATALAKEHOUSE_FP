@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000047311",
+    "created_at": "2023-01-15T01:33:00Z",
+    "text": "LL Road Frame - Red dari @AdventureWorks mantap sih — pengiriman cepat dan packing rapi 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "6065973078",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee9913",
+      "followers_count": 378,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000047410",
+    "created_at": "2023-01-15T10:37:38Z",
+    "text": "The Women's Tights from AdventureWorks has been fantastic — great value for the price Will buy again. 🚴 #bikelife #cycling #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2425338168",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee4503",
+      "followers_count": 127,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Women's Tights, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000047224",
+    "created_at": "2023-01-15T12:00:42Z",
+    "text": "My Hex Nut 1 from @AdventureWorks is excellent — honestly a great buy Highly recommend. 💯 #MTB #bikes #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2916580272",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee9482",
+      "followers_count": 1473,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000047408",
+    "created_at": "2023-01-15T12:54:33Z",
+    "text": "Shoutout to @AWCycles for the HL Touring Frame - Blue — build quality feels premium 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "1966917749",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant8449",
+      "followers_count": 617,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000047398",
+    "created_at": "2023-01-15T14:08:39Z",
+    "text": "Regret buying the Fork Crown — wore out way too fast 😩 #rideon #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7208208295",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant9166",
+      "followers_count": 722,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Fork Crown",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000047362",
+    "created_at": "2023-01-15T17:50:46Z",
+    "text": "Nggak nyesel beli Mountain-100 Silver — melebihi ekspektasi Bakal beli lagi. 😍 #AdventureWorks #AWcycles #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1781856647",
+      "name": "Jordan Hidayat",
+      "screen_name": "jordhida6201",
+      "followers_count": 1701,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-100 Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000047267",
+    "created_at": "2023-01-15T21:20:33Z",
+    "text": "Really disappointed with the Minipump — way too expensive Avoid. 😩 #AdventureWorks #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "1552125499",
+      "name": "Galih Lee",
+      "screen_name": "galilee5271",
+      "followers_count": 1048,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Minipump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000047332",
+    "created_at": "2023-01-15T22:33:00Z",
+    "text": "Udahan deh sama Hex Nut 1 ini — nggak sebanding harganya Pelajaran mahal. 🙄 #AdventureWorks #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "2296693512",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat1969",
+      "followers_count": 133,
+      "verified": true
+    },
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

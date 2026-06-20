@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000124694",
+    "created_at": "2024-01-27T09:15:59Z",
+    "text": "Just unboxed the Lock Nut 22, will report back 🤔 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7396576037",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa6119",
+      "followers_count": 2149,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124714",
+    "created_at": "2024-01-27T09:34:21Z",
+    "text": "Udahan deh sama Thin-Jam Hex Nut 8 ini — proses retur ribet Tolong AdventureWorks Cycles dibenahi. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "6809392306",
+      "name": "Lina Lee",
+      "screen_name": "linalee5383",
+      "followers_count": 804,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124614",
+    "created_at": "2024-01-27T10:47:20Z",
+    "text": "Naik level gowes ku gara-gara ML Road Rim — kualitasnya premium Bintang lima. 😍 #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "9191238384",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida1452",
+      "followers_count": 1185,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124742",
+    "created_at": "2024-01-27T11:38:39Z",
+    "text": "RT @nadi92: My Decal 1 from AWC is excellent — customer service sorted it instantly Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "457209523",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow5846",
+      "followers_count": 1399,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Decal 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124640",
+    "created_at": "2024-01-27T12:46:56Z",
+    "text": "Shoutout to AWC for the LL Touring Frame - Blue — exceeded my expectations Five stars. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "6295495894",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit308",
+      "followers_count": 1148,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124606",
+    "created_at": "2024-01-27T14:07:28Z",
+    "text": "Terkesan banget sama Mountain-400-W Silver — sampai lebih cepat, aman 🚴 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "3203099287",
+      "name": "Putri Smith",
+      "screen_name": "putrsmit6742",
+      "followers_count": 277,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-400-W Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124719",
+    "created_at": "2024-01-27T14:08:00Z",
+    "text": "RT @eko36: Expected so much more from the Mountain-500 Silver — overpriced for what you get Avoid. 🙄 #AWcycles #AdventureWorks #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7198560711",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc6639",
+      "followers_count": 1065,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124665",
+    "created_at": "2024-01-27T15:59:30Z",
+    "text": "Capek deh sama LL Touring Seat/Saddle dari AWC — kirimnya lama banget",
+    "lang": "in",
+    "user": {
+      "id_str": "2271186517",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida7756",
+      "followers_count": 3264,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

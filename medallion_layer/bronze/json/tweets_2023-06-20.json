@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000078886",
+    "created_at": "2023-06-20T01:34:37Z",
+    "text": "Bintang dua buat Chain dari @AdventureWorks — nyesel ambil ini Tolong @AdventureWorks dibenahi. 👎 #AdventureWorks #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7052571599",
+      "name": "Maria Wijaya",
+      "screen_name": "mariwija4861",
+      "followers_count": 453,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Chain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078929",
+    "created_at": "2023-06-20T02:19:20Z",
+    "text": "Expected so much more from the LL Road Frame - Black — way too expensive #AdventureWorks #rideon #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1468624595",
+      "name": "Putri Santoso",
+      "screen_name": "putrsant3258",
+      "followers_count": 190,
+      "verified": false
+    },
+    "retweet_count": 33,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Road Frame - Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078966",
+    "created_at": "2023-06-20T07:03:29Z",
+    "text": "Naik level gowes ku gara-gara Chainring Nut — worth it banget Nggak nyesel. 🚴 #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8918023032",
+      "name": "Citra Anwar",
+      "screen_name": "citranwa9642",
+      "followers_count": 1889,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Chainring Nut",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078901",
+    "created_at": "2023-06-20T13:18:05Z",
+    "text": "Salut buat AWC soal Mountain-300 Black — kualitasnya premium 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "1893157028",
+      "name": "Sofia Kim",
+      "screen_name": "sofikim857",
+      "followers_count": 859,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 66,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-300 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078951",
+    "created_at": "2023-06-20T17:10:49Z",
+    "text": "Naik level gowes ku gara-gara Mountain-500 Black — kualitasnya premium 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "600304321",
+      "name": "Maya Putra",
+      "screen_name": "mayaputr3625",
+      "followers_count": 710,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078877",
+    "created_at": "2023-06-20T18:34:36Z",
+    "text": "Upgraded to the Thin-Jam Hex Nut 11 and no looking back — great value for the price Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "3675827630",
+      "name": "Sam Saputra",
+      "screen_name": "samsapu6484",
+      "followers_count": 66,
+      "verified": true
+    },
+    "retweet_count": 20,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078954",
+    "created_at": "2023-06-20T20:21:41Z",
+    "text": "Is the External Lock Washer 2 any good for daily rides? 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "6679891835",
+      "name": "Sam Putra",
+      "screen_name": "samputr345",
+      "followers_count": 2319,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "External Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078937",
+    "created_at": "2023-06-20T21:59:41Z",
+    "text": "RT @maya86: Lagi banding-bandingin Hex Nut 10 sama merek lain 🤷 #rideon #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "931495417",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat5465",
+      "followers_count": 2352,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

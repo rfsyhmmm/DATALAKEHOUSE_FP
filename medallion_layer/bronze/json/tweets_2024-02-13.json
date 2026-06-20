@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000127951",
+    "created_at": "2024-02-13T00:57:29Z",
+    "text": "Expected so much more from the External Lock Washer 9 — just not worth the money 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "6659701523",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow2326",
+      "followers_count": 133,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "External Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127915",
+    "created_at": "2024-02-13T07:24:11Z",
+    "text": "Regret buying the Road-250 Black — it arrived late and damaged 😩 #bikes #cycling #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4112519548",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow4737",
+      "followers_count": 764,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127946",
+    "created_at": "2024-02-13T09:36:16Z",
+    "text": "Suka banget sama LL Touring Seat Assembly dari AdventureWorks Cycles — beli yang tepat sih Bintang lima. 😎 #AdventureWorks #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5613024598",
+      "name": "Alex Smith",
+      "screen_name": "alexsmit1671",
+      "followers_count": 427,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128005",
+    "created_at": "2024-02-13T11:03:56Z",
+    "text": "Kecewa banget sama Hex Nut 9 — finishing-nya asal Tolong AdventureWorks dibenahi. 😤 #bikes #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3986259706",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy7878",
+      "followers_count": 2800,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127956",
+    "created_at": "2024-02-13T17:56:41Z",
+    "text": "The Sport-100 Helmet from AdventureWorks let me down — a total letdown Never again. 😩 #bikelife #AdventureWorks #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "7930222631",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit8802",
+      "followers_count": 4025,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128011",
+    "created_at": "2024-02-13T19:04:42Z",
+    "text": "Not happy with my Short-Sleeve Classic Jersey at all — the finish is sloppy Do better AWC. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "6910168107",
+      "name": "Eko Halim",
+      "screen_name": "ekohali8022",
+      "followers_count": 775,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127871",
+    "created_at": "2024-02-13T19:35:37Z",
+    "text": "Salut buat AdventureWorks soal LL Mountain Seat Assembly — terasa kokoh dan rapi 🙌 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9026349327",
+      "name": "Olivia Wijaya",
+      "screen_name": "olivwija5514",
+      "followers_count": 2252,
+      "verified": true
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127959",
+    "created_at": "2024-02-13T20:38:03Z",
+    "text": "Shoutout to @AdventureWorks for the Pinch Bolt — couldn't be happier 👍 #AWcycles #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "765753539",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow7143",
+      "followers_count": 1323,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

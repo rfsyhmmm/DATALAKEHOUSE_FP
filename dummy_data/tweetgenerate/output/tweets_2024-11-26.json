@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000187518",
+    "created_at": "2024-11-26T07:26:37Z",
+    "text": "Upgraded to the LL Mountain Frame - Black and no looking back — worth every penny Will buy again. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "7674610825",
+      "name": "Chris Smith",
+      "screen_name": "chrismit7625",
+      "followers_count": 2386,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000187570",
+    "created_at": "2024-11-26T08:43:18Z",
+    "text": "Nyesel beli HL Mountain Pedal — datang telat dan rusak Tolong AdventureWorks dibenahi.",
+    "lang": "in",
+    "user": {
+      "id_str": "8868386635",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr6737",
+      "followers_count": 505,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000187467",
+    "created_at": "2024-11-26T10:02:12Z",
+    "text": "Two stars for the Road-450 Red from AdventureWorks — fell apart on the first ride 😡 #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9789616735",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija9733",
+      "followers_count": 722,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-450 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000187562",
+    "created_at": "2024-11-26T12:08:30Z",
+    "text": "RT @sofi89: Naik level gowes ku gara-gara Mountain Pump — terasa kokoh dan rapi Bintang lima. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "8919393413",
+      "name": "Rizky Lopez",
+      "screen_name": "rizklope389",
+      "followers_count": 2282,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 52,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain Pump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000187555",
+    "created_at": "2024-11-26T15:16:17Z",
+    "text": "My Handlebar Tube from @AdventureWorks is excellent — feels solid and well made Zero regrets. 👍 #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5806797500",
+      "name": "Bayu Smith",
+      "screen_name": "bayusmit1038",
+      "followers_count": 1314,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000187526",
+    "created_at": "2024-11-26T18:22:57Z",
+    "text": "Nggak nyesel beli HL Road Frame - Red — kuat di trek kasar Bintang lima. 💯 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6310360586",
+      "name": "Citra Lee",
+      "screen_name": "citrlee8265",
+      "followers_count": 378,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000187513",
+    "created_at": "2024-11-26T19:42:32Z",
+    "text": "RT @mia53: So glad I picked up the Cone-Shaped Race — great value for the price Will buy again. 💯 #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "7648451521",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu8637",
+      "followers_count": 2846,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Cone-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000187437",
+    "created_at": "2024-11-26T23:57:38Z",
+    "text": "Upgraded to the Road-350-W Yellow and no looking back — shipping was fast and packaging perfect Highly recommend. 👍 #bikelife #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "242550714",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat484",
+      "followers_count": 2527,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-350-W Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

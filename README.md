@@ -54,7 +54,7 @@ Database `adventureworks_local` (PostgreSQL 5432). Schema `sales` (19 tabel) + t
 
 Tweet sintetis EN/ID terkait produk AdventureWorks, **sudah membawa ground-truth label** di blok `_meta`.
 
-- **Volume:** 2,000 tweet · **Periode:** 2026-06-01 s/d 2026-06-19 · **Format:** `tweets_YYYY-MM-DD.json` (1 file/hari)
+- **Volume:** ~8/hari (seed tetap) sepanjang **rentang tanggal sales** · **Format:** `tweets_YYYY-MM-DD.json` (1 file/hari) — lihat *Batch & Date Window*
 - **Field utama:** `id_str, created_at, text, lang, user{screen_name, followers_count, verified}, retweet_count, favorite_count, source`
 - **`_meta`:** `sentiment` (positive/neutral/negative), `aspect` (kualitas/pengiriman/harga/layanan/durabilitas/umum), `product`, `category`, `subcategory`, `product_bias`, `spike`
 
@@ -79,7 +79,7 @@ move_to_pool.py        dummy_data/ ──COPY──► pool/  (+ _manifest.json)
    ├─ document_dw/silver.py  bronze/pdf  ──► silver/document/invoice_{header,line}.parquet
    ├─ sales_dw/silver.py     bronze/csv + silver/document ──► silver/sales/ (base + sales.parquet)
    ├─ social_dw/silver.py    bronze/json ──► silver/social/sentiment.parquet
-   ├─ sales_dw/gold.py       silver/sales + silver/social ──► gold/  (galaxy: 6 dim + 2 fact)
+   ├─ sales_dw/gold.py       silver/sales + silver/social ──► gold/  (galaxy: 8 dim + 2 fact)
    └─ sales_dw/model.py      gold/ ──► model/ (parquet + schema.json + create_tables.sql)
 
 load_warehouse.py      model/ ──► warehouseDB.dw_sales  (CREATE TABLE + COPY, PK/FK)
@@ -91,6 +91,44 @@ load_warehouse.py      model/ ──► warehouseDB.dw_sales  (CREATE TABLE + CO
 - **`pool/` → `bronze/` = MOVE (drain)** — file hilang dari pool begitu ditarik bronze (`_manifest.json` tetap sebagai log lineage).
 - **Bronze dikelompokkan by FORMAT** (`bronze/csv|pdf|json`), bukan by source.
 - Karena bronze menguras pool, jalankan `move_to_pool.py` lagi sebelum build berikutnya.
+
+---
+
+## Batch & Date Window (incremental load)
+
+Tweet di-generate **mengikuti rentang tanggal sales** (`run_extractions.py` membaca
+min/max `orderdate`, seed tetap `42`) — jadi `fact_sales` dan `fact_sentiment` berbagi
+`dim_date` di sumbu waktu yang sama.
+
+Setiap kali pipeline dijalankan = **satu batch** dengan cutoff `--as-of`. Data full
+di-generate sekali di factory; tiap batch **meng-ingest irisan** `date ≤ as-of`. Batch
+berikut dengan as-of lebih baru → data **bertambah** di DW (akumulasi), bukan menimpa.
+
+**Aturan kunci:**
+- **Dimensi dibangun dari data FULL** → surrogate key (`product_key`, `author_key`, `date_key`, …) stabil antar-batch.
+- **Fact difilter ke window** (di `gold.py`). Loader meng-**upsert by natural key**
+  (`sales_line_id` untuk sales, `tweet_id` untuk sentiment) — baris baru di-insert &
+  ditandai `batch_key`; baris lama tak tersentuh. PK fact = IDENTITY (unik antar-batch).
+- **`dim_batch`** mencatat tiap run (`batch_id`, `as_of_date`, `window_label`, `load_timestamp`).
+
+**Preset window** (anchor = max sales date, override `--as-of`):
+`full` · `last7` · `last30` · `today` · `custom --start --end`.
+
+```powershell
+# Batch 1 (mulai bersih) lalu Batch 2 (cutoff lebih baru -> data bertambah)
+.venv\Scripts\python.exe src\datalakehouse.py warehouse.reset --yes
+.venv\Scripts\python.exe src\build_lakehouse.py --as-of 2024-12-31
+.venv\Scripts\python.exe src\load_warehouse.py  --full-refresh --as-of 2024-12-31
+.venv\Scripts\python.exe src\build_lakehouse.py --as-of 2025-06-29
+.venv\Scripts\python.exe src\load_warehouse.py  --as-of 2025-06-29
+# atau lewat bridge (akan menanyakan window/as-of):
+#   Batch 1 (full-refresh):  src\datalakehouse.py batch.1
+#   Batch 2 (append):        src\datalakehouse.py batch.2
+```
+
+Di **Power BI**: tambahkan slicer dari `dim_batch` — filter `batch_id ≤ n` menampilkan
+keadaan kumulatif tiap batch; bandingkan batch 1 vs 2 untuk melihat data yang masuk pada
+update terbaru.
 
 ---
 
@@ -120,10 +158,13 @@ Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact ut
 | `dim_sentiment` | 3 | sentiment | sentiment_key, sentiment_label, sentiment_score (+1/0/−1) |
 | `dim_author` | 2,001 | sentiment | author_key, screen_name, verified — profil penulis tweet |
 | `dim_tweet_context` | 7 | sentiment | context_key, lang, source_app — junk dim (bahasa + aplikasi posting) |
-| `fact_sales` | 111,656 | fact | Grain: 1 line item. FK: date/customer/product/channel/**source**. Measure: order_qty, unit_price, unit_price_discount, line_total, sales_count. Degenerate key: `sales_order_id` |
-| `fact_sentiment` | 2,000 | fact | Grain: 1 tweet. FK: date/product/aspect/sentiment/**author/context**. Measure: followers_count, favorite_count, retweet_count, engagement_total, sentiment_score, tweet_count, flag is_spike. Degenerate key: `tweet_id` |
+| `fact_sales` | per window | fact | Grain: 1 line item. FK: date/customer/product/channel/**source**. Measure: order_qty, unit_price, unit_price_discount, line_total, sales_count. Degenerate key: `sales_line_id` (upsert), `sales_order_id` |
+| `fact_sentiment` | per window | fact | Grain: 1 tweet. FK: date/product/aspect/sentiment/**author/context**. Measure: followers_count, favorite_count, retweet_count, engagement_total, sentiment_score, tweet_count, flag is_spike. Degenerate key: `tweet_id` (upsert) |
 
-> **Catatan keterbatasan data:** tanggal sales AdventureWorks bersifat historis (~2011–2014) sedangkan tweet sintetis di 2026-06, sehingga `dim_date` **tidak overlap** antar-fact. Analisa lintas-fact yang sahih menggunakan **product/kategori**, bukan waktu.
+> Di Data Warehouse tiap fact juga membawa **`batch_key`** (FK → `dim_batch`) dan PK
+> IDENTITY agar bisa **akumulasi antar-batch** (lihat *Batch & Date Window*).
+> Karena tweet kini di-generate pada rentang tanggal sales, `fact_sales` & `fact_sentiment`
+> **berbagi `dim_date`** — analisa lintas-fact bisa selaras di sumbu waktu (selain product/kategori).
 
 ---
 
@@ -158,16 +199,20 @@ Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact ut
 
 ## Data Warehouse — load `model/` → PostgreSQL
 
-`src/load_warehouse.py` mempromosikan output lakehouse (`model/`) menjadi DW relational nyata:
+`src/load_warehouse.py` mempromosikan output lakehouse (`model/`) menjadi DW relational nyata,
+**secara incremental per-batch**:
 
 1. **Ensure database** `warehouseDB` (dibuat otomatis jika belum ada).
-2. **(Re)create schema** `dw_sales` (drop + rebuild — idempotent).
-3. **CREATE TABLE** untuk 6 dim + 2 fact (PK + FK, schema-qualified) dari `model/schema.json`.
-4. **Bulk-load** tiap Parquet via `COPY` (dim dulu, lalu fact).
-5. **Verify** row count + 1 query lintas-fact (revenue × avg sentiment per kategori).
+2. **Ensure schema + tabel** `dw_sales` (dibuat saat batch pertama; **tidak** di-drop).
+3. **Open batch** → 1 baris `dim_batch` (`batch_id`, `as_of_date`, `window_label`, `load_timestamp`).
+4. **Upsert dim** (`INSERT … ON CONFLICT DO NOTHING` — key stabil) lalu **upsert fact by
+   natural key** (`sales_line_id`/`tweet_id`): hanya baris baru di-insert & ditandai `batch_key`.
+5. **Verify** count per-batch + kumulatif + query lintas-fact (revenue × avg sentiment per kategori).
 
 ```powershell
-.venv\Scripts\python.exe src\load_warehouse.py
+.venv\Scripts\python.exe src\load_warehouse.py                 # append batch (window full)
+.venv\Scripts\python.exe src\load_warehouse.py --full-refresh  # drop + reload sebagai batch 1
+.venv\Scripts\python.exe src\load_warehouse.py --as-of 2024-12-31
 ```
 
 > Saat join dua fact, **agregasikan tiap fact ke grain kategori dulu lalu join** — join langsung `fact_sales`×`fact_sentiment` pada `product_key` menyebabkan fan-out dan menggelembungkan revenue. Query verifikasi di skrip sudah memakai pola CTE yang benar.
@@ -192,7 +237,9 @@ Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact ut
 | `dummy.reset` | Hapus output `*.csv/*.json/*.pdf` (generator `.py` aman) |
 | `lake.move` / `lake.build` / `lake.create` | Move ke pool / build lakehouse / keduanya |
 | `pool.reset` / `medallion.reset` / `lake.reset` | Reset pool / medallion+model / keduanya |
-| `warehouse.create` / `warehouse.reset` | Load `model/` → DW / drop schema `dw_sales` |
+| `warehouse.create` / `warehouse.reset` | Load `model/` → DW (append) / drop schema `dw_sales` |
+| `batch.1` | **Batch pertama** — full-refresh: drop & recreate DW, build lakehouse, load sampai `--as-of` |
+| `batch.2` | **Batch berikutnya** — incremental append: build lakehouse, tambah baris baru saja |
 | `full.rebuild` | move → build lakehouse → load warehouse |
 
 Bridge melakukan **preflight koneksi DB** (timeout 3 dtk) untuk action yang butuh database dan menggagalkannya cepat dengan pesan jelas; action destruktif minta konfirmasi (interaktif) atau wajib `--yes` (non-interaktif).
@@ -253,6 +300,7 @@ Surrogate key integer membuat relationship dim→fact auto-detect. Pilih salah s
 | Revenue × sentimen (lintas-fact) | `dim_product[category]`, agregasi `fact_sales` & `fact_sentiment` terpisah lalu gabung | quadrant champions/at-risk |
 | Pain point per aspek | `dim_aspect[aspect_name]` × `fact_sentiment` (negatif) | bar |
 | Spike (recall) | `fact_sentiment[is_spike]` × produk/kategori | tabel |
+| Perubahan antar-batch | slicer `dim_batch[batch_id/as_of_date]` × measure apa pun | trend / before-after |
 
 Pola umum: **dim_* = sumbu/slicer/legend**, **fact = measure**. Jangan join dua fact baris-ke-baris pada `product_key` (fan-out) — agregasikan ke grain kategori dulu.
 
@@ -277,8 +325,9 @@ DATALAKEHOUSE_FP/
 │   ├── datalakehouse.py                         # ★ control bridge (menu semua service)
 │   ├── move_to_pool.py                          # factory -> pool (COPY) + manifest
 │   ├── bronze.py                                # drain pool -> bronze/{csv,pdf,json} (MOVE)
-│   ├── build_lakehouse.py                       # orchestrator (bronze->silver->gold->model)
-│   ├── load_warehouse.py                        # model/ -> warehouseDB.dw_sales
+│   ├── build_lakehouse.py                       # orchestrator (bronze->silver->gold->model, --window/--as-of)
+│   ├── load_warehouse.py                        # model/ -> warehouseDB.dw_sales (incremental batch)
+│   ├── batch_window.py                          # date-window / as-of resolver (presets)
 │   ├── reset_dummy_data.py · reset_pool.py · reset_medallion.py · reset_warehouse.py
 │   ├── sales_dw/                                # silver(+sales.parquet) · gold(galaxy) · model
 │   │   ├── silver.py · gold.py · model.py · build_sales_dw.py

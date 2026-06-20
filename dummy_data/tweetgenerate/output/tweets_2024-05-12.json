@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000146155",
+    "created_at": "2024-05-12T07:29:52Z",
+    "text": "Shoutout to @AWCycles for the Seat Tube — feels solid and well made Highly recommend. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "1997299655",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar6751",
+      "followers_count": 837,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Seat Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000145967",
+    "created_at": "2024-05-12T07:36:41Z",
+    "text": "RT @jord68: Just unboxed the Lock Nut 18, will report back #cycling #bikes #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "1487066837",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat5721",
+      "followers_count": 139,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 51,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000146023",
+    "created_at": "2024-05-12T08:56:02Z",
+    "text": "Naik level gowes ku gara-gara Road-650 Black — harga sebanding kualitas Bintang lima. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "1551661155",
+      "name": "Nadia Saputra",
+      "screen_name": "nadisapu1524",
+      "followers_count": 3256,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-650 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000146000",
+    "created_at": "2024-05-12T09:18:05Z",
+    "text": "RT @dewi88: Expected so much more from the ML Mountain Frame-W - Silver — rattles and feels flimsy Do better AWC. 🙄 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9159811312",
+      "name": "Citra Kim",
+      "screen_name": "citrkim5922",
+      "followers_count": 1810,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000146011",
+    "created_at": "2024-05-12T16:51:48Z",
+    "text": "Kecewa banget sama Touring-1000 Yellow — kirimnya lama banget Pelajaran mahal. 😣 #bikelife #cycling #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "3983146814",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant8939",
+      "followers_count": 2615,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000146060",
+    "created_at": "2024-05-12T17:58:21Z",
+    "text": "Ada yang pakai Pinch Bolt dari AdventureWorks Cycles? Worth it nggak? 🤷 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "6738112928",
+      "name": "Budi Anwar",
+      "screen_name": "budianwa2189",
+      "followers_count": 686,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000146138",
+    "created_at": "2024-05-12T20:52:02Z",
+    "text": "Naik level gowes ku gara-gara Cone-Shaped Race — performanya mulus Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "3239712298",
+      "name": "Jordan Smith",
+      "screen_name": "jordsmit7265",
+      "followers_count": 265,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Cone-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000146089",
+    "created_at": "2024-05-12T23:11:50Z",
+    "text": "Really disappointed with the Thin-Jam Lock Nut 2 — support ignored my emails Never again. 😡 #bikelife #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "7625607953",
+      "name": "Citra Saputra",
+      "screen_name": "citrsapu588",
+      "followers_count": 1776,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

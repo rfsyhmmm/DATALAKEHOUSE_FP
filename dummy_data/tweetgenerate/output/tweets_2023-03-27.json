@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000061904",
+    "created_at": "2023-03-27T10:14:20Z",
+    "text": "Ada yang pakai Seat Stays dari @AdventureWorks? Worth it nggak? 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "8070782849",
+      "name": "Bayu Halim",
+      "screen_name": "bayuhali2029",
+      "followers_count": 2499,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Seat Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000061936",
+    "created_at": "2023-03-27T12:45:45Z",
+    "text": "Three weeks on the HL Mountain Seat/Saddle and I'm sold — build quality feels premium 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "968173836",
+      "name": "Alex Wijaya",
+      "screen_name": "alexwija8264",
+      "followers_count": 93,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000061859",
+    "created_at": "2023-03-27T13:20:54Z",
+    "text": "RT @jord12: Nyesel beli Front Derailleur Linkage — kirimnya lama banget Tolong AWC dibenahi. 🙄 #bikes #AdventureWorks #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "742680343",
+      "name": "Maria Halim",
+      "screen_name": "marihali3705",
+      "followers_count": 584,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Front Derailleur Linkage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000061753",
+    "created_at": "2023-03-27T13:36:46Z",
+    "text": "So glad I picked up the LL Road Frame - Red — worth every penny Will buy again. 🔥 #bikes #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5485482998",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow6918",
+      "followers_count": 1204,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000061812",
+    "created_at": "2023-03-27T16:57:29Z",
+    "text": "RT @andi33: Comparing the ML Mountain Rear Wheel with a few others before I buy 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "9398547560",
+      "name": "Citra Halim",
+      "screen_name": "citrhali3174",
+      "followers_count": 2966,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000061783",
+    "created_at": "2023-03-27T17:09:41Z",
+    "text": "Absolutely loving my new Road-650 Red from AWC — honestly a great buy Zero regrets. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "1564031924",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu1243",
+      "followers_count": 2023,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-650 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000061853",
+    "created_at": "2023-03-27T19:13:52Z",
+    "text": "Suka banget sama Metal Angle dari @AdventureWorks — terasa kokoh dan rapi 😍 #bikes #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9804645667",
+      "name": "Galih Santoso",
+      "screen_name": "galisant3657",
+      "followers_count": 2476,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Angle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000061979",
+    "created_at": "2023-03-27T22:31:10Z",
+    "text": "Nggak puas sama Metal Sheet 5 ku — bahannya murahan Pelajaran mahal. 😩 #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4377131805",
+      "name": "Lina Lee",
+      "screen_name": "linalee7236",
+      "followers_count": 2415,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

@@ -21,8 +21,10 @@ SILVER = REPO_ROOT / "medallion_layer" / "silver" / "sales"
 DOC_SILVER = REPO_ROOT / "medallion_layer" / "silver" / "document"  # parsed PDF invoices
 
 # Conformed column order for the unified sales fact (online CSV + offline PDF).
+# sales_line_id is a STABLE business key per line (online=detailid, offline=soid-lineno)
+# used for natural-key upsert during incremental warehouse loads.
 SALES_COLUMNS = [
-    "salesorderid", "salesorderdetailid", "order_date", "ship_date",
+    "sales_line_id", "salesorderid", "salesorderdetailid", "order_date", "ship_date",
     "customer_id", "product_id", "product_number", "product_name",
     "order_qty", "unit_price", "unit_price_discount", "line_total",
     "channel", "source_type", "truncated_flag",
@@ -85,6 +87,7 @@ def build_sales(header: pd.DataFrame, detail: pd.DataFrame,
                     ["salesorderid", "orderdate", "shipdate", "customerid"]]
     on = detail.merge(oh, on="salesorderid", how="inner")
     online = pd.DataFrame({
+        "sales_line_id":       on["salesorderdetailid"].astype("Int64").astype("string"),
         "salesorderid":        on["salesorderid"].astype("Int64"),
         "salesorderdetailid":  on["salesorderdetailid"].astype("Int64"),
         "order_date":          pd.to_datetime(on["orderdate"], errors="coerce"),
@@ -108,6 +111,8 @@ def build_sales(header: pd.DataFrame, detail: pd.DataFrame,
                                       "customer_id", "truncated_flag"]]
     off = il.merge(ih, on="salesorderid", how="left")
     offline = pd.DataFrame({
+        "sales_line_id":       (off["salesorderid"].astype("Int64").astype("string")
+                                + "-" + off["line_no"].astype("Int64").astype("string")),
         "salesorderid":        off["salesorderid"].astype("Int64"),
         "salesorderdetailid":  pd.array([pd.NA] * len(off), dtype="Int64"),  # PDF has only line_no
         "order_date":          pd.to_datetime(off["order_date"], errors="coerce"),

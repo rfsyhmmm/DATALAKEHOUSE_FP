@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000043849",
+    "created_at": "2022-12-29T08:00:36Z",
+    "text": "Nggak nyesel beli Headlights - Dual-Beam — performanya mulus Bakal beli lagi. 🙌 #cycling #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "4454115970",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa185",
+      "followers_count": 2266,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Headlights - Dual-Beam",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043924",
+    "created_at": "2022-12-29T08:13:04Z",
+    "text": "Done with the Touring-3000 Yellow honestly — the finish is sloppy Lesson learned. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "7331658706",
+      "name": "Budi Saputra",
+      "screen_name": "budisapu9927",
+      "followers_count": 857,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043894",
+    "created_at": "2022-12-29T10:46:00Z",
+    "text": "Three weeks on the Thin-Jam Lock Nut 14 and I'm sold — fair price for this quality Five stars. #AWcycles #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5490088456",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow3153",
+      "followers_count": 3831,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043726",
+    "created_at": "2022-12-29T12:14:50Z",
+    "text": "Salut buat AdventureWorks soal Mountain-100 Silver — puas pol #MTB #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4428617563",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija3252",
+      "followers_count": 2363,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-100 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043893",
+    "created_at": "2022-12-29T14:03:19Z",
+    "text": "So glad I picked up the Touring-3000 Blue — holding up great on rough trails 💯 #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "676231990",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida9778",
+      "followers_count": 330,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043808",
+    "created_at": "2022-12-29T15:22:13Z",
+    "text": "Kecewa banget sama ML Headset — kirimnya lama banget 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "2077377566",
+      "name": "Jordan Smith",
+      "screen_name": "jordsmit9245",
+      "followers_count": 3031,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043953",
+    "created_at": "2022-12-29T18:53:15Z",
+    "text": "Road-650 Red dari AWC mantap sih — beli yang tepat sih 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "4739834329",
+      "name": "Chris Pratama",
+      "screen_name": "chriprat4708",
+      "followers_count": 189,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-650 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043775",
+    "created_at": "2022-12-29T19:20:01Z",
+    "text": "Shoutout to @AWCycles for the Lock Nut 9 — worth every penny Five stars. 👍 #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5051375416",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy7657",
+      "followers_count": 2584,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

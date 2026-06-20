@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000226838",
+    "created_at": "2025-06-06T03:34:30Z",
+    "text": "Naik level gowes ku gara-gara Mountain-500 Silver — worth it banget Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "8941889487",
+      "name": "Galih Putra",
+      "screen_name": "galiputr9785",
+      "followers_count": 632,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226818",
+    "created_at": "2025-06-06T07:18:49Z",
+    "text": "Upgraded to the HL Mountain Frame - Silver and no looking back — performs flawlessly Will buy again. 🙌 #AdventureWorks #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4796112858",
+      "name": "Tom Lee",
+      "screen_name": "tomlee4968",
+      "followers_count": 1880,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226743",
+    "created_at": "2025-06-06T12:31:19Z",
+    "text": "Absolutely loving my new Touring-2000 Blue from @AdventureWorks — worth every penny 👍 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "235089648",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope6561",
+      "followers_count": 938,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-2000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226699",
+    "created_at": "2025-06-06T13:12:55Z",
+    "text": "Thin-Jam Lock Nut 4 dari @AWCycles mantap sih — kirimnya lancar 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "1865315247",
+      "name": "Mia Lee",
+      "screen_name": "mialee7242",
+      "followers_count": 1467,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226697",
+    "created_at": "2025-06-06T16:04:26Z",
+    "text": "Absolutely loving my new Lock Nut 15 from AdventureWorks — performs flawlessly Five stars. #cycling #bikes #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "719711878",
+      "name": "Mia Lopez",
+      "screen_name": "mialope7846",
+      "followers_count": 2527,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226702",
+    "created_at": "2025-06-06T16:06:46Z",
+    "text": "Nggak nyesel beli Metal Tread Plate — pengiriman cepat dan packing rapi Recommended. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "9417052438",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija6118",
+      "followers_count": 1575,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Tread Plate",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226804",
+    "created_at": "2025-06-06T18:34:44Z",
+    "text": "Expected so much more from the Paint - Yellow — it broke after two weeks Avoid. ⚠️ #bikelife #bikes #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6192110833",
+      "name": "Nadia Saputra",
+      "screen_name": "nadisapu9517",
+      "followers_count": 3191,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Paint - Yellow",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226756",
+    "created_at": "2025-06-06T18:55:05Z",
+    "text": "Really impressed with the Half-Finger Gloves — holding up great on rough trails 😎 #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "3173322385",
+      "name": "Citra Halim",
+      "screen_name": "citrhali2540",
+      "followers_count": 644,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 52,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Half-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

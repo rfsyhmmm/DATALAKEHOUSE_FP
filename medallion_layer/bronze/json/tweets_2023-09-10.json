@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000095869",
+    "created_at": "2023-09-10T04:32:55Z",
+    "text": "Nggak nyesel beli Mountain-500 Black — terasa kokoh dan rapi Recommended. 😍 #AdventureWorks #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3071027778",
+      "name": "Alex Nguyen",
+      "screen_name": "alexnguy9034",
+      "followers_count": 2905,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000095828",
+    "created_at": "2023-09-10T05:45:39Z",
+    "text": "The Road-650 Black from @AWCycles has been fantastic — arrived a day early, well packed 💯 #cycling #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5355293940",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat7425",
+      "followers_count": 2898,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-650 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000095809",
+    "created_at": "2023-09-10T10:05:53Z",
+    "text": "Salut buat @AdventureWorks soal Road-450 Red — kualitasnya premium Bakal beli lagi. 💯 #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "743864710",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali6003",
+      "followers_count": 2594,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 46,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-450 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000095898",
+    "created_at": "2023-09-10T10:18:08Z",
+    "text": "The LL Crankset from @AWCycles has been fantastic — great value for the price #cycling #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "244227819",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee7388",
+      "followers_count": 726,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000095895",
+    "created_at": "2023-09-10T10:54:37Z",
+    "text": "Kecewa banget sama Hydration Pack - 70 oz. — mahal nggak masuk akal Pelajaran mahal.",
+    "lang": "in",
+    "user": {
+      "id_str": "2757858580",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali6118",
+      "followers_count": 1091,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hydration Pack - 70 oz.",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000095710",
+    "created_at": "2023-09-10T14:37:29Z",
+    "text": "RT @eko75: Suka banget sama ML Road Frame-W - Yellow dari @AWCycles — worth it banget 🙌 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9389275995",
+      "name": "Budi Santoso",
+      "screen_name": "budisant3414",
+      "followers_count": 486,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame-W - Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000095840",
+    "created_at": "2023-09-10T17:17:40Z",
+    "text": "Udahan deh sama LL Road Rim ini — datang telat dan rusak 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "272520163",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa8401",
+      "followers_count": 824,
+      "verified": true
+    },
+    "retweet_count": 5,
+    "favorite_count": 48,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000095759",
+    "created_at": "2023-09-10T19:48:29Z",
+    "text": "Just unboxed the Paint - Black, will report back 🤷 #AWcycles #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6630127528",
+      "name": "Andi Kim",
+      "screen_name": "andikim919",
+      "followers_count": 1687,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Paint - Black",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

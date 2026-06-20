@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000067304",
+    "created_at": "2023-04-24T07:45:02Z",
+    "text": "Shoutout to AdventureWorks Cycles for the External Lock Washer 8 — great value for the price #bikelife #bikes #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7544104309",
+      "name": "Citra Anwar",
+      "screen_name": "citranwa5281",
+      "followers_count": 1448,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "External Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067381",
+    "created_at": "2023-04-24T09:09:55Z",
+    "text": "Regret buying the Seat Lug — rattles and feels flimsy Do better AdventureWorks. 👎 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "9124980638",
+      "name": "Eko Nguyen",
+      "screen_name": "ekonguy4350",
+      "followers_count": 558,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Seat Lug",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067193",
+    "created_at": "2023-04-24T12:18:43Z",
+    "text": "RT @gali60: My Road-250 Black from AWC is excellent — still rock solid after months Highly recommend. 🚴 #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9674928389",
+      "name": "Lina Brown",
+      "screen_name": "linabrow9397",
+      "followers_count": 948,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067354",
+    "created_at": "2023-04-24T13:56:08Z",
+    "text": "RT @raka44: Terkesan banget sama HL Road Frame - Black — performanya mulus Nggak nyesel. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "7559026020",
+      "name": "Raka Clark",
+      "screen_name": "rakaclar8894",
+      "followers_count": 274,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067189",
+    "created_at": "2023-04-24T15:21:01Z",
+    "text": "Comparing the HL Mountain Tire with a few others before I buy #AdventureWorks #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9393341942",
+      "name": "Kevin Kim",
+      "screen_name": "kevikim4157",
+      "followers_count": 856,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067429",
+    "created_at": "2023-04-24T15:58:14Z",
+    "text": "Anyone using the Mountain Bike Socks from AWC? Worth it? 🤔 #AdventureWorks #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4366427237",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat4530",
+      "followers_count": 616,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain Bike Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067267",
+    "created_at": "2023-04-24T17:51:35Z",
+    "text": "Capek deh sama HL Shell dari AdventureWorks — bunyi-bunyi dan ringkih Tolong AdventureWorks dibenahi. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "2592534959",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc4294",
+      "followers_count": 1953,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067222",
+    "created_at": "2023-04-24T22:55:48Z",
+    "text": "Two stars for the LL Touring Frame - Yellow from AdventureWorks Cycles — it arrived late and damaged 😤 #AWcycles #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "7535347297",
+      "name": "Dimas Nguyen",
+      "screen_name": "dimanguy3229",
+      "followers_count": 1457,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Frame - Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

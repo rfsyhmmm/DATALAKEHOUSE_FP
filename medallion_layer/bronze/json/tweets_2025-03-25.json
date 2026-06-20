@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000211964",
+    "created_at": "2025-03-25T06:40:08Z",
+    "text": "Udah sebulan pakai Mountain-300 Black, oke terus — performanya mulus 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "4029517401",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant1252",
+      "followers_count": 1097,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-300 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211979",
+    "created_at": "2025-03-25T09:40:48Z",
+    "text": "Upgraded to the LL Crankset and no looking back — performs flawlessly Zero regrets. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "1352747368",
+      "name": "Lina Pratama",
+      "screen_name": "linaprat4408",
+      "followers_count": 12,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212064",
+    "created_at": "2025-03-25T10:21:18Z",
+    "text": "The Women's Mountain Shorts from AdventureWorks Cycles let me down — wish I'd skipped it Lesson learned. 👎 #AdventureWorks #cycling #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8308017081",
+      "name": "Dimas Pratama",
+      "screen_name": "dimaprat6692",
+      "followers_count": 3626,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Women's Mountain Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211905",
+    "created_at": "2025-03-25T10:47:27Z",
+    "text": "The LL Road Frame - Red from AdventureWorks has been fantastic — holding up great on rough trails Five stars. 🔥 #cycling #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6493085179",
+      "name": "Maya Putra",
+      "screen_name": "mayaputr7820",
+      "followers_count": 3588,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212026",
+    "created_at": "2025-03-25T14:52:18Z",
+    "text": "Terkesan banget sama Lock Washer 5 — admin responsif banget Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "2659621445",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu4111",
+      "followers_count": 1062,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211919",
+    "created_at": "2025-03-25T18:04:14Z",
+    "text": "Not happy with my Thin-Jam Lock Nut 9 at all — support ignored my emails Never again. 😡 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4704750760",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy6676",
+      "followers_count": 2235,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212001",
+    "created_at": "2025-03-25T18:17:23Z",
+    "text": "Bintang dua buat ML Road Frame-W - Yellow dari AdventureWorks — datang telat dan rusak 😣 #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6664410650",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat3008",
+      "followers_count": 2030,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 86,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame-W - Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212042",
+    "created_at": "2025-03-25T19:49:06Z",
+    "text": "Terkesan banget sama External Lock Washer 4 — performanya mulus Recommended. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "6136793325",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa2341",
+      "followers_count": 617,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

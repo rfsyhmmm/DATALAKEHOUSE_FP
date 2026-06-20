@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000182959",
+    "created_at": "2024-11-04T08:40:58Z",
+    "text": "RT @raka15: Salut buat @AdventureWorks soal Thin-Jam Lock Nut 6 — harga sebanding kualitas 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "3195867154",
+      "name": "Lina Lee",
+      "screen_name": "linalee6318",
+      "followers_count": 701,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000182919",
+    "created_at": "2024-11-04T11:08:08Z",
+    "text": "The Mountain-200 Black from @AdventureWorks has been fantastic — worth every penny Highly recommend. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "8219011587",
+      "name": "Andi Anwar",
+      "screen_name": "andianwa6454",
+      "followers_count": 885,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 43,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-200 Black, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000183114",
+    "created_at": "2024-11-04T14:30:27Z",
+    "text": "So glad I picked up the Road-250 Black — support was quick and friendly 👍 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "704934049",
+      "name": "Putri Putra",
+      "screen_name": "putrputr8567",
+      "followers_count": 2259,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-250 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000183009",
+    "created_at": "2024-11-04T15:20:45Z",
+    "text": "Absolutely loving my new Thin-Jam Hex Nut 6 from @AWCycles — feels solid and well made Five stars. 😎 #rideon #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "3090095741",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat4646",
+      "followers_count": 1069,
+      "verified": true
+    },
+    "retweet_count": 8,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000183024",
+    "created_at": "2024-11-04T18:20:47Z",
+    "text": "Really impressed with the Touring-2000 Blue — the team was super helpful 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "8681376201",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow1010",
+      "followers_count": 1582,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 61,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring-2000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000183164",
+    "created_at": "2024-11-04T19:42:57Z",
+    "text": "Terkesan banget sama Classic Vest — kirimnya lancar Bintang lima. 👍 #rideon #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8752597855",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy3975",
+      "followers_count": 2259,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Classic Vest, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000183069",
+    "created_at": "2024-11-04T20:22:32Z",
+    "text": "Suka banget sama Cone-Shaped Race dari AWC — admin responsif banget 😍 #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9037824802",
+      "name": "Budi Saputra",
+      "screen_name": "budisapu2108",
+      "followers_count": 141,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Cone-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000182932",
+    "created_at": "2024-11-04T21:09:56Z",
+    "text": "Done with the Touring-3000 Blue honestly — a total letdown Never again. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "9403455162",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat5627",
+      "followers_count": 3272,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 47,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

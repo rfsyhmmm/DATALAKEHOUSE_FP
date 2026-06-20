@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000150329",
+    "created_at": "2024-06-02T09:29:35Z",
+    "text": "Nggak nyesel beli Mountain-200 Black — pengiriman cepat dan packing rapi Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9378720732",
+      "name": "Kevin Hidayat",
+      "screen_name": "kevihida9364",
+      "followers_count": 641,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-200 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150442",
+    "created_at": "2024-06-02T09:38:46Z",
+    "text": "Absolutely loving my new LL Mountain Rear Wheel from AWC — support was quick and friendly 🙌 #bikelife #MTB #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7662033556",
+      "name": "Olivia Lee",
+      "screen_name": "olivlee2982",
+      "followers_count": 1360,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150353",
+    "created_at": "2024-06-02T11:33:25Z",
+    "text": "Lock Washer 8 dari @AdventureWorks bikin nyesel — packing-nya berantakan Hindari. 😣 #bikelife #bikes #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "296547592",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali5512",
+      "followers_count": 4374,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150486",
+    "created_at": "2024-06-02T16:37:24Z",
+    "text": "So glad I picked up the Lock Nut 5 — performs flawlessly Will buy again. 😎 #bikelife #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6185641484",
+      "name": "Andi Hidayat",
+      "screen_name": "andihida7699",
+      "followers_count": 3509,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 42,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150291",
+    "created_at": "2024-06-02T16:45:41Z",
+    "text": "Absolutely loving my new ML Mountain Seat/Saddle from @AdventureWorks — arrived a day early, well packed 💯 #cycling #AdventureWorks #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3385772954",
+      "name": "Maya Halim",
+      "screen_name": "mayahali5084",
+      "followers_count": 395,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150398",
+    "created_at": "2024-06-02T18:30:06Z",
+    "text": "The Bike Wash - Dissolver from AdventureWorks has been fantastic — feels solid and well made 💯 #AWcycles #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9406702100",
+      "name": "Kevin Clark",
+      "screen_name": "keviclar4347",
+      "followers_count": 1112,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Bike Wash - Dissolver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150415",
+    "created_at": "2024-06-02T21:17:28Z",
+    "text": "Naik level gowes ku gara-gara HL Mountain Rear Wheel — kirimnya lancar Bintang lima. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "2531493752",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat807",
+      "followers_count": 997,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150300",
+    "created_at": "2024-06-02T22:57:34Z",
+    "text": "My Classic Vest from AdventureWorks Cycles is excellent — feels solid and well made Five stars. 👍 #MTB #bikelife #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3520822354",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar2816",
+      "followers_count": 233,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

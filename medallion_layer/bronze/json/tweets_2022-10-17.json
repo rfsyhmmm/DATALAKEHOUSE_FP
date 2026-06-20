@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000028575",
+    "created_at": "2022-10-17T04:34:33Z",
+    "text": "Absolutely loving my new Mountain Bike Socks from @AWCycles — feels solid and well made Five stars. 🙌 #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8024002642",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc6343",
+      "followers_count": 712,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain Bike Socks, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028721",
+    "created_at": "2022-10-17T07:59:31Z",
+    "text": "Suka banget sama Road-250 Red dari AdventureWorks — kualitasnya premium Recommended. 😎 #AWcycles #AdventureWorks #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1517165721",
+      "name": "Galih Anwar",
+      "screen_name": "galianwa79",
+      "followers_count": 204,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 53,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028515",
+    "created_at": "2022-10-17T10:42:08Z",
+    "text": "The Rear Derailleur from @AdventureWorks let me down — fell apart on the first ride 😡 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2002309279",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee3025",
+      "followers_count": 2389,
+      "verified": true
+    },
+    "retweet_count": 3,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028664",
+    "created_at": "2022-10-17T15:09:55Z",
+    "text": "Nggak nyesel beli Half-Finger Gloves — sampai lebih cepat, aman ✨ #MTB #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5950122398",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat6689",
+      "followers_count": 1931,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Half-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028628",
+    "created_at": "2022-10-17T16:29:00Z",
+    "text": "Comparing the Steerer with a few others before I buy 👀 #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "4191388228",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija5586",
+      "followers_count": 698,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Steerer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028684",
+    "created_at": "2022-10-17T16:49:44Z",
+    "text": "Ada yang pakai Paint - Blue dari AdventureWorks Cycles? Worth it nggak? 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "2432510042",
+      "name": "Putri Smith",
+      "screen_name": "putrsmit1449",
+      "followers_count": 1525,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Paint - Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028615",
+    "created_at": "2022-10-17T17:01:24Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Thin-Jam Hex Nut 16 — delivery was smooth Highly recommend. 😍 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "9219859800",
+      "name": "Galih Hidayat",
+      "screen_name": "galihida870",
+      "followers_count": 1342,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028534",
+    "created_at": "2022-10-17T18:00:26Z",
+    "text": "Anyone using the ML Road Frame - Red from AWC? Worth it? 🤷",
+    "lang": "en",
+    "user": {
+      "id_str": "1702781025",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa2366",
+      "followers_count": 817,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

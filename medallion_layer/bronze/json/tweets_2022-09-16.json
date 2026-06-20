@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000022436",
+    "created_at": "2022-09-16T07:12:45Z",
+    "text": "Berharap lebih dari Lock Washer 6 — salah beli Tolong AdventureWorks dibenahi. 😣 #cycling #AWcycles #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8479575452",
+      "name": "Tom Kim",
+      "screen_name": "tomkim7809",
+      "followers_count": 926,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022392",
+    "created_at": "2022-09-16T07:19:53Z",
+    "text": "The Lock Nut 12 from AWC has been fantastic — feels solid and well made Zero regrets. 🔥 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4555048748",
+      "name": "Bayu Wijaya",
+      "screen_name": "bayuwija7560",
+      "followers_count": 1581,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022289",
+    "created_at": "2022-09-16T07:50:11Z",
+    "text": "Udahan deh sama LL Bottom Bracket ini — komplain didiemin Kapok. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "1703019928",
+      "name": "Lina Nguyen",
+      "screen_name": "linanguy3551",
+      "followers_count": 1133,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022338",
+    "created_at": "2022-09-16T08:56:19Z",
+    "text": "Naik level gowes ku gara-gara Hex Nut 6 — pengiriman cepat dan packing rapi 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "798040624",
+      "name": "Dimas Pratama",
+      "screen_name": "dimaprat1486",
+      "followers_count": 3476,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022278",
+    "created_at": "2022-09-16T12:22:55Z",
+    "text": "Short-Sleeve Classic Jersey dari @AWCycles mantap sih — harga sebanding kualitas Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "7763887985",
+      "name": "Maya Halim",
+      "screen_name": "mayahali940",
+      "followers_count": 75,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Short-Sleeve Classic Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022262",
+    "created_at": "2022-09-16T12:47:16Z",
+    "text": "The ML Road Frame-W - Yellow from @AdventureWorks has been fantastic — delivery was smooth 👍 #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6725981516",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc122",
+      "followers_count": 792,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame-W - Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022377",
+    "created_at": "2022-09-16T12:53:44Z",
+    "text": "Nyesel beli LL Crankarm — nggak sebanding harganya Pelajaran mahal. 😡 #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "9914173483",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc1094",
+      "followers_count": 3111,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 48,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022419",
+    "created_at": "2022-09-16T20:25:18Z",
+    "text": "Kecewa banget sama Mountain Tire Tube — datang telat dan rusak ⚠️ #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2991787217",
+      "name": "Maya Wijaya",
+      "screen_name": "mayawija3653",
+      "followers_count": 1630,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Mountain Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000149947",
+    "created_at": "2024-05-31T06:17:07Z",
+    "text": "So glad I picked up the Seat Stays — delivery was smooth 🚴 #AdventureWorks #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8052170337",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy8414",
+      "followers_count": 1187,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Seat Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000149927",
+    "created_at": "2024-05-31T12:07:24Z",
+    "text": "Salut buat AdventureWorks Cycles soal Short-Sleeve Classic Jersey — murah buat kualitas segini Bintang lima. 🔥 #bikes #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "8465083849",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope3052",
+      "followers_count": 1488,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Short-Sleeve Classic Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000149970",
+    "created_at": "2024-05-31T12:10:29Z",
+    "text": "Capek deh sama Patch Kit/8 Patches dari @AdventureWorks — mahal nggak masuk akal Hindari. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "7973588732",
+      "name": "Sam Halim",
+      "screen_name": "samhali4008",
+      "followers_count": 2803,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Patch Kit/8 Patches",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000149957",
+    "created_at": "2024-05-31T12:12:57Z",
+    "text": "Road-750 Black dari @AdventureWorks mantap sih — performanya mulus Nggak nyesel. 😎 #cycling #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "3830694212",
+      "name": "Raka Halim",
+      "screen_name": "rakahali2542",
+      "followers_count": 1530,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150030",
+    "created_at": "2024-05-31T13:04:31Z",
+    "text": "Udah sebulan pakai Touring-3000 Blue, oke terus — masih awet setelah berbulan-bulan 😎 #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "280380815",
+      "name": "Citra Halim",
+      "screen_name": "citrhali4755",
+      "followers_count": 1486,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000149982",
+    "created_at": "2024-05-31T19:26:03Z",
+    "text": "Capek deh sama Lock Washer 3 dari AdventureWorks — rusak baru dua minggu Hindari. 👎 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2132402666",
+      "name": "Jordan Smith",
+      "screen_name": "jordsmit2613",
+      "followers_count": 1785,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000149880",
+    "created_at": "2024-05-31T19:35:42Z",
+    "text": "Terkesan banget sama LL Mountain Frame - Black — sampai lebih cepat, aman 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "5645789145",
+      "name": "Citra Putra",
+      "screen_name": "citrputr5161",
+      "followers_count": 1218,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Frame - Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000150037",
+    "created_at": "2024-05-31T20:14:20Z",
+    "text": "Anyone using the Hex Nut 18 from AdventureWorks Cycles? Worth it? 🧐 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "2784883824",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant6316",
+      "followers_count": 445,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

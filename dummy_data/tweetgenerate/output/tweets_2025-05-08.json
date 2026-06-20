@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000221356",
+    "created_at": "2025-05-08T12:31:42Z",
+    "text": "Lagi mikir mau beli HL Road Frame - Black. Ada review?",
+    "lang": "in",
+    "user": {
+      "id_str": "151986831",
+      "name": "Sofia Brown",
+      "screen_name": "sofibrow7705",
+      "followers_count": 553,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221473",
+    "created_at": "2025-05-08T14:41:53Z",
+    "text": "ML Road Frame-W - Yellow dari @AWCycles mantap sih — masih awet setelah berbulan-bulan Bakal beli lagi. ✨ #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3986981013",
+      "name": "Dimas Anwar",
+      "screen_name": "dimaanwa7203",
+      "followers_count": 658,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame-W - Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221264",
+    "created_at": "2025-05-08T17:57:40Z",
+    "text": "Udah sebulan pakai LL Touring Handlebars, oke terus — kualitasnya premium 💯 #AWcycles #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "3494308191",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant5641",
+      "followers_count": 3003,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221363",
+    "created_at": "2025-05-08T18:55:20Z",
+    "text": "Salut buat @AdventureWorks soal Front Brakes — murah buat kualitas segini Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "8159387909",
+      "name": "Dimas Saputra",
+      "screen_name": "dimasapu461",
+      "followers_count": 1709,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Front Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221308",
+    "created_at": "2025-05-08T18:58:44Z",
+    "text": "Not happy with my Lock Washer 12 at all — shipping took forever 😩 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5973959152",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc2605",
+      "followers_count": 3000,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221508",
+    "created_at": "2025-05-08T19:09:15Z",
+    "text": "Nggak nyesel beli Mountain-100 Silver — sampai lebih cepat, aman Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "8120320267",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc201",
+      "followers_count": 646,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-100 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221431",
+    "created_at": "2025-05-08T22:14:46Z",
+    "text": "Ada yang pakai Mountain-100 Black dari AdventureWorks? Worth it nggak? 🧐 #rideon #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9079459511",
+      "name": "Jordan Hidayat",
+      "screen_name": "jordhida3697",
+      "followers_count": 1399,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-100 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221407",
+    "created_at": "2025-05-08T22:25:08Z",
+    "text": "Nyesel beli Thin-Jam Lock Nut 14 — rusak baru dua minggu Hindari. 😩 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7899910279",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow169",
+      "followers_count": 1638,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

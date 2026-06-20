@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000218401",
+    "created_at": "2025-04-24T05:11:40Z",
+    "text": "RT @andi3: Suka banget sama ML Mountain Frame-W - Silver dari AdventureWorks Cycles — performanya mulus Recommended. 😎 #AdventureWorks #bikelife #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "2498097981",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant2590",
+      "followers_count": 1291,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000218445",
+    "created_at": "2025-04-24T17:19:20Z",
+    "text": "So glad I picked up the ML Road Frame - Red — still rock solid after months Five stars. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "7878350089",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu6193",
+      "followers_count": 2960,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000218371",
+    "created_at": "2025-04-24T17:36:32Z",
+    "text": "Salut buat AWC soal Flat Washer 9 — sampai lebih cepat, aman Bakal beli lagi. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "5193337366",
+      "name": "Rizky Santoso",
+      "screen_name": "rizksant5573",
+      "followers_count": 712,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000218312",
+    "created_at": "2025-04-24T17:39:31Z",
+    "text": "Berharap lebih dari Headlights - Weatherproof — proses retur ribet Hindari. 😤 #MTB #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "1185786093",
+      "name": "Dewi Clark",
+      "screen_name": "dewiclar8377",
+      "followers_count": 1590,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000218262",
+    "created_at": "2025-04-24T17:54:55Z",
+    "text": "RT @dima40: Lagi mikir mau beli LL Road Frame - Black. Ada review? #rideon #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8858234963",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija1389",
+      "followers_count": 503,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000218340",
+    "created_at": "2025-04-24T19:35:41Z",
+    "text": "RT @alex19: Suka banget sama Thin-Jam Hex Nut 9 dari AdventureWorks — harga sebanding kualitas Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "3139430869",
+      "name": "Andi Nguyen",
+      "screen_name": "andinguy7004",
+      "followers_count": 1884,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000218231",
+    "created_at": "2025-04-24T20:37:30Z",
+    "text": "Nggak nyesel beli ML Road Frame - Red — sampai lebih cepat, aman Nggak nyesel. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "7302118928",
+      "name": "Chris Kim",
+      "screen_name": "chrikim8640",
+      "followers_count": 930,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000218220",
+    "created_at": "2025-04-24T21:50:08Z",
+    "text": "Not happy with my LL Mountain Frame - Black at all — poor build, cheap materials 😤 #AWcycles #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "1969407841",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa6237",
+      "followers_count": 215,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

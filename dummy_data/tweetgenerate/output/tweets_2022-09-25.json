@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000024075",
+    "created_at": "2022-09-25T08:36:41Z",
+    "text": "Upgraded to the LL Road Tire and no looking back — feels solid and well made Highly recommend. #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "608617313",
+      "name": "Chris Pratama",
+      "screen_name": "chriprat6583",
+      "followers_count": 34,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024238",
+    "created_at": "2022-09-25T10:30:36Z",
+    "text": "Nggak nyesel beli HL Mountain Front Wheel — sampai lebih cepat, aman 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "9268520618",
+      "name": "Andi Putra",
+      "screen_name": "andiputr7078",
+      "followers_count": 2467,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024111",
+    "created_at": "2022-09-25T10:45:32Z",
+    "text": "Just unboxed the ML Headset, will report back 👀",
+    "lang": "en",
+    "user": {
+      "id_str": "6201959367",
+      "name": "Sam Saputra",
+      "screen_name": "samsapu725",
+      "followers_count": 2320,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024158",
+    "created_at": "2022-09-25T12:28:00Z",
+    "text": "Nggak nyesel beli LL Road Pedal — puas pol Recommended. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "5781832016",
+      "name": "Olivia Santoso",
+      "screen_name": "olivsant1641",
+      "followers_count": 561,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024252",
+    "created_at": "2022-09-25T12:45:58Z",
+    "text": "Salut buat @AdventureWorks soal HL Road Pedal — worth it banget Recommended. 👍 #MTB #bikelife #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "9996892177",
+      "name": "Citra Saputra",
+      "screen_name": "citrsapu9163",
+      "followers_count": 2237,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024276",
+    "created_at": "2022-09-25T15:37:27Z",
+    "text": "Salut buat AWC soal ML Grip Tape — worth it banget Bintang lima. 😍 #MTB #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "6852985220",
+      "name": "Mia Lee",
+      "screen_name": "mialee5659",
+      "followers_count": 2185,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024181",
+    "created_at": "2022-09-25T15:45:52Z",
+    "text": "Really disappointed with the Hex Nut 10 — just not worth the money Do better AdventureWorks Cycles. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "4669378780",
+      "name": "Dewi Putra",
+      "screen_name": "dewiputr5102",
+      "followers_count": 2848,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024188",
+    "created_at": "2022-09-25T20:12:25Z",
+    "text": "Akhirnya pakai Short-Sleeve Classic Jersey dan puas pol — performanya mulus 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "8143234666",
+      "name": "Raka Putra",
+      "screen_name": "rakaputr614",
+      "followers_count": 574,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

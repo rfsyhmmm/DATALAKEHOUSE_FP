@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000211723",
+    "created_at": "2025-03-24T07:37:31Z",
+    "text": "Lock Nut 1 dari AdventureWorks Cycles mantap sih — worth it banget 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "2980733496",
+      "name": "Sam Lee",
+      "screen_name": "samlee5867",
+      "followers_count": 2221,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211836",
+    "created_at": "2025-03-24T15:09:16Z",
+    "text": "Regret buying the Mountain-500 Black — overpriced for what you get Do better AdventureWorks. 😩 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6833535727",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu1846",
+      "followers_count": 230,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211692",
+    "created_at": "2025-03-24T16:00:01Z",
+    "text": "Expected so much more from the Seat Lug — poor build, cheap materials Never again. 😣 #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "9979760806",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy2872",
+      "followers_count": 196,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Seat Lug",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211808",
+    "created_at": "2025-03-24T16:38:59Z",
+    "text": "RT @rizk27: So glad I picked up the LL Road Seat Assembly — delivery was smooth 😍 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5946126535",
+      "name": "Maria Halim",
+      "screen_name": "marihali3531",
+      "followers_count": 2612,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 49,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211801",
+    "created_at": "2025-03-24T18:00:04Z",
+    "text": "RT @gali72: Shoutout to AdventureWorks for the Internal Lock Washer 7 — performs flawlessly Zero regrets. 🚴 #bikes #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7300927844",
+      "name": "Lina Kim",
+      "screen_name": "linakim255",
+      "followers_count": 2347,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211869",
+    "created_at": "2025-03-24T19:25:48Z",
+    "text": "Absolutely loving my new Road-650 Red from @AdventureWorks — still rock solid after months Highly recommend. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "5025535939",
+      "name": "Lina Lopez",
+      "screen_name": "linalope417",
+      "followers_count": 647,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211730",
+    "created_at": "2025-03-24T21:49:14Z",
+    "text": "Frustrated with the Hex Nut 13 from @AWCycles — support ignored my emails Avoid. 😩 #bikes #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5818920890",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope4501",
+      "followers_count": 2472,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211758",
+    "created_at": "2025-03-24T22:05:43Z",
+    "text": "Shoutout to @AWCycles for the Road-150 Red — fair price for this quality 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "9484976295",
+      "name": "Chris Nguyen",
+      "screen_name": "chringuy4912",
+      "followers_count": 815,
+      "verified": true
+    },
+    "retweet_count": 11,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-150 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

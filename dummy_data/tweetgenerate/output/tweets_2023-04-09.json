@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000064159",
+    "created_at": "2023-04-09T07:55:32Z",
+    "text": "Absolutely loving my new Road-150 Red from AdventureWorks — worth every penny Five stars. #AdventureWorks #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8399741757",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant687",
+      "followers_count": 1193,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-150 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000064168",
+    "created_at": "2023-04-09T15:35:06Z",
+    "text": "Terkesan banget sama Touring-1000 Blue — kirimnya lancar 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "771079753",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida4232",
+      "followers_count": 1777,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000064220",
+    "created_at": "2023-04-09T18:12:18Z",
+    "text": "Terkesan banget sama HL Mountain Frame - Silver — worth it banget Recommended. 🔥 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "7922553223",
+      "name": "Sam Lopez",
+      "screen_name": "samlope6233",
+      "followers_count": 2017,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Frame - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000064149",
+    "created_at": "2023-04-09T18:17:18Z",
+    "text": "Suka banget sama HL Mountain Pedal dari @AdventureWorks — CS-nya cepat dan ramah 🔥 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3608358083",
+      "name": "Tom Clark",
+      "screen_name": "tomclar4326",
+      "followers_count": 1733,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000064197",
+    "created_at": "2023-04-09T19:50:48Z",
+    "text": "RT @hann73: Thinking about the Half-Finger Gloves. Any reviews? 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "4027513144",
+      "name": "Chris Smith",
+      "screen_name": "chrismit7113",
+      "followers_count": 262,
+      "verified": true
+    },
+    "retweet_count": 14,
+    "favorite_count": 46,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Half-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000064176",
+    "created_at": "2023-04-09T20:06:06Z",
+    "text": "RT @tom79: Two stars for the Keyed Washer from AWC — rattles and feels flimsy Never again. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "3251673958",
+      "name": "Dimas Garcia",
+      "screen_name": "dimagarc6697",
+      "followers_count": 2409,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Keyed Washer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000064189",
+    "created_at": "2023-04-09T21:08:17Z",
+    "text": "Regret buying the ML Grip Tape — the finish is sloppy Do better AdventureWorks Cycles. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "7409908530",
+      "name": "Andi Kim",
+      "screen_name": "andikim7137",
+      "followers_count": 68,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000064169",
+    "created_at": "2023-04-09T21:53:47Z",
+    "text": "So glad I picked up the Metal Bar 1 — honestly a great buy Five stars. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "5039771307",
+      "name": "Putri Smith",
+      "screen_name": "putrsmit6673",
+      "followers_count": 769,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Metal Bar 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

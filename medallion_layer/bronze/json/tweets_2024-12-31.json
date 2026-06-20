@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000194588",
+    "created_at": "2024-12-31T09:48:47Z",
+    "text": "Regret buying the Metal Sheet 3 — it broke after two weeks Do better AWC. 😡 #bikes #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1092452179",
+      "name": "Mia Halim",
+      "screen_name": "miahali1329",
+      "followers_count": 455,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Metal Sheet 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000194620",
+    "created_at": "2024-12-31T14:50:38Z",
+    "text": "Udah sebulan pakai LL Road Frame - Red, oke terus — admin responsif banget 🙌 #bikelife #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "6780791757",
+      "name": "Maria Wijaya",
+      "screen_name": "mariwija2609",
+      "followers_count": 159,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000194718",
+    "created_at": "2024-12-31T18:35:29Z",
+    "text": "Nggak puas sama Internal Lock Washer 8 ku — bunyi-bunyi dan ringkih Tolong AWC dibenahi. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "9508347654",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow7036",
+      "followers_count": 1281,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000194557",
+    "created_at": "2024-12-31T19:59:43Z",
+    "text": "Suka banget sama Stem dari AdventureWorks Cycles — pengiriman cepat dan packing rapi 🚴 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "9993031545",
+      "name": "Maria Putra",
+      "screen_name": "mariputr2980",
+      "followers_count": 1592,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Stem",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000194622",
+    "created_at": "2024-12-31T20:04:47Z",
+    "text": "Salut buat @AdventureWorks soal HL Mountain Frame - Silver — worth it banget Recommended. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "2293537391",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc5745",
+      "followers_count": 1510,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Frame - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000194708",
+    "created_at": "2024-12-31T21:23:44Z",
+    "text": "Two stars for the HL Road Frame - Red from AdventureWorks Cycles — rattles and feels flimsy Lesson learned. 😩 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "3379041916",
+      "name": "Rizky Santoso",
+      "screen_name": "rizksant6520",
+      "followers_count": 465,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000194672",
+    "created_at": "2024-12-31T21:44:02Z",
+    "text": "Terkesan banget sama HL Crankarm — pengiriman cepat dan packing rapi Recommended. 😍 #AdventureWorks #rideon #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "8116460811",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija839",
+      "followers_count": 2189,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000194761",
+    "created_at": "2024-12-31T21:46:15Z",
+    "text": "Comparing the Cable Lock with a few others before I buy 🤔 #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "8016021447",
+      "name": "Galih Putra",
+      "screen_name": "galiputr5693",
+      "followers_count": 833,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Cable Lock",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

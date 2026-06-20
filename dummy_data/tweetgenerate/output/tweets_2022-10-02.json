@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000025385",
+    "created_at": "2022-10-02T06:36:07Z",
+    "text": "Three weeks on the Thin-Jam Lock Nut 13 and I'm sold — still rock solid after months Zero regrets. 🙌 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8306427606",
+      "name": "Galih Pratama",
+      "screen_name": "galiprat4701",
+      "followers_count": 1176,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025422",
+    "created_at": "2022-10-02T09:07:04Z",
+    "text": "Kecewa banget sama Rear Derailleur Cage — CS-nya nggak guna 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "7904414178",
+      "name": "Rizky Wijaya",
+      "screen_name": "rizkwija6353",
+      "followers_count": 820,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025510",
+    "created_at": "2022-10-02T10:40:04Z",
+    "text": "Really disappointed with the Road-250 Red — support ignored my emails Never again. 😩 #AWcycles #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4837468423",
+      "name": "Kevin Santoso",
+      "screen_name": "kevisant8560",
+      "followers_count": 245,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025335",
+    "created_at": "2022-10-02T11:34:59Z",
+    "text": "RT @maya99: Lagi banding-bandingin Hex Nut 11 sama merek lain 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "7448525540",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida6847",
+      "followers_count": 2350,
+      "verified": false
+    },
+    "retweet_count": 29,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025409",
+    "created_at": "2022-10-02T14:13:14Z",
+    "text": "The Hex Nut 9 from @AWCycles let me down — rattles and feels flimsy Lesson learned. 😤 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5553432455",
+      "name": "Mia Wijaya",
+      "screen_name": "miawija920",
+      "followers_count": 3921,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025513",
+    "created_at": "2022-10-02T15:20:24Z",
+    "text": "LL Mountain Front Wheel dari AdventureWorks Cycles bikin nyesel — bunyi-bunyi dan ringkih Pelajaran mahal. #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "5272025088",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida1683",
+      "followers_count": 2412,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025477",
+    "created_at": "2022-10-02T20:09:16Z",
+    "text": "The Lock Washer 10 from @AWCycles let me down — wore out way too fast Never again. ⚠️ #MTB #AdventureWorks #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2858579296",
+      "name": "Tom Lee",
+      "screen_name": "tomlee7786",
+      "followers_count": 606,
+      "verified": false
+    },
+    "retweet_count": 31,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025450",
+    "created_at": "2022-10-02T22:32:10Z",
+    "text": "Shoutout to @AWCycles for the HL Mountain Tire — fair price for this quality 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "9777397013",
+      "name": "Tom Pratama",
+      "screen_name": "tomprat5498",
+      "followers_count": 3539,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

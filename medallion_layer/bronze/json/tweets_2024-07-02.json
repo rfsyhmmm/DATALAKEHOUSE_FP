@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000157041",
+    "created_at": "2024-07-02T09:39:08Z",
+    "text": "Terkesan banget sama Cable Lock — masih awet setelah berbulan-bulan 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "2501619193",
+      "name": "Maya Kim",
+      "screen_name": "mayakim3901",
+      "followers_count": 699,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Cable Lock",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157003",
+    "created_at": "2024-07-02T12:03:28Z",
+    "text": "Shoutout to AdventureWorks Cycles for the External Lock Washer 8 — shipping was fast and packaging perfect 💯 #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "1233907713",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy6652",
+      "followers_count": 14,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "External Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157040",
+    "created_at": "2024-07-02T14:30:04Z",
+    "text": "Bintang dua buat Hex Nut 19 dari AdventureWorks Cycles — bunyi-bunyi dan ringkih Kapok. 😡 #bikes #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "7936208698",
+      "name": "Eko Nguyen",
+      "screen_name": "ekonguy5587",
+      "followers_count": 2255,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 19",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157090",
+    "created_at": "2024-07-02T14:37:42Z",
+    "text": "Really disappointed with the Road-150 Red — wore out way too fast Never again. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "3273683872",
+      "name": "Nadia Halim",
+      "screen_name": "nadihali7710",
+      "followers_count": 118,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-150 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157067",
+    "created_at": "2024-07-02T17:34:00Z",
+    "text": "The HL Grip Tape from AdventureWorks Cycles let me down — a total letdown #bikelife #rideon #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4573760378",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija8320",
+      "followers_count": 4991,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "HL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157194",
+    "created_at": "2024-07-02T18:17:00Z",
+    "text": "Saw the HL Road Frame - Black in store today, looks interesting 🧐 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8286622892",
+      "name": "Maya Wijaya",
+      "screen_name": "mayawija5715",
+      "followers_count": 10,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 36,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157132",
+    "created_at": "2024-07-02T21:22:14Z",
+    "text": "Really disappointed with the HL Mountain Pedal — poor build, cheap materials Avoid. 👎 #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4797517462",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope7934",
+      "followers_count": 495,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157153",
+    "created_at": "2024-07-02T21:33:23Z",
+    "text": "The HL Road Frame - Red from @AdventureWorks let me down — it arrived late and damaged Lesson learned. 🙄 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2108216575",
+      "name": "Sam Halim",
+      "screen_name": "samhali172",
+      "followers_count": 1435,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

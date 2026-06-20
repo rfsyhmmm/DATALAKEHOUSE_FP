@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000015050",
+    "created_at": "2022-08-08T02:33:57Z",
+    "text": "RT @rizk86: Akhirnya pakai Chain Stays dan puas pol — sampai lebih cepat, aman Bakal beli lagi. #rideon #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "690675140",
+      "name": "Lina Clark",
+      "screen_name": "linaclar6576",
+      "followers_count": 1485,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Chain Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014963",
+    "created_at": "2022-08-08T10:07:27Z",
+    "text": "Really disappointed with the Internal Lock Washer 6 — the return process is a nightmare 😣 #bikes #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4296240877",
+      "name": "Chris Smith",
+      "screen_name": "chrismit8051",
+      "followers_count": 855,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Internal Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015002",
+    "created_at": "2022-08-08T16:43:49Z",
+    "text": "Shoutout to AdventureWorks for the HL Mountain Handlebars — build quality feels premium #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2615395117",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit4149",
+      "followers_count": 3217,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014934",
+    "created_at": "2022-08-08T18:50:21Z",
+    "text": "Saw the ML Road Frame-W - Yellow in store today, looks interesting 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "1787061995",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa8571",
+      "followers_count": 559,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Frame-W - Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015013",
+    "created_at": "2022-08-08T18:53:04Z",
+    "text": "RT @mari29: Shoutout to @AdventureWorks for the Freewheel — shipping was fast and packaging perfect Highly recommend. 😎 #MTB #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "7460835006",
+      "name": "Kevin Clark",
+      "screen_name": "keviclar3748",
+      "followers_count": 2109,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014949",
+    "created_at": "2022-08-08T18:57:50Z",
+    "text": "Two stars for the LL Mountain Rear Wheel from @AWCycles — poor build, cheap materials Avoid. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "3644344265",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa4963",
+      "followers_count": 147,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014898",
+    "created_at": "2022-08-08T20:21:32Z",
+    "text": "So glad I picked up the Touring-1000 Blue — delivery was smooth Zero regrets. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "7931629636",
+      "name": "Galih Anwar",
+      "screen_name": "galianwa1340",
+      "followers_count": 4151,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014988",
+    "created_at": "2022-08-08T22:43:31Z",
+    "text": "Suka banget sama Short-Sleeve Classic Jersey dari AdventureWorks — performanya mulus Recommended. 🙌 #AdventureWorks #MTB #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "7612122097",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida6224",
+      "followers_count": 1033,
+      "verified": false
+    },
+    "retweet_count": 37,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

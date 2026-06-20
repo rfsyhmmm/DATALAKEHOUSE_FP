@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000208145",
+    "created_at": "2025-03-06T01:10:21Z",
+    "text": "Suka banget sama Flat Washer 5 dari AdventureWorks Cycles — kualitasnya premium 🔥 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "3942751322",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar7412",
+      "followers_count": 1730,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208074",
+    "created_at": "2025-03-06T08:16:29Z",
+    "text": "Three weeks on the Hex Nut 21 and I'm sold — exceeded my expectations Zero regrets. ✨ #MTB #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5099245959",
+      "name": "Sofia Anwar",
+      "screen_name": "sofianwa9968",
+      "followers_count": 2070,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Hex Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208098",
+    "created_at": "2025-03-06T09:52:24Z",
+    "text": "HL Touring Handlebars dari @AWCycles mantap sih — sampai lebih cepat, aman Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "6704758350",
+      "name": "Mia Putra",
+      "screen_name": "miaputr2105",
+      "followers_count": 1974,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208011",
+    "created_at": "2025-03-06T12:07:12Z",
+    "text": "Regret buying the Mountain Bike Socks — fell apart on the first ride Never again. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "6865195201",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy4487",
+      "followers_count": 927,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Mountain Bike Socks, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208149",
+    "created_at": "2025-03-06T17:04:30Z",
+    "text": "Suka banget sama Long-Sleeve Logo Jersey dari @AdventureWorks — worth it banget Bakal beli lagi. 🔥 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3147896944",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat670",
+      "followers_count": 1617,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Long-Sleeve Logo Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208039",
+    "created_at": "2025-03-06T17:26:44Z",
+    "text": "Lagi mikir mau beli Lock Washer 2. Ada review? 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "2448906669",
+      "name": "Alex Nguyen",
+      "screen_name": "alexnguy5689",
+      "followers_count": 1613,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207974",
+    "created_at": "2025-03-06T18:17:23Z",
+    "text": "Shoutout to AWC for the Short-Sleeve Classic Jersey — still rock solid after months Will buy again. 🙌 #rideon #AdventureWorks #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "6994833771",
+      "name": "Raka Smith",
+      "screen_name": "rakasmit2381",
+      "followers_count": 964,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Short-Sleeve Classic Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208057",
+    "created_at": "2025-03-06T22:05:14Z",
+    "text": "Two stars for the ML Headset from @AWCycles — packaging was a mess 👎 #AdventureWorks #AWcycles #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "4839122757",
+      "name": "Galih Lee",
+      "screen_name": "galilee2593",
+      "followers_count": 107,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

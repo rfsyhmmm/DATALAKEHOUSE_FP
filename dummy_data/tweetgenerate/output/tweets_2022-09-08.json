@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000020925",
+    "created_at": "2022-09-08T06:53:42Z",
+    "text": "RT @oliv41: Suka banget sama Touring-1000 Blue dari AdventureWorks Cycles — terasa kokoh dan rapi Bakal beli lagi.",
+    "lang": "in",
+    "user": {
+      "id_str": "8775727360",
+      "name": "Jordan Wijaya",
+      "screen_name": "jordwija6465",
+      "followers_count": 773,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020897",
+    "created_at": "2022-09-08T09:32:21Z",
+    "text": "The Hex Nut 5 from AWC has been fantastic — support was quick and friendly #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4847511450",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat372",
+      "followers_count": 499,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020820",
+    "created_at": "2022-09-08T16:56:23Z",
+    "text": "Three weeks on the Classic Vest and I'm sold — delivery was smooth Zero regrets. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "716152681",
+      "name": "Eko Smith",
+      "screen_name": "ekosmit2936",
+      "followers_count": 2425,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020934",
+    "created_at": "2022-09-08T17:20:22Z",
+    "text": "Upgraded to the ML Road Tire and no looking back — shipping was fast and packaging perfect ✨ #bikes #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "4977489454",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy5370",
+      "followers_count": 689,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000021020",
+    "created_at": "2022-09-08T17:55:24Z",
+    "text": "Shoutout to AWC for the Mountain-500 Silver — the team was super helpful Zero regrets. ✨ #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4012773429",
+      "name": "Olivia Smith",
+      "screen_name": "olivsmit2196",
+      "followers_count": 534,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020979",
+    "created_at": "2022-09-08T19:08:58Z",
+    "text": "Nggak puas sama LL Touring Frame - Blue ku — kirimnya lama banget Tolong AWC dibenahi. 👎 #AWcycles #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7086328381",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit117",
+      "followers_count": 3124,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Frame - Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020863",
+    "created_at": "2022-09-08T20:19:33Z",
+    "text": "Shoutout to @AWCycles for the Touring-1000 Yellow — worth every penny Will buy again. ✨ #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "7787594450",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu1621",
+      "followers_count": 1083,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-1000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020780",
+    "created_at": "2022-09-08T20:43:45Z",
+    "text": "The Lock Nut 5 from AdventureWorks Cycles has been fantastic — fair price for this quality Highly recommend. 👍 #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9879362857",
+      "name": "Dimas Nguyen",
+      "screen_name": "dimanguy6388",
+      "followers_count": 3201,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

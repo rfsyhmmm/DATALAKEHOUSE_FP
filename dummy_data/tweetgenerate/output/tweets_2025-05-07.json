@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000221225",
+    "created_at": "2025-05-07T11:19:03Z",
+    "text": "Not happy with my Lock Nut 21 at all — poor build, cheap materials Do better AWC. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "2596354767",
+      "name": "Jordan Nguyen",
+      "screen_name": "jordnguy458",
+      "followers_count": 791,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221088",
+    "created_at": "2025-05-07T14:52:58Z",
+    "text": "Not happy with my HL Headset at all — shipping took forever Do better @AdventureWorks. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "160978286",
+      "name": "Chris Smith",
+      "screen_name": "chrismit2427",
+      "followers_count": 822,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221167",
+    "created_at": "2025-05-07T16:19:34Z",
+    "text": "The Metal Plate 2 from AdventureWorks has been fantastic — fair price for this quality 🙌 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "464023376",
+      "name": "Sam Clark",
+      "screen_name": "samclar9038",
+      "followers_count": 3374,
+      "verified": true
+    },
+    "retweet_count": 4,
+    "favorite_count": 52,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Metal Plate 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221136",
+    "created_at": "2025-05-07T17:18:50Z",
+    "text": "Capek deh sama LL Crankset dari @AdventureWorks — nggak sebanding harganya Pelajaran mahal. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "2577797132",
+      "name": "Hannah Lee",
+      "screen_name": "hannlee9307",
+      "followers_count": 1913,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221050",
+    "created_at": "2025-05-07T18:02:11Z",
+    "text": "So glad I picked up the Internal Lock Washer 3 — fair price for this quality Zero regrets.",
+    "lang": "en",
+    "user": {
+      "id_str": "2911189715",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa6522",
+      "followers_count": 873,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221198",
+    "created_at": "2025-05-07T19:30:27Z",
+    "text": "Terkesan banget sama Road-650 Black — masih awet setelah berbulan-bulan 💯 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "4971391718",
+      "name": "Maria Hidayat",
+      "screen_name": "marihida5352",
+      "followers_count": 1502,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-650 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221034",
+    "created_at": "2025-05-07T19:45:03Z",
+    "text": "Really impressed with the Flat Washer 2 — build quality feels premium Will buy again. 😍 #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3674267702",
+      "name": "Budi Halim",
+      "screen_name": "budihali1055",
+      "followers_count": 2610,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221076",
+    "created_at": "2025-05-07T19:50:49Z",
+    "text": "Really impressed with the Mountain-500 Silver — build quality feels premium 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "2965257980",
+      "name": "Sam Saputra",
+      "screen_name": "samsapu2374",
+      "followers_count": 3134,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

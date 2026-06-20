@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000203902",
+    "created_at": "2025-02-13T03:26:14Z",
+    "text": "Really impressed with the Touring-3000 Blue — performs flawlessly 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "3107334597",
+      "name": "Budi Brown",
+      "screen_name": "budibrow2317",
+      "followers_count": 179,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203952",
+    "created_at": "2025-02-13T09:35:40Z",
+    "text": "Absolutely loving my new Full-Finger Gloves from AdventureWorks Cycles — still rock solid after months Five stars. 🚴 #MTB #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9759451950",
+      "name": "Rizky Putra",
+      "screen_name": "rizkputr6527",
+      "followers_count": 1933,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Full-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203970",
+    "created_at": "2025-02-13T10:43:51Z",
+    "text": "The Thin-Jam Hex Nut 12 from AWC let me down — the finish is sloppy 👎 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4230255520",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija9629",
+      "followers_count": 2322,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204015",
+    "created_at": "2025-02-13T11:03:19Z",
+    "text": "Absolutely loving my new Touring-3000 Yellow from AdventureWorks Cycles — fair price for this quality Highly recommend. 👍 #bikelife #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "7171347089",
+      "name": "Tom Lopez",
+      "screen_name": "tomlope4412",
+      "followers_count": 1871,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203873",
+    "created_at": "2025-02-13T15:20:39Z",
+    "text": "So glad I picked up the HL Touring Seat Assembly — build quality feels premium Highly recommend. ✨ #cycling #rideon #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "9268582721",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant8878",
+      "followers_count": 195,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 57,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203916",
+    "created_at": "2025-02-13T17:26:25Z",
+    "text": "RT @rizk81: Ada yang pakai All-Purpose Bike Stand dari @AWCycles? Worth it nggak? #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8896301690",
+      "name": "Rizky Garcia",
+      "screen_name": "rizkgarc9525",
+      "followers_count": 1687,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "All-Purpose Bike Stand",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203850",
+    "created_at": "2025-02-13T19:24:24Z",
+    "text": "Frustrated with the Front Brakes from AdventureWorks — the finish is sloppy Do better AdventureWorks.",
+    "lang": "en",
+    "user": {
+      "id_str": "9425164991",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy7478",
+      "followers_count": 283,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Front Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204024",
+    "created_at": "2025-02-13T22:34:35Z",
+    "text": "Frustrated with the HL Road Frame - Black from AdventureWorks — way too expensive Never again. 👎 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "4747208316",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat2966",
+      "followers_count": 2195,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

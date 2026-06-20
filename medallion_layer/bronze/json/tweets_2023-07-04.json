@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000081440",
+    "created_at": "2023-07-04T07:15:35Z",
+    "text": "Akhirnya pakai Hex Nut 22 dan puas pol — kualitasnya premium Bintang lima. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "8406644101",
+      "name": "Olivia Santoso",
+      "screen_name": "olivsant3226",
+      "followers_count": 2968,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081394",
+    "created_at": "2023-07-04T08:39:39Z",
+    "text": "Absolutely loving my new Road-650 Black from AWC — zero wear after heavy use Will buy again. 🔥 #rideon #MTB #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8729138242",
+      "name": "Andi Putra",
+      "screen_name": "andiputr6710",
+      "followers_count": 1113,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-650 Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081565",
+    "created_at": "2023-07-04T08:53:31Z",
+    "text": "The HL Mountain Rim from @AdventureWorks let me down — rattles and feels flimsy Never again. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "187471019",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat5556",
+      "followers_count": 1588,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 53,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081535",
+    "created_at": "2023-07-04T11:13:35Z",
+    "text": "Akhirnya pakai Freewheel dan puas pol — masih awet setelah berbulan-bulan Bakal beli lagi. 😎 #AWcycles #cycling #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "3088284467",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija4081",
+      "followers_count": 2894,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081629",
+    "created_at": "2023-07-04T12:15:36Z",
+    "text": "The LL Road Frame - Red from AdventureWorks let me down — a total letdown 😣 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5153751493",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu5203",
+      "followers_count": 366,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081607",
+    "created_at": "2023-07-04T13:54:38Z",
+    "text": "Not happy with my HL Road Frame - Red at all — packaging was a mess Avoid. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "5024383982",
+      "name": "Jordan Kim",
+      "screen_name": "jordkim9197",
+      "followers_count": 1422,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 38,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081509",
+    "created_at": "2023-07-04T16:25:51Z",
+    "text": "Nyesel beli ML Road Seat Assembly — kirimnya lama banget Hindari. 😣 #rideon #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1118705546",
+      "name": "Mia Santoso",
+      "screen_name": "miasant685",
+      "followers_count": 498,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081470",
+    "created_at": "2023-07-04T20:46:31Z",
+    "text": "Udahan deh sama Freewheel ini — finishing-nya asal 👎 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9779625229",
+      "name": "Maria Anwar",
+      "screen_name": "marianwa874",
+      "followers_count": 1461,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

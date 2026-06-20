@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000006343",
+    "created_at": "2022-06-27T00:15:12Z",
+    "text": "Berharap lebih dari HL Mountain Front Wheel — finishing-nya asal 👎 #bikelife #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "857305041",
+      "name": "Alex Clark",
+      "screen_name": "alexclar8152",
+      "followers_count": 555,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006441",
+    "created_at": "2022-06-27T04:30:46Z",
+    "text": "Upgraded to the Touring-3000 Yellow and no looking back — feels solid and well made Will buy again. 😍 #MTB #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4179935036",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat6663",
+      "followers_count": 2546,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006357",
+    "created_at": "2022-06-27T04:47:03Z",
+    "text": "HL Road Frame - Red dari @AWCycles mantap sih — worth it banget Bakal beli lagi. 👍 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "8253448896",
+      "name": "Kevin Lopez",
+      "screen_name": "kevilope3257",
+      "followers_count": 890,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006382",
+    "created_at": "2022-06-27T05:27:09Z",
+    "text": "Chain dari @AdventureWorks mantap sih — sampai lebih cepat, aman Bintang lima. 😎 #cycling #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "4651169498",
+      "name": "Alex Smith",
+      "screen_name": "alexsmit9318",
+      "followers_count": 2342,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Chain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006337",
+    "created_at": "2022-06-27T06:00:11Z",
+    "text": "Naik level gowes ku gara-gara LL Touring Seat Assembly — terasa kokoh dan rapi Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "6329502736",
+      "name": "Dimas Halim",
+      "screen_name": "dimahali8571",
+      "followers_count": 862,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006449",
+    "created_at": "2022-06-27T15:58:43Z",
+    "text": "The HL Road Handlebars from AdventureWorks Cycles let me down — support ignored my emails Do better AdventureWorks Cycles. 😡 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "979233902",
+      "name": "Galih Putra",
+      "screen_name": "galiputr9188",
+      "followers_count": 96,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006431",
+    "created_at": "2022-06-27T19:40:39Z",
+    "text": "My Pinch Bolt from @AdventureWorks is excellent — build quality feels premium Will buy again.",
+    "lang": "en",
+    "user": {
+      "id_str": "1299029793",
+      "name": "Jordan Clark",
+      "screen_name": "jordclar7582",
+      "followers_count": 493,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006443",
+    "created_at": "2022-06-27T20:47:37Z",
+    "text": "RT @dima10: Bintang dua buat HL Mountain Frame - Silver dari AdventureWorks — bahannya murahan #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "4535473617",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu8699",
+      "followers_count": 262,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000043020",
+    "created_at": "2022-12-25T02:53:43Z",
+    "text": "Udah sebulan pakai Spokes, oke terus — pelayanannya membantu Nggak nyesel. 👍 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "4661162555",
+      "name": "Sofia Clark",
+      "screen_name": "soficlar8687",
+      "followers_count": 5542,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000042962",
+    "created_at": "2022-12-25T05:45:35Z",
+    "text": "Hex Nut 4 dari @AWCycles mantap sih — murah buat kualitas segini 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "8368349291",
+      "name": "Andi Brown",
+      "screen_name": "andibrow6714",
+      "followers_count": 2338,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000042912",
+    "created_at": "2022-12-25T12:46:21Z",
+    "text": "Naik level gowes ku gara-gara HL Mountain Frame - Black — masih awet setelah berbulan-bulan Nggak nyesel. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "8732301755",
+      "name": "Maria Pratama",
+      "screen_name": "mariprat5472",
+      "followers_count": 806,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Frame - Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043031",
+    "created_at": "2022-12-25T13:16:02Z",
+    "text": "LL Road Rear Wheel dari @AdventureWorks bikin nyesel — mahal nggak masuk akal Kapok. 👎 #AdventureWorks #bikes #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "9679874106",
+      "name": "Dewi Putra",
+      "screen_name": "dewiputr2378",
+      "followers_count": 2448,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043086",
+    "created_at": "2022-12-25T14:08:43Z",
+    "text": "Nggak puas sama Blade ku — CS-nya nggak guna Pelajaran mahal. #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5020700571",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida9935",
+      "followers_count": 168,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Blade",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043012",
+    "created_at": "2022-12-25T15:41:57Z",
+    "text": "Nggak nyesel beli ML Road Frame - Red — kuat di trek kasar Bintang lima. 🚴 #rideon #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "6651985532",
+      "name": "Sam Clark",
+      "screen_name": "samclar8123",
+      "followers_count": 1914,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043070",
+    "created_at": "2022-12-25T17:16:09Z",
+    "text": "Nggak nyesel beli Mountain-400-W Silver — kirimnya lancar 🚴 #bikes #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "5435794609",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy6307",
+      "followers_count": 587,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043023",
+    "created_at": "2022-12-25T20:37:01Z",
+    "text": "Salut buat @AdventureWorks soal Chainring — performanya mulus Nggak nyesel. ✨ #rideon #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2471683956",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy1601",
+      "followers_count": 2035,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

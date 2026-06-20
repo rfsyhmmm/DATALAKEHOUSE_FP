@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000046341",
+    "created_at": "2023-01-11T06:25:11Z",
+    "text": "Salut buat AWC soal Thin-Jam Hex Nut 13 — kirimnya lancar 🙌 #cycling #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "949901270",
+      "name": "Hannah Lee",
+      "screen_name": "hannlee3962",
+      "followers_count": 744,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046466",
+    "created_at": "2023-01-11T07:34:42Z",
+    "text": "Salut buat AWC soal LL Mountain Frame - Silver — murah buat kualitas segini 😍 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3737035233",
+      "name": "Galih Hidayat",
+      "screen_name": "galihida5458",
+      "followers_count": 882,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046449",
+    "created_at": "2023-01-11T07:42:51Z",
+    "text": "Frustrated with the Touring-2000 Blue from AdventureWorks — the finish is sloppy Lesson learned. 🙄 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9978752930",
+      "name": "Citra Garcia",
+      "screen_name": "citrgarc8359",
+      "followers_count": 6443,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046404",
+    "created_at": "2023-01-11T13:24:05Z",
+    "text": "Udah sebulan pakai Chainring, oke terus — kualitasnya premium 👍 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2970609998",
+      "name": "Citra Clark",
+      "screen_name": "citrclar4026",
+      "followers_count": 127,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046343",
+    "created_at": "2023-01-11T16:28:01Z",
+    "text": "Naik level gowes ku gara-gara LL Mountain Handlebars — sampai lebih cepat, aman Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "543177726",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu4707",
+      "followers_count": 837,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046499",
+    "created_at": "2023-01-11T18:03:48Z",
+    "text": "RT @dima83: Frustrated with the Touring Pedal from AdventureWorks Cycles — rattles and feels flimsy ⚠️ #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6937027694",
+      "name": "Maya Lee",
+      "screen_name": "mayalee1569",
+      "followers_count": 1074,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046394",
+    "created_at": "2023-01-11T21:40:29Z",
+    "text": "Really impressed with the LL Mountain Seat/Saddle — couldn't be happier Zero regrets. #AWcycles #AdventureWorks #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1071522416",
+      "name": "Mia Santoso",
+      "screen_name": "miasant3957",
+      "followers_count": 3236,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046385",
+    "created_at": "2023-01-11T21:58:32Z",
+    "text": "Really disappointed with the Mountain End Caps — the return process is a nightmare 😡 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "269345056",
+      "name": "Andi Nguyen",
+      "screen_name": "andinguy5815",
+      "followers_count": 2625,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000119639",
+    "created_at": "2024-01-03T08:05:23Z",
+    "text": "Terkesan banget sama Metal Sheet 6 — kualitasnya premium 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "172630099",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope9772",
+      "followers_count": 1368,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119724",
+    "created_at": "2024-01-03T08:21:52Z",
+    "text": "Really disappointed with the Lock Nut 17 — shipping took forever Avoid. 😡 #MTB #cycling #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3692416393",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow6790",
+      "followers_count": 555,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119808",
+    "created_at": "2024-01-03T08:54:08Z",
+    "text": "Ada yang pakai Lock Nut 15 dari AdventureWorks? Worth it nggak? 🧐 #bikes #bikelife #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "8872733858",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee8761",
+      "followers_count": 1342,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 43,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119847",
+    "created_at": "2024-01-03T10:21:36Z",
+    "text": "Bintang dua buat LL Touring Frame - Blue dari AdventureWorks — kemahalan buat kualitas segini Tolong AdventureWorks dibenahi. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "3025662622",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc2146",
+      "followers_count": 490,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Touring Frame - Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119714",
+    "created_at": "2024-01-03T17:47:55Z",
+    "text": "Bintang dua buat Cone-Shaped Race dari AWC — packing-nya berantakan 😣 #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "1611100503",
+      "name": "Nadia Smith",
+      "screen_name": "nadismit5992",
+      "followers_count": 1094,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Cone-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119803",
+    "created_at": "2024-01-03T18:14:02Z",
+    "text": "RT @mia96: The Lock Nut 12 from AWC let me down — just not worth the money Lesson learned. ⚠️ #MTB #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4675540948",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy8850",
+      "followers_count": 2367,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119664",
+    "created_at": "2024-01-03T18:25:07Z",
+    "text": "My Road-150 Red from AdventureWorks is excellent — performs flawlessly 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "3254194244",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat6443",
+      "followers_count": 1840,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119773",
+    "created_at": "2024-01-03T19:07:42Z",
+    "text": "Nggak nyesel beli Mountain Bike Socks — terasa kokoh dan rapi 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "5635665671",
+      "name": "Andi Wijaya",
+      "screen_name": "andiwija5875",
+      "followers_count": 2161,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain Bike Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000056203",
+    "created_at": "2023-02-27T06:27:56Z",
+    "text": "Done with the Flat Washer 5 honestly — way too expensive Never again. ⚠️ #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9529382033",
+      "name": "Citra Wijaya",
+      "screen_name": "citrwija5829",
+      "followers_count": 903,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Flat Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000056131",
+    "created_at": "2023-02-27T06:46:33Z",
+    "text": "Absolutely loving my new Short-Sleeve Classic Jersey from AdventureWorks Cycles — holding up great on rough trails Zero regrets. 👍 #cycling #bikelife #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "694372352",
+      "name": "Citra Putra",
+      "screen_name": "citrputr2347",
+      "followers_count": 491,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Short-Sleeve Classic Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000056303",
+    "created_at": "2023-02-27T07:12:43Z",
+    "text": "Berharap lebih dari Mountain-200 Silver — kemahalan buat kualitas segini Kapok. #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9700675870",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat2835",
+      "followers_count": 954,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-200 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000056140",
+    "created_at": "2023-02-27T12:17:02Z",
+    "text": "The LL Road Rear Wheel from AdventureWorks Cycles let me down — shipping took forever Lesson learned. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "8286391623",
+      "name": "Sam Clark",
+      "screen_name": "samclar129",
+      "followers_count": 646,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000056113",
+    "created_at": "2023-02-27T12:34:39Z",
+    "text": "Naik level gowes ku gara-gara Hex Nut 4 — performanya mulus Recommended. 😍 #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "8624532785",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope4768",
+      "followers_count": 1048,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000056253",
+    "created_at": "2023-02-27T14:03:29Z",
+    "text": "Terkesan banget sama HL Touring Frame - Yellow — performanya mulus 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "8534314314",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu9872",
+      "followers_count": 481,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000056187",
+    "created_at": "2023-02-27T15:18:15Z",
+    "text": "RT @jord18: Salut buat @AdventureWorks soal Long-Sleeve Logo Jersey — performanya mulus 🙌 #bikelife #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7865469416",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow8926",
+      "followers_count": 217,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 47,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000056280",
+    "created_at": "2023-02-27T18:08:19Z",
+    "text": "Really impressed with the ML Mountain Frame-W - Silver — arrived a day early, well packed 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "6664089731",
+      "name": "Sam Halim",
+      "screen_name": "samhali7003",
+      "followers_count": 82,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 40,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

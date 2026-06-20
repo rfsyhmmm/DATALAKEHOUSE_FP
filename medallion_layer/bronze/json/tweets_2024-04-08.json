@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000138956",
+    "created_at": "2024-04-08T01:32:57Z",
+    "text": "Mountain-500 Silver dari AWC mantap sih — terasa kokoh dan rapi 👍 #AWcycles #MTB #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "1811649616",
+      "name": "Maria Putra",
+      "screen_name": "mariputr7909",
+      "followers_count": 1374,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138973",
+    "created_at": "2024-04-08T04:45:35Z",
+    "text": "Nggak nyesel beli Hex Nut 11 — terasa kokoh dan rapi Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "2805898505",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc420",
+      "followers_count": 1245,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138911",
+    "created_at": "2024-04-08T06:54:13Z",
+    "text": "RT @chri6: Salut buat @AdventureWorks soal HL Road Frame - Red — harga sebanding kualitas Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "2947257145",
+      "name": "Andi Clark",
+      "screen_name": "andiclar4565",
+      "followers_count": 358,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138874",
+    "created_at": "2024-04-08T08:29:50Z",
+    "text": "Really impressed with the Touring-1000 Yellow — feels solid and well made Zero regrets. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "3860607808",
+      "name": "Budi Pratama",
+      "screen_name": "budiprat2689",
+      "followers_count": 1123,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138835",
+    "created_at": "2024-04-08T11:13:44Z",
+    "text": "Udah sebulan pakai LL Mountain Front Wheel, oke terus — tahan banting dipakai berat Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "5476681921",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija7901",
+      "followers_count": 2717,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138988",
+    "created_at": "2024-04-08T17:12:27Z",
+    "text": "Nggak nyesel beli Metal Sheet 3 — harga sebanding kualitas Recommended. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "7031197228",
+      "name": "Sofia Putra",
+      "screen_name": "sofiputr3364",
+      "followers_count": 396,
+      "verified": true
+    },
+    "retweet_count": 14,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Metal Sheet 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138979",
+    "created_at": "2024-04-08T19:07:33Z",
+    "text": "Capek deh sama Road-250 Red dari @AWCycles — kirimnya lama banget Kapok. ⚠️ #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1760799498",
+      "name": "Maya Kim",
+      "screen_name": "mayakim6445",
+      "followers_count": 1478,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138996",
+    "created_at": "2024-04-08T20:36:46Z",
+    "text": "Udah sebulan pakai HL Touring Frame - Blue, oke terus — pelayanannya membantu 👍 #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9888550328",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa1058",
+      "followers_count": 58,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

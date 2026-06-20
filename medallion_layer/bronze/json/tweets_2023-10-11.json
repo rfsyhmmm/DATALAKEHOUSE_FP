@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000102003",
+    "created_at": "2023-10-11T00:48:02Z",
+    "text": "Tadi liat HL Road Frame - Red di toko, lumayan menarik 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "3805700568",
+      "name": "Maria Brown",
+      "screen_name": "maribrow4579",
+      "followers_count": 723,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102063",
+    "created_at": "2023-10-11T00:52:30Z",
+    "text": "Nggak nyesel beli Thin-Jam Lock Nut 16 — murah buat kualitas segini Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "6730857159",
+      "name": "Sam Lee",
+      "screen_name": "samlee8698",
+      "followers_count": 249,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102106",
+    "created_at": "2023-10-11T03:27:10Z",
+    "text": "Regret buying the ML Mountain Rim — support ignored my emails Never again. 👎 #bikelife #rideon #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5092475489",
+      "name": "Andi Wijaya",
+      "screen_name": "andiwija6592",
+      "followers_count": 3523,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102015",
+    "created_at": "2023-10-11T04:35:30Z",
+    "text": "Touring-1000 Blue dari AdventureWorks Cycles mantap sih — sampai lebih cepat, aman Recommended. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "8527232151",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu2376",
+      "followers_count": 1730,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102122",
+    "created_at": "2023-10-11T07:16:45Z",
+    "text": "Terkesan banget sama HL Touring Frame - Yellow — admin responsif banget Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "6429662031",
+      "name": "Budi Smith",
+      "screen_name": "budismit6734",
+      "followers_count": 887,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102062",
+    "created_at": "2023-10-11T08:44:49Z",
+    "text": "Naik level gowes ku gara-gara Thin-Jam Hex Nut 4 — murah buat kualitas segini Recommended. 🙌 #rideon #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "4007395715",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy5836",
+      "followers_count": 3266,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102115",
+    "created_at": "2023-10-11T13:48:23Z",
+    "text": "So glad I picked up the Metal Bar 2 — still rock solid after months 😍 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1623969893",
+      "name": "Eko Santoso",
+      "screen_name": "ekosant8402",
+      "followers_count": 1876,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Metal Bar 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102051",
+    "created_at": "2023-10-11T16:45:53Z",
+    "text": "Berharap lebih dari Road-650 Red — zonk total Tolong AWC dibenahi. 😤 #rideon #bikelife #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4718391245",
+      "name": "Sofia Anwar",
+      "screen_name": "sofianwa3896",
+      "followers_count": 1493,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

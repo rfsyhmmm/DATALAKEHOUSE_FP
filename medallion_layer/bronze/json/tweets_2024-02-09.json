@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000127085",
+    "created_at": "2024-02-09T10:24:23Z",
+    "text": "Regret buying the Thin-Jam Lock Nut 12 — it broke after two weeks ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "1249802246",
+      "name": "Galih Clark",
+      "screen_name": "galiclar3448",
+      "followers_count": 851,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127169",
+    "created_at": "2024-02-09T10:46:37Z",
+    "text": "My ML Road Frame - Red from @AdventureWorks is excellent — shipping was fast and packaging perfect 🙌 #cycling #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2784342679",
+      "name": "Galih Santoso",
+      "screen_name": "galisant9201",
+      "followers_count": 1303,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127183",
+    "created_at": "2024-02-09T12:52:45Z",
+    "text": "Absolutely loving my new Touring Rim from @AdventureWorks — shipping was fast and packaging perfect 🚴 #cycling #bikes #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4630524236",
+      "name": "Kevin Putra",
+      "screen_name": "keviputr805",
+      "followers_count": 2598,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127069",
+    "created_at": "2024-02-09T13:32:58Z",
+    "text": "Three weeks on the Thin-Jam Lock Nut 14 and I'm sold — support was quick and friendly Highly recommend. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "5805306417",
+      "name": "Maria Kim",
+      "screen_name": "marikim1666",
+      "followers_count": 332,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127029",
+    "created_at": "2024-02-09T18:02:25Z",
+    "text": "Shoutout to AdventureWorks for the Flat Washer 7 — performs flawlessly Zero regrets. #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8013402216",
+      "name": "Eko Smith",
+      "screen_name": "ekosmit1258",
+      "followers_count": 326,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127028",
+    "created_at": "2024-02-09T19:59:06Z",
+    "text": "Lock Ring dari @AWCycles mantap sih — terasa kokoh dan rapi 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "6081132662",
+      "name": "Sofia Putra",
+      "screen_name": "sofiputr9297",
+      "followers_count": 538,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Ring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127012",
+    "created_at": "2024-02-09T20:08:38Z",
+    "text": "Road-650 Red dari @AdventureWorks mantap sih — masih awet setelah berbulan-bulan Recommended. 😎 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1826674514",
+      "name": "Budi Halim",
+      "screen_name": "budihali2743",
+      "followers_count": 503,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000127121",
+    "created_at": "2024-02-09T21:50:55Z",
+    "text": "Not happy with my Road-150 Red at all — poor build, cheap materials ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "4151215627",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy6620",
+      "followers_count": 461,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

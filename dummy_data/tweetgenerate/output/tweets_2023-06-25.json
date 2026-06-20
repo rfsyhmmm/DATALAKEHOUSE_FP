@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000079798",
+    "created_at": "2023-06-25T02:19:20Z",
+    "text": "The Lock Nut 15 from @AdventureWorks has been fantastic — zero wear after heavy use 😎 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1492248765",
+      "name": "Raka Putra",
+      "screen_name": "rakaputr3112",
+      "followers_count": 3561,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079762",
+    "created_at": "2023-06-25T06:27:59Z",
+    "text": "The Lock Washer 5 from AWC has been fantastic — feels solid and well made Highly recommend. ✨ #bikes #rideon #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5032325004",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant9876",
+      "followers_count": 3457,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079825",
+    "created_at": "2023-06-25T09:44:22Z",
+    "text": "Full-Finger Gloves dari @AWCycles bikin nyesel — bunyi-bunyi dan ringkih Pelajaran mahal. #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1569632708",
+      "name": "Citra Anwar",
+      "screen_name": "citranwa2916",
+      "followers_count": 2169,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Full-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079896",
+    "created_at": "2023-06-25T11:58:33Z",
+    "text": "Really impressed with the HL Mountain Frame - Black — arrived a day early, well packed 😎 #bikelife #AWcycles #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "5506811696",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy4938",
+      "followers_count": 1426,
+      "verified": true
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Frame - Black, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079895",
+    "created_at": "2023-06-25T13:47:40Z",
+    "text": "Lagi banding-bandingin ML Mountain Rim sama merek lain 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "5788823845",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar5651",
+      "followers_count": 1081,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079869",
+    "created_at": "2023-06-25T14:20:36Z",
+    "text": "The Down Tube from AdventureWorks Cycles has been fantastic — great value for the price 🙌 #cycling #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2235429654",
+      "name": "Dewi Smith",
+      "screen_name": "dewismit2771",
+      "followers_count": 21,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 58,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Down Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079904",
+    "created_at": "2023-06-25T19:52:10Z",
+    "text": "So glad I picked up the Handlebar Tube — fair price for this quality Five stars. 🚴 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "5326892254",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu8882",
+      "followers_count": 703,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079949",
+    "created_at": "2023-06-25T21:18:33Z",
+    "text": "Suka banget sama Lock Nut 4 dari @AWCycles — performanya mulus Recommended. 😍 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "8822554616",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija4392",
+      "followers_count": 704,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

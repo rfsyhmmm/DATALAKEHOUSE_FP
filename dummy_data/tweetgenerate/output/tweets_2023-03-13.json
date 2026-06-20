@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000059021",
+    "created_at": "2023-03-13T05:32:05Z",
+    "text": "Nggak nyesel beli Flat Washer 9 — terasa kokoh dan rapi ✨ #MTB #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7696610995",
+      "name": "Rizky Kim",
+      "screen_name": "rizkkim4647",
+      "followers_count": 3898,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000059108",
+    "created_at": "2023-03-13T06:31:26Z",
+    "text": "Baru unboxing LL Mountain Frame - Silver, nanti aku update 👀 #bikelife #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1501617887",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee9120",
+      "followers_count": 318,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Mountain Frame - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000059082",
+    "created_at": "2023-03-13T08:26:08Z",
+    "text": "Frustrated with the Short-Sleeve Classic Jersey from @AWCycles — poor build, cheap materials Lesson learned. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "5115569817",
+      "name": "Maria Halim",
+      "screen_name": "marihali460",
+      "followers_count": 275,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058973",
+    "created_at": "2023-03-13T12:01:20Z",
+    "text": "The Thin-Jam Hex Nut 13 from @AdventureWorks has been fantastic — shipping was fast and packaging perfect Highly recommend. 😍 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5268394423",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc6695",
+      "followers_count": 1315,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058936",
+    "created_at": "2023-03-13T13:22:12Z",
+    "text": "Udah sebulan pakai ML Road Frame - Red, oke terus — murah buat kualitas segini Bakal beli lagi. 🙌 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6559485205",
+      "name": "Rizky Lopez",
+      "screen_name": "rizklope9757",
+      "followers_count": 2721,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000059094",
+    "created_at": "2023-03-13T15:41:07Z",
+    "text": "Shoutout to @AdventureWorks for the Flat Washer 2 — feels solid and well made Will buy again. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "985745240",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida8407",
+      "followers_count": 1039,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000059040",
+    "created_at": "2023-03-13T21:04:29Z",
+    "text": "RT @raka49: Udahan deh sama Lock Washer 6 ini — jebol pas ride pertama 😡 #MTB #rideon #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3830487970",
+      "name": "Dewi Santoso",
+      "screen_name": "dewisant7740",
+      "followers_count": 416,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 40,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000059061",
+    "created_at": "2023-03-13T21:34:31Z",
+    "text": "Really disappointed with the HL Bottom Bracket — wore out way too fast Avoid. #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4874506107",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant5179",
+      "followers_count": 257,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000155921",
+    "created_at": "2024-06-28T08:49:39Z",
+    "text": "My Mountain-200 Black from AdventureWorks is excellent — great value for the price Zero regrets. 🔥 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "2251883918",
+      "name": "Maya Wijaya",
+      "screen_name": "mayawija976",
+      "followers_count": 748,
+      "verified": true
+    },
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-200 Black, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000155969",
+    "created_at": "2024-06-28T15:47:24Z",
+    "text": "Hex Nut 10 dari @AdventureWorks mantap sih — tahan banting dipakai berat Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9857766880",
+      "name": "Tom Nguyen",
+      "screen_name": "tomnguy347",
+      "followers_count": 3080,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000156053",
+    "created_at": "2024-06-28T18:33:31Z",
+    "text": "Anyone using the Touring-3000 Blue from AdventureWorks Cycles? Worth it? 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "622109683",
+      "name": "Andi Smith",
+      "screen_name": "andismit5606",
+      "followers_count": 1653,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-3000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000156131",
+    "created_at": "2024-06-28T19:09:35Z",
+    "text": "Upgraded to the HL Touring Handlebars and no looking back — feels solid and well made 😎 #bikelife #MTB #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2161848598",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee1318",
+      "followers_count": 949,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000156065",
+    "created_at": "2024-06-28T19:10:37Z",
+    "text": "Really impressed with the ML Touring Seat/Saddle — shipping was fast and packaging perfect Will buy again. 💯 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "9824664993",
+      "name": "Jordan Kim",
+      "screen_name": "jordkim6992",
+      "followers_count": 1432,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000156015",
+    "created_at": "2024-06-28T20:32:16Z",
+    "text": "Suka banget sama HL Mountain Handlebars dari @AWCycles — terasa kokoh dan rapi Bakal beli lagi. ✨ #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6999799676",
+      "name": "Citra Clark",
+      "screen_name": "citrclar9018",
+      "followers_count": 1465,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000156141",
+    "created_at": "2024-06-28T20:45:30Z",
+    "text": "The Mountain-100 Black from @AdventureWorks let me down — the finish is sloppy Do better @AdventureWorks.",
+    "lang": "en",
+    "user": {
+      "id_str": "9545086783",
+      "name": "Tom Smith",
+      "screen_name": "tomsmit1673",
+      "followers_count": 177,
+      "verified": true
+    },
+    "retweet_count": 20,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000156103",
+    "created_at": "2024-06-28T20:54:09Z",
+    "text": "RT @raka86: The HL Road Frame - Black from AWC let me down — it broke after two weeks Avoid. ⚠️ #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "473483737",
+      "name": "Olivia Putra",
+      "screen_name": "olivputr9950",
+      "followers_count": 652,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000000226",
+    "created_at": "2022-05-31T13:29:44Z",
+    "text": "Capek deh sama External Lock Washer 5 dari AdventureWorks Cycles — mahal nggak masuk akal 😣 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "492245997",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali424",
+      "followers_count": 728,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "External Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000413",
+    "created_at": "2022-05-31T14:02:08Z",
+    "text": "The Touring-3000 Yellow from @AWCycles let me down — packaging was a mess Avoid. ⚠️ #AdventureWorks #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5533231472",
+      "name": "Alex Putra",
+      "screen_name": "alexputr7693",
+      "followers_count": 279,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000275",
+    "created_at": "2022-05-31T14:41:28Z",
+    "text": "Done with the HL Road Frame - Black honestly — way too expensive Lesson learned. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "2978201524",
+      "name": "Maya Saputra",
+      "screen_name": "mayasapu5261",
+      "followers_count": 1640,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000317",
+    "created_at": "2022-05-31T16:05:14Z",
+    "text": "The ML Mountain Frame-W - Silver from AdventureWorks has been fantastic — feels solid and well made Zero regrets. 😎 #bikes #rideon #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2467665472",
+      "name": "Chris Brown",
+      "screen_name": "chribrow7484",
+      "followers_count": 1720,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000222",
+    "created_at": "2022-05-31T18:30:18Z",
+    "text": "Terkesan banget sama Mountain-100 Black — terasa kokoh dan rapi Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "4110075517",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow4335",
+      "followers_count": 876,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 47,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000438",
+    "created_at": "2022-05-31T20:02:39Z",
+    "text": "Terkesan banget sama Mountain-500 Silver — CS-nya cepat dan ramah ✨ #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3980176825",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc4907",
+      "followers_count": 2778,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000367",
+    "created_at": "2022-05-31T20:18:46Z",
+    "text": "Nyesel beli LL Touring Frame - Yellow — packing-nya berantakan #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1744847276",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow9369",
+      "followers_count": 1260,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000278",
+    "created_at": "2022-05-31T22:25:55Z",
+    "text": "Shoutout to @AWCycles for the LL Road Frame - Red — performs flawlessly Highly recommend. 😍 #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "5632043071",
+      "name": "Jordan Halim",
+      "screen_name": "jordhali8999",
+      "followers_count": 4311,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

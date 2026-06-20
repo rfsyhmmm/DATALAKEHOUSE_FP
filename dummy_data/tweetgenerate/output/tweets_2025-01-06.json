@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000195852",
+    "created_at": "2025-01-06T07:20:58Z",
+    "text": "The Road-150 Red from @AdventureWorks has been fantastic — build quality feels premium ✨ #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "1061937469",
+      "name": "Putri Clark",
+      "screen_name": "putrclar710",
+      "followers_count": 1124,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195932",
+    "created_at": "2025-01-06T17:35:52Z",
+    "text": "Anyone using the Flat Washer 4 from @AdventureWorks? Worth it? 🤔 #cycling #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "567420914",
+      "name": "Jordan Kim",
+      "screen_name": "jordkim4625",
+      "followers_count": 278,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195891",
+    "created_at": "2025-01-06T17:49:11Z",
+    "text": "My HL Touring Frame - Blue from @AWCycles is excellent — performs flawlessly Will buy again. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "9738158298",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa4126",
+      "followers_count": 155,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195963",
+    "created_at": "2025-01-06T20:31:58Z",
+    "text": "The Touring-Panniers from @AdventureWorks has been fantastic — build quality feels premium 😎 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "8543695946",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant4628",
+      "followers_count": 834,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-Panniers, Large",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000196012",
+    "created_at": "2025-01-06T20:36:15Z",
+    "text": "Just unboxed the Mountain-500 Black, will report back 🤷 #AWcycles #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "4218827057",
+      "name": "Olivia Anwar",
+      "screen_name": "olivanwa5150",
+      "followers_count": 940,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195818",
+    "created_at": "2025-01-06T20:58:58Z",
+    "text": "Really disappointed with the Sport-100 Helmet — just not worth the money 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "6615284702",
+      "name": "Budi Smith",
+      "screen_name": "budismit7220",
+      "followers_count": 253,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195903",
+    "created_at": "2025-01-06T21:29:44Z",
+    "text": "Shoutout to AdventureWorks Cycles for the ML Road Frame - Red — feels solid and well made 😎 #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9123692176",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida3356",
+      "followers_count": 1999,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195906",
+    "created_at": "2025-01-06T22:53:08Z",
+    "text": "Nyesel beli Hex Nut 15 — bahannya murahan 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "5180337683",
+      "name": "Chris Brown",
+      "screen_name": "chribrow5568",
+      "followers_count": 2633,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

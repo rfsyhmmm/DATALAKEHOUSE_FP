@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000124288",
+    "created_at": "2024-01-25T10:10:30Z",
+    "text": "HL Road Handlebars bagus nggak buat harian?",
+    "lang": "in",
+    "user": {
+      "id_str": "4656338309",
+      "name": "Maria Lee",
+      "screen_name": "marilee6182",
+      "followers_count": 1251,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124250",
+    "created_at": "2024-01-25T11:51:47Z",
+    "text": "Two stars for the LL Road Front Wheel from @AdventureWorks — the finish is sloppy 😣 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4248263967",
+      "name": "Lina Wijaya",
+      "screen_name": "linawija5782",
+      "followers_count": 3067,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124324",
+    "created_at": "2024-01-25T17:59:00Z",
+    "text": "Nyesel beli Seat Post — nggak sebanding harganya Tolong AWC dibenahi. ⚠️ #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "7391424081",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat6285",
+      "followers_count": 864,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Seat Post",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124383",
+    "created_at": "2024-01-25T18:04:15Z",
+    "text": "Udah sebulan pakai Hex Nut 11, oke terus — kualitasnya premium 😎 #AdventureWorks #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8898312775",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu589",
+      "followers_count": 2039,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124321",
+    "created_at": "2024-01-25T18:19:36Z",
+    "text": "Terkesan banget sama Hex Nut 23 — kualitasnya premium Recommended. 💯 #AWcycles #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "7552197706",
+      "name": "Bayu Smith",
+      "screen_name": "bayusmit6326",
+      "followers_count": 1975,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124366",
+    "created_at": "2024-01-25T19:05:42Z",
+    "text": "Terkesan banget sama Touring-3000 Blue — pengiriman cepat dan packing rapi Bintang lima. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "5449119339",
+      "name": "Dewi Smith",
+      "screen_name": "dewismit9765",
+      "followers_count": 72,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124202",
+    "created_at": "2024-01-25T19:22:53Z",
+    "text": "Berharap lebih dari Lock Washer 2 — kirimnya lama banget 😤 #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "728689334",
+      "name": "Dewi Halim",
+      "screen_name": "dewihali6174",
+      "followers_count": 355,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 51,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000124349",
+    "created_at": "2024-01-25T21:29:04Z",
+    "text": "RT @alex65: Absolutely loving my new Half-Finger Gloves from @AdventureWorks — zero wear after heavy use Will buy again. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "9924184960",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu8173",
+      "followers_count": 1705,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Half-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

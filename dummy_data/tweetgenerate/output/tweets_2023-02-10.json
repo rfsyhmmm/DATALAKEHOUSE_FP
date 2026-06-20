@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000052417",
+    "created_at": "2023-02-10T01:08:29Z",
+    "text": "Regret buying the HL Mountain Rear Wheel — poor build, cheap materials 🙄 #rideon #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5138570990",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant9071",
+      "followers_count": 3089,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052503",
+    "created_at": "2023-02-10T08:51:18Z",
+    "text": "Frustrated with the LL Touring Seat/Saddle from AdventureWorks Cycles — it broke after two weeks ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "4879290280",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat155",
+      "followers_count": 45,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052571",
+    "created_at": "2023-02-10T13:13:29Z",
+    "text": "Paint - Red dari AWC bikin nyesel — bahannya murahan Tolong AWC dibenahi. 🙄 #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "602393558",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow1557",
+      "followers_count": 1225,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052481",
+    "created_at": "2023-02-10T13:19:45Z",
+    "text": "Three weeks on the Road-750 Black and I'm sold — customer service sorted it instantly Highly recommend. #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8162174550",
+      "name": "Eko Nguyen",
+      "screen_name": "ekonguy8005",
+      "followers_count": 1993,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-750 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052633",
+    "created_at": "2023-02-10T15:49:49Z",
+    "text": "Udahan deh sama Thin-Jam Hex Nut 16 ini — rusak baru dua minggu ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "4930407917",
+      "name": "Maya Halim",
+      "screen_name": "mayahali3263",
+      "followers_count": 555,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052532",
+    "created_at": "2023-02-10T16:53:41Z",
+    "text": "Shoutout to AdventureWorks for the Road-650 Black — feels solid and well made 💯 #cycling #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3686469023",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow9282",
+      "followers_count": 2992,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-650 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052462",
+    "created_at": "2023-02-10T19:29:21Z",
+    "text": "Shoutout to @AdventureWorks for the ML Mountain Rear Wheel — build quality feels premium Five stars. #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "7805674809",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow504",
+      "followers_count": 649,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052595",
+    "created_at": "2023-02-10T20:40:11Z",
+    "text": "Akhirnya pakai Mountain-200 Silver dan puas pol — performanya mulus Bakal beli lagi. 💯 #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5387019889",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida1122",
+      "followers_count": 3766,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

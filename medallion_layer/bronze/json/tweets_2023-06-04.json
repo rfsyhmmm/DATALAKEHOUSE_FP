@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000075863",
+    "created_at": "2023-06-04T07:03:27Z",
+    "text": "RT @nadi29: Expected so much more from the LL Mountain Frame - Black — it broke after two weeks Avoid. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "968779105",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit1252",
+      "followers_count": 2518,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075866",
+    "created_at": "2023-06-04T08:53:23Z",
+    "text": "Terkesan banget sama Mountain-100 Silver — terasa kokoh dan rapi Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "7842933647",
+      "name": "Eko Kim",
+      "screen_name": "ekokim9754",
+      "followers_count": 2930,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075848",
+    "created_at": "2023-06-04T09:11:17Z",
+    "text": "Salut buat AdventureWorks Cycles soal LL Mountain Seat/Saddle — murah buat kualitas segini Bintang lima. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "424106234",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu9682",
+      "followers_count": 2582,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075926",
+    "created_at": "2023-06-04T15:20:04Z",
+    "text": "Akhirnya pakai Road-150 Red dan puas pol — murah buat kualitas segini Bintang lima. 👍 #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7839346076",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc2733",
+      "followers_count": 1421,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-150 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075902",
+    "created_at": "2023-06-04T16:18:18Z",
+    "text": "Really disappointed with the Road-250 Red — it arrived late and damaged Do better AdventureWorks. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "8119030090",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija5309",
+      "followers_count": 563,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075867",
+    "created_at": "2023-06-04T17:52:50Z",
+    "text": "Salut buat @AWCycles soal LL Road Frame - Black — pengiriman cepat dan packing rapi Bakal beli lagi. ✨ #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6405576028",
+      "name": "Chris Clark",
+      "screen_name": "chriclar3292",
+      "followers_count": 262,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075913",
+    "created_at": "2023-06-04T19:15:59Z",
+    "text": "Kecewa banget sama LL Road Pedal — salah beli 😩 #bikelife #bikes #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7548637663",
+      "name": "Rizky Hidayat",
+      "screen_name": "rizkhida8899",
+      "followers_count": 624,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 59,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075865",
+    "created_at": "2023-06-04T19:32:09Z",
+    "text": "Not happy with my LL Road Rear Wheel at all — poor build, cheap materials Never again. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "8264652689",
+      "name": "Bayu Kim",
+      "screen_name": "bayukim5340",
+      "followers_count": 1540,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

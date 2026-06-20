@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000203069",
+    "created_at": "2025-02-09T08:22:24Z",
+    "text": "RT @budi40: So glad I picked up the LL Touring Frame - Blue — feels solid and well made Highly recommend. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "1578675612",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow3197",
+      "followers_count": 1277,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000202880",
+    "created_at": "2025-02-09T10:54:26Z",
+    "text": "Nyesel beli ML Road Frame - Red — kirimnya lama banget Pelajaran mahal. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "275343389",
+      "name": "Eko Nguyen",
+      "screen_name": "ekonguy4801",
+      "followers_count": 119,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000202973",
+    "created_at": "2025-02-09T10:57:51Z",
+    "text": "Shoutout to @AdventureWorks for the Hex Nut 17 — great value for the price Highly recommend.",
+    "lang": "en",
+    "user": {
+      "id_str": "6943094421",
+      "name": "Lina Kim",
+      "screen_name": "linakim1898",
+      "followers_count": 1021,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000202878",
+    "created_at": "2025-02-09T17:09:49Z",
+    "text": "Terkesan banget sama AWC Logo Cap — worth it banget Bakal beli lagi. 💯 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "4852784202",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida9912",
+      "followers_count": 1021,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "AWC Logo Cap",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203021",
+    "created_at": "2025-02-09T19:58:17Z",
+    "text": "Berharap lebih dari Hex Nut 22 — packing-nya berantakan 😡 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "229995518",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija9867",
+      "followers_count": 2223,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000202828",
+    "created_at": "2025-02-09T20:14:52Z",
+    "text": "Nggak nyesel beli LL Road Seat Assembly — terasa kokoh dan rapi Bakal beli lagi. #bikes #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5664546039",
+      "name": "Sofia Anwar",
+      "screen_name": "sofianwa3293",
+      "followers_count": 2310,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000202926",
+    "created_at": "2025-02-09T20:31:01Z",
+    "text": "Anyone using the ML Road Front Wheel from AdventureWorks Cycles? Worth it? 🤔 #cycling #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9250807308",
+      "name": "Chris Lee",
+      "screen_name": "chrilee6787",
+      "followers_count": 1371,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203051",
+    "created_at": "2025-02-09T23:54:14Z",
+    "text": "Is the ML Road Frame-W - Yellow any good for daily rides? #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5740497421",
+      "name": "Lina Wijaya",
+      "screen_name": "linawija7297",
+      "followers_count": 363,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 38,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Frame-W - Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

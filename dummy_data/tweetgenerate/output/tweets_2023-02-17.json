@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000053964",
+    "created_at": "2023-02-17T03:45:23Z",
+    "text": "Not happy with my Fender Set - Mountain at all — shipping took forever Avoid. ⚠️ #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8569919108",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow8905",
+      "followers_count": 298,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054107",
+    "created_at": "2023-02-17T06:12:04Z",
+    "text": "Naik level gowes ku gara-gara HL Road Seat Assembly — kualitasnya premium Recommended. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "5638487140",
+      "name": "Maria Clark",
+      "screen_name": "mariclar8303",
+      "followers_count": 2127,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 72,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053961",
+    "created_at": "2023-02-17T07:16:23Z",
+    "text": "Shoutout to @AdventureWorks for the Headset Ball Bearings — couldn't be happier Highly recommend. ✨ #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "7844348790",
+      "name": "Nadia Halim",
+      "screen_name": "nadihali2514",
+      "followers_count": 521,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Headset Ball Bearings",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054064",
+    "created_at": "2023-02-17T10:49:51Z",
+    "text": "Akhirnya pakai LL Fork dan puas pol — admin responsif banget Nggak nyesel. ✨ #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "5735226028",
+      "name": "Dewi Anwar",
+      "screen_name": "dewianwa1585",
+      "followers_count": 2230,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054120",
+    "created_at": "2023-02-17T14:24:04Z",
+    "text": "So glad I picked up the LL Road Frame - Black — build quality feels premium Five stars. 🙌 #bikelife #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9615357232",
+      "name": "Rizky Santoso",
+      "screen_name": "rizksant1969",
+      "followers_count": 437,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054140",
+    "created_at": "2023-02-17T17:09:36Z",
+    "text": "RT @dewi65: Shoutout to AWC for the LL Road Frame - Black — zero wear after heavy use Will buy again. 🔥 #rideon #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "5036344734",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy4302",
+      "followers_count": 807,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053994",
+    "created_at": "2023-02-17T17:46:58Z",
+    "text": "Baru unboxing HL Road Handlebars, nanti aku update 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "8497384972",
+      "name": "Dewi Kim",
+      "screen_name": "dewikim1871",
+      "followers_count": 597,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054024",
+    "created_at": "2023-02-17T21:26:53Z",
+    "text": "Naik level gowes ku gara-gara Thin-Jam Hex Nut 13 — tahan banting dipakai berat 🙌 #MTB #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7842419441",
+      "name": "Dimas Anwar",
+      "screen_name": "dimaanwa3602",
+      "followers_count": 346,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

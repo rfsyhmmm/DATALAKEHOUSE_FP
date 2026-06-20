@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000230941",
+    "created_at": "2025-06-25T06:22:42Z",
+    "text": "Nggak nyesel beli HL Road Frame - Red — kirimnya lancar Bakal beli lagi. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "8792277076",
+      "name": "Alex Halim",
+      "screen_name": "alexhali8369",
+      "followers_count": 211,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230818",
+    "created_at": "2025-06-25T07:57:13Z",
+    "text": "Really impressed with the HL Road Frame - Red — exceeded my expectations Highly recommend. #bikes #AdventureWorks #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2598347181",
+      "name": "Andi Santoso",
+      "screen_name": "andisant8441",
+      "followers_count": 830,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230905",
+    "created_at": "2025-06-25T09:36:46Z",
+    "text": "Bintang dua buat LL Road Front Wheel dari AdventureWorks Cycles — bunyi-bunyi dan ringkih Hindari. 🙄 #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6842199832",
+      "name": "Alex Lee",
+      "screen_name": "alexlee8663",
+      "followers_count": 312,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230795",
+    "created_at": "2025-06-25T10:07:17Z",
+    "text": "RT @maya75: ML Mountain Tire dari @AWCycles bikin nyesel — CS-nya nggak guna Hindari. 😤 #MTB #AdventureWorks #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "6990353284",
+      "name": "Kevin Nguyen",
+      "screen_name": "kevinguy6113",
+      "followers_count": 439,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230924",
+    "created_at": "2025-06-25T10:52:12Z",
+    "text": "Expected so much more from the Touring-1000 Yellow — the return process is a nightmare 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "8605924389",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat3762",
+      "followers_count": 1371,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Touring-1000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230859",
+    "created_at": "2025-06-25T13:05:13Z",
+    "text": "Nggak nyesel beli Lock Nut 23 — harga sebanding kualitas 😎 #AWcycles #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9572980577",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa7852",
+      "followers_count": 3756,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230898",
+    "created_at": "2025-06-25T14:30:24Z",
+    "text": "Akhirnya pakai ML Mountain Frame-W - Silver dan puas pol — performanya mulus Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "3447107662",
+      "name": "Dimas Pratama",
+      "screen_name": "dimaprat2859",
+      "followers_count": 422,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230748",
+    "created_at": "2025-06-25T16:45:20Z",
+    "text": "Terkesan banget sama HL Touring Frame - Blue — kualitasnya premium Bintang lima. 😎 #bikelife #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5606140784",
+      "name": "Chris Putra",
+      "screen_name": "chriputr6067",
+      "followers_count": 575,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000018187",
+    "created_at": "2022-08-25T02:41:41Z",
+    "text": "So glad I picked up the LL Fork — arrived a day early, well packed 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "8684093473",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy6166",
+      "followers_count": 1960,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 61,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018261",
+    "created_at": "2022-08-25T07:58:54Z",
+    "text": "Upgraded to the Decal 2 and no looking back — build quality feels premium Highly recommend. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "8612532956",
+      "name": "Andi Lee",
+      "screen_name": "andilee7776",
+      "followers_count": 939,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018073",
+    "created_at": "2022-08-25T16:58:46Z",
+    "text": "Shoutout to AdventureWorks for the HL Touring Frame - Blue — the team was super helpful Zero regrets. 🙌 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2773821219",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow5349",
+      "followers_count": 2639,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018236",
+    "created_at": "2022-08-25T18:03:06Z",
+    "text": "Berharap lebih dari HL Road Tire — CS-nya nggak guna Hindari. ⚠️ #AWcycles #cycling #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7215232441",
+      "name": "Maria Hidayat",
+      "screen_name": "marihida7016",
+      "followers_count": 2325,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018163",
+    "created_at": "2022-08-25T18:24:56Z",
+    "text": "RT @sofi69: Anyone using the HL Mountain Frame - Silver from AdventureWorks? Worth it? 👀 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "6204217220",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa3394",
+      "followers_count": 837,
+      "verified": false
+    },
+    "retweet_count": 35,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018113",
+    "created_at": "2022-08-25T18:35:28Z",
+    "text": "Lagi mikir mau beli LL Mountain Seat/Saddle. Ada review? #MTB #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9223012275",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit1813",
+      "followers_count": 209,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018227",
+    "created_at": "2022-08-25T19:16:10Z",
+    "text": "Udah sebulan pakai HL Road Frame - Red, oke terus — sampai lebih cepat, aman Bintang lima. 🚴 #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "2713963144",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu3617",
+      "followers_count": 196,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018300",
+    "created_at": "2022-08-25T21:57:00Z",
+    "text": "Lagi banding-bandingin HL Touring Handlebars sama merek lain 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "427017477",
+      "name": "Rizky Garcia",
+      "screen_name": "rizkgarc6964",
+      "followers_count": 1374,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

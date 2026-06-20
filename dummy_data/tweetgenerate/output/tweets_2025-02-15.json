@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000204283",
+    "created_at": "2025-02-15T01:17:47Z",
+    "text": "Salut buat AdventureWorks soal Hex Nut 15 — murah buat kualitas segini Bakal beli lagi. #cycling #MTB #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6812735157",
+      "name": "Hannah Kim",
+      "screen_name": "hannkim5384",
+      "followers_count": 1694,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204325",
+    "created_at": "2025-02-15T05:13:15Z",
+    "text": "Nggak nyesel beli Front Derailleur Linkage — kualitasnya premium 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "3628897830",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat3787",
+      "followers_count": 1371,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Front Derailleur Linkage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204246",
+    "created_at": "2025-02-15T13:47:16Z",
+    "text": "Regret buying the Minipump — it arrived late and damaged Do better AdventureWorks Cycles. 😡 #bikes #AdventureWorks #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "1930869035",
+      "name": "Putri Garcia",
+      "screen_name": "putrgarc2941",
+      "followers_count": 1169,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Minipump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204276",
+    "created_at": "2025-02-15T14:05:37Z",
+    "text": "Udahan deh sama Touring Pedal ini — datang telat dan rusak Hindari. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "4674362961",
+      "name": "Raka Smith",
+      "screen_name": "rakasmit9822",
+      "followers_count": 504,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204189",
+    "created_at": "2025-02-15T15:43:27Z",
+    "text": "Bintang dua buat ML Mountain Frame - Black dari @AWCycles — kemahalan buat kualitas segini Pelajaran mahal. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "857560511",
+      "name": "Chris Nguyen",
+      "screen_name": "chringuy1583",
+      "followers_count": 1765,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Mountain Frame - Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204269",
+    "created_at": "2025-02-15T17:30:48Z",
+    "text": "Sport-100 Helmet bagus nggak buat harian? 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "147501130",
+      "name": "Dimas Halim",
+      "screen_name": "dimahali7039",
+      "followers_count": 3226,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204203",
+    "created_at": "2025-02-15T18:39:30Z",
+    "text": "Suka banget sama Lock Washer 11 dari AdventureWorks — performanya mulus 🚴 #cycling #AdventureWorks #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8618179999",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant7188",
+      "followers_count": 766,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000204194",
+    "created_at": "2025-02-15T20:02:38Z",
+    "text": "Terkesan banget sama Women's Mountain Shorts — terasa kokoh dan rapi #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1577463690",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar1120",
+      "followers_count": 629,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Women's Mountain Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

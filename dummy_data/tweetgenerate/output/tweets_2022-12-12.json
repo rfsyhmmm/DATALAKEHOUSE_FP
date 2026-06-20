@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000040355",
+    "created_at": "2022-12-12T07:24:42Z",
+    "text": "Really impressed with the Hex Nut 11 — arrived a day early, well packed Zero regrets. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "3091519044",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee4619",
+      "followers_count": 840,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040266",
+    "created_at": "2022-12-12T11:59:32Z",
+    "text": "Really impressed with the Road-750 Black — delivery was smooth Highly recommend. 🙌 #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1071134499",
+      "name": "Galih Saputra",
+      "screen_name": "galisapu3114",
+      "followers_count": 747,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-750 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040302",
+    "created_at": "2022-12-12T13:57:13Z",
+    "text": "Three weeks on the Touring-3000 Yellow and I'm sold — performs flawlessly Five stars. 💯 #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5448953005",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant9448",
+      "followers_count": 1104,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040312",
+    "created_at": "2022-12-12T16:59:32Z",
+    "text": "Kecewa banget sama Men's Sports Shorts — nggak sebanding harganya 😤 #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8483228541",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope2328",
+      "followers_count": 3533,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040433",
+    "created_at": "2022-12-12T17:28:30Z",
+    "text": "Not happy with my ML Mountain Tire at all — it arrived late and damaged ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "2745550726",
+      "name": "Kevin Santoso",
+      "screen_name": "kevisant9691",
+      "followers_count": 1930,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040247",
+    "created_at": "2022-12-12T17:54:11Z",
+    "text": "Nyesel beli LL Touring Frame - Blue — kemahalan buat kualitas segini Kapok. 😡 #MTB #bikes #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7654901170",
+      "name": "Lina Clark",
+      "screen_name": "linaclar1966",
+      "followers_count": 548,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Touring Frame - Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040328",
+    "created_at": "2022-12-12T21:07:34Z",
+    "text": "Expected so much more from the Thin-Jam Hex Nut 16 — shipping took forever Lesson learned. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "3726682712",
+      "name": "Raka Smith",
+      "screen_name": "rakasmit2638",
+      "followers_count": 1023,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040403",
+    "created_at": "2022-12-12T22:54:36Z",
+    "text": "Naik level gowes ku gara-gara Women's Tights — murah buat kualitas segini Bakal beli lagi. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "519158195",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija848",
+      "followers_count": 518,
+      "verified": true
+    },
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Women's Tights, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

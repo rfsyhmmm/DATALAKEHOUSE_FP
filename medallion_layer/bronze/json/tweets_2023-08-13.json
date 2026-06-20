@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000090058",
+    "created_at": "2023-08-13T00:12:22Z",
+    "text": "Not happy with my Thin-Jam Lock Nut 11 at all — shipping took forever ⚠️ #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9056825727",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope3170",
+      "followers_count": 3216,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089993",
+    "created_at": "2023-08-13T08:31:32Z",
+    "text": "So glad I picked up the HL Bottom Bracket — the team was super helpful Will buy again. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "8142526122",
+      "name": "Sofia Santoso",
+      "screen_name": "sofisant9650",
+      "followers_count": 3851,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089952",
+    "created_at": "2023-08-13T10:04:24Z",
+    "text": "Capek deh sama HL Road Handlebars dari AWC — bahannya murahan Tolong AWC dibenahi. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "8408117934",
+      "name": "Maria Halim",
+      "screen_name": "marihali784",
+      "followers_count": 731,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089977",
+    "created_at": "2023-08-13T13:33:00Z",
+    "text": "Nggak nyesel beli Lock Nut 15 — pengiriman cepat dan packing rapi Nggak nyesel. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "4599552086",
+      "name": "Lina Hidayat",
+      "screen_name": "linahida8261",
+      "followers_count": 789,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000090008",
+    "created_at": "2023-08-13T13:42:11Z",
+    "text": "Absolutely loving my new Lock Washer 8 from AdventureWorks Cycles — feels solid and well made Highly recommend. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "6479798562",
+      "name": "Galih Anwar",
+      "screen_name": "galianwa9786",
+      "followers_count": 2153,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000090177",
+    "created_at": "2023-08-13T17:58:26Z",
+    "text": "Regret buying the LL Road Handlebars — customer service was useless Never again. 😡 #AWcycles #AdventureWorks #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "7074755484",
+      "name": "Galih Brown",
+      "screen_name": "galibrow9256",
+      "followers_count": 99,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000090105",
+    "created_at": "2023-08-13T19:22:39Z",
+    "text": "Lagi banding-bandingin Thin-Jam Hex Nut 1 sama merek lain 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "2330532046",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit3433",
+      "followers_count": 705,
+      "verified": true
+    },
+    "retweet_count": 16,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000090154",
+    "created_at": "2023-08-13T20:42:17Z",
+    "text": "So glad I picked up the Minipump — build quality feels premium Five stars. #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "1468950725",
+      "name": "Lina Saputra",
+      "screen_name": "linasapu1958",
+      "followers_count": 308,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Minipump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000040048",
+    "created_at": "2022-12-11T07:07:20Z",
+    "text": "Salut buat AdventureWorks soal LL Shell — pengiriman cepat dan packing rapi 😍 #AWcycles #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6809293751",
+      "name": "Sofia Kim",
+      "screen_name": "sofikim592",
+      "followers_count": 1975,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040012",
+    "created_at": "2022-12-11T09:14:44Z",
+    "text": "Men's Sports Shorts dari @AdventureWorks bikin nyesel — salah beli 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "5824896431",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow8509",
+      "followers_count": 919,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Men's Sports Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040154",
+    "created_at": "2022-12-11T09:49:50Z",
+    "text": "RT @bayu70: Nyesel beli HL Touring Frame - Blue — nggak sebanding harganya 👎 #cycling #AdventureWorks #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "2281276317",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat5402",
+      "followers_count": 1641,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040151",
+    "created_at": "2022-12-11T11:44:51Z",
+    "text": "My Thin-Jam Hex Nut 3 from AWC is excellent — support was quick and friendly Zero regrets. 💯 #MTB #bikes #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9848594734",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat1757",
+      "followers_count": 470,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040102",
+    "created_at": "2022-12-11T14:33:16Z",
+    "text": "My Mountain-400-W Silver from @AWCycles is excellent — still rock solid after months Zero regrets. 💯 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "6510294683",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat1084",
+      "followers_count": 2706,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 46,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040057",
+    "created_at": "2022-12-11T17:59:59Z",
+    "text": "Naik level gowes ku gara-gara HL Touring Frame - Blue — puas pol Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "5198496804",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat574",
+      "followers_count": 526,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040200",
+    "created_at": "2022-12-11T18:57:03Z",
+    "text": "My LL Mountain Frame - Black from AdventureWorks Cycles is excellent — honestly a great buy 🙌 #AWcycles #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4812495431",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow1123",
+      "followers_count": 218,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 56,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040211",
+    "created_at": "2022-12-11T21:28:53Z",
+    "text": "Lagi banding-bandingin Touring-3000 Yellow sama merek lain 👀 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "3438588533",
+      "name": "Eko Santoso",
+      "screen_name": "ekosant6497",
+      "followers_count": 1638,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-3000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

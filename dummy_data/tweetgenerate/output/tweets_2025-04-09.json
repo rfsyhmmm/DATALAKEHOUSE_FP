@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000215178",
+    "created_at": "2025-04-09T02:27:01Z",
+    "text": "Kecewa banget sama Hex Nut 20 — datang telat dan rusak Pelajaran mahal. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "7659863587",
+      "name": "Dimas Garcia",
+      "screen_name": "dimagarc8687",
+      "followers_count": 1394,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 42,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215341",
+    "created_at": "2025-04-09T05:43:53Z",
+    "text": "RT @jord76: Udah sebulan pakai Tension Pulley, oke terus — performanya mulus Recommended. 🔥 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8317909783",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat8423",
+      "followers_count": 1696,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215246",
+    "created_at": "2025-04-09T08:42:45Z",
+    "text": "RT @mia38: Really disappointed with the Lock Nut 21 — rattles and feels flimsy Never again. 😣 #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5833027153",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat8788",
+      "followers_count": 15,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215303",
+    "created_at": "2025-04-09T15:07:13Z",
+    "text": "Baru unboxing Touring Front Wheel, nanti aku update 🧐 #AdventureWorks #MTB #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5835313248",
+      "name": "Nadia Brown",
+      "screen_name": "nadibrow4067",
+      "followers_count": 1382,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215356",
+    "created_at": "2025-04-09T15:22:46Z",
+    "text": "Nggak nyesel beli Road-450 Red — kirimnya lancar Recommended. 🙌 #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7072731897",
+      "name": "Alex Wijaya",
+      "screen_name": "alexwija2954",
+      "followers_count": 722,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-450 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215293",
+    "created_at": "2025-04-09T16:08:54Z",
+    "text": "Udahan deh sama HL Touring Frame - Yellow ini — CS-nya nggak guna Hindari. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "8949656663",
+      "name": "Andi Putra",
+      "screen_name": "andiputr698",
+      "followers_count": 717,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215198",
+    "created_at": "2025-04-09T16:21:15Z",
+    "text": "Naik level gowes ku gara-gara Road-150 Red — kuat di trek kasar Bintang lima. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "4495604599",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope849",
+      "followers_count": 6832,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-150 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215168",
+    "created_at": "2025-04-09T21:58:46Z",
+    "text": "RT @kevi46: Really impressed with the Thin-Jam Lock Nut 14 — build quality feels premium Five stars. 🔥 #MTB #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "1809008596",
+      "name": "Kevin Lee",
+      "screen_name": "kevilee7180",
+      "followers_count": 908,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

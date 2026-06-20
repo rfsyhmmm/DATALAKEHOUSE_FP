@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000053784",
+    "created_at": "2023-02-15T07:27:33Z",
+    "text": "RT @tom79: Really disappointed with the Lock Nut 22 — packaging was a mess Do better AdventureWorks. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "2541171728",
+      "name": "Raka Putra",
+      "screen_name": "rakaputr5702",
+      "followers_count": 1116,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053761",
+    "created_at": "2023-02-15T09:02:00Z",
+    "text": "Absolutely loving my new Men's Sports Shorts from @AdventureWorks — exceeded my expectations Will buy again. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "7370829523",
+      "name": "Chris Lopez",
+      "screen_name": "chrilope7707",
+      "followers_count": 412,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053580",
+    "created_at": "2023-02-15T09:23:13Z",
+    "text": "Absolutely loving my new Road-250 Red from AWC — holding up great on rough trails Will buy again. 🚴 #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7371044879",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija4582",
+      "followers_count": 690,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053620",
+    "created_at": "2023-02-15T09:37:19Z",
+    "text": "Not happy with my Road-650 Black at all — support ignored my emails Lesson learned. 😣 #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "6642939488",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija6501",
+      "followers_count": 205,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road-650 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053714",
+    "created_at": "2023-02-15T10:53:18Z",
+    "text": "Udahan deh sama Thin-Jam Lock Nut 12 ini — nggak sebanding harganya 🙄 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "711688094",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida7480",
+      "followers_count": 1118,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053491",
+    "created_at": "2023-02-15T14:52:40Z",
+    "text": "Two stars for the Internal Lock Washer 9 from @AWCycles — the finish is sloppy Lesson learned. 🙄 #bikes #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "1834630793",
+      "name": "Tom Halim",
+      "screen_name": "tomhali9779",
+      "followers_count": 923,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053666",
+    "created_at": "2023-02-15T15:55:50Z",
+    "text": "Udahan deh sama Lock Washer 11 ini — nggak sebanding harganya 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "3063898208",
+      "name": "Galih Halim",
+      "screen_name": "galihali5129",
+      "followers_count": 1296,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Washer 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000053538",
+    "created_at": "2023-02-15T23:09:26Z",
+    "text": "The LL Mountain Rim from AWC has been fantastic — shipping was fast and packaging perfect Will buy again. 👍 #bikelife #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "2170820685",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida3751",
+      "followers_count": 3738,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

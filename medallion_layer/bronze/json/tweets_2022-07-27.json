@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000012551",
+    "created_at": "2022-07-27T10:26:13Z",
+    "text": "Seat Stays bagus nggak buat harian? 🤷 #AWcycles #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "8767557205",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow3684",
+      "followers_count": 554,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Seat Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012384",
+    "created_at": "2022-07-27T14:05:22Z",
+    "text": "Really disappointed with the External Lock Washer 9 — overpriced for what you get Do better AdventureWorks. 😣 #AWcycles #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3412964517",
+      "name": "Olivia Anwar",
+      "screen_name": "olivanwa6922",
+      "followers_count": 1621,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 43,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "External Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012372",
+    "created_at": "2022-07-27T15:00:39Z",
+    "text": "Internal Lock Washer 4 dari @AWCycles bikin nyesel — kirimnya lama banget Kapok. 😣 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1928416204",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa2948",
+      "followers_count": 476,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 69,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Internal Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012437",
+    "created_at": "2022-07-27T16:11:18Z",
+    "text": "Really disappointed with the Lock Nut 11 — support ignored my emails Do better AdventureWorks Cycles. 😣 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "852622784",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa4074",
+      "followers_count": 3132,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012413",
+    "created_at": "2022-07-27T20:23:07Z",
+    "text": "Naik level gowes ku gara-gara Road-150 Red — kirimnya lancar Recommended. 🙌 #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4603460465",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida7126",
+      "followers_count": 648,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-150 Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012578",
+    "created_at": "2022-07-27T21:00:21Z",
+    "text": "Udah sebulan pakai Touring Front Wheel, oke terus — harga sebanding kualitas Nggak nyesel. 💯 #AWcycles #cycling #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "9027555585",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa529",
+      "followers_count": 1930,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012465",
+    "created_at": "2022-07-27T21:57:53Z",
+    "text": "Absolutely loving my new Touring-2000 Blue from @AWCycles — exceeded my expectations Five stars. 😎 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "4733259825",
+      "name": "Dewi Anwar",
+      "screen_name": "dewianwa8399",
+      "followers_count": 3040,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 68,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Touring-2000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012512",
+    "created_at": "2022-07-27T22:50:12Z",
+    "text": "Capek deh sama ML Mountain Frame - Black dari @AWCycles — finishing-nya asal 😩 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "9870134706",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant7159",
+      "followers_count": 1315,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 35,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000121175",
+    "created_at": "2024-01-10T06:12:40Z",
+    "text": "Frustrated with the Lock Nut 21 from @AdventureWorks — poor build, cheap materials Never again. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "5442107111",
+      "name": "Chris Lopez",
+      "screen_name": "chrilope6115",
+      "followers_count": 338,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121384",
+    "created_at": "2024-01-10T11:42:58Z",
+    "text": "Is the Mountain-200 Silver any good for daily rides? 🤷",
+    "lang": "en",
+    "user": {
+      "id_str": "2469649560",
+      "name": "Maria Lopez",
+      "screen_name": "marilope3158",
+      "followers_count": 1918,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-200 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121211",
+    "created_at": "2024-01-10T13:45:11Z",
+    "text": "Udah sebulan pakai Hex Nut 3, oke terus — murah buat kualitas segini Recommended. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "2184229063",
+      "name": "Raka Garcia",
+      "screen_name": "rakagarc7822",
+      "followers_count": 1462,
+      "verified": true
+    },
+    "retweet_count": 22,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121364",
+    "created_at": "2024-01-10T19:05:06Z",
+    "text": "Udah sebulan pakai LL Mountain Frame - Silver, oke terus — performanya mulus 💯 #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9545737263",
+      "name": "Rizky Hidayat",
+      "screen_name": "rizkhida274",
+      "followers_count": 182,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121259",
+    "created_at": "2024-01-10T19:06:42Z",
+    "text": "Shoutout to AdventureWorks for the Mountain-500 Silver — delivery was smooth 🔥 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1498849418",
+      "name": "Alex Pratama",
+      "screen_name": "alexprat8780",
+      "followers_count": 1629,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-500 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121304",
+    "created_at": "2024-01-10T19:09:28Z",
+    "text": "Udah sebulan pakai Thin-Jam Lock Nut 6, oke terus — harga sebanding kualitas Bintang lima. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "8265452785",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow537",
+      "followers_count": 1820,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121348",
+    "created_at": "2024-01-10T19:18:27Z",
+    "text": "Berharap lebih dari Mountain-300 Black — nggak sebanding harganya ⚠️ #bikes #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3490736053",
+      "name": "Andi Kim",
+      "screen_name": "andikim2860",
+      "followers_count": 42,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-300 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121267",
+    "created_at": "2024-01-10T19:51:55Z",
+    "text": "Kecewa banget sama Paint - Black — salah beli",
+    "lang": "in",
+    "user": {
+      "id_str": "4859956191",
+      "name": "Olivia Saputra",
+      "screen_name": "olivsapu4865",
+      "followers_count": 1444,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Paint - Black",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

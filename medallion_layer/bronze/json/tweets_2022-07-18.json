@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000010508",
+    "created_at": "2022-07-18T04:34:58Z",
+    "text": "Udah sebulan pakai Touring-3000 Yellow, oke terus — terasa kokoh dan rapi Recommended. 😍 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "1819465864",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu5666",
+      "followers_count": 1093,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000010629",
+    "created_at": "2022-07-18T09:57:29Z",
+    "text": "Absolutely loving my new Thin-Jam Hex Nut 11 from @AdventureWorks — zero wear after heavy use 🚴 #bikes #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "1533400257",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant2468",
+      "followers_count": 544,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000010507",
+    "created_at": "2022-07-18T11:20:12Z",
+    "text": "Bintang dua buat Road-250 Red dari @AdventureWorks — packing-nya berantakan Hindari. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "6978092406",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida2804",
+      "followers_count": 125,
+      "verified": true
+    },
+    "retweet_count": 1,
+    "favorite_count": 51,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000010648",
+    "created_at": "2022-07-18T15:06:43Z",
+    "text": "RT @dewi36: Internal Lock Washer 10 dari AdventureWorks bikin nyesel — kemahalan buat kualitas segini Hindari. 🙄 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1787430058",
+      "name": "Sam Anwar",
+      "screen_name": "samanwa6422",
+      "followers_count": 3115,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000010573",
+    "created_at": "2022-07-18T16:42:31Z",
+    "text": "Shoutout to AdventureWorks Cycles for the LL Road Frame - Black — worth every penny Highly recommend. 💯 #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2224315530",
+      "name": "Sam Santoso",
+      "screen_name": "samsant1279",
+      "followers_count": 1322,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000010587",
+    "created_at": "2022-07-18T19:19:45Z",
+    "text": "Akhirnya pakai ML Road Seat/Saddle dan puas pol — worth it banget Nggak nyesel. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "907254039",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant6557",
+      "followers_count": 1946,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000010528",
+    "created_at": "2022-07-18T20:58:07Z",
+    "text": "Ada yang pakai Women's Tights dari AdventureWorks Cycles? Worth it nggak? #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "830966734",
+      "name": "Kevin Lopez",
+      "screen_name": "kevilope3709",
+      "followers_count": 1968,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 69,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Women's Tights, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000010532",
+    "created_at": "2022-07-18T22:04:16Z",
+    "text": "Frustrated with the Lock Nut 21 from AdventureWorks Cycles — the finish is sloppy Never again. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "3801810418",
+      "name": "Dewi Wijaya",
+      "screen_name": "dewiwija5232",
+      "followers_count": 1796,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

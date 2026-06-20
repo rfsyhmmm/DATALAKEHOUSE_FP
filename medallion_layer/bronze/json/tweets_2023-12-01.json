@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000112858",
+    "created_at": "2023-12-01T06:52:52Z",
+    "text": "Udah sebulan pakai Road-750 Black, oke terus — kualitasnya premium Nggak nyesel. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "1025995714",
+      "name": "Sam Smith",
+      "screen_name": "samsmit7141",
+      "followers_count": 1579,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 64,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112930",
+    "created_at": "2023-12-01T08:09:05Z",
+    "text": "Bintang dua buat Flat Washer 9 dari @AdventureWorks — packing-nya berantakan Tolong @AdventureWorks dibenahi. 😤 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8774072256",
+      "name": "Galih Brown",
+      "screen_name": "galibrow9314",
+      "followers_count": 2680,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112942",
+    "created_at": "2023-12-01T10:25:46Z",
+    "text": "Salut buat @AWCycles soal Hex Nut 21 — pengiriman cepat dan packing rapi Bakal beli lagi. 🙌 #bikes #AWcycles #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1809621970",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu4754",
+      "followers_count": 1743,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 46,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000113046",
+    "created_at": "2023-12-01T11:12:34Z",
+    "text": "The Thin-Jam Lock Nut 2 from AdventureWorks has been fantastic — performs flawlessly 😍 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1518711209",
+      "name": "Dimas Saputra",
+      "screen_name": "dimasapu5636",
+      "followers_count": 98,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112953",
+    "created_at": "2023-12-01T12:28:06Z",
+    "text": "Bintang dua buat ML Headset dari AdventureWorks — kirimnya lama banget ⚠️ #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "7383703612",
+      "name": "Tom Clark",
+      "screen_name": "tomclar8253",
+      "followers_count": 3009,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000113003",
+    "created_at": "2023-12-01T13:35:30Z",
+    "text": "Terkesan banget sama ML Road Tire — kualitasnya premium Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "5765592981",
+      "name": "Budi Clark",
+      "screen_name": "budiclar1067",
+      "followers_count": 591,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112889",
+    "created_at": "2023-12-01T18:11:28Z",
+    "text": "Expected so much more from the HL Mountain Frame - Silver — poor build, cheap materials 😡 #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3705193774",
+      "name": "Maria Santoso",
+      "screen_name": "marisant678",
+      "followers_count": 2036,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112871",
+    "created_at": "2023-12-01T19:16:16Z",
+    "text": "Expected so much more from the Road-550-W Yellow — support ignored my emails 👎 #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1600594449",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu4090",
+      "followers_count": 1672,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road-550-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

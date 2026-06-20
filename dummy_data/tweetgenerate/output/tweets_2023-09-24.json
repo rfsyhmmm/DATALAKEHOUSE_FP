@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000098585",
+    "created_at": "2023-09-24T11:24:43Z",
+    "text": "Shoutout to @AdventureWorks for the Hitch Rack - 4-Bike — delivery was smooth ✨ #AdventureWorks #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3388122024",
+      "name": "Chris Brown",
+      "screen_name": "chribrow2792",
+      "followers_count": 261,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 36,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hitch Rack - 4-Bike",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098645",
+    "created_at": "2023-09-24T11:25:08Z",
+    "text": "Ada yang pakai Lock Washer 6 dari AWC? Worth it nggak? 👀 #rideon #AWcycles #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7461462620",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow4979",
+      "followers_count": 2817,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098640",
+    "created_at": "2023-09-24T13:31:58Z",
+    "text": "External Lock Washer 9 dari @AWCycles bikin nyesel — CS-nya nggak guna Kapok. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "6451249862",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc6291",
+      "followers_count": 1384,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "External Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098502",
+    "created_at": "2023-09-24T14:08:36Z",
+    "text": "The Thin-Jam Hex Nut 5 from AdventureWorks Cycles let me down — wish I'd skipped it Avoid. 🙄 #bikelife #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6522797529",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar4057",
+      "followers_count": 803,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 47,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098520",
+    "created_at": "2023-09-24T16:18:15Z",
+    "text": "Absolutely loving my new ML Road Pedal from @AdventureWorks — worth every penny Zero regrets. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "3614550847",
+      "name": "Putri Smith",
+      "screen_name": "putrsmit8890",
+      "followers_count": 704,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 28,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098619",
+    "created_at": "2023-09-24T16:35:56Z",
+    "text": "Akhirnya pakai HL Road Front Wheel dan puas pol — worth it banget Bakal beli lagi. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "2506505142",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant6754",
+      "followers_count": 1136,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098641",
+    "created_at": "2023-09-24T17:12:01Z",
+    "text": "Berharap lebih dari Guide Pulley — kirimnya lama banget ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "7371461449",
+      "name": "Dewi Halim",
+      "screen_name": "dewihali3492",
+      "followers_count": 181,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Guide Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098551",
+    "created_at": "2023-09-24T18:04:53Z",
+    "text": "Done with the HL Road Frame - Red honestly — rattles and feels flimsy Avoid. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "996464856",
+      "name": "Andi Lopez",
+      "screen_name": "andilope7747",
+      "followers_count": 2631,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

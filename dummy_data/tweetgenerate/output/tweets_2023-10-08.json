@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000101376",
+    "created_at": "2023-10-08T03:13:01Z",
+    "text": "Naik level gowes ku gara-gara Mountain-100 Silver — sampai lebih cepat, aman 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9057509987",
+      "name": "Nadia Nguyen",
+      "screen_name": "nadinguy7238",
+      "followers_count": 401,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-100 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101437",
+    "created_at": "2023-10-08T07:37:31Z",
+    "text": "Done with the Road-150 Red honestly — poor build, cheap materials Lesson learned. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "7085065351",
+      "name": "Dewi Halim",
+      "screen_name": "dewihali1983",
+      "followers_count": 2754,
+      "verified": false
+    },
+    "retweet_count": 33,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101329",
+    "created_at": "2023-10-08T14:44:26Z",
+    "text": "Flat Washer 3 dari AWC mantap sih — kualitasnya premium Recommended. 💯 #rideon #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "9238718855",
+      "name": "Raka Lee",
+      "screen_name": "rakalee5153",
+      "followers_count": 569,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101389",
+    "created_at": "2023-10-08T17:38:35Z",
+    "text": "My Internal Lock Washer 6 from @AdventureWorks is excellent — couldn't be happier Highly recommend.",
+    "lang": "en",
+    "user": {
+      "id_str": "8476666693",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant7488",
+      "followers_count": 788,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Internal Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101439",
+    "created_at": "2023-10-08T19:09:56Z",
+    "text": "Udah sebulan pakai Metal Angle, oke terus — pengiriman cepat dan packing rapi Bakal beli lagi.",
+    "lang": "in",
+    "user": {
+      "id_str": "7376848386",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee4885",
+      "followers_count": 1744,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 49,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Angle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101503",
+    "created_at": "2023-10-08T19:32:01Z",
+    "text": "Kecewa banget sama Sport-100 Helmet — bunyi-bunyi dan ringkih Tolong AdventureWorks Cycles dibenahi. 😡 #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2695261189",
+      "name": "Budi Anwar",
+      "screen_name": "budianwa8023",
+      "followers_count": 1535,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101459",
+    "created_at": "2023-10-08T21:04:20Z",
+    "text": "RT @budi48: Three weeks on the Hex Nut 2 and I'm sold — holding up great on rough trails Will buy again. ✨ #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "4954866280",
+      "name": "Galih Nguyen",
+      "screen_name": "galinguy204",
+      "followers_count": 156,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101444",
+    "created_at": "2023-10-08T22:28:06Z",
+    "text": "Terkesan banget sama HL Touring Seat Assembly — kirimnya lancar Nggak nyesel. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "4381026255",
+      "name": "Alex Nguyen",
+      "screen_name": "alexnguy8722",
+      "followers_count": 948,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

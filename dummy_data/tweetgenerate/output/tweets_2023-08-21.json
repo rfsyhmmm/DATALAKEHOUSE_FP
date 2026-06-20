@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000091780",
+    "created_at": "2023-08-21T07:34:55Z",
+    "text": "Akhirnya pakai Metal Sheet 2 dan puas pol — sampai lebih cepat, aman #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8154289341",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow5942",
+      "followers_count": 2236,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000091740",
+    "created_at": "2023-08-21T07:49:08Z",
+    "text": "Two stars for the Headlights - Dual-Beam from @AWCycles — just not worth the money Never again. 👎 #AdventureWorks #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "7882004892",
+      "name": "Olivia Wijaya",
+      "screen_name": "olivwija3406",
+      "followers_count": 39,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Headlights - Dual-Beam",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000091705",
+    "created_at": "2023-08-21T12:41:50Z",
+    "text": "Nyesel beli Handlebar Tube — bunyi-bunyi dan ringkih Pelajaran mahal. 😩 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3534824984",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa4462",
+      "followers_count": 895,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000091791",
+    "created_at": "2023-08-21T13:37:19Z",
+    "text": "Done with the Road-450 Red honestly — overpriced for what you get 😩 #AdventureWorks #rideon #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "6761398133",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee1892",
+      "followers_count": 682,
+      "verified": true
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-450 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000091747",
+    "created_at": "2023-08-21T15:14:26Z",
+    "text": "My Road-150 Red from @AdventureWorks is excellent — couldn't be happier Five stars. 🔥 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "7311882236",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija8466",
+      "followers_count": 813,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-150 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000091628",
+    "created_at": "2023-08-21T20:10:19Z",
+    "text": "Absolutely loving my new ML Mountain Seat Assembly from AWC — feels solid and well made 👍 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9646725896",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija6143",
+      "followers_count": 1705,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000091647",
+    "created_at": "2023-08-21T20:11:06Z",
+    "text": "The Thin-Jam Hex Nut 11 from @AdventureWorks let me down — poor build, cheap materials Lesson learned. ⚠️ #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "852176374",
+      "name": "Maria Garcia",
+      "screen_name": "marigarc733",
+      "followers_count": 1787,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000091682",
+    "created_at": "2023-08-21T23:28:21Z",
+    "text": "RT @dima17: Nggak nyesel beli ML Mountain Handlebars — beli yang tepat sih Bintang lima. 🚴 #AWcycles #bikelife #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "3510599198",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat9840",
+      "followers_count": 1497,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

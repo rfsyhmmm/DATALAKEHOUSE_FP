@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000011397",
+    "created_at": "2022-07-22T07:13:51Z",
+    "text": "Is the Lock Washer 7 any good for daily rides?",
+    "lang": "en",
+    "user": {
+      "id_str": "2602618368",
+      "name": "Eko Kim",
+      "screen_name": "ekokim3521",
+      "followers_count": 1163,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 42,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000011348",
+    "created_at": "2022-07-22T08:39:41Z",
+    "text": "The HL Road Pedal from AdventureWorks let me down — the finish is sloppy Avoid. 🙄 #MTB #AWcycles #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8583773007",
+      "name": "Sam Smith",
+      "screen_name": "samsmit4245",
+      "followers_count": 1223,
+      "verified": true
+    },
+    "retweet_count": 16,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000011418",
+    "created_at": "2022-07-22T13:56:26Z",
+    "text": "Three weeks on the LL Road Frame - Red and I'm sold — couldn't be happier 🔥 #bikelife #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4338037402",
+      "name": "Maya Brown",
+      "screen_name": "mayabrow9329",
+      "followers_count": 3360,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 62,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000011394",
+    "created_at": "2022-07-22T15:07:32Z",
+    "text": "Not happy with my Flat Washer 6 at all — packaging was a mess 🙄 #AWcycles #AdventureWorks #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "8582984894",
+      "name": "Kevin Kim",
+      "screen_name": "kevikim5489",
+      "followers_count": 1961,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000011331",
+    "created_at": "2022-07-22T16:20:53Z",
+    "text": "Salut buat AdventureWorks Cycles soal HL Mountain Seat/Saddle — performanya mulus Recommended. 👍 #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4736618622",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope960",
+      "followers_count": 2315,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000011403",
+    "created_at": "2022-07-22T16:36:40Z",
+    "text": "The Mountain-500 Silver from @AWCycles has been fantastic — couldn't be happier Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "1256130988",
+      "name": "Bayu Hidayat",
+      "screen_name": "bayuhida5193",
+      "followers_count": 1442,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-500 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000011252",
+    "created_at": "2022-07-22T21:58:38Z",
+    "text": "Nggak nyesel beli Flat Washer 3 — kualitasnya premium Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "6771347646",
+      "name": "Maya Smith",
+      "screen_name": "mayasmit1790",
+      "followers_count": 4128,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000011289",
+    "created_at": "2022-07-22T22:29:47Z",
+    "text": "Absolutely loving my new Classic Vest from @AdventureWorks — great value for the price 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "6847748543",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy5531",
+      "followers_count": 693,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Classic Vest, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

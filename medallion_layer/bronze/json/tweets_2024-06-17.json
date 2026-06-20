@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000153580",
+    "created_at": "2024-06-17T06:52:07Z",
+    "text": "The LL Road Handlebars from @AWCycles let me down — support ignored my emails Lesson learned. 🙄 #AdventureWorks #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "427691143",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu5910",
+      "followers_count": 230,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000153628",
+    "created_at": "2024-06-17T08:16:42Z",
+    "text": "Bintang dua buat HL Mountain Rear Wheel dari @AdventureWorks — nggak sebanding harganya #AWcycles #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7871725751",
+      "name": "Raka Smith",
+      "screen_name": "rakasmit4658",
+      "followers_count": 2848,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000153727",
+    "created_at": "2024-06-17T09:04:22Z",
+    "text": "Kecewa banget sama Mountain-100 Black — bunyi-bunyi dan ringkih Tolong AdventureWorks dibenahi. 😩 #rideon #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "740468508",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow7835",
+      "followers_count": 1779,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000153636",
+    "created_at": "2024-06-17T09:18:29Z",
+    "text": "RT @jord11: Really impressed with the ML Crankset — couldn't be happier Will buy again. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "2295057644",
+      "name": "Galih Lopez",
+      "screen_name": "galilope1964",
+      "followers_count": 2676,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000153680",
+    "created_at": "2024-06-17T13:03:13Z",
+    "text": "Terkesan banget sama LL Road Seat/Saddle — kualitasnya premium 💯 #AdventureWorks #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3618384793",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat7188",
+      "followers_count": 499,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000153777",
+    "created_at": "2024-06-17T13:15:21Z",
+    "text": "Two stars for the LL Mountain Pedal from @AdventureWorks — it broke after two weeks ⚠️ #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8650153846",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija9487",
+      "followers_count": 46,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 65,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000153607",
+    "created_at": "2024-06-17T20:21:27Z",
+    "text": "RT @budi24: Absolutely loving my new ML Road Tire from AdventureWorks Cycles — feels solid and well made",
+    "lang": "en",
+    "user": {
+      "id_str": "2907660580",
+      "name": "Maria Wijaya",
+      "screen_name": "mariwija880",
+      "followers_count": 2120,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000153677",
+    "created_at": "2024-06-17T23:42:49Z",
+    "text": "Udah sebulan pakai Men's Sports Shorts, oke terus — performanya mulus 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "8279733487",
+      "name": "Chris Hidayat",
+      "screen_name": "chrihida2316",
+      "followers_count": 1894,
+      "verified": true
+    },
+    "retweet_count": 10,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Men's Sports Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

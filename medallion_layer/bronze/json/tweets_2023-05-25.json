@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000073727",
+    "created_at": "2023-05-25T09:31:16Z",
+    "text": "Shoutout to @AdventureWorks for the Thin-Jam Hex Nut 2 — arrived a day early, well packed Zero regrets. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "7634003393",
+      "name": "Dewi Saputra",
+      "screen_name": "dewisapu8057",
+      "followers_count": 400,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073886",
+    "created_at": "2023-05-25T13:00:18Z",
+    "text": "Frustrated with the LL Road Frame - Red from @AWCycles — the return process is a nightmare 😩 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1084583890",
+      "name": "Citra Santoso",
+      "screen_name": "citrsant1214",
+      "followers_count": 2638,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073838",
+    "created_at": "2023-05-25T13:11:25Z",
+    "text": "Two stars for the Road-650 Black from AWC — fell apart on the first ride Never again. 😣 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1816921029",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy5106",
+      "followers_count": 2433,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-650 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073936",
+    "created_at": "2023-05-25T15:10:30Z",
+    "text": "So glad I picked up the Mountain-500 Silver — feels solid and well made 🚴 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2143109218",
+      "name": "Raka Nguyen",
+      "screen_name": "rakanguy9787",
+      "followers_count": 1665,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073804",
+    "created_at": "2023-05-25T16:56:20Z",
+    "text": "Naik level gowes ku gara-gara Sport-100 Helmet — harga sebanding kualitas 🚴 #AWcycles #bikelife #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1745519096",
+      "name": "Raka Lopez",
+      "screen_name": "rakalope1159",
+      "followers_count": 761,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 40,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Sport-100 Helmet, Black",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073761",
+    "created_at": "2023-05-25T18:33:10Z",
+    "text": "RT @alex45: Really impressed with the Road-650 Red — still rock solid after months 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "2905467263",
+      "name": "Alex Smith",
+      "screen_name": "alexsmit190",
+      "followers_count": 1111,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073752",
+    "created_at": "2023-05-25T19:01:50Z",
+    "text": "Is the Thin-Jam Lock Nut 3 any good for daily rides? 🧐 #rideon #MTB #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8318393262",
+      "name": "Chris Nguyen",
+      "screen_name": "chringuy1723",
+      "followers_count": 2972,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073917",
+    "created_at": "2023-05-25T21:25:53Z",
+    "text": "Absolutely loving my new ML Mountain Seat/Saddle from AdventureWorks — zero wear after heavy use Zero regrets. 😍 #AWcycles #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "6219594995",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy929",
+      "followers_count": 3809,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

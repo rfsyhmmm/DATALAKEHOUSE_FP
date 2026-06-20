@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000032525",
+    "created_at": "2022-11-05T09:14:45Z",
+    "text": "Really disappointed with the Paint - Silver — the finish is sloppy 😡 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4442815588",
+      "name": "Budi Santoso",
+      "screen_name": "budisant7304",
+      "followers_count": 820,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 50,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Paint - Silver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032533",
+    "created_at": "2022-11-05T15:23:25Z",
+    "text": "Expected so much more from the ML Road Front Wheel — wore out way too fast Lesson learned. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "5336082775",
+      "name": "Andi Halim",
+      "screen_name": "andihali7615",
+      "followers_count": 2271,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032606",
+    "created_at": "2022-11-05T15:23:39Z",
+    "text": "Nyesel beli Thin-Jam Lock Nut 10 — nyesel ambil ini 😩 #AdventureWorks #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9034831874",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant3461",
+      "followers_count": 31,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032577",
+    "created_at": "2022-11-05T15:57:41Z",
+    "text": "Udah sebulan pakai Hex Nut 8, oke terus — kirimnya lancar Bintang lima. 🚴 #MTB #bikelife #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5070745881",
+      "name": "Galih Brown",
+      "screen_name": "galibrow7596",
+      "followers_count": 987,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 43,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032633",
+    "created_at": "2022-11-05T18:46:01Z",
+    "text": "Absolutely loving my new Mountain-500 Black from @AdventureWorks — arrived a day early, well packed Will buy again. 💯 #bikelife #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "8648990632",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida3657",
+      "followers_count": 644,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-500 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032513",
+    "created_at": "2022-11-05T20:56:13Z",
+    "text": "Nggak nyesel beli Road-750 Black — CS-nya cepat dan ramah Nggak nyesel. 🙌 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "2331817383",
+      "name": "Hannah Kim",
+      "screen_name": "hannkim6558",
+      "followers_count": 2310,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-750 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032446",
+    "created_at": "2022-11-05T23:17:31Z",
+    "text": "Suka banget sama LL Fork dari AWC — worth it banget Nggak nyesel. 💯 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "350600971",
+      "name": "Maria Anwar",
+      "screen_name": "marianwa3699",
+      "followers_count": 2548,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032475",
+    "created_at": "2022-11-05T23:29:48Z",
+    "text": "Upgraded to the Thin-Jam Lock Nut 12 and no looking back — worth every penny Five stars. 😍 #bikes #cycling #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4932458310",
+      "name": "Chris Kim",
+      "screen_name": "chrikim2002",
+      "followers_count": 17,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 48,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

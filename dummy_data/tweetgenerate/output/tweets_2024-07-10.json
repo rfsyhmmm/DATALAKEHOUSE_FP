@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000158737",
+    "created_at": "2024-07-10T03:26:04Z",
+    "text": "Nggak nyesel beli LL Headset — pelayanannya membantu",
+    "lang": "in",
+    "user": {
+      "id_str": "9292141852",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat8920",
+      "followers_count": 453,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 46,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158851",
+    "created_at": "2024-07-10T06:36:11Z",
+    "text": "Nggak nyesel beli Internal Lock Washer 7 — pengiriman cepat dan packing rapi Recommended. 👍 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "5978779950",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant1047",
+      "followers_count": 1154,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Internal Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158726",
+    "created_at": "2024-07-10T09:07:07Z",
+    "text": "RT @gali69: Nggak nyesel beli ML Mountain Frame - Black — kirimnya lancar Bakal beli lagi. 👍 #AdventureWorks #AWcycles #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "5567241273",
+      "name": "Dewi Clark",
+      "screen_name": "dewiclar4851",
+      "followers_count": 456,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158763",
+    "created_at": "2024-07-10T10:18:02Z",
+    "text": "Really impressed with the LL Road Seat/Saddle — fair price for this quality Highly recommend. #AdventureWorks #bikelife #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2536826484",
+      "name": "Chris Pratama",
+      "screen_name": "chriprat7835",
+      "followers_count": 1699,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158778",
+    "created_at": "2024-07-10T10:28:34Z",
+    "text": "Three weeks on the Thin-Jam Hex Nut 6 and I'm sold — performs flawlessly Will buy again. 😎 #AWcycles #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6241559955",
+      "name": "Hannah Saputra",
+      "screen_name": "hannsapu496",
+      "followers_count": 4660,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158885",
+    "created_at": "2024-07-10T10:58:00Z",
+    "text": "Regret buying the Road-750 Black — poor build, cheap materials Do better @AWCycles. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "7228514633",
+      "name": "Eko Saputra",
+      "screen_name": "ekosapu3451",
+      "followers_count": 124,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158809",
+    "created_at": "2024-07-10T14:49:23Z",
+    "text": "Really disappointed with the Road-750 Black — fell apart on the first ride Avoid. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "712894382",
+      "name": "Citra Garcia",
+      "screen_name": "citrgarc5847",
+      "followers_count": 238,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-750 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158693",
+    "created_at": "2024-07-10T16:11:24Z",
+    "text": "RT @putr13: Lagi mikir mau beli Touring-1000 Yellow. Ada review? #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "202250936",
+      "name": "Chris Hidayat",
+      "screen_name": "chrihida4271",
+      "followers_count": 1519,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-1000 Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

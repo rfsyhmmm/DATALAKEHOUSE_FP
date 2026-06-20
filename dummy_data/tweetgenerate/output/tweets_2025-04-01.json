@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000213398",
+    "created_at": "2025-04-01T04:26:00Z",
+    "text": "Capek deh sama Touring-1000 Blue dari AWC — jebol pas ride pertama Kapok. 😤 #MTB #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3373506111",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant6641",
+      "followers_count": 452,
+      "verified": true
+    },
+    "retweet_count": 7,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000213571",
+    "created_at": "2025-04-01T06:49:46Z",
+    "text": "RT @sam47: Nyesel beli Thin-Jam Lock Nut 12 — jebol pas ride pertama Hindari. 👎 #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5356213215",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu6835",
+      "followers_count": 467,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 48,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000213438",
+    "created_at": "2025-04-01T14:37:34Z",
+    "text": "Lock Nut 8 dari AdventureWorks bikin nyesel — bahannya murahan Hindari. 🙄 #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "2941213018",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope2848",
+      "followers_count": 2364,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000213500",
+    "created_at": "2025-04-01T15:06:48Z",
+    "text": "Hex Nut 17 dari @AdventureWorks mantap sih — performanya mulus Recommended. 💯 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "7463187308",
+      "name": "Jordan Halim",
+      "screen_name": "jordhali1015",
+      "followers_count": 3093,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 50,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000213564",
+    "created_at": "2025-04-01T16:07:45Z",
+    "text": "Regret buying the HL Road Pedal — way too expensive 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "3258576119",
+      "name": "Sam Halim",
+      "screen_name": "samhali7368",
+      "followers_count": 4670,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000213450",
+    "created_at": "2025-04-01T18:19:05Z",
+    "text": "Comparing the Women's Mountain Shorts with a few others before I buy 🧐 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8752866465",
+      "name": "Tom Brown",
+      "screen_name": "tombrow1565",
+      "followers_count": 1070,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Women's Mountain Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000213525",
+    "created_at": "2025-04-01T18:29:32Z",
+    "text": "Regret buying the LL Crankarm — it arrived late and damaged Never again. 😩 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "7998556586",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy4010",
+      "followers_count": 299,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000213355",
+    "created_at": "2025-04-01T20:00:55Z",
+    "text": "RT @mari33: Terkesan banget sama Flat Washer 3 — terasa kokoh dan rapi Recommended. 🚴 #bikes #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "645444346",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow2594",
+      "followers_count": 3129,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

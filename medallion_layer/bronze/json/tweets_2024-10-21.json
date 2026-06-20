@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000179801",
+    "created_at": "2024-10-21T08:09:04Z",
+    "text": "Just unboxed the Road-650 Red, will report back #AdventureWorks #rideon #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "2664743536",
+      "name": "Sam Halim",
+      "screen_name": "samhali2430",
+      "followers_count": 729,
+      "verified": true
+    },
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180015",
+    "created_at": "2024-10-21T10:40:26Z",
+    "text": "Touring-3000 Yellow dari @AdventureWorks mantap sih — kualitasnya premium Recommended. 🔥 #AWcycles #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "888024013",
+      "name": "Maya Wijaya",
+      "screen_name": "mayawija7949",
+      "followers_count": 2630,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000179987",
+    "created_at": "2024-10-21T17:05:32Z",
+    "text": "RT @raka85: My Hex Nut 1 from AdventureWorks is excellent — performs flawlessly Will buy again. 🚴 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "7017557271",
+      "name": "Sam Smith",
+      "screen_name": "samsmit974",
+      "followers_count": 1151,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000179914",
+    "created_at": "2024-10-21T17:15:05Z",
+    "text": "Salut buat AWC soal Water Bottle - 30 oz. — CS-nya cepat dan ramah Recommended. 😍 #AdventureWorks #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "6591244636",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat8545",
+      "followers_count": 1603,
+      "verified": true
+    },
+    "retweet_count": 7,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Water Bottle - 30 oz.",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000179888",
+    "created_at": "2024-10-21T18:34:53Z",
+    "text": "Nggak puas sama Thin-Jam Hex Nut 10 ku — datang telat dan rusak Kapok. 😣 #AdventureWorks #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8210730578",
+      "name": "Alex Halim",
+      "screen_name": "alexhali6082",
+      "followers_count": 831,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000179985",
+    "created_at": "2024-10-21T19:14:59Z",
+    "text": "Frustrated with the Road-450 Red from AdventureWorks — it broke after two weeks Never again. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "5814006197",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc8047",
+      "followers_count": 822,
+      "verified": true
+    },
+    "retweet_count": 18,
+    "favorite_count": 53,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-450 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000179850",
+    "created_at": "2024-10-21T19:35:04Z",
+    "text": "Berharap lebih dari Lock Nut 12 — cepet aus banget Tolong AWC dibenahi. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "7790965770",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit9868",
+      "followers_count": 509,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000179943",
+    "created_at": "2024-10-21T21:28:45Z",
+    "text": "The Hex Nut 12 from AdventureWorks Cycles let me down — way too expensive Never again. 👎 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "277505510",
+      "name": "Hannah Garcia",
+      "screen_name": "hanngarc5729",
+      "followers_count": 535,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 54,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

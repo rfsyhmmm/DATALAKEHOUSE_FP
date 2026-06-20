@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000066090",
+    "created_at": "2023-04-18T06:00:50Z",
+    "text": "RT @eko52: Three weeks on the Lock Washer 8 and I'm sold — performs flawlessly Will buy again. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "7346238878",
+      "name": "Galih Lopez",
+      "screen_name": "galilope6397",
+      "followers_count": 1706,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065978",
+    "created_at": "2023-04-18T14:25:14Z",
+    "text": "The Road-650 Red from AdventureWorks Cycles has been fantastic — holding up great on rough trails 😍 #AWcycles #bikelife #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "9031708887",
+      "name": "Citra Wijaya",
+      "screen_name": "citrwija7589",
+      "followers_count": 1193,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066016",
+    "created_at": "2023-04-18T14:44:14Z",
+    "text": "Really impressed with the Lock Nut 18 — customer service sorted it instantly Zero regrets. ✨ #AdventureWorks #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6399163419",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu4589",
+      "followers_count": 1394,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066028",
+    "created_at": "2023-04-18T16:12:07Z",
+    "text": "Suka banget sama LL Road Frame - Red dari @AWCycles — admin responsif banget Recommended. #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5917921678",
+      "name": "Alex Lee",
+      "screen_name": "alexlee5433",
+      "followers_count": 3150,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066103",
+    "created_at": "2023-04-18T16:38:02Z",
+    "text": "Nyesel beli HL Shell — bahannya murahan Pelajaran mahal.",
+    "lang": "in",
+    "user": {
+      "id_str": "2334803638",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow3987",
+      "followers_count": 3940,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066057",
+    "created_at": "2023-04-18T18:16:53Z",
+    "text": "Naik level gowes ku gara-gara LL Road Frame - Red — melebihi ekspektasi Nggak nyesel. #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6567106715",
+      "name": "Budi Anwar",
+      "screen_name": "budianwa3971",
+      "followers_count": 1548,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 51,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065968",
+    "created_at": "2023-04-18T20:14:47Z",
+    "text": "Thin-Jam Lock Nut 16 dari AdventureWorks mantap sih — puas pol Bakal beli lagi. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "6570672492",
+      "name": "Maya Brown",
+      "screen_name": "mayabrow1583",
+      "followers_count": 913,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065972",
+    "created_at": "2023-04-18T22:09:24Z",
+    "text": "Nggak nyesel beli Hex Nut 12 — worth it banget Recommended. 👍 #MTB #bikelife #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4532356673",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy6862",
+      "followers_count": 1287,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000197132",
+    "created_at": "2025-01-12T01:17:51Z",
+    "text": "Berharap lebih dari Hex Nut 23 — komplain didiemin 👎 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "4158250885",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant6033",
+      "followers_count": 1215,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Hex Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197250",
+    "created_at": "2025-01-12T05:14:55Z",
+    "text": "RT @dima68: Kecewa banget sama HL Shell — bunyi-bunyi dan ringkih Tolong AdventureWorks dibenahi. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "7488211245",
+      "name": "Andi Clark",
+      "screen_name": "andiclar7935",
+      "followers_count": 461,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197152",
+    "created_at": "2025-01-12T07:24:09Z",
+    "text": "Absolutely loving my new LL Nipple from @AWCycles — performs flawlessly Will buy again. 🔥 #AdventureWorks #AWcycles #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "6474617677",
+      "name": "Putri Clark",
+      "screen_name": "putrclar3087",
+      "followers_count": 1345,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Nipple",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197282",
+    "created_at": "2025-01-12T12:48:12Z",
+    "text": "The All-Purpose Bike Stand from AWC has been fantastic — support was quick and friendly Five stars. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "1862717093",
+      "name": "Olivia Pratama",
+      "screen_name": "olivprat8830",
+      "followers_count": 995,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "All-Purpose Bike Stand",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197206",
+    "created_at": "2025-01-12T14:09:55Z",
+    "text": "Capek deh sama Flat Washer 5 dari AdventureWorks Cycles — cepet aus banget Tolong AdventureWorks Cycles dibenahi. 🙄 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "2652175033",
+      "name": "Nadia Kim",
+      "screen_name": "nadikim4249",
+      "followers_count": 2023,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Flat Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197149",
+    "created_at": "2025-01-12T14:33:09Z",
+    "text": "Shoutout to @AWCycles for the Full-Finger Gloves — zero wear after heavy use Zero regrets.",
+    "lang": "en",
+    "user": {
+      "id_str": "3578931690",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija826",
+      "followers_count": 1913,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Full-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197318",
+    "created_at": "2025-01-12T16:06:41Z",
+    "text": "Udahan deh sama Touring-1000 Blue ini — rusak baru dua minggu Kapok. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "7333856868",
+      "name": "Andi Brown",
+      "screen_name": "andibrow8350",
+      "followers_count": 201,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197191",
+    "created_at": "2025-01-12T18:02:41Z",
+    "text": "The Road-250 Red from AdventureWorks Cycles has been fantastic — great value for the price Five stars. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "713494399",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow5938",
+      "followers_count": 989,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-250 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

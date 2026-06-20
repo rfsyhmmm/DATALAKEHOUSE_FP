@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000184476",
+    "created_at": "2024-11-11T05:18:24Z",
+    "text": "Frustrated with the HL Mountain Pedal from AdventureWorks Cycles — it broke after two weeks 👎 #bikes #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "3227590945",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc8776",
+      "followers_count": 962,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000184474",
+    "created_at": "2024-11-11T05:59:48Z",
+    "text": "Baru unboxing LL Mountain Frame - Silver, nanti aku update 👀 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "7589647669",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa9688",
+      "followers_count": 5451,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Mountain Frame - Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000184514",
+    "created_at": "2024-11-11T07:48:36Z",
+    "text": "RT @raka36: Capek deh sama Road-650 Black dari AdventureWorks — packing-nya berantakan Kapok. 😩 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4675435031",
+      "name": "Hannah Putra",
+      "screen_name": "hannputr560",
+      "followers_count": 204,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-650 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000184552",
+    "created_at": "2024-11-11T16:18:43Z",
+    "text": "RT @eko35: Terkesan banget sama Thin-Jam Lock Nut 5 — harga sebanding kualitas Nggak nyesel. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9161597448",
+      "name": "Maria Putra",
+      "screen_name": "mariputr6854",
+      "followers_count": 1044,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000184402",
+    "created_at": "2024-11-11T17:38:16Z",
+    "text": "Expected so much more from the Mountain-400-W Silver — overpriced for what you get 👎 #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "6778249707",
+      "name": "Maria Hidayat",
+      "screen_name": "marihida9115",
+      "followers_count": 230,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-400-W Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000184450",
+    "created_at": "2024-11-11T18:02:42Z",
+    "text": "Upgraded to the Bike Wash - Dissolver and no looking back — feels solid and well made Zero regrets. 🔥 #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9287345353",
+      "name": "Olivia Wijaya",
+      "screen_name": "olivwija9709",
+      "followers_count": 1176,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Bike Wash - Dissolver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000184458",
+    "created_at": "2024-11-11T18:18:37Z",
+    "text": "Absolutely loving my new LL Road Frame - Black from AWC — worth every penny Five stars. 🚴 #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "8052629957",
+      "name": "Dimas Kim",
+      "screen_name": "dimakim1707",
+      "followers_count": 468,
+      "verified": true
+    },
+    "retweet_count": 10,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000184480",
+    "created_at": "2024-11-11T22:15:11Z",
+    "text": "Really disappointed with the ML Mountain Front Wheel — wore out way too fast Avoid. 😡 #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7691341536",
+      "name": "Hannah Kim",
+      "screen_name": "hannkim2199",
+      "followers_count": 940,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

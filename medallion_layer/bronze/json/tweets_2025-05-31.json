@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000225667",
+    "created_at": "2025-05-31T04:03:19Z",
+    "text": "HL Road Seat/Saddle dari @AWCycles mantap sih — kualitasnya premium 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "8210592477",
+      "name": "Alex Brown",
+      "screen_name": "alexbrow877",
+      "followers_count": 1712,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225638",
+    "created_at": "2025-05-31T17:47:47Z",
+    "text": "Naik level gowes ku gara-gara Mountain-500 Silver — beli yang tepat sih Bintang lima. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "5677883605",
+      "name": "Putri Smith",
+      "screen_name": "putrsmit5604",
+      "followers_count": 2104,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 45,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225556",
+    "created_at": "2025-05-31T18:08:41Z",
+    "text": "Naik level gowes ku gara-gara External Lock Washer 8 — terasa kokoh dan rapi Recommended. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "815208314",
+      "name": "Galih Brown",
+      "screen_name": "galibrow9746",
+      "followers_count": 569,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225606",
+    "created_at": "2025-05-31T18:27:13Z",
+    "text": "The Metal Sheet 1 from AdventureWorks has been fantastic — the team was super helpful Zero regrets. #bikes #bikelife #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "4321328277",
+      "name": "Jordan Smith",
+      "screen_name": "jordsmit2968",
+      "followers_count": 3207,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Metal Sheet 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225688",
+    "created_at": "2025-05-31T19:15:55Z",
+    "text": "Really disappointed with the Road-250 Black — just not worth the money Do better AdventureWorks Cycles. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "7395586770",
+      "name": "Citra Lopez",
+      "screen_name": "citrlope3488",
+      "followers_count": 946,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-250 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225664",
+    "created_at": "2025-05-31T21:05:07Z",
+    "text": "Udah sebulan pakai HL Touring Frame - Blue, oke terus — murah buat kualitas segini Bintang lima. 😎 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "6890112529",
+      "name": "Bayu Hidayat",
+      "screen_name": "bayuhida9328",
+      "followers_count": 1827,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225681",
+    "created_at": "2025-05-31T21:59:46Z",
+    "text": "Frustrated with the Mountain-400-W Silver from AdventureWorks — poor build, cheap materials 😡 #rideon #MTB #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "5846779509",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa6928",
+      "followers_count": 4131,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-400-W Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225628",
+    "created_at": "2025-05-31T23:41:26Z",
+    "text": "Lagi mikir mau beli HL Grip Tape. Ada review? 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "3704477809",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa6283",
+      "followers_count": 446,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

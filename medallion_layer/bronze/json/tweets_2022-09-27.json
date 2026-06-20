@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000024465",
+    "created_at": "2022-09-27T05:32:27Z",
+    "text": "Really disappointed with the ML Crankarm — the finish is sloppy Do better AdventureWorks Cycles. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "758858909",
+      "name": "Putri Lee",
+      "screen_name": "putrlee1571",
+      "followers_count": 464,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024482",
+    "created_at": "2022-09-27T07:55:25Z",
+    "text": "RT @kevi30: Not happy with my Metal Sheet 4 at all — way too expensive 🙄 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2955462767",
+      "name": "Eko Wijaya",
+      "screen_name": "ekowija3018",
+      "followers_count": 2197,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 38,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Metal Sheet 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024531",
+    "created_at": "2022-09-27T10:19:13Z",
+    "text": "Not happy with my Flat Washer 2 at all — poor build, cheap materials 👎 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5486588982",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc3986",
+      "followers_count": 2050,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Flat Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024584",
+    "created_at": "2022-09-27T10:28:49Z",
+    "text": "Done with the Tension Pulley honestly — the return process is a nightmare Do better AdventureWorks Cycles. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "8209870866",
+      "name": "Hannah Lopez",
+      "screen_name": "hannlope2086",
+      "followers_count": 788,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 43,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024616",
+    "created_at": "2022-09-27T14:10:41Z",
+    "text": "Nggak nyesel beli Touring-1000 Blue — terasa kokoh dan rapi 🙌 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7612253884",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope8988",
+      "followers_count": 537,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024452",
+    "created_at": "2022-09-27T16:06:02Z",
+    "text": "Expected so much more from the Touring-3000 Blue — packaging was a mess Do better @AWCycles. 😣 #MTB #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2919842331",
+      "name": "Andi Wijaya",
+      "screen_name": "andiwija7010",
+      "followers_count": 896,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024545",
+    "created_at": "2022-09-27T17:27:50Z",
+    "text": "RT @eko46: Terkesan banget sama Metal Bar 1 — kirimnya lancar 👍 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3625930958",
+      "name": "Sam Lopez",
+      "screen_name": "samlope7436",
+      "followers_count": 472,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Bar 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024568",
+    "created_at": "2022-09-27T23:25:23Z",
+    "text": "Frustrated with the Tension Pulley from AdventureWorks Cycles — rattles and feels flimsy Lesson learned. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "6183774420",
+      "name": "Sam Smith",
+      "screen_name": "samsmit6825",
+      "followers_count": 2407,
+      "verified": false
+    },
+    "retweet_count": 34,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

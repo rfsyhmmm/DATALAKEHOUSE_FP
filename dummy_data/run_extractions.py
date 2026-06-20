@@ -2,6 +2,8 @@ import subprocess
 import sys
 from pathlib import Path
 
+import pandas as pd
+
 DUMMY_DATA  = Path(__file__).parent
 REPO_ROOT   = DUMMY_DATA.parent
 STAGING     = DUMMY_DATA / 'staging_extraction'
@@ -10,6 +12,15 @@ TWEET_OUT   = TWEET_DIR / 'output'
 INVOICE_DIR = DUMMY_DATA / 'generate_invoice'
 
 PYTHON = sys.executable
+
+# Tweets are generated across the ACTUAL sales date range (so the social fact and
+# the sales fact live on the same dim_date timeline). Deterministic via a fixed
+# seed so the generated set is stable -> a later batch's wider as-of window is a
+# strict superset of an earlier batch's.
+TWEET_SEED      = 42
+TWEETS_PER_DAY  = 8
+FALLBACK_START  = '2026-06-01'   # only if salesorderheader cannot be read
+FALLBACK_END    = '2026-06-19'
 
 
 def run(cmd: list) -> None:
@@ -23,6 +34,20 @@ def latest_in(subdir: str, pattern: str):
     folder = STAGING / subdir
     files = sorted(folder.glob(pattern)) if folder.exists() else []
     return files[-1] if files else None
+
+
+def sales_date_range():
+    """(start, end, n_days) from the latest salesorderheader export's orderdate."""
+    hdr = latest_in('salesorderheader', 'salesorderheader_*.csv')
+    if hdr is None:
+        return FALLBACK_START, FALLBACK_END, None
+    dates = pd.to_datetime(
+        pd.read_csv(hdr, usecols=['orderdate'])['orderdate'], errors='coerce'
+    ).dropna()
+    if dates.empty:
+        return FALLBACK_START, FALLBACK_END, None
+    start, end = dates.min().date(), dates.max().date()
+    return start.isoformat(), end.isoformat(), (end - start).days + 1
 
 
 # ---------------------------------------------------------------------------
@@ -49,16 +74,28 @@ run([PYTHON, STAGING / 'split_by_channel.py'])
 # ---------------------------------------------------------------------------
 # 2. Generate tweets
 # ---------------------------------------------------------------------------
-print('\n=== [2] Generating tweets ===')
+print('\n=== [2] Generating tweets (over the sales date range) ===')
 
 product_csvs = sorted((STAGING / 'product_and_sub').glob('product_[0-9]*.csv')) \
                if (STAGING / 'product_and_sub').exists() else []
 
+start_date, end_date, n_days = sales_date_range()
+count = (n_days * TWEETS_PER_DAY) if n_days else 2000
+print(f'    tweet window: {start_date} .. {end_date} '
+      f'({n_days} days x {TWEETS_PER_DAY}/day = {count} tweets, seed={TWEET_SEED})')
+
+# clear stale tweet files so a re-run with a different window doesn't leave
+# out-of-range leftovers behind (the generator writes per-day files, never cleans)
+if TWEET_OUT.exists():
+    for old in TWEET_OUT.glob('tweets_*.json'):
+        old.unlink()
+
 tweet_cmd = [
     PYTHON, TWEET_DIR / 'generate_tweets.py',
-    '--count', '2000',
-    '--start-date', '2026-06-01',
-    '--end-date',   '2026-06-19',
+    '--count', str(count),
+    '--start-date', start_date,
+    '--end-date',   end_date,
+    '--seed', str(TWEET_SEED),
     '--lang', 'mixed',
     '--split', 'day',
     '--output', str(TWEET_OUT),

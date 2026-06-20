@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000037901",
+    "created_at": "2022-11-30T10:55:14Z",
+    "text": "Ada yang pakai LL Touring Frame - Yellow dari @AdventureWorks? Worth it nggak? 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "1921610653",
+      "name": "Budi Lee",
+      "screen_name": "budilee6735",
+      "followers_count": 80,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037929",
+    "created_at": "2022-11-30T12:56:36Z",
+    "text": "Udah sebulan pakai Road-350-W Yellow, oke terus — performanya mulus 🚴 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "9710577893",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy6203",
+      "followers_count": 249,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-350-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037888",
+    "created_at": "2022-11-30T15:35:30Z",
+    "text": "Salut buat @AdventureWorks soal Touring Front Wheel — CS-nya cepat dan ramah Bakal beli lagi. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "7403966961",
+      "name": "Jordan Santoso",
+      "screen_name": "jordsant5562",
+      "followers_count": 1590,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037937",
+    "created_at": "2022-11-30T17:11:57Z",
+    "text": "Capek deh sama Road-750 Black dari AdventureWorks Cycles — bahannya murahan 😣 #AWcycles #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4902869358",
+      "name": "Jordan Clark",
+      "screen_name": "jordclar6139",
+      "followers_count": 806,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037890",
+    "created_at": "2022-11-30T18:12:45Z",
+    "text": "Udahan deh sama Touring-2000 Blue ini — bunyi-bunyi dan ringkih 😩 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1589509165",
+      "name": "Sam Saputra",
+      "screen_name": "samsapu6438",
+      "followers_count": 294,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037865",
+    "created_at": "2022-11-30T19:02:08Z",
+    "text": "Suka banget sama HL Nipple dari @AdventureWorks — tahan banting dipakai berat ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "3853696734",
+      "name": "Putri Hidayat",
+      "screen_name": "putrhida8271",
+      "followers_count": 1242,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Nipple",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037942",
+    "created_at": "2022-11-30T20:11:58Z",
+    "text": "RT @bayu12: Udah sebulan pakai ML Mountain Frame-W - Silver, oke terus — tahan banting dipakai berat 😍 #bikelife #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "8602713530",
+      "name": "Alex Halim",
+      "screen_name": "alexhali6628",
+      "followers_count": 286,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Frame-W - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037910",
+    "created_at": "2022-11-30T20:21:11Z",
+    "text": "Naik level gowes ku gara-gara Thin-Jam Hex Nut 13 — CS-nya cepat dan ramah ✨ #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5957503396",
+      "name": "Putri Halim",
+      "screen_name": "putrhali4364",
+      "followers_count": 1027,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

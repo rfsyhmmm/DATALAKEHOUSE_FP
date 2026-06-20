@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000014300",
+    "created_at": "2022-08-04T09:09:13Z",
+    "text": "Berharap lebih dari HL Nipple — finishing-nya asal Tolong AdventureWorks Cycles dibenahi. 👎 #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "5096149681",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc2491",
+      "followers_count": 3222,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Nipple",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014296",
+    "created_at": "2022-08-04T10:47:43Z",
+    "text": "Upgraded to the Men's Sports Shorts and no looking back — fair price for this quality Zero regrets. 👍 #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "3862033050",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu8694",
+      "followers_count": 186,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Men's Sports Shorts, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014182",
+    "created_at": "2022-08-04T12:16:58Z",
+    "text": "Shoutout to @AdventureWorks for the Metal Sheet 7 — build quality feels premium 💯 #cycling #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "1984939143",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant5504",
+      "followers_count": 1192,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014294",
+    "created_at": "2022-08-04T12:19:13Z",
+    "text": "Salut buat AWC soal Touring-1000 Yellow — masih awet setelah berbulan-bulan 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "956458337",
+      "name": "Raka Lopez",
+      "screen_name": "rakalope834",
+      "followers_count": 849,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014218",
+    "created_at": "2022-08-04T13:34:01Z",
+    "text": "Three weeks on the Mountain-500 Black and I'm sold — performs flawlessly Highly recommend. 👍 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2798470384",
+      "name": "Eko Smith",
+      "screen_name": "ekosmit6350",
+      "followers_count": 458,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014255",
+    "created_at": "2022-08-04T14:47:15Z",
+    "text": "Berharap lebih dari LL Road Rear Wheel — proses retur ribet Pelajaran mahal. 😩 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5083522051",
+      "name": "Alex Nguyen",
+      "screen_name": "alexnguy2857",
+      "followers_count": 699,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014318",
+    "created_at": "2022-08-04T18:09:58Z",
+    "text": "Really disappointed with the Men's Sports Shorts — poor build, cheap materials Lesson learned. 👎 #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "2556335839",
+      "name": "Lina Hidayat",
+      "screen_name": "linahida9583",
+      "followers_count": 2,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Men's Sports Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014270",
+    "created_at": "2022-08-04T21:26:56Z",
+    "text": "Shoutout to AWC for the Seat Tube — great value for the price Will buy again. 😎 #bikes #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3160550147",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow3555",
+      "followers_count": 1207,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Seat Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

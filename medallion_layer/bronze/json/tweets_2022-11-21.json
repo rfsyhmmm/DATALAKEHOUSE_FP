@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000036074",
+    "created_at": "2022-11-21T05:16:36Z",
+    "text": "Salut buat @AWCycles soal Lock Washer 12 — melebihi ekspektasi Recommended. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "3444011063",
+      "name": "Bayu Hidayat",
+      "screen_name": "bayuhida7639",
+      "followers_count": 4563,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Washer 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035931",
+    "created_at": "2022-11-21T06:36:20Z",
+    "text": "RT @nadi82: Udahan deh sama Internal Lock Washer 1 ini — kemahalan buat kualitas segini 😡 #AWcycles #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7215602368",
+      "name": "Citra Kim",
+      "screen_name": "citrkim3232",
+      "followers_count": 1695,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000036196",
+    "created_at": "2022-11-21T09:15:57Z",
+    "text": "RT @gali43: Not happy with my Thin-Jam Hex Nut 15 at all — shipping took forever Never again. 😩 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1453784115",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa2263",
+      "followers_count": 2386,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000036157",
+    "created_at": "2022-11-21T10:01:18Z",
+    "text": "The Road-250 Red from @AWCycles has been fantastic — delivery was smooth Zero regrets. 🔥 #AWcycles #bikes #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7897902408",
+      "name": "Rizky Kim",
+      "screen_name": "rizkkim6209",
+      "followers_count": 1367,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000036024",
+    "created_at": "2022-11-21T14:04:07Z",
+    "text": "Naik level gowes ku gara-gara HL Road Frame - Black — kualitasnya premium 🚴 #AWcycles #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "6231166148",
+      "name": "Andi Nguyen",
+      "screen_name": "andinguy9044",
+      "followers_count": 1012,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000036119",
+    "created_at": "2022-11-21T14:08:19Z",
+    "text": "Two stars for the Lock Washer 8 from AWC — the finish is sloppy Do better AWC. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "4225343209",
+      "name": "Budi Santoso",
+      "screen_name": "budisant935",
+      "followers_count": 109,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 28,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035980",
+    "created_at": "2022-11-21T14:58:33Z",
+    "text": "Two stars for the Thin-Jam Lock Nut 7 from @AWCycles — rattles and feels flimsy 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "3531924209",
+      "name": "Hannah Garcia",
+      "screen_name": "hanngarc2219",
+      "followers_count": 464,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000036237",
+    "created_at": "2022-11-21T17:01:24Z",
+    "text": "The LL Grip Tape from AdventureWorks has been fantastic — still rock solid after months 😎 #cycling #AdventureWorks #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9394095246",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy4339",
+      "followers_count": 1401,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

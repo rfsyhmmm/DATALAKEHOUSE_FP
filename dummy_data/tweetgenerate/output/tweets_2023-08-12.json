@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000089888",
+    "created_at": "2023-08-12T03:49:04Z",
+    "text": "Capek deh sama Touring-1000 Blue dari AdventureWorks Cycles — jebol pas ride pertama Tolong AdventureWorks Cycles dibenahi.",
+    "lang": "in",
+    "user": {
+      "id_str": "702252708",
+      "name": "Dimas Halim",
+      "screen_name": "dimahali9059",
+      "followers_count": 1488,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089765",
+    "created_at": "2023-08-12T05:52:49Z",
+    "text": "Absolutely loving my new HL Touring Frame - Yellow from AdventureWorks — performs flawlessly 👍 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "2975762532",
+      "name": "Bayu Hidayat",
+      "screen_name": "bayuhida1632",
+      "followers_count": 886,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089910",
+    "created_at": "2023-08-12T06:03:27Z",
+    "text": "Done with the ML Road Frame-W - Yellow honestly — packaging was a mess Lesson learned. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "6614384372",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope8519",
+      "followers_count": 499,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame-W - Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089839",
+    "created_at": "2023-08-12T08:15:33Z",
+    "text": "Frustrated with the Men's Sports Shorts from AWC — overpriced for what you get 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "5600355065",
+      "name": "Rizky Wijaya",
+      "screen_name": "rizkwija2538",
+      "followers_count": 3424,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Men's Sports Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089768",
+    "created_at": "2023-08-12T11:15:09Z",
+    "text": "Expected so much more from the Short-Sleeve Classic Jersey — poor build, cheap materials 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "8893880652",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow8724",
+      "followers_count": 857,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089887",
+    "created_at": "2023-08-12T14:14:26Z",
+    "text": "Suka banget sama Road-550-W Yellow dari @AdventureWorks — melebihi ekspektasi Bakal beli lagi. 🔥 #rideon #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5654988465",
+      "name": "Galih Smith",
+      "screen_name": "galismit2449",
+      "followers_count": 3507,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-550-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089798",
+    "created_at": "2023-08-12T15:16:11Z",
+    "text": "Nggak nyesel beli HL Road Frame - Black — melebihi ekspektasi Bakal beli lagi. 🙌 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7246898353",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow5337",
+      "followers_count": 2585,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089783",
+    "created_at": "2023-08-12T18:41:54Z",
+    "text": "Akhirnya pakai Road-750 Black dan puas pol — harga sebanding kualitas Bintang lima. 🚴 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6692031115",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali9169",
+      "followers_count": 1177,
+      "verified": true
+    },
+    "retweet_count": 5,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-750 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

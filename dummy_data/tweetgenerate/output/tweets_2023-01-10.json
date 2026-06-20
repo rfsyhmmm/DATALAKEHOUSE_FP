@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000046177",
+    "created_at": "2023-01-10T08:25:24Z",
+    "text": "LL Mountain Handlebars dari @AWCycles mantap sih — masih awet setelah berbulan-bulan Recommended. 😎 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1690382399",
+      "name": "Jordan Hidayat",
+      "screen_name": "jordhida1208",
+      "followers_count": 1281,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046286",
+    "created_at": "2023-01-10T10:03:29Z",
+    "text": "Nggak puas sama ML Road Frame - Red ku — finishing-nya asal Hindari. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "2445646151",
+      "name": "Andi Brown",
+      "screen_name": "andibrow7354",
+      "followers_count": 4340,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046325",
+    "created_at": "2023-01-10T15:30:29Z",
+    "text": "Udah sebulan pakai Headlights - Weatherproof, oke terus — masih awet setelah berbulan-bulan Recommended. 😎 #bikelife #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "8657332117",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu6451",
+      "followers_count": 2479,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 43,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046131",
+    "created_at": "2023-01-10T16:24:46Z",
+    "text": "Akhirnya pakai Metal Plate 1 dan puas pol — murah buat kualitas segini Bakal beli lagi.",
+    "lang": "in",
+    "user": {
+      "id_str": "9931721787",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy1770",
+      "followers_count": 2351,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Metal Plate 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046249",
+    "created_at": "2023-01-10T16:47:33Z",
+    "text": "Two stars for the Front Brakes from @AdventureWorks — fell apart on the first ride 😣 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "6899464704",
+      "name": "Rizky Lopez",
+      "screen_name": "rizklope8294",
+      "followers_count": 646,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Front Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046209",
+    "created_at": "2023-01-10T19:46:08Z",
+    "text": "Two stars for the ML Headset from AdventureWorks Cycles — overpriced for what you get Lesson learned. 😣 #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5708105490",
+      "name": "Dewi Wijaya",
+      "screen_name": "dewiwija494",
+      "followers_count": 1780,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046269",
+    "created_at": "2023-01-10T19:57:39Z",
+    "text": "Really impressed with the Hex Nut 12 — performs flawlessly Five stars. 😍 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3219616691",
+      "name": "Putri Halim",
+      "screen_name": "putrhali5630",
+      "followers_count": 675,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046138",
+    "created_at": "2023-01-10T20:39:03Z",
+    "text": "Not happy with my Hex Nut 3 at all — it arrived late and damaged 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "5242353627",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr2676",
+      "followers_count": 2328,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

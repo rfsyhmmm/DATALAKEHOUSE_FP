@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000034832",
+    "created_at": "2022-11-15T04:09:08Z",
+    "text": "Really impressed with the Mountain-500 Black — zero wear after heavy use Will buy again. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "4484859239",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope5929",
+      "followers_count": 391,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-500 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000034872",
+    "created_at": "2022-11-15T09:57:32Z",
+    "text": "RT @citr2: Terkesan banget sama HL Road Handlebars — melebihi ekspektasi 😍 #bikelife #MTB #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4861980389",
+      "name": "Sofia Wijaya",
+      "screen_name": "sofiwija2293",
+      "followers_count": 774,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000034891",
+    "created_at": "2022-11-15T10:05:39Z",
+    "text": "RT @sam26: Really impressed with the LL Road Frame - Black — still rock solid after months Highly recommend. 😎 #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8552589264",
+      "name": "Tom Putra",
+      "screen_name": "tomputr6781",
+      "followers_count": 294,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000034718",
+    "created_at": "2022-11-15T17:30:41Z",
+    "text": "Capek deh sama LL Grip Tape dari AWC — finishing-nya asal Tolong AWC dibenahi. 😩 #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1625278907",
+      "name": "Dewi Halim",
+      "screen_name": "dewihali7118",
+      "followers_count": 2792,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000034751",
+    "created_at": "2022-11-15T20:08:03Z",
+    "text": "The Long-Sleeve Logo Jersey from @AdventureWorks let me down — shipping took forever ⚠️ #bikes #bikelife #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "5356172838",
+      "name": "Dimas Lee",
+      "screen_name": "dimalee3858",
+      "followers_count": 1123,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000034927",
+    "created_at": "2022-11-15T20:38:12Z",
+    "text": "Udah sebulan pakai Women's Tights, oke terus — masih awet setelah berbulan-bulan ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "9860928846",
+      "name": "Sam Pratama",
+      "screen_name": "samprat6072",
+      "followers_count": 1064,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Women's Tights, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000034792",
+    "created_at": "2022-11-15T20:45:36Z",
+    "text": "Thinking about the Lock Nut 14. Any reviews? 🤷 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "653435362",
+      "name": "Galih Smith",
+      "screen_name": "galismit4574",
+      "followers_count": 990,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000034921",
+    "created_at": "2022-11-15T21:57:03Z",
+    "text": "Salut buat @AdventureWorks soal Metal Sheet 1 — terasa kokoh dan rapi Recommended. 🙌 #bikes #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2193488345",
+      "name": "Mia Lopez",
+      "screen_name": "mialope9009",
+      "followers_count": 700,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

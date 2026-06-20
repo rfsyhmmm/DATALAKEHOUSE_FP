@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000164385",
+    "created_at": "2024-08-06T04:45:46Z",
+    "text": "Udahan deh sama ML Mountain Tire ini — kirimnya lama banget 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "4473525640",
+      "name": "Putri Garcia",
+      "screen_name": "putrgarc8833",
+      "followers_count": 1246,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000164538",
+    "created_at": "2024-08-06T08:51:51Z",
+    "text": "Three weeks on the Hex Nut 6 and I'm sold — holding up great on rough trails Zero regrets. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "4856359114",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida4797",
+      "followers_count": 522,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000164480",
+    "created_at": "2024-08-06T08:54:59Z",
+    "text": "Nggak nyesel beli LL Mountain Handlebars — pengiriman cepat dan packing rapi Nggak nyesel. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "2294507982",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija8601",
+      "followers_count": 1935,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000164562",
+    "created_at": "2024-08-06T09:11:19Z",
+    "text": "Regret buying the Road-550-W Yellow — poor build, cheap materials Never again. 😣 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "5460208287",
+      "name": "Andi Lee",
+      "screen_name": "andilee2025",
+      "followers_count": 898,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000164455",
+    "created_at": "2024-08-06T09:52:04Z",
+    "text": "Frustrated with the Chain from @AWCycles — poor build, cheap materials Do better @AWCycles.",
+    "lang": "en",
+    "user": {
+      "id_str": "9484564029",
+      "name": "Dimas Putra",
+      "screen_name": "dimaputr3971",
+      "followers_count": 954,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Chain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000164491",
+    "created_at": "2024-08-06T12:13:42Z",
+    "text": "Udah sebulan pakai Rear Derailleur, oke terus — worth it banget Bintang lima. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "2165095652",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu7549",
+      "followers_count": 2859,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 36,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000164397",
+    "created_at": "2024-08-06T14:54:06Z",
+    "text": "Really disappointed with the Touring-3000 Yellow — poor build, cheap materials Do better @AdventureWorks. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "5716991067",
+      "name": "Putri Pratama",
+      "screen_name": "putrprat6169",
+      "followers_count": 587,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000164434",
+    "created_at": "2024-08-06T22:41:48Z",
+    "text": "Really impressed with the Thin-Jam Hex Nut 4 — shipping was fast and packaging perfect Will buy again. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "5259856466",
+      "name": "Raka Nguyen",
+      "screen_name": "rakanguy8747",
+      "followers_count": 318,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

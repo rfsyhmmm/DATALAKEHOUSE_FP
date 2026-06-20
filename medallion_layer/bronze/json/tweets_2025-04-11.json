@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000215659",
+    "created_at": "2025-04-11T03:18:50Z",
+    "text": "So glad I picked up the Rear Derailleur Cage — arrived a day early, well packed 🚴 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4108048097",
+      "name": "Andi Putra",
+      "screen_name": "andiputr210",
+      "followers_count": 879,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215693",
+    "created_at": "2025-04-11T05:40:33Z",
+    "text": "Two stars for the HL Road Frame - Black from @AWCycles — a total letdown Lesson learned.",
+    "lang": "en",
+    "user": {
+      "id_str": "119379172",
+      "name": "Putri Garcia",
+      "screen_name": "putrgarc5289",
+      "followers_count": 1973,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "HL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215644",
+    "created_at": "2025-04-11T06:23:32Z",
+    "text": "RT @budi18: Akhirnya pakai Lock Nut 4 dan puas pol — kirimnya lancar 😍 #bikes #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "1878616592",
+      "name": "Dimas Hidayat",
+      "screen_name": "dimahida6380",
+      "followers_count": 1639,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215734",
+    "created_at": "2025-04-11T08:46:38Z",
+    "text": "Naik level gowes ku gara-gara Hex Nut 16 — performanya mulus Bakal beli lagi. 🚴 #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3299108972",
+      "name": "Rizky Smith",
+      "screen_name": "rizksmit1325",
+      "followers_count": 650,
+      "verified": false
+    },
+    "retweet_count": 31,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215595",
+    "created_at": "2025-04-11T08:53:11Z",
+    "text": "Done with the External Lock Washer 6 honestly — just not worth the money 😡 #rideon #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2842348245",
+      "name": "Kevin Clark",
+      "screen_name": "keviclar3751",
+      "followers_count": 810,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215683",
+    "created_at": "2025-04-11T10:59:22Z",
+    "text": "Nggak nyesel beli HL Road Frame - Red — harga sebanding kualitas Nggak nyesel. 🚴 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5775327517",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat9700",
+      "followers_count": 1176,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215589",
+    "created_at": "2025-04-11T16:02:14Z",
+    "text": "Shoutout to AdventureWorks Cycles for the LL Mountain Frame - Silver — delivery was smooth Highly recommend. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "2684813090",
+      "name": "Sofia Wijaya",
+      "screen_name": "sofiwija7603",
+      "followers_count": 2745,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Frame - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000215596",
+    "created_at": "2025-04-11T16:31:44Z",
+    "text": "Akhirnya pakai Men's Sports Shorts dan puas pol — pelayanannya membantu 🔥 #AWcycles #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "675685747",
+      "name": "Raka Saputra",
+      "screen_name": "rakasapu6988",
+      "followers_count": 560,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000005422",
+    "created_at": "2022-06-23T07:46:40Z",
+    "text": "Shoutout to @AWCycles for the Sport-100 Helmet — the team was super helpful 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "5754275321",
+      "name": "Galih Nguyen",
+      "screen_name": "galinguy6997",
+      "followers_count": 4023,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005349",
+    "created_at": "2022-06-23T09:42:30Z",
+    "text": "Shoutout to AWC for the ML Mountain Seat/Saddle — still rock solid after months 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "991796718",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali9135",
+      "followers_count": 1000,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005482",
+    "created_at": "2022-06-23T11:35:20Z",
+    "text": "Udah sebulan pakai Men's Sports Shorts, oke terus — tahan banting dipakai berat Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "7283216649",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc3179",
+      "followers_count": 3116,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Men's Sports Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005268",
+    "created_at": "2022-06-23T12:20:28Z",
+    "text": "Two stars for the Internal Lock Washer 9 from AdventureWorks — wish I'd skipped it 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "3520882289",
+      "name": "Citra Halim",
+      "screen_name": "citrhali5310",
+      "followers_count": 647,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005314",
+    "created_at": "2022-06-23T12:24:02Z",
+    "text": "Regret buying the HL Spindle/Axle — a total letdown Never again. ⚠️ #AdventureWorks #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "971241447",
+      "name": "Nadia Nguyen",
+      "screen_name": "nadinguy2961",
+      "followers_count": 1245,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "HL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005388",
+    "created_at": "2022-06-23T13:11:10Z",
+    "text": "So glad I picked up the Lock Washer 3 — performs flawlessly #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "4673821760",
+      "name": "Tom Putra",
+      "screen_name": "tomputr7002",
+      "followers_count": 1104,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 42,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005469",
+    "created_at": "2022-06-23T18:12:00Z",
+    "text": "Two stars for the ML Road Front Wheel from AdventureWorks — wore out way too fast Avoid. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "4590354768",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope6784",
+      "followers_count": 2203,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005504",
+    "created_at": "2022-06-23T20:19:36Z",
+    "text": "RT @tom81: Not happy with my ML Road Frame - Red at all — shipping took forever 😡 #AdventureWorks #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6996382125",
+      "name": "Hannah Garcia",
+      "screen_name": "hanngarc9355",
+      "followers_count": 1044,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

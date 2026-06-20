@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000106477",
+    "created_at": "2023-11-02T07:45:16Z",
+    "text": "Expected so much more from the Hex Nut 1 — it broke after two weeks Avoid. 😩 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "2508845606",
+      "name": "Chris Smith",
+      "screen_name": "chrismit1669",
+      "followers_count": 1272,
+      "verified": false
+    },
+    "retweet_count": 35,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106550",
+    "created_at": "2023-11-02T08:51:33Z",
+    "text": "Nggak nyesel beli Hex Nut 9 — admin responsif banget 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "5726358951",
+      "name": "Chris Brown",
+      "screen_name": "chribrow1096",
+      "followers_count": 580,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106527",
+    "created_at": "2023-11-02T12:57:29Z",
+    "text": "Done with the Thin-Jam Hex Nut 9 honestly — packaging was a mess Do better @AWCycles. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "299038574",
+      "name": "Eko Putra",
+      "screen_name": "ekoputr2935",
+      "followers_count": 1607,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106584",
+    "created_at": "2023-11-02T19:34:02Z",
+    "text": "Absolutely loving my new Touring-3000 Blue from @AWCycles — fair price for this quality Highly recommend. 😎 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1257493873",
+      "name": "Mia Kim",
+      "screen_name": "miakim7406",
+      "followers_count": 518,
+      "verified": true
+    },
+    "retweet_count": 14,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106537",
+    "created_at": "2023-11-02T19:38:26Z",
+    "text": "Nyesel beli Road-750 Black — nggak sebanding harganya Tolong AdventureWorks dibenahi. ⚠️ #AWcycles #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5127795990",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida6947",
+      "followers_count": 696,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-750 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106434",
+    "created_at": "2023-11-02T20:20:35Z",
+    "text": "Really impressed with the Classic Vest — honestly a great buy Will buy again. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "4445785569",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali5134",
+      "followers_count": 133,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 43,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Classic Vest, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106387",
+    "created_at": "2023-11-02T22:39:10Z",
+    "text": "Two stars for the LL Touring Seat/Saddle from @AdventureWorks — poor build, cheap materials #cycling #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2217514901",
+      "name": "Budi Pratama",
+      "screen_name": "budiprat4499",
+      "followers_count": 944,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106576",
+    "created_at": "2023-11-02T23:25:51Z",
+    "text": "Nyesel beli Lock Nut 1 — bahannya murahan Pelajaran mahal. 🙄 #AdventureWorks #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3947082427",
+      "name": "Dimas Saputra",
+      "screen_name": "dimasapu1627",
+      "followers_count": 1358,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

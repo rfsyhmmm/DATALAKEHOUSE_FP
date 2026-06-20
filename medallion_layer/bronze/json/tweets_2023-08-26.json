@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000092678",
+    "created_at": "2023-08-26T05:36:13Z",
+    "text": "My ML Mountain Tire from AdventureWorks is excellent — build quality feels premium 🙌 #AdventureWorks #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4772889833",
+      "name": "Raka Halim",
+      "screen_name": "rakahali2526",
+      "followers_count": 3209,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 49,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092781",
+    "created_at": "2023-08-26T07:52:19Z",
+    "text": "Terkesan banget sama Road-250 Red — sampai lebih cepat, aman Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "6304773289",
+      "name": "Andi Smith",
+      "screen_name": "andismit2351",
+      "followers_count": 549,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092602",
+    "created_at": "2023-08-26T12:32:55Z",
+    "text": "Really impressed with the HL Touring Seat Assembly — zero wear after heavy use Will buy again.",
+    "lang": "en",
+    "user": {
+      "id_str": "4082884957",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat2710",
+      "followers_count": 1318,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092816",
+    "created_at": "2023-08-26T13:39:03Z",
+    "text": "My HL Mountain Frame - Silver from @AdventureWorks is excellent — fair price for this quality 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "7163153215",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu3151",
+      "followers_count": 2182,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Frame - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092637",
+    "created_at": "2023-08-26T18:02:34Z",
+    "text": "Anyone using the Paint - Red from @AdventureWorks? Worth it? 🤔 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8672060995",
+      "name": "Chris Smith",
+      "screen_name": "chrismit9184",
+      "followers_count": 1113,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092727",
+    "created_at": "2023-08-26T18:35:49Z",
+    "text": "Expected so much more from the LL Road Rim — wore out way too fast Do better @AdventureWorks. 😤 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "933761762",
+      "name": "Budi Brown",
+      "screen_name": "budibrow3685",
+      "followers_count": 1501,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092737",
+    "created_at": "2023-08-26T20:17:51Z",
+    "text": "The Lock Nut 11 from @AdventureWorks has been fantastic — performs flawlessly 💯 #cycling #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3931091319",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa7794",
+      "followers_count": 40,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092827",
+    "created_at": "2023-08-26T20:40:13Z",
+    "text": "Full-Finger Gloves dari AdventureWorks mantap sih — terasa kokoh dan rapi",
+    "lang": "in",
+    "user": {
+      "id_str": "9761868959",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr3669",
+      "followers_count": 70,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Full-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

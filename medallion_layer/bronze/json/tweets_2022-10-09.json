@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000026998",
+    "created_at": "2022-10-09T00:38:19Z",
+    "text": "Udah sebulan pakai Men's Sports Shorts, oke terus — kuat di trek kasar Recommended. 🙌 #rideon #AWcycles #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1324096414",
+      "name": "Rizky Pratama",
+      "screen_name": "rizkprat9437",
+      "followers_count": 4407,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Men's Sports Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026980",
+    "created_at": "2022-10-09T08:27:28Z",
+    "text": "Thin-Jam Lock Nut 13 bagus nggak buat harian? 🤷 #bikelife #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "9259464946",
+      "name": "Galih Garcia",
+      "screen_name": "galigarc5008",
+      "followers_count": 1675,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 50,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026927",
+    "created_at": "2022-10-09T09:38:16Z",
+    "text": "Internal Lock Washer 10 dari AdventureWorks Cycles bikin nyesel — bahannya murahan 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "1773369932",
+      "name": "Sam Lee",
+      "screen_name": "samlee5144",
+      "followers_count": 2247,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026966",
+    "created_at": "2022-10-09T17:27:44Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Seat Stays — support was quick and friendly 💯 #AdventureWorks #rideon #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "3931262521",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida7921",
+      "followers_count": 916,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Seat Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026812",
+    "created_at": "2022-10-09T18:07:48Z",
+    "text": "Shoutout to @AdventureWorks for the Flat Washer 8 — exceeded my expectations Will buy again. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "1770817331",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc1883",
+      "followers_count": 1544,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Flat Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026843",
+    "created_at": "2022-10-09T19:02:19Z",
+    "text": "Not happy with my HL Mountain Handlebars at all — packaging was a mess 😡 #bikelife #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7379302094",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow5600",
+      "followers_count": 2764,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026987",
+    "created_at": "2022-10-09T19:03:26Z",
+    "text": "Not happy with my Headlights - Weatherproof at all — fell apart on the first ride Do better @AdventureWorks. 😤 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "5117363144",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy4399",
+      "followers_count": 928,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 48,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026881",
+    "created_at": "2022-10-09T20:46:13Z",
+    "text": "Nyesel beli Mountain-100 Black — bunyi-bunyi dan ringkih Tolong @AWCycles dibenahi. 😤 #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "7968686875",
+      "name": "Hannah Putra",
+      "screen_name": "hannputr4163",
+      "followers_count": 2959,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

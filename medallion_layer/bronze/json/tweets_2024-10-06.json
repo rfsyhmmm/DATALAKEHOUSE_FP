@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000176972",
+    "created_at": "2024-10-06T05:55:45Z",
+    "text": "Nggak nyesel beli Hex Nut 3 — murah buat kualitas segini 🙌 #rideon #MTB #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6491049213",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija9733",
+      "followers_count": 3059,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177003",
+    "created_at": "2024-10-06T08:42:57Z",
+    "text": "The Metal Sheet 4 from @AWCycles let me down — overpriced for what you get Avoid. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "4761718697",
+      "name": "Nadia Putra",
+      "screen_name": "nadiputr8691",
+      "followers_count": 129,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Metal Sheet 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000176886",
+    "created_at": "2024-10-06T09:08:45Z",
+    "text": "Udah sebulan pakai Touring-1000 Yellow, oke terus — murah buat kualitas segini Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "5574909818",
+      "name": "Lina Nguyen",
+      "screen_name": "linanguy8490",
+      "followers_count": 1012,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-1000 Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000176873",
+    "created_at": "2024-10-06T09:54:43Z",
+    "text": "Is the Hex Nut 3 any good for daily rides? 🧐 #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "574954811",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija5169",
+      "followers_count": 2826,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000176997",
+    "created_at": "2024-10-06T11:22:39Z",
+    "text": "Lagi banding-bandingin Hex Nut 9 sama merek lain 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "5196279850",
+      "name": "Dimas Lee",
+      "screen_name": "dimalee91",
+      "followers_count": 57,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000176878",
+    "created_at": "2024-10-06T13:55:15Z",
+    "text": "Naik level gowes ku gara-gara ML Mountain Frame-W - Silver — kualitasnya premium 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "6662447970",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija3340",
+      "followers_count": 179,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177049",
+    "created_at": "2024-10-06T17:06:27Z",
+    "text": "The Mountain-500 Silver from AdventureWorks has been fantastic — exceeded my expectations Highly recommend. 😎 #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5854844998",
+      "name": "Jordan Kim",
+      "screen_name": "jordkim4385",
+      "followers_count": 1771,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-500 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000176931",
+    "created_at": "2024-10-06T20:39:46Z",
+    "text": "So glad I picked up the LL Crankset — customer service sorted it instantly 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "7949579632",
+      "name": "Rizky Wijaya",
+      "screen_name": "rizkwija506",
+      "followers_count": 1174,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

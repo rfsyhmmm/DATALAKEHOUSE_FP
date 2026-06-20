@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000226622",
+    "created_at": "2025-06-05T06:25:04Z",
+    "text": "Touring-3000 Blue dari AdventureWorks mantap sih — terasa kokoh dan rapi Bintang lima. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "1644640579",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat786",
+      "followers_count": 184,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226540",
+    "created_at": "2025-06-05T08:33:24Z",
+    "text": "Bintang dua buat Men's Bib-Shorts dari AdventureWorks — mahal nggak masuk akal 😡 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "5037023168",
+      "name": "Citra Putra",
+      "screen_name": "citrputr369",
+      "followers_count": 2614,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Men's Bib-Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226489",
+    "created_at": "2025-06-05T09:58:54Z",
+    "text": "Capek deh sama Road-650 Red dari AdventureWorks Cycles — bahannya murahan 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "4473019119",
+      "name": "Galih Putra",
+      "screen_name": "galiputr9273",
+      "followers_count": 4030,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226655",
+    "created_at": "2025-06-05T14:32:45Z",
+    "text": "RT @andi90: Udah sebulan pakai HL Mountain Rear Wheel, oke terus — worth it banget Bintang lima. 🔥 #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9255292629",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee2103",
+      "followers_count": 2346,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226578",
+    "created_at": "2025-06-05T14:43:47Z",
+    "text": "Suka banget sama Road-250 Red dari @AdventureWorks — kuat di trek kasar Nggak nyesel. 💯 #MTB #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "8328242187",
+      "name": "Mia Hidayat",
+      "screen_name": "miahida7173",
+      "followers_count": 2128,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-250 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226514",
+    "created_at": "2025-06-05T16:23:51Z",
+    "text": "Frustrated with the ML Road Frame-W - Yellow from AdventureWorks Cycles — fell apart on the first ride Never again. 👎 #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7556629886",
+      "name": "Alex Garcia",
+      "screen_name": "alexgarc8995",
+      "followers_count": 2166,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame-W - Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226555",
+    "created_at": "2025-06-05T16:43:49Z",
+    "text": "RT @alex24: Three weeks on the Hex Nut 20 and I'm sold — feels solid and well made Five stars. 🔥 #bikes #AdventureWorks #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "4859963924",
+      "name": "Sam Pratama",
+      "screen_name": "samprat4171",
+      "followers_count": 36,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000226500",
+    "created_at": "2025-06-05T22:55:57Z",
+    "text": "Really impressed with the Front Derailleur Linkage — arrived a day early, well packed 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "1894722250",
+      "name": "Dimas Hidayat",
+      "screen_name": "dimahida5201",
+      "followers_count": 107,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Front Derailleur Linkage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000051625",
+    "created_at": "2023-02-05T05:40:56Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Lock Nut 17 — feels solid and well made Will buy again. 👍 #AWcycles #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1891268034",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat878",
+      "followers_count": 4137,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051717",
+    "created_at": "2023-02-05T11:20:55Z",
+    "text": "Nggak nyesel beli ML Crankset — worth it banget Bintang lima. #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "520553401",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow9765",
+      "followers_count": 83,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051614",
+    "created_at": "2023-02-05T13:16:37Z",
+    "text": "The Hex Nut 7 from AdventureWorks Cycles let me down — overpriced for what you get Do better AdventureWorks Cycles.",
+    "lang": "en",
+    "user": {
+      "id_str": "9490420667",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat244",
+      "followers_count": 3448,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051643",
+    "created_at": "2023-02-05T13:46:40Z",
+    "text": "Naik level gowes ku gara-gara LL Crankarm — CS-nya cepat dan ramah ✨ #cycling #bikelife #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6996608200",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow4438",
+      "followers_count": 1413,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051593",
+    "created_at": "2023-02-05T14:31:49Z",
+    "text": "Not happy with my ML Road Frame - Red at all — customer service was useless 😣 #bikelife #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "4129686621",
+      "name": "Maria Garcia",
+      "screen_name": "marigarc828",
+      "followers_count": 1010,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051652",
+    "created_at": "2023-02-05T15:37:59Z",
+    "text": "Udah sebulan pakai ML Touring Seat/Saddle, oke terus — tahan banting dipakai berat 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "5905940160",
+      "name": "Mia Hidayat",
+      "screen_name": "miahida2307",
+      "followers_count": 404,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051671",
+    "created_at": "2023-02-05T18:28:53Z",
+    "text": "My HL Mountain Frame - Black from AdventureWorks Cycles is excellent — holding up great on rough trails Five stars. 🙌 #MTB #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7835079695",
+      "name": "Putri Halim",
+      "screen_name": "putrhali5000",
+      "followers_count": 1001,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Frame - Black, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051617",
+    "created_at": "2023-02-05T20:50:06Z",
+    "text": "Shoutout to @AdventureWorks for the Men's Bib-Shorts — holding up great on rough trails Five stars. 😎 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5127545384",
+      "name": "Kevin Clark",
+      "screen_name": "keviclar9404",
+      "followers_count": 231,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Men's Bib-Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

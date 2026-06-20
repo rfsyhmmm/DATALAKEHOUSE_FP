@@ -22,6 +22,7 @@ pool/_manifest.json is left in place (it is the lineage log, not a data file).
 import re
 import shutil
 import sys
+import time
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -37,6 +38,24 @@ TS_SUFFIX = re.compile(r"_\d{12}$")
 
 def canonical_stem(stem: str) -> str:
     return TS_SUFFIX.sub("", stem)
+
+
+def _unlink_retry(path: Path, retries: int = 4, delay: float = 2.0) -> None:
+    """Delete a file, retrying on Windows PermissionError (file-in-use)."""
+    for attempt in range(retries):
+        try:
+            path.unlink()
+            return
+        except PermissionError:
+            if attempt < retries - 1:
+                print(f"  [WAIT] {path.name} is locked by another process — "
+                      f"retrying in {delay:.0f}s (close Power BI / Excel if open)...",
+                      flush=True)
+                time.sleep(delay)
+    raise PermissionError(
+        f"Cannot overwrite '{path.name}' after {retries} attempts — "
+        f"file is still locked. Close any app that has it open, then retry."
+    )
 
 
 def run() -> dict:
@@ -67,7 +86,7 @@ def run() -> dict:
         name = f"{canonical_stem(src.stem)}{ext}" if ext == ".csv" else src.name
         dst = out_dir / name
         if dst.exists():
-            dst.unlink()  # overwrite stale bronze copy
+            _unlink_retry(dst)
         shutil.move(str(src), str(dst))
         counts[sub] += 1
 

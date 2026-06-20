@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000038641",
+    "created_at": "2022-12-04T01:15:53Z",
+    "text": "Upgraded to the Hex Nut 9 and no looking back — the team was super helpful 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "2940332082",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope2274",
+      "followers_count": 2159,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 42,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038669",
+    "created_at": "2022-12-04T05:51:53Z",
+    "text": "Udah sebulan pakai Sport-100 Helmet, oke terus — performanya mulus 😍 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5046783290",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa5403",
+      "followers_count": 2022,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Black",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038646",
+    "created_at": "2022-12-04T15:05:29Z",
+    "text": "My Half-Finger Gloves from AWC is excellent — fair price for this quality Will buy again. 😍 #cycling #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "2278056276",
+      "name": "Putri Clark",
+      "screen_name": "putrclar2871",
+      "followers_count": 282,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Half-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038716",
+    "created_at": "2022-12-04T15:57:10Z",
+    "text": "Saw the LL Fork in store today, looks interesting 🤔 #AWcycles #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5907005270",
+      "name": "Sam Anwar",
+      "screen_name": "samanwa1391",
+      "followers_count": 271,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038572",
+    "created_at": "2022-12-04T16:53:11Z",
+    "text": "Akhirnya pakai HL Mountain Front Wheel dan puas pol — admin responsif banget Bintang lima. 💯 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6490299372",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat1813",
+      "followers_count": 1005,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038647",
+    "created_at": "2022-12-04T18:42:42Z",
+    "text": "Absolutely loving my new Internal Lock Washer 8 from @AWCycles — support was quick and friendly Will buy again. 🚴 #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7446514989",
+      "name": "Olivia Santoso",
+      "screen_name": "olivsant2545",
+      "followers_count": 2401,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Internal Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038635",
+    "created_at": "2022-12-04T19:00:51Z",
+    "text": "Suka banget sama Lock Washer 7 dari AdventureWorks Cycles — worth it banget 😍 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1736112317",
+      "name": "Raka Garcia",
+      "screen_name": "rakagarc7283",
+      "followers_count": 784,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038588",
+    "created_at": "2022-12-04T20:23:42Z",
+    "text": "Thinking about the ML Road Frame - Red. Any reviews? 🧐 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9575063330",
+      "name": "Lina Lopez",
+      "screen_name": "linalope7708",
+      "followers_count": 38,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

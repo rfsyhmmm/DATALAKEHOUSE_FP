@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000178553",
+    "created_at": "2024-10-15T07:48:25Z",
+    "text": "RT @alex8: Men's Bib-Shorts dari AdventureWorks Cycles mantap sih — worth it banget 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "1234248108",
+      "name": "Andi Kim",
+      "screen_name": "andikim2868",
+      "followers_count": 306,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Men's Bib-Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178695",
+    "created_at": "2024-10-15T10:37:43Z",
+    "text": "Nyesel beli Internal Lock Washer 1 — finishing-nya asal Hindari. 👎 #bikelife #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1938352376",
+      "name": "Putri Hidayat",
+      "screen_name": "putrhida7536",
+      "followers_count": 321,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178631",
+    "created_at": "2024-10-15T11:50:43Z",
+    "text": "Absolutely loving my new LL Road Tire from AdventureWorks — support was quick and friendly Zero regrets. 😍 #bikes #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3914883522",
+      "name": "Maya Brown",
+      "screen_name": "mayabrow5950",
+      "followers_count": 128,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178545",
+    "created_at": "2024-10-15T12:43:04Z",
+    "text": "RT @gali90: Udah sebulan pakai Thin-Jam Lock Nut 15, oke terus — kirimnya lancar Recommended. 💯 #bikelife #AdventureWorks #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4343935642",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope6656",
+      "followers_count": 1281,
+      "verified": true
+    },
+    "retweet_count": 17,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178573",
+    "created_at": "2024-10-15T13:29:53Z",
+    "text": "Really disappointed with the Flat Washer 9 — it arrived late and damaged 😩 #bikelife #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "3068207078",
+      "name": "Maria Lee",
+      "screen_name": "marilee5696",
+      "followers_count": 1079,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178623",
+    "created_at": "2024-10-15T17:09:40Z",
+    "text": "Udahan deh sama ML Mountain Tire ini — kirimnya lama banget Pelajaran mahal. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "3292241842",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida5299",
+      "followers_count": 1076,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178663",
+    "created_at": "2024-10-15T18:37:44Z",
+    "text": "Udahan deh sama Touring-3000 Blue ini — finishing-nya asal Kapok. 😤 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2948492610",
+      "name": "Alex Putra",
+      "screen_name": "alexputr7617",
+      "followers_count": 525,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178506",
+    "created_at": "2024-10-15T19:08:32Z",
+    "text": "So glad I picked up the LL Mountain Frame - Black — fair price for this quality Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "310609520",
+      "name": "Andi Hidayat",
+      "screen_name": "andihida5171",
+      "followers_count": 926,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

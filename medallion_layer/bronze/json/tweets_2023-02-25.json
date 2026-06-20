@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000055780",
+    "created_at": "2023-02-25T08:42:53Z",
+    "text": "Capek deh sama Men's Bib-Shorts dari @AdventureWorks — nyesel ambil ini 😤 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "6506086142",
+      "name": "Chris Kim",
+      "screen_name": "chrikim6889",
+      "followers_count": 112,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Men's Bib-Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055665",
+    "created_at": "2023-02-25T09:20:49Z",
+    "text": "RT @mia6: Upgraded to the Touring-3000 Yellow and no looking back — feels solid and well made 🚴 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1897840530",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu4849",
+      "followers_count": 1891,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 58,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055754",
+    "created_at": "2023-02-25T12:09:51Z",
+    "text": "Lagi banding-bandingin LL Road Frame - Red sama merek lain 🤔 #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5227693737",
+      "name": "Jordan Pratama",
+      "screen_name": "jordprat5250",
+      "followers_count": 4404,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055666",
+    "created_at": "2023-02-25T13:26:04Z",
+    "text": "Udah sebulan pakai Road-250 Red, oke terus — CS-nya cepat dan ramah Recommended. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "5762972388",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa2671",
+      "followers_count": 1939,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-250 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055620",
+    "created_at": "2023-02-25T13:37:45Z",
+    "text": "Mountain-400-W Silver dari AdventureWorks Cycles bikin nyesel — CS-nya nggak guna 😡 #cycling #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3860975531",
+      "name": "Galih Putra",
+      "screen_name": "galiputr4896",
+      "followers_count": 1902,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055707",
+    "created_at": "2023-02-25T14:58:55Z",
+    "text": "Udah sebulan pakai Road-550-W Yellow, oke terus — worth it banget Recommended. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "5874081622",
+      "name": "Putri Halim",
+      "screen_name": "putrhali1208",
+      "followers_count": 2489,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055798",
+    "created_at": "2023-02-25T15:09:26Z",
+    "text": "Baru unboxing Hex Nut 9, nanti aku update",
+    "lang": "in",
+    "user": {
+      "id_str": "5622362964",
+      "name": "Chris Hidayat",
+      "screen_name": "chrihida5882",
+      "followers_count": 195,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055634",
+    "created_at": "2023-02-25T16:48:59Z",
+    "text": "Anyone using the Mountain-100 Black from AdventureWorks? Worth it? 👀 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8005681777",
+      "name": "Mia Santoso",
+      "screen_name": "miasant5861",
+      "followers_count": 1627,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-100 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

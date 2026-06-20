@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000231283",
+    "created_at": "2025-06-27T03:05:00Z",
+    "text": "Shoutout to AdventureWorks for the External Lock Washer 2 — performs flawlessly 🙌 #bikelife #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "8829913250",
+      "name": "Andi Santoso",
+      "screen_name": "andisant1756",
+      "followers_count": 641,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231271",
+    "created_at": "2025-06-27T03:17:40Z",
+    "text": "Akhirnya pakai Hex Nut 21 dan puas pol — beli yang tepat sih 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "4917452229",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee9437",
+      "followers_count": 830,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Hex Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231157",
+    "created_at": "2025-06-27T08:15:15Z",
+    "text": "Nggak puas sama Lock Washer 2 ku — nyesel ambil ini Tolong @AWCycles dibenahi. 👎 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8228796997",
+      "name": "Citra Kim",
+      "screen_name": "citrkim2620",
+      "followers_count": 2266,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231304",
+    "created_at": "2025-06-27T10:30:16Z",
+    "text": "Two stars for the Mountain-100 Black from AdventureWorks Cycles — it broke after two weeks 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "3441522594",
+      "name": "Hannah Putra",
+      "screen_name": "hannputr1593",
+      "followers_count": 770,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Mountain-100 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231174",
+    "created_at": "2025-06-27T16:53:19Z",
+    "text": "The Touring Pedal from AWC let me down — just not worth the money Avoid. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "8411869566",
+      "name": "Maria Lopez",
+      "screen_name": "marilope5341",
+      "followers_count": 2678,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231222",
+    "created_at": "2025-06-27T18:14:20Z",
+    "text": "Terkesan banget sama Headset Ball Bearings — terasa kokoh dan rapi Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9428988050",
+      "name": "Hannah Santoso",
+      "screen_name": "hannsant5434",
+      "followers_count": 1008,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Headset Ball Bearings",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231260",
+    "created_at": "2025-06-27T19:54:51Z",
+    "text": "Bintang dua buat Down Tube dari AdventureWorks — jebol pas ride pertama 👎 #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "4636736099",
+      "name": "Kevin Wijaya",
+      "screen_name": "keviwija4278",
+      "followers_count": 2541,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Down Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231277",
+    "created_at": "2025-06-27T21:14:30Z",
+    "text": "Naik level gowes ku gara-gara Internal Lock Washer 7 — performanya mulus ✨ #bikes #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2314591614",
+      "name": "Nadia Putra",
+      "screen_name": "nadiputr2299",
+      "followers_count": 24,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

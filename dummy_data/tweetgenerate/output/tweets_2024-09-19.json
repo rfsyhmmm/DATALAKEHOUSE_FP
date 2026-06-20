@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000173431",
+    "created_at": "2024-09-19T08:38:54Z",
+    "text": "RT @hann50: Lock Washer 8 dari AdventureWorks Cycles mantap sih — performanya mulus Bintang lima. 👍 #MTB #cycling #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2405548520",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow5177",
+      "followers_count": 119,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173406",
+    "created_at": "2024-09-19T10:27:36Z",
+    "text": "Metal Plate 2 dari @AWCycles mantap sih — pengiriman cepat dan packing rapi Recommended. 🙌 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3644499337",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope1553",
+      "followers_count": 2144,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Plate 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173371",
+    "created_at": "2024-09-19T13:09:05Z",
+    "text": "The External Lock Washer 7 from @AWCycles has been fantastic — shipping was fast and packaging perfect Zero regrets.",
+    "lang": "en",
+    "user": {
+      "id_str": "5175376848",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa457",
+      "followers_count": 1270,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "External Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173450",
+    "created_at": "2024-09-19T13:53:25Z",
+    "text": "RT @hann53: HL Touring Frame - Yellow dari @AdventureWorks mantap sih — sampai lebih cepat, aman #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "7350924432",
+      "name": "Putri Lee",
+      "screen_name": "putrlee4380",
+      "followers_count": 858,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173347",
+    "created_at": "2024-09-19T17:11:00Z",
+    "text": "Three weeks on the Seat Tube and I'm sold — feels solid and well made Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "903771724",
+      "name": "Galih Kim",
+      "screen_name": "galikim9100",
+      "followers_count": 583,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Seat Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173473",
+    "created_at": "2024-09-19T17:40:52Z",
+    "text": "Suka banget sama LL Hub dari AdventureWorks Cycles — kualitasnya premium Bintang lima. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "6966372478",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy4602",
+      "followers_count": 3226,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173499",
+    "created_at": "2024-09-19T19:49:45Z",
+    "text": "Three weeks on the LL Crankset and I'm sold — zero wear after heavy use Zero regrets. 😍 #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "4138859670",
+      "name": "Eko Halim",
+      "screen_name": "ekohali7288",
+      "followers_count": 1165,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173393",
+    "created_at": "2024-09-19T22:10:00Z",
+    "text": "Three weeks on the External Lock Washer 8 and I'm sold — build quality feels premium Zero regrets. 🚴 #rideon #bikelife #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9332132672",
+      "name": "Andi Lopez",
+      "screen_name": "andilope6448",
+      "followers_count": 1123,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

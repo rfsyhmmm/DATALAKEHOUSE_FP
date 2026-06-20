@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000080332",
+    "created_at": "2023-06-27T07:59:40Z",
+    "text": "Terkesan banget sama Lock Nut 15 — pengiriman cepat dan packing rapi #bikelife #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8571278841",
+      "name": "Tom Nguyen",
+      "screen_name": "tomnguy9128",
+      "followers_count": 1927,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000080231",
+    "created_at": "2023-06-27T09:18:13Z",
+    "text": "Upgraded to the ML Road Frame - Red and no looking back — arrived a day early, well packed Will buy again. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "8298912717",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy7066",
+      "followers_count": 856,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000080235",
+    "created_at": "2023-06-27T11:08:28Z",
+    "text": "Anyone using the Men's Bib-Shorts from AWC? Worth it? 👀",
+    "lang": "en",
+    "user": {
+      "id_str": "5868310960",
+      "name": "Sam Smith",
+      "screen_name": "samsmit7448",
+      "followers_count": 976,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Men's Bib-Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000080369",
+    "created_at": "2023-06-27T11:58:38Z",
+    "text": "Salut buat AdventureWorks soal ML Crankset — kirimnya lancar Recommended. #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "294476091",
+      "name": "Maria Lee",
+      "screen_name": "marilee6464",
+      "followers_count": 568,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000080226",
+    "created_at": "2023-06-27T13:17:15Z",
+    "text": "The Rear Derailleur Cage from @AWCycles has been fantastic — arrived a day early, well packed Zero regrets. 🚴 #rideon #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8654845954",
+      "name": "Eko Smith",
+      "screen_name": "ekosmit1149",
+      "followers_count": 51,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000080321",
+    "created_at": "2023-06-27T13:39:32Z",
+    "text": "Absolutely loving my new LL Mountain Tire from AWC — delivery was smooth Highly recommend. #AdventureWorks #AWcycles #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "4630249155",
+      "name": "Jordan Halim",
+      "screen_name": "jordhali1439",
+      "followers_count": 1377,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000080224",
+    "created_at": "2023-06-27T18:14:46Z",
+    "text": "Bintang dua buat LL Mountain Seat/Saddle dari AdventureWorks Cycles — bahannya murahan Kapok. 😤 #MTB #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "4716324704",
+      "name": "Olivia Lee",
+      "screen_name": "olivlee5911",
+      "followers_count": 1995,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000080275",
+    "created_at": "2023-06-27T20:11:37Z",
+    "text": "Frustrated with the ML Mountain Rear Wheel from @AWCycles — the finish is sloppy 👎 #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "846765868",
+      "name": "Sam Clark",
+      "screen_name": "samclar1137",
+      "followers_count": 3323,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

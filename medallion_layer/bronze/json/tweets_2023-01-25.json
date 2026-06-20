@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000049585",
+    "created_at": "2023-01-25T07:56:00Z",
+    "text": "Frustrated with the Road-250 Black from AdventureWorks Cycles — just a bad buy Lesson learned. ⚠️ #MTB #AdventureWorks #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "8571482151",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy505",
+      "followers_count": 2432,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-250 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049494",
+    "created_at": "2023-01-25T08:04:57Z",
+    "text": "Three weeks on the ML Mountain Frame - Black and I'm sold — arrived a day early, well packed Five stars. ✨ #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6544823375",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow7159",
+      "followers_count": 996,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049623",
+    "created_at": "2023-01-25T12:52:42Z",
+    "text": "Really disappointed with the Sport-100 Helmet — the finish is sloppy Lesson learned. 😣 #bikes #MTB #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "352636061",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant2067",
+      "followers_count": 1713,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049572",
+    "created_at": "2023-01-25T17:50:40Z",
+    "text": "Upgraded to the LL Mountain Frame - Silver and no looking back — delivery was smooth 😍 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3857462394",
+      "name": "Bayu Clark",
+      "screen_name": "bayuclar2202",
+      "followers_count": 3676,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049618",
+    "created_at": "2023-01-25T20:56:39Z",
+    "text": "Nggak nyesel beli Road-550-W Yellow — performanya mulus Bintang lima. 🔥 #AWcycles #bikes #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2825066086",
+      "name": "Lina Nguyen",
+      "screen_name": "linanguy8881",
+      "followers_count": 1252,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049587",
+    "created_at": "2023-01-25T20:57:17Z",
+    "text": "Done with the Thin-Jam Hex Nut 2 honestly — customer service was useless Do better @AdventureWorks. 🙄 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6861638457",
+      "name": "Dewi Kim",
+      "screen_name": "dewikim4360",
+      "followers_count": 998,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049532",
+    "created_at": "2023-01-25T21:12:48Z",
+    "text": "Bintang dua buat Road-450 Red dari @AdventureWorks — bahannya murahan 😣 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "1364984658",
+      "name": "Rizky Wijaya",
+      "screen_name": "rizkwija9512",
+      "followers_count": 661,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-450 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049625",
+    "created_at": "2023-01-25T22:47:11Z",
+    "text": "Suka banget sama ML Road Rim dari AdventureWorks Cycles — tahan banting dipakai berat #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7329094012",
+      "name": "Kevin Kim",
+      "screen_name": "kevikim1594",
+      "followers_count": 1777,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 46,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

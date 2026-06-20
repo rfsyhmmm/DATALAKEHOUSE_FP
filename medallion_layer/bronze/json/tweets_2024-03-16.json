@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000134425",
+    "created_at": "2024-03-16T06:37:13Z",
+    "text": "RT @dewi48: Terkesan banget sama Chain — harga sebanding kualitas Recommended. 😍 #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "5710263947",
+      "name": "Andi Brown",
+      "screen_name": "andibrow8221",
+      "followers_count": 155,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Chain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000134524",
+    "created_at": "2024-03-16T08:53:31Z",
+    "text": "Regret buying the ML Road Frame-W - Yellow — fell apart on the first ride 👎 #MTB #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1151383035",
+      "name": "Sofia Santoso",
+      "screen_name": "sofisant4462",
+      "followers_count": 251,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame-W - Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000134405",
+    "created_at": "2024-03-16T08:53:40Z",
+    "text": "Upgraded to the LL Fork and no looking back — honestly a great buy Will buy again. #AWcycles #bikes #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4853007010",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy575",
+      "followers_count": 2097,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000134462",
+    "created_at": "2024-03-16T15:09:50Z",
+    "text": "Regret buying the HL Hub — rattles and feels flimsy Avoid. ⚠️ #cycling #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7728114577",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee4144",
+      "followers_count": 194,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000134497",
+    "created_at": "2024-03-16T18:27:27Z",
+    "text": "Really disappointed with the Seat Post — wore out way too fast ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "5168432187",
+      "name": "Olivia Kim",
+      "screen_name": "olivkim9330",
+      "followers_count": 388,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Seat Post",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000134357",
+    "created_at": "2024-03-16T20:00:37Z",
+    "text": "RT @bayu45: Upgraded to the Hex Nut 11 and no looking back — delivery was smooth 😎 #AWcycles #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8648326720",
+      "name": "Mia Putra",
+      "screen_name": "miaputr1078",
+      "followers_count": 1900,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000134430",
+    "created_at": "2024-03-16T21:23:13Z",
+    "text": "Anyone using the LL Touring Frame - Blue from AdventureWorks Cycles? Worth it? 🤔 #AWcycles #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "3983179521",
+      "name": "Lina Hidayat",
+      "screen_name": "linahida8070",
+      "followers_count": 6298,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 48,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000134311",
+    "created_at": "2024-03-16T21:57:10Z",
+    "text": "Not happy with my Lock Nut 18 at all — it arrived late and damaged Avoid. 😩 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "172122594",
+      "name": "Bayu Saputra",
+      "screen_name": "bayusapu238",
+      "followers_count": 1498,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

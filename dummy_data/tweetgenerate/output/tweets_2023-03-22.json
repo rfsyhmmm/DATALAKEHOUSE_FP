@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000060816",
+    "created_at": "2023-03-22T07:26:35Z",
+    "text": "The Internal Lock Washer 4 from @AdventureWorks has been fantastic — arrived a day early, well packed Zero regrets. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "8300916086",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat690",
+      "followers_count": 3411,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Internal Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060957",
+    "created_at": "2023-03-22T09:00:54Z",
+    "text": "Nyesel beli Hex Nut 22 — nggak sebanding harganya 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "7685682747",
+      "name": "Sofia Halim",
+      "screen_name": "sofihali1033",
+      "followers_count": 128,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060868",
+    "created_at": "2023-03-22T16:03:55Z",
+    "text": "RT @alex31: Suka banget sama Hex Nut 9 dari @AdventureWorks — CS-nya cepat dan ramah Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "698701076",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu8892",
+      "followers_count": 639,
+      "verified": true
+    },
+    "retweet_count": 23,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060849",
+    "created_at": "2023-03-22T17:05:30Z",
+    "text": "Nyesel beli Lock Washer 11 — kemahalan buat kualitas segini Tolong AdventureWorks dibenahi. 😩 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1760164343",
+      "name": "Nadia Saputra",
+      "screen_name": "nadisapu2079",
+      "followers_count": 233,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Washer 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060775",
+    "created_at": "2023-03-22T17:28:44Z",
+    "text": "RT @citr89: LL Mountain Handlebars dari @AdventureWorks mantap sih — pelayanannya membantu Recommended. 🙌 #AWcycles #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "3202693976",
+      "name": "Putri Putra",
+      "screen_name": "putrputr770",
+      "followers_count": 1779,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060924",
+    "created_at": "2023-03-22T20:52:22Z",
+    "text": "Really impressed with the Full-Finger Gloves — the team was super helpful Will buy again. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "169027317",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow925",
+      "followers_count": 1165,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Full-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060740",
+    "created_at": "2023-03-22T21:01:42Z",
+    "text": "Lagi banding-bandingin Touring-2000 Blue sama merek lain 👀 #rideon #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5655243983",
+      "name": "Tom Garcia",
+      "screen_name": "tomgarc6944",
+      "followers_count": 3671,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000060916",
+    "created_at": "2023-03-22T21:54:55Z",
+    "text": "Regret buying the LL Road Seat/Saddle — shipping took forever Lesson learned. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "5360264645",
+      "name": "Tom Lee",
+      "screen_name": "tomlee5106",
+      "followers_count": 1947,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 46,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

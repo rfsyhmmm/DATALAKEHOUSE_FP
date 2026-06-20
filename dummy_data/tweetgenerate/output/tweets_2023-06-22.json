@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000079240",
+    "created_at": "2023-06-22T08:26:59Z",
+    "text": "Two stars for the Mountain-400-W Silver from AdventureWorks — poor build, cheap materials Avoid. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "9056102910",
+      "name": "Chris Nguyen",
+      "screen_name": "chringuy5094",
+      "followers_count": 463,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079223",
+    "created_at": "2023-06-22T12:19:21Z",
+    "text": "Kecewa banget sama Road Bottle Cage — kirimnya lama banget Pelajaran mahal. 😩 #MTB #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "815209196",
+      "name": "Alex Wijaya",
+      "screen_name": "alexwija252",
+      "followers_count": 2830,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road Bottle Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079196",
+    "created_at": "2023-06-22T13:00:44Z",
+    "text": "RT @tom69: Absolutely loving my new Mountain-500 Silver from AWC — worth every penny Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "2705293511",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar77",
+      "followers_count": 909,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079195",
+    "created_at": "2023-06-22T13:02:49Z",
+    "text": "So glad I picked up the Road-450 Red — delivery was smooth #AWcycles #MTB #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8166162038",
+      "name": "Chris Pratama",
+      "screen_name": "chriprat5619",
+      "followers_count": 1745,
+      "verified": true
+    },
+    "retweet_count": 21,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-450 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079285",
+    "created_at": "2023-06-22T14:05:27Z",
+    "text": "Naik level gowes ku gara-gara Metal Sheet 1 — murah buat kualitas segini Recommended. ✨ #AWcycles #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "7691832588",
+      "name": "Dimas Anwar",
+      "screen_name": "dimaanwa8763",
+      "followers_count": 939,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Metal Sheet 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079351",
+    "created_at": "2023-06-22T19:54:51Z",
+    "text": "Nggak nyesel beli ML Road Frame-W - Yellow — masih awet setelah berbulan-bulan 🙌 #bikelife #AWcycles #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1541049631",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow3169",
+      "followers_count": 146,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame-W - Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079309",
+    "created_at": "2023-06-22T20:19:10Z",
+    "text": "RT @gali50: Udah sebulan pakai Thin-Jam Hex Nut 7, oke terus — CS-nya cepat dan ramah Bintang lima. ✨ #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8516309665",
+      "name": "Lina Saputra",
+      "screen_name": "linasapu4593",
+      "followers_count": 5466,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079307",
+    "created_at": "2023-06-22T20:31:12Z",
+    "text": "Three weeks on the LL Mountain Frame - Black and I'm sold — feels solid and well made Highly recommend. 😎 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "2315517075",
+      "name": "Sam Lee",
+      "screen_name": "samlee8547",
+      "followers_count": 917,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

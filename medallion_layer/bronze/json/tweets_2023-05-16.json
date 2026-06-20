@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000072046",
+    "created_at": "2023-05-16T05:42:33Z",
+    "text": "My ML Grip Tape from @AWCycles is excellent — feels solid and well made Zero regrets. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "2934762023",
+      "name": "Chris Lee",
+      "screen_name": "chrilee5608",
+      "followers_count": 1026,
+      "verified": false
+    },
+    "retweet_count": 36,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071964",
+    "created_at": "2023-05-16T07:00:48Z",
+    "text": "Akhirnya pakai ML Mountain Pedal dan puas pol — pelayanannya membantu 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "3817324221",
+      "name": "Raka Putra",
+      "screen_name": "rakaputr1698",
+      "followers_count": 2237,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072029",
+    "created_at": "2023-05-16T16:34:21Z",
+    "text": "Salut buat AWC soal Mountain-100 Silver — pengiriman cepat dan packing rapi Bakal beli lagi. 🚴 #bikes #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "755349715",
+      "name": "Tom Halim",
+      "screen_name": "tomhali3862",
+      "followers_count": 3250,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-100 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071887",
+    "created_at": "2023-05-16T17:07:54Z",
+    "text": "Suka banget sama Lock Washer 13 dari AdventureWorks Cycles — kuat di trek kasar Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "8796503866",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc108",
+      "followers_count": 1462,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072009",
+    "created_at": "2023-05-16T18:08:46Z",
+    "text": "Shoutout to @AWCycles for the LL Mountain Rear Wheel — customer service sorted it instantly Will buy again. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "9910480505",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat3175",
+      "followers_count": 943,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071912",
+    "created_at": "2023-05-16T19:21:15Z",
+    "text": "Baru unboxing Thin-Jam Hex Nut 7, nanti aku update 🤔 #rideon #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "9737214691",
+      "name": "Sam Garcia",
+      "screen_name": "samgarc3654",
+      "followers_count": 316,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072036",
+    "created_at": "2023-05-16T21:38:39Z",
+    "text": "Nggak nyesel beli HL Mountain Seat/Saddle — murah buat kualitas segini 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "2673086096",
+      "name": "Rizky Santoso",
+      "screen_name": "rizksant853",
+      "followers_count": 530,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071948",
+    "created_at": "2023-05-16T23:22:44Z",
+    "text": "Kecewa banget sama Mountain-300 Black — bahannya murahan Kapok.",
+    "lang": "in",
+    "user": {
+      "id_str": "4913600279",
+      "name": "Hannah Putra",
+      "screen_name": "hannputr2574",
+      "followers_count": 982,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-300 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

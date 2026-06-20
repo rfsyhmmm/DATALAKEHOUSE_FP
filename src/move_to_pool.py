@@ -65,6 +65,8 @@ OLTP_REGISTRY = [
     ("address",                     "address",                     "person"),
     ("person",                      "person",                      "person"),
     ("shipmethod",                  "shipmethod",                  "purchasing"),
+    ("inventory",                   "productinventory",            "production"),
+    ("inventory",                   "location",                    "production"),
 ]
 
 

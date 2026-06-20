@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000178324",
+    "created_at": "2024-10-14T02:37:39Z",
+    "text": "LL Mountain Seat Assembly dari @AdventureWorks bikin nyesel — salah beli Tolong @AdventureWorks dibenahi. 😡 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "7505817216",
+      "name": "Budi Pratama",
+      "screen_name": "budiprat3026",
+      "followers_count": 963,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178440",
+    "created_at": "2024-10-14T09:52:30Z",
+    "text": "Shoutout to AdventureWorks Cycles for the HL Road Frame - Red — delivery was smooth Zero regrets. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "4719451168",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat9757",
+      "followers_count": 1508,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178334",
+    "created_at": "2024-10-14T17:01:08Z",
+    "text": "Frustrated with the HL Road Pedal from @AdventureWorks — poor build, cheap materials Lesson learned. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "4527732656",
+      "name": "Dimas Hidayat",
+      "screen_name": "dimahida3021",
+      "followers_count": 22,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178463",
+    "created_at": "2024-10-14T17:18:53Z",
+    "text": "Terkesan banget sama Short-Sleeve Classic Jersey — pengiriman cepat dan packing rapi 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "3784127286",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa6604",
+      "followers_count": 306,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178406",
+    "created_at": "2024-10-14T18:23:36Z",
+    "text": "Road-650 Red dari AWC bikin nyesel — salah beli Tolong AWC dibenahi. 😡 #bikelife #AWcycles #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "6752119709",
+      "name": "Andi Kim",
+      "screen_name": "andikim5185",
+      "followers_count": 1919,
+      "verified": false
+    },
+    "retweet_count": 36,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178382",
+    "created_at": "2024-10-14T18:40:34Z",
+    "text": "Expected so much more from the Flat Washer 4 — overpriced for what you get Never again.",
+    "lang": "en",
+    "user": {
+      "id_str": "7023249865",
+      "name": "Eko Smith",
+      "screen_name": "ekosmit9705",
+      "followers_count": 1419,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178389",
+    "created_at": "2024-10-14T20:09:06Z",
+    "text": "Tadi liat LL Touring Frame - Blue di toko, lumayan menarik 🤷 #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1817827446",
+      "name": "Tom Kim",
+      "screen_name": "tomkim162",
+      "followers_count": 1469,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000178345",
+    "created_at": "2024-10-14T20:30:56Z",
+    "text": "Upgraded to the Mountain-500 Silver and no looking back — delivery was smooth Highly recommend. ✨ #bikes #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8708623073",
+      "name": "Hannah Santoso",
+      "screen_name": "hannsant7665",
+      "followers_count": 2624,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

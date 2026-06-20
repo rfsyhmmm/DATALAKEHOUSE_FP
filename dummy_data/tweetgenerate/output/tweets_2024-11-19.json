@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000185951",
+    "created_at": "2024-11-19T05:21:13Z",
+    "text": "Kecewa banget sama ML Road Frame - Red — finishing-nya asal 🙄 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6466345706",
+      "name": "Nadia Kim",
+      "screen_name": "nadikim8014",
+      "followers_count": 754,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186147",
+    "created_at": "2024-11-19T07:38:32Z",
+    "text": "Bintang dua buat Internal Lock Washer 10 dari AdventureWorks Cycles — bunyi-bunyi dan ringkih Hindari. 🙄 #AWcycles #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4207226303",
+      "name": "Maria Smith",
+      "screen_name": "marismit6749",
+      "followers_count": 941,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186113",
+    "created_at": "2024-11-19T09:36:11Z",
+    "text": "Just unboxed the ML Mountain Front Wheel, will report back 🤔 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3398825922",
+      "name": "Dimas Saputra",
+      "screen_name": "dimasapu6308",
+      "followers_count": 902,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000185931",
+    "created_at": "2024-11-19T12:51:07Z",
+    "text": "The Road Bottle Cage from @AdventureWorks let me down — packaging was a mess Do better @AdventureWorks. 🙄 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "2842844439",
+      "name": "Kevin Saputra",
+      "screen_name": "kevisapu4359",
+      "followers_count": 2768,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 52,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road Bottle Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186026",
+    "created_at": "2024-11-19T16:06:14Z",
+    "text": "RT @raka92: Nyesel beli LL Mountain Seat/Saddle — proses retur ribet Kapok. 😩 #bikes #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "8797278241",
+      "name": "Jordan Hidayat",
+      "screen_name": "jordhida5937",
+      "followers_count": 1224,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186042",
+    "created_at": "2024-11-19T18:21:08Z",
+    "text": "Baru unboxing Internal Lock Washer 4, nanti aku update 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "6973625151",
+      "name": "Jordan Pratama",
+      "screen_name": "jordprat7346",
+      "followers_count": 847,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Internal Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186089",
+    "created_at": "2024-11-19T20:46:51Z",
+    "text": "Regret buying the HL Touring Frame - Yellow — overpriced for what you get Lesson learned. 😩 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9264452953",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy7873",
+      "followers_count": 4018,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000185998",
+    "created_at": "2024-11-19T22:50:38Z",
+    "text": "Frustrated with the HL Road Rear Wheel from AdventureWorks Cycles — rattles and feels flimsy Lesson learned. 😩 #AWcycles #cycling #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6280574691",
+      "name": "Galih Brown",
+      "screen_name": "galibrow3235",
+      "followers_count": 563,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

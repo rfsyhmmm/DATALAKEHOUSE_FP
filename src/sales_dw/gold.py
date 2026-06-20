@@ -19,9 +19,14 @@ Every dimension a fact maps into carries an Unknown member (key = -1) so unmatch
 rows never orphan (and the model/ FK validation passes cleanly).
 """
 
+import argparse
+import sys
 from pathlib import Path
 
 import pandas as pd
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # src/ for batch_window
+import batch_window
 
 REPO_ROOT     = Path(__file__).resolve().parent.parent.parent
 SILVER_SALES  = REPO_ROOT / "medallion_layer" / "silver" / "sales"
@@ -29,6 +34,13 @@ SILVER_SOCIAL = REPO_ROOT / "medallion_layer" / "silver" / "social"
 GOLD          = REPO_ROOT / "medallion_layer" / "gold"
 
 UNKNOWN_KEY = -1
+
+
+def _filter_window(df: pd.DataFrame, datecol: str, start, end) -> pd.DataFrame:
+    """Keep rows whose date falls in [start, end] (inclusive, day-normalized)."""
+    d = pd.to_datetime(df[datecol], errors="coerce").dt.normalize()
+    mask = (d >= pd.Timestamp(start)) & (d <= pd.Timestamp(end))
+    return df[mask]
 
 
 def _read_sales(name: str) -> pd.DataFrame:
@@ -194,9 +206,10 @@ def build_fact_sales(sales, dim_customer, dim_product, dim_source) -> pd.DataFra
 
     f = f.rename(columns={"salesorderid": "sales_order_id"})
     f["sales_count"] = 1
-    # facts carry KEYS + MEASURES only; sales_order_id is the degenerate order key.
+    # facts carry KEYS + MEASURES only; sales_line_id (stable, for upsert) and
+    # sales_order_id are degenerate keys.
     return f[["date_key", "customer_key", "product_key", "channel_key", "source_key",
-              "sales_order_id", "order_qty", "unit_price",
+              "sales_line_id", "sales_order_id", "order_qty", "unit_price",
               "unit_price_discount", "line_total", "sales_count"]]
 
 
@@ -241,7 +254,7 @@ def build_fact_sentiment(sentiment, dim_product, dim_aspect, dim_sentiment,
 # --------------------------------------------------------------------------- #
 # Run
 # --------------------------------------------------------------------------- #
-def run() -> dict:
+def run(start=None, end=None, label="full") -> dict:
     print("[GOLD] silver -> gold/ (galaxy: fact_sales + fact_sentiment)", flush=True)
     sales     = _read_sales("sales")
     customer  = _read_sales("customer")
@@ -250,6 +263,15 @@ def run() -> dict:
     cat       = _read_sales("productcategory")
     sentiment = pd.read_parquet(SILVER_SOCIAL / "sentiment.parquet")
 
+    # default window = full span of the data
+    if start is None:
+        start = pd.to_datetime(sales["order_date"]).min().date()
+    if end is None:
+        end = pd.to_datetime(sales["order_date"]).max().date()
+    print(f"  window: {label}  ({start} .. {end})", flush=True)
+
+    # DIMENSIONS are built from the FULL silver tables -> surrogate keys stay
+    # identical across batches. Only the FACTS are sliced to the window.
     dim_date      = build_dim_date(sales["order_date"], sentiment["event_date"])
     dim_product   = build_dim_product(product, subcat, cat)
     dim_customer  = build_dim_customer(customer)
@@ -260,8 +282,11 @@ def run() -> dict:
     dim_author    = build_dim_author(sentiment)
     dim_context   = build_dim_tweet_context(sentiment)
 
-    fact_sales     = build_fact_sales(sales, dim_customer, dim_product, dim_source)
-    fact_sentiment = build_fact_sentiment(sentiment, dim_product, dim_aspect,
+    sales_win     = _filter_window(sales, "order_date", start, end)
+    sentiment_win = _filter_window(sentiment, "event_date", start, end)
+
+    fact_sales     = build_fact_sales(sales_win, dim_customer, dim_product, dim_source)
+    fact_sentiment = build_fact_sentiment(sentiment_win, dim_product, dim_aspect,
                                           dim_sentiment, dim_author, dim_context)
 
     counts = {
@@ -296,5 +321,13 @@ def run() -> dict:
     return counts
 
 
+def main(argv=None):
+    ap = argparse.ArgumentParser(description="Build the gold galaxy for a date window.")
+    batch_window.add_window_args(ap)
+    args = ap.parse_args(argv)
+    start, end, _as_of, label = batch_window.window_from_args(args)
+    run(start, end, label)
+
+
 if __name__ == "__main__":
-    run()
+    main()

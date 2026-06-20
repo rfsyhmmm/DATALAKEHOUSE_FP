@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000092912",
+    "created_at": "2023-08-27T06:48:48Z",
+    "text": "Lagi mikir mau beli Paint - Yellow. Ada review? 👀 #bikelife #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4591538231",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu6873",
+      "followers_count": 646,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Paint - Yellow",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092846",
+    "created_at": "2023-08-27T08:10:08Z",
+    "text": "Really impressed with the Mountain-500 Silver — customer service sorted it instantly 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "6023743705",
+      "name": "Olivia Santoso",
+      "screen_name": "olivsant2228",
+      "followers_count": 1064,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092954",
+    "created_at": "2023-08-27T12:24:09Z",
+    "text": "Done with the Lock Nut 10 honestly — poor build, cheap materials 🙄 #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7326462748",
+      "name": "Alex Kim",
+      "screen_name": "alexkim6774",
+      "followers_count": 3732,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092961",
+    "created_at": "2023-08-27T15:08:43Z",
+    "text": "RT @nadi46: Bintang dua buat LL Touring Frame - Yellow dari AdventureWorks — packing-nya berantakan Tolong AdventureWorks dibenahi. 👎 #MTB #bikelife #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1652452680",
+      "name": "Alex Halim",
+      "screen_name": "alexhali7609",
+      "followers_count": 1358,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Frame - Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092942",
+    "created_at": "2023-08-27T16:24:29Z",
+    "text": "Really impressed with the LL Road Frame - Red — holding up great on rough trails Highly recommend. 🔥 #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3068890013",
+      "name": "Budi Saputra",
+      "screen_name": "budisapu294",
+      "followers_count": 1630,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092875",
+    "created_at": "2023-08-27T16:32:32Z",
+    "text": "The Metal Bar 2 from @AWCycles let me down — just not worth the money Do better @AWCycles. 😡 #bikelife #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3028189278",
+      "name": "Olivia Kim",
+      "screen_name": "olivkim6285",
+      "followers_count": 2363,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Metal Bar 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092996",
+    "created_at": "2023-08-27T17:11:50Z",
+    "text": "Three weeks on the Patch Kit/8 Patches and I'm sold — performs flawlessly Zero regrets. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "6092815074",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat6075",
+      "followers_count": 1742,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 42,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Patch Kit/8 Patches",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000092847",
+    "created_at": "2023-08-27T19:39:35Z",
+    "text": "Udahan deh sama Internal Lock Washer 5 ini — salah beli 😩 #bikelife #bikes #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7605962445",
+      "name": "Tom Clark",
+      "screen_name": "tomclar6096",
+      "followers_count": 383,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Internal Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000074137",
+    "created_at": "2023-05-26T13:59:42Z",
+    "text": "So glad I picked up the Rear Derailleur Cage — great value for the price Zero regrets. #rideon #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7549808405",
+      "name": "Putri Smith",
+      "screen_name": "putrsmit7209",
+      "followers_count": 1534,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000074071",
+    "created_at": "2023-05-26T14:19:05Z",
+    "text": "LL Road Handlebars dari @AWCycles bikin nyesel — bahannya murahan Pelajaran mahal. 😩 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "848618854",
+      "name": "Lina Wijaya",
+      "screen_name": "linawija9797",
+      "followers_count": 2329,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073957",
+    "created_at": "2023-05-26T17:48:14Z",
+    "text": "Berharap lebih dari LL Touring Frame - Blue — kirimnya lama banget",
+    "lang": "in",
+    "user": {
+      "id_str": "9069624976",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc3395",
+      "followers_count": 705,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Frame - Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000074026",
+    "created_at": "2023-05-26T18:45:14Z",
+    "text": "Done with the Hex Nut 5 honestly — overpriced for what you get Avoid. 🙄 #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9012995732",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida8122",
+      "followers_count": 94,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073993",
+    "created_at": "2023-05-26T19:40:52Z",
+    "text": "Shoutout to @AdventureWorks for the LL Crankset — customer service sorted it instantly 🚴 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4794282695",
+      "name": "Lina Putra",
+      "screen_name": "linaputr3109",
+      "followers_count": 1755,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000074101",
+    "created_at": "2023-05-26T19:56:43Z",
+    "text": "Naik level gowes ku gara-gara Internal Lock Washer 9 — pengiriman cepat dan packing rapi Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "5588732871",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow9993",
+      "followers_count": 2843,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000074108",
+    "created_at": "2023-05-26T20:03:03Z",
+    "text": "Nggak puas sama Road-650 Red ku — kirimnya lama banget Hindari.",
+    "lang": "in",
+    "user": {
+      "id_str": "7901349948",
+      "name": "Maya Wijaya",
+      "screen_name": "mayawija408",
+      "followers_count": 614,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000074021",
+    "created_at": "2023-05-26T20:27:09Z",
+    "text": "Terkesan banget sama Mountain-500 Silver — performanya mulus Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "5917783456",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija5102",
+      "followers_count": 56,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

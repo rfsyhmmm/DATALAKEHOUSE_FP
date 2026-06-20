@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000078396",
+    "created_at": "2023-06-17T07:11:37Z",
+    "text": "RT @dewi78: The Mountain-200 Silver from @AWCycles let me down — overpriced for what you get Avoid. 😡 #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "3187917427",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat7344",
+      "followers_count": 289,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-200 Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078514",
+    "created_at": "2023-06-17T07:29:11Z",
+    "text": "Upgraded to the Thin-Jam Lock Nut 14 and no looking back — shipping was fast and packaging perfect Highly recommend. 💯 #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6913898088",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa2259",
+      "followers_count": 3844,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078373",
+    "created_at": "2023-06-17T07:38:30Z",
+    "text": "Thinking about the Chainring Bolts. Any reviews? 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "2164381693",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy1372",
+      "followers_count": 1641,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Chainring Bolts",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078476",
+    "created_at": "2023-06-17T10:09:20Z",
+    "text": "Nggak puas sama LL Mountain Frame - Silver ku — kemahalan buat kualitas segini Tolong AWC dibenahi.",
+    "lang": "in",
+    "user": {
+      "id_str": "2282594039",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu3357",
+      "followers_count": 1694,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078343",
+    "created_at": "2023-06-17T13:34:17Z",
+    "text": "Udah sebulan pakai HL Road Frame - Red, oke terus — performanya mulus",
+    "lang": "in",
+    "user": {
+      "id_str": "3646944641",
+      "name": "Andi Lopez",
+      "screen_name": "andilope9296",
+      "followers_count": 101,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 49,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078319",
+    "created_at": "2023-06-17T15:29:32Z",
+    "text": "Short-Sleeve Classic Jersey dari @AdventureWorks mantap sih — terasa kokoh dan rapi Nggak nyesel. 😍 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "4488442580",
+      "name": "Kevin Wijaya",
+      "screen_name": "keviwija2541",
+      "followers_count": 1492,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078326",
+    "created_at": "2023-06-17T17:45:19Z",
+    "text": "So glad I picked up the Cup-Shaped Race — build quality feels premium 😎 #bikes #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9580797976",
+      "name": "Nadia Putra",
+      "screen_name": "nadiputr1270",
+      "followers_count": 873,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Cup-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078435",
+    "created_at": "2023-06-17T20:54:04Z",
+    "text": "Nyesel beli Touring End Caps — finishing-nya asal Pelajaran mahal. #bikes #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "5131284873",
+      "name": "Raka Garcia",
+      "screen_name": "rakagarc711",
+      "followers_count": 841,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

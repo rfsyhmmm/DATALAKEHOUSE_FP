@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000044289",
+    "created_at": "2022-12-31T02:23:41Z",
+    "text": "HL Mountain Frame - Black dari AdventureWorks mantap sih — tahan banting dipakai berat 🙌 #AWcycles #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "6230690254",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant2130",
+      "followers_count": 2441,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044252",
+    "created_at": "2022-12-31T06:40:16Z",
+    "text": "RT @raka24: So glad I picked up the HL Mountain Handlebars — fair price for this quality Zero regrets. 🔥 #bikes #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "5957165280",
+      "name": "Putri Putra",
+      "screen_name": "putrputr29",
+      "followers_count": 989,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044285",
+    "created_at": "2022-12-31T09:44:46Z",
+    "text": "Touring Tire dari AdventureWorks mantap sih — kualitasnya premium 👍 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5494597135",
+      "name": "Dewi Putra",
+      "screen_name": "dewiputr5233",
+      "followers_count": 1263,
+      "verified": false
+    },
+    "retweet_count": 29,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044150",
+    "created_at": "2022-12-31T11:58:27Z",
+    "text": "Berharap lebih dari Metal Plate 1 — kemahalan buat kualitas segini Tolong AdventureWorks Cycles dibenahi. 😡 #bikelife #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1613361137",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc8329",
+      "followers_count": 75,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Metal Plate 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044267",
+    "created_at": "2022-12-31T12:07:41Z",
+    "text": "RT @dima28: Capek deh sama Lock Nut 15 dari @AdventureWorks — datang telat dan rusak Tolong @AdventureWorks dibenahi. 🙄 #MTB #AWcycles #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7180115266",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow9682",
+      "followers_count": 698,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044236",
+    "created_at": "2022-12-31T17:31:29Z",
+    "text": "Really impressed with the Lock Nut 16 — worth every penny Zero regrets. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "7311702146",
+      "name": "Eko Nguyen",
+      "screen_name": "ekonguy5654",
+      "followers_count": 2809,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044240",
+    "created_at": "2022-12-31T21:08:16Z",
+    "text": "Baru unboxing Lock Washer 9, nanti aku update 👀 #MTB #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "419875330",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat6719",
+      "followers_count": 1479,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044189",
+    "created_at": "2022-12-31T21:36:59Z",
+    "text": "Tadi liat LL Mountain Rear Wheel di toko, lumayan menarik 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "1081030211",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc8674",
+      "followers_count": 388,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

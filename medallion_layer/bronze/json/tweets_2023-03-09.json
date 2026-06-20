@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000058226",
+    "created_at": "2023-03-09T02:36:44Z",
+    "text": "Regret buying the Flat Washer 5 — way too expensive Avoid. 😤 #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7314214875",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida748",
+      "followers_count": 1492,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Flat Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058210",
+    "created_at": "2023-03-09T06:16:24Z",
+    "text": "Really impressed with the HL Fork — performs flawlessly Five stars. ✨ #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "530065281",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy9173",
+      "followers_count": 746,
+      "verified": false
+    },
+    "retweet_count": 32,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058298",
+    "created_at": "2023-03-09T11:14:10Z",
+    "text": "Udah sebulan pakai Internal Lock Washer 9, oke terus — tahan banting dipakai berat Bintang lima. 🙌 #MTB #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4625959025",
+      "name": "Lina Santoso",
+      "screen_name": "linasant6420",
+      "followers_count": 2706,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058266",
+    "created_at": "2023-03-09T13:16:24Z",
+    "text": "Shoutout to AWC for the Paint - Blue — support was quick and friendly Will buy again. ✨ #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "853706198",
+      "name": "Citra Halim",
+      "screen_name": "citrhali8439",
+      "followers_count": 2324,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Paint - Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058172",
+    "created_at": "2023-03-09T13:40:26Z",
+    "text": "Salut buat @AdventureWorks soal Sport-100 Helmet — puas pol Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "8263812104",
+      "name": "Galih Garcia",
+      "screen_name": "galigarc5076",
+      "followers_count": 629,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Sport-100 Helmet, Black",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058342",
+    "created_at": "2023-03-09T13:50:59Z",
+    "text": "RT @oliv82: Absolutely loving my new Mountain-400-W Silver from @AdventureWorks — honestly a great buy 😎 #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "3477828881",
+      "name": "Lina Smith",
+      "screen_name": "linasmit3002",
+      "followers_count": 1719,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-400-W Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058255",
+    "created_at": "2023-03-09T17:42:30Z",
+    "text": "Three weeks on the Lock Washer 7 and I'm sold — couldn't be happier Five stars. ✨ #cycling #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "706107190",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat1889",
+      "followers_count": 324,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000058335",
+    "created_at": "2023-03-09T19:52:34Z",
+    "text": "Thinking about the Thin-Jam Lock Nut 1. Any reviews? 🤷 #AdventureWorks #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5874514149",
+      "name": "Raka Garcia",
+      "screen_name": "rakagarc8688",
+      "followers_count": 3145,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

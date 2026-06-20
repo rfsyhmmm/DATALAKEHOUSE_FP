@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000103889",
+    "created_at": "2023-10-20T07:27:00Z",
+    "text": "RT @eko66: Naik level gowes ku gara-gara LL Road Seat/Saddle — sampai lebih cepat, aman 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "7205247073",
+      "name": "Sam Lopez",
+      "screen_name": "samlope6887",
+      "followers_count": 1544,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 40,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103867",
+    "created_at": "2023-10-20T07:39:02Z",
+    "text": "Nyesel beli Lock Washer 6 — datang telat dan rusak Hindari. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "3919605244",
+      "name": "Mia Smith",
+      "screen_name": "miasmit9781",
+      "followers_count": 1411,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103915",
+    "created_at": "2023-10-20T09:07:25Z",
+    "text": "Salut buat @AdventureWorks soal Road-650 Red — worth it banget Bintang lima. #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6067252313",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali8476",
+      "followers_count": 2024,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103893",
+    "created_at": "2023-10-20T10:03:57Z",
+    "text": "RT @raka28: Really impressed with the HL Mountain Front Wheel — build quality feels premium 🚴 #AWcycles #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6073326660",
+      "name": "Galih Clark",
+      "screen_name": "galiclar518",
+      "followers_count": 2394,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103891",
+    "created_at": "2023-10-20T12:55:15Z",
+    "text": "Salut buat @AWCycles soal ML Mountain Seat/Saddle — beli yang tepat sih Recommended. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "5115438905",
+      "name": "Putri Kim",
+      "screen_name": "putrkim2797",
+      "followers_count": 1873,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103887",
+    "created_at": "2023-10-20T15:14:27Z",
+    "text": "So glad I picked up the ML Mountain Frame - Black — shipping was fast and packaging perfect Zero regrets. 🙌 #AdventureWorks #MTB #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7668436041",
+      "name": "Eko Kim",
+      "screen_name": "ekokim3520",
+      "followers_count": 1182,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame - Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103838",
+    "created_at": "2023-10-20T19:50:11Z",
+    "text": "Shoutout to AWC for the Internal Lock Washer 7 — worth every penny Zero regrets. 😎 #MTB #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7544259160",
+      "name": "Maria Pratama",
+      "screen_name": "mariprat7555",
+      "followers_count": 1078,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103905",
+    "created_at": "2023-10-20T22:54:31Z",
+    "text": "Really disappointed with the Thin-Jam Lock Nut 6 — fell apart on the first ride Never again. 😤 #MTB #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4638418760",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija9792",
+      "followers_count": 513,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

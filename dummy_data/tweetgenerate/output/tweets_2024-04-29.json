@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000143545",
+    "created_at": "2024-04-29T06:53:59Z",
+    "text": "Shoutout to @AdventureWorks for the Road-650 Black — support was quick and friendly Five stars.",
+    "lang": "en",
+    "user": {
+      "id_str": "5258376707",
+      "name": "Budi Lopez",
+      "screen_name": "budilope4849",
+      "followers_count": 834,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-650 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143461",
+    "created_at": "2024-04-29T08:07:12Z",
+    "text": "Absolutely loving my new Mountain-200 Silver from @AWCycles — still rock solid after months Zero regrets. ✨ #AWcycles #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9219309343",
+      "name": "Mia Lee",
+      "screen_name": "mialee5940",
+      "followers_count": 105,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143463",
+    "created_at": "2024-04-29T11:38:26Z",
+    "text": "Ada yang pakai Rear Derailleur Cage dari @AWCycles? Worth it nggak? #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5373360070",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat4557",
+      "followers_count": 1954,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143583",
+    "created_at": "2024-04-29T13:15:15Z",
+    "text": "So glad I picked up the ML Mountain Frame-W - Silver — couldn't be happier Zero regrets. 👍 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "6457298450",
+      "name": "Sofia Kim",
+      "screen_name": "sofikim420",
+      "followers_count": 130,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143421",
+    "created_at": "2024-04-29T14:58:17Z",
+    "text": "Udahan deh sama Freewheel ini — bunyi-bunyi dan ringkih Kapok. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "3834130143",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc1863",
+      "followers_count": 2220,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143527",
+    "created_at": "2024-04-29T16:19:18Z",
+    "text": "The Thin-Jam Hex Nut 15 from AdventureWorks has been fantastic — delivery was smooth Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "1203509360",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow9873",
+      "followers_count": 1390,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143541",
+    "created_at": "2024-04-29T16:59:56Z",
+    "text": "RT @maya23: Akhirnya pakai LL Mountain Frame - Silver dan puas pol — harga sebanding kualitas Bintang lima. 😍 #bikes #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8847091742",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija3805",
+      "followers_count": 898,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143494",
+    "created_at": "2024-04-29T17:05:32Z",
+    "text": "Naik level gowes ku gara-gara Men's Sports Shorts — performanya mulus Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "2866813631",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat4274",
+      "followers_count": 1039,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Men's Sports Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

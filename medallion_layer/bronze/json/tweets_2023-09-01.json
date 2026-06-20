@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000093977",
+    "created_at": "2023-09-01T02:17:05Z",
+    "text": "RT @tom55: Not happy with my Fork Crown at all — packaging was a mess Lesson learned. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "3350599067",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat2772",
+      "followers_count": 3345,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Fork Crown",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000093944",
+    "created_at": "2023-09-01T09:48:25Z",
+    "text": "Suka banget sama ML Touring Seat Assembly dari AWC — worth it banget",
+    "lang": "in",
+    "user": {
+      "id_str": "1231607621",
+      "name": "Maria Santoso",
+      "screen_name": "marisant1559",
+      "followers_count": 1492,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000093960",
+    "created_at": "2023-09-01T10:18:00Z",
+    "text": "Lock Nut 18 dari AWC bikin nyesel — bahannya murahan 😤 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "5910981173",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida9405",
+      "followers_count": 12,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094021",
+    "created_at": "2023-09-01T10:29:14Z",
+    "text": "The LL Touring Frame - Yellow from AdventureWorks let me down — overpriced for what you get 😡 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2133675212",
+      "name": "Bayu Saputra",
+      "screen_name": "bayusapu9574",
+      "followers_count": 679,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000093914",
+    "created_at": "2023-09-01T15:26:02Z",
+    "text": "Really disappointed with the Thin-Jam Lock Nut 6 — wore out way too fast Avoid. 😩 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "2074568427",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope8950",
+      "followers_count": 2598,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000093920",
+    "created_at": "2023-09-01T19:15:18Z",
+    "text": "The Road-650 Red from @AWCycles let me down — wish I'd skipped it Lesson learned. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "8693413275",
+      "name": "Galih Pratama",
+      "screen_name": "galiprat3413",
+      "followers_count": 403,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000093976",
+    "created_at": "2023-09-01T21:13:13Z",
+    "text": "Salut buat @AWCycles soal Flat Washer 6 — performanya mulus Bakal beli lagi. 💯 #MTB #AWcycles #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "1647516097",
+      "name": "Maria Hidayat",
+      "screen_name": "marihida6870",
+      "followers_count": 1865,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094059",
+    "created_at": "2023-09-01T22:58:47Z",
+    "text": "Is the ML Mountain Seat Assembly any good for daily rides? 🧐 #MTB #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5919080022",
+      "name": "Andi Lee",
+      "screen_name": "andilee7839",
+      "followers_count": 2212,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

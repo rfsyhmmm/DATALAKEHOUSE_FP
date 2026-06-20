@@ -46,6 +46,14 @@ CREATE TABLE dim_source (
     PRIMARY KEY (source_key)
 );
 
+CREATE TABLE dim_location (
+    location_key           BIGINT NOT NULL,
+    location_id            BIGINT,
+    location_name          VARCHAR(50),
+    cost_rate              NUMERIC(10,4),
+    PRIMARY KEY (location_key)
+);
+
 CREATE TABLE dim_aspect (
     aspect_key             BIGINT NOT NULL,
     aspect_name            VARCHAR(50),
@@ -80,6 +88,7 @@ CREATE TABLE fact_sales (
     product_key            BIGINT NOT NULL,
     channel_key            BIGINT NOT NULL,
     source_key             BIGINT NOT NULL,
+    sales_line_id          VARCHAR(40),
     sales_order_id         BIGINT,
     order_qty              BIGINT,
     unit_price             NUMERIC(18,4),
@@ -92,6 +101,19 @@ CREATE TABLE fact_sales (
     FOREIGN KEY (product_key) REFERENCES dim_product (product_key),
     FOREIGN KEY (channel_key) REFERENCES dim_channel (channel_key),
     FOREIGN KEY (source_key) REFERENCES dim_source (source_key)
+);
+
+CREATE TABLE fact_inventory (
+    inventory_key          BIGINT NOT NULL,
+    date_key               BIGINT NOT NULL,
+    product_key            BIGINT NOT NULL,
+    location_key           BIGINT NOT NULL,
+    quantity_on_hand       BIGINT,
+    inv_key                VARCHAR(40) NOT NULL,
+    PRIMARY KEY (inventory_key),
+    FOREIGN KEY (date_key) REFERENCES dim_date (date_key),
+    FOREIGN KEY (product_key) REFERENCES dim_product (product_key),
+    FOREIGN KEY (location_key) REFERENCES dim_location (location_key)
 );
 
 CREATE TABLE fact_sentiment (

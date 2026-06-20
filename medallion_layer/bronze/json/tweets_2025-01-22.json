@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000199496",
+    "created_at": "2025-01-22T11:15:52Z",
+    "text": "Really disappointed with the HL Mountain Front Wheel — way too expensive Do better AdventureWorks. #AWcycles #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "2064538212",
+      "name": "Rizky Wijaya",
+      "screen_name": "rizkwija1911",
+      "followers_count": 1264,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000199538",
+    "created_at": "2025-01-22T12:55:01Z",
+    "text": "So glad I picked up the Racing Socks — arrived a day early, well packed Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "3449961634",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat2783",
+      "followers_count": 1046,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Racing Socks, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000199446",
+    "created_at": "2025-01-22T16:01:36Z",
+    "text": "Really disappointed with the Touring-3000 Blue — packaging was a mess Do better @AdventureWorks. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "3652877122",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida2649",
+      "followers_count": 2412,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000199401",
+    "created_at": "2025-01-22T16:19:57Z",
+    "text": "HL Touring Frame - Blue dari AWC mantap sih — CS-nya cepat dan ramah Recommended. 🙌 #rideon #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "873237047",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow5082",
+      "followers_count": 2925,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000199513",
+    "created_at": "2025-01-22T17:23:52Z",
+    "text": "Naik level gowes ku gara-gara Road End Caps — terasa kokoh dan rapi Bakal beli lagi. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "2354627739",
+      "name": "Nadia Hidayat",
+      "screen_name": "nadihida3931",
+      "followers_count": 1521,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000199578",
+    "created_at": "2025-01-22T19:17:09Z",
+    "text": "Akhirnya pakai Lock Nut 6 dan puas pol — melebihi ekspektasi Bintang lima. 💯 #bikelife #rideon #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3594128146",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy8413",
+      "followers_count": 1177,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 69,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000199365",
+    "created_at": "2025-01-22T19:59:42Z",
+    "text": "Bintang dua buat Thin-Jam Lock Nut 13 dari AWC — zonk total Tolong AWC dibenahi. 😩 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "5025794447",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu5992",
+      "followers_count": 1027,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000199369",
+    "created_at": "2025-01-22T22:11:45Z",
+    "text": "Upgraded to the HL Road Frame - Red and no looking back — delivery was smooth Zero regrets. #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7316790400",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee1212",
+      "followers_count": 2686,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

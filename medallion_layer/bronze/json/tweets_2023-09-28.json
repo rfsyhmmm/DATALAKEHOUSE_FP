@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000099377",
+    "created_at": "2023-09-28T07:56:42Z",
+    "text": "Nggak nyesel beli Thin-Jam Lock Nut 14 — performanya mulus Bintang lima. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "5845102417",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee4642",
+      "followers_count": 2736,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099357",
+    "created_at": "2023-09-28T08:17:07Z",
+    "text": "Really impressed with the Road-250 Red — shipping was fast and packaging perfect 🔥 #AdventureWorks #MTB #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4146620010",
+      "name": "Andi Brown",
+      "screen_name": "andibrow7261",
+      "followers_count": 3239,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099210",
+    "created_at": "2023-09-28T09:40:33Z",
+    "text": "Nggak nyesel beli Decal 1 — beli yang tepat sih 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "451210569",
+      "name": "Jordan Santoso",
+      "screen_name": "jordsant5669",
+      "followers_count": 16,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 42,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Decal 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099325",
+    "created_at": "2023-09-28T09:40:37Z",
+    "text": "Nggak puas sama HL Mountain Frame - Black ku — kirimnya lama banget 👎 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "3118216325",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow6762",
+      "followers_count": 514,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099249",
+    "created_at": "2023-09-28T09:52:01Z",
+    "text": "Nyesel beli External Lock Washer 6 — nggak sebanding harganya Pelajaran mahal. 😤 #rideon #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "2658853120",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee4396",
+      "followers_count": 2078,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099316",
+    "created_at": "2023-09-28T09:57:43Z",
+    "text": "RT @chri6: Lagi mikir mau beli ML Mountain Seat/Saddle. Ada review? 🧐 #AdventureWorks #bikes #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "6353072151",
+      "name": "Bayu Saputra",
+      "screen_name": "bayusapu1356",
+      "followers_count": 2102,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099306",
+    "created_at": "2023-09-28T12:04:43Z",
+    "text": "Terkesan banget sama LL Mountain Frame - Black — murah buat kualitas segini 🙌 #rideon #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6254895171",
+      "name": "Mia Putra",
+      "screen_name": "miaputr9652",
+      "followers_count": 3376,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099288",
+    "created_at": "2023-09-28T19:30:46Z",
+    "text": "The Hex Nut 8 from @AWCycles has been fantastic — build quality feels premium Zero regrets. 💯 #bikes #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "362830825",
+      "name": "Maya Halim",
+      "screen_name": "mayahali6767",
+      "followers_count": 1586,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

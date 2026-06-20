@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000099452",
+    "created_at": "2023-09-29T00:22:54Z",
+    "text": "Udahan deh sama HL Mountain Front Wheel ini — bahannya murahan Hindari. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "4557998939",
+      "name": "Galih Lopez",
+      "screen_name": "galilope5919",
+      "followers_count": 1094,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099516",
+    "created_at": "2023-09-29T11:44:36Z",
+    "text": "Frustrated with the Hex Nut 4 from @AdventureWorks — it arrived late and damaged Do better @AdventureWorks. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "6766470651",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida2353",
+      "followers_count": 5508,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099395",
+    "created_at": "2023-09-29T16:49:40Z",
+    "text": "Really impressed with the Mountain-500 Black — fair price for this quality Will buy again. 💯 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5919550250",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit7260",
+      "followers_count": 1402,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099444",
+    "created_at": "2023-09-29T17:43:04Z",
+    "text": "Udah sebulan pakai Lock Nut 21, oke terus — pengiriman cepat dan packing rapi 💯 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8086409862",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant6554",
+      "followers_count": 2906,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099381",
+    "created_at": "2023-09-29T18:47:51Z",
+    "text": "Terkesan banget sama Lock Nut 10 — kirimnya lancar Bakal beli lagi. 🔥 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5229063670",
+      "name": "Galih Pratama",
+      "screen_name": "galiprat5436",
+      "followers_count": 1194,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099497",
+    "created_at": "2023-09-29T19:10:05Z",
+    "text": "Akhirnya pakai Road-650 Black dan puas pol — pengiriman cepat dan packing rapi Recommended. 💯 #AWcycles #cycling #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "5822555608",
+      "name": "Sam Santoso",
+      "screen_name": "samsant6172",
+      "followers_count": 392,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-650 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099566",
+    "created_at": "2023-09-29T20:10:36Z",
+    "text": "Salut buat @AWCycles soal Metal Sheet 2 — kirimnya lancar Recommended. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "9257771565",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat5633",
+      "followers_count": 775,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099556",
+    "created_at": "2023-09-29T20:56:00Z",
+    "text": "Absolutely loving my new HL Mountain Seat/Saddle from AdventureWorks Cycles — great value for the price Highly recommend. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "5616076752",
+      "name": "Eko Santoso",
+      "screen_name": "ekosant1388",
+      "followers_count": 1531,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

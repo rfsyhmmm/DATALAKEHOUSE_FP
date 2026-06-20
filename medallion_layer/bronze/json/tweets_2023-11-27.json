@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000112104",
+    "created_at": "2023-11-27T03:40:34Z",
+    "text": "RT @chri43: Akhirnya pakai Road-350-W Yellow dan puas pol — kirimnya lancar 🔥 #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9902944832",
+      "name": "Kevin Lee",
+      "screen_name": "kevilee3707",
+      "followers_count": 1068,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-350-W Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112030",
+    "created_at": "2023-11-27T11:47:28Z",
+    "text": "Nyesel beli Full-Finger Gloves — kemahalan buat kualitas segini Hindari. 😤 #rideon #bikes #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "7209423289",
+      "name": "Galih Lopez",
+      "screen_name": "galilope4426",
+      "followers_count": 234,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Full-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112177",
+    "created_at": "2023-11-27T17:23:02Z",
+    "text": "Really impressed with the HL Mountain Pedal — fair price for this quality Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "6955630615",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc3589",
+      "followers_count": 436,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 59,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112079",
+    "created_at": "2023-11-27T18:38:58Z",
+    "text": "Done with the Metal Sheet 5 honestly — just not worth the money Never again. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "6804127669",
+      "name": "Raka Lopez",
+      "screen_name": "rakalope7470",
+      "followers_count": 2555,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Metal Sheet 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112224",
+    "created_at": "2023-11-27T20:36:00Z",
+    "text": "Capek deh sama Mountain-300 Black dari @AWCycles — proses retur ribet Pelajaran mahal. 🙄 #AdventureWorks #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "3694887184",
+      "name": "Budi Garcia",
+      "screen_name": "budigarc564",
+      "followers_count": 41,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain-300 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112147",
+    "created_at": "2023-11-27T21:49:30Z",
+    "text": "Suka banget sama Road-350-W Yellow dari AdventureWorks — kuat di trek kasar Bakal beli lagi. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "4432525137",
+      "name": "Nadia Lopez",
+      "screen_name": "nadilope4564",
+      "followers_count": 1446,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-350-W Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112204",
+    "created_at": "2023-11-27T22:01:26Z",
+    "text": "Not happy with my HL Grip Tape at all — overpriced for what you get Avoid. 😤 #AdventureWorks #bikelife #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1838368707",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat7109",
+      "followers_count": 3799,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112004",
+    "created_at": "2023-11-27T22:34:41Z",
+    "text": "My Road-550-W Yellow from AWC is excellent — customer service sorted it instantly Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "8829676842",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee2868",
+      "followers_count": 1344,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

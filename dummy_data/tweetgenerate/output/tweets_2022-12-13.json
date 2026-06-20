@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000040543",
+    "created_at": "2022-12-13T09:41:40Z",
+    "text": "Udah sebulan pakai LL Mountain Frame - Silver, oke terus — harga sebanding kualitas Bakal beli lagi. 👍 #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "7164554203",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope7293",
+      "followers_count": 1829,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040464",
+    "created_at": "2022-12-13T12:43:21Z",
+    "text": "Akhirnya pakai LL Road Frame - Red dan puas pol — kirimnya lancar 👍 #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4374698361",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy7078",
+      "followers_count": 1008,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040616",
+    "created_at": "2022-12-13T13:20:05Z",
+    "text": "Expected so much more from the LL Touring Seat/Saddle — shipping took forever Do better AdventureWorks Cycles. #MTB #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "134027379",
+      "name": "Dimas Pratama",
+      "screen_name": "dimaprat8377",
+      "followers_count": 1265,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040647",
+    "created_at": "2022-12-13T14:43:57Z",
+    "text": "Upgraded to the Touring-1000 Yellow and no looking back — performs flawlessly 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "1583186183",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant736",
+      "followers_count": 1119,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040496",
+    "created_at": "2022-12-13T19:01:48Z",
+    "text": "Expected so much more from the Mountain-100 Silver — wore out way too fast",
+    "lang": "en",
+    "user": {
+      "id_str": "5731017389",
+      "name": "Hannah Brown",
+      "screen_name": "hannbrow6038",
+      "followers_count": 53,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Mountain-100 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040557",
+    "created_at": "2022-12-13T20:20:39Z",
+    "text": "So glad I picked up the Full-Finger Gloves — holding up great on rough trails Highly recommend. 💯 #bikes #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7052576083",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit1432",
+      "followers_count": 1004,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Full-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040583",
+    "created_at": "2022-12-13T20:22:18Z",
+    "text": "Salut buat @AWCycles soal Men's Sports Shorts — kuat di trek kasar Recommended. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "187296391",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija2215",
+      "followers_count": 1251,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 48,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040664",
+    "created_at": "2022-12-13T21:29:23Z",
+    "text": "Two stars for the Thin-Jam Lock Nut 16 from AWC — rattles and feels flimsy Never again. #MTB #cycling #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "306537132",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar5287",
+      "followers_count": 1622,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

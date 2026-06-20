@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000139275",
+    "created_at": "2024-04-10T00:53:32Z",
+    "text": "Suka banget sama ML Road Frame-W - Yellow dari AWC — sampai lebih cepat, aman Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "1208635490",
+      "name": "Budi Garcia",
+      "screen_name": "budigarc7612",
+      "followers_count": 1473,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame-W - Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139336",
+    "created_at": "2024-04-10T08:27:02Z",
+    "text": "Naik level gowes ku gara-gara LL Mountain Seat Assembly — pelayanannya membantu Bakal beli lagi.",
+    "lang": "in",
+    "user": {
+      "id_str": "155579030",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope1320",
+      "followers_count": 454,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139462",
+    "created_at": "2024-04-10T12:23:10Z",
+    "text": "Nggak puas sama Mountain-500 Black ku — cepet aus banget 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "8456694515",
+      "name": "Alex Putra",
+      "screen_name": "alexputr2392",
+      "followers_count": 953,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139373",
+    "created_at": "2024-04-10T12:26:36Z",
+    "text": "So glad I picked up the HL Fork — shipping was fast and packaging perfect",
+    "lang": "en",
+    "user": {
+      "id_str": "8146642098",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy7146",
+      "followers_count": 1970,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139419",
+    "created_at": "2024-04-10T17:03:42Z",
+    "text": "Nyesel beli LL Touring Handlebars — CS-nya nggak guna Pelajaran mahal. ⚠️ #rideon #MTB #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7886770799",
+      "name": "Jordan Wijaya",
+      "screen_name": "jordwija6706",
+      "followers_count": 1913,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139512",
+    "created_at": "2024-04-10T18:03:20Z",
+    "text": "Suka banget sama Long-Sleeve Logo Jersey dari AdventureWorks Cycles — melebihi ekspektasi Bakal beli lagi. 🙌 #rideon #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7989861502",
+      "name": "Rizky Lopez",
+      "screen_name": "rizklope7892",
+      "followers_count": 754,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Long-Sleeve Logo Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139289",
+    "created_at": "2024-04-10T19:23:50Z",
+    "text": "Three weeks on the LL Road Frame - Red and I'm sold — shipping was fast and packaging perfect 😍 #bikes #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "705752716",
+      "name": "Andi Hidayat",
+      "screen_name": "andihida3693",
+      "followers_count": 1573,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139305",
+    "created_at": "2024-04-10T20:38:17Z",
+    "text": "Terkesan banget sama HL Mountain Rim — masih awet setelah berbulan-bulan 😍 #rideon #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "2230178539",
+      "name": "Galih Wijaya",
+      "screen_name": "galiwija872",
+      "followers_count": 5543,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

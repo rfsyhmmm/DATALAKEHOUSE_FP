@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000043671",
+    "created_at": "2022-12-28T04:59:09Z",
+    "text": "My LL Road Frame - Red from AdventureWorks Cycles is excellent — delivery was smooth Highly recommend. 👍 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5033680247",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida1327",
+      "followers_count": 2192,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043608",
+    "created_at": "2022-12-28T07:21:10Z",
+    "text": "The HL Road Rim from AdventureWorks Cycles has been fantastic — still rock solid after months Will buy again. 😎 #bikelife #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7122714246",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee8694",
+      "followers_count": 1084,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043569",
+    "created_at": "2022-12-28T10:56:39Z",
+    "text": "Nggak nyesel beli LL Road Frame - Black — masih awet setelah berbulan-bulan Bintang lima. 💯 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5524051205",
+      "name": "Maria Hidayat",
+      "screen_name": "marihida6971",
+      "followers_count": 1531,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043677",
+    "created_at": "2022-12-28T16:57:27Z",
+    "text": "My Hex Nut 3 from AWC is excellent — great value for the price Five stars. 🚴 #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "5597336933",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu9768",
+      "followers_count": 3583,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043525",
+    "created_at": "2022-12-28T17:11:20Z",
+    "text": "Absolutely loving my new Road-450 Red from AdventureWorks Cycles — couldn't be happier Highly recommend. 💯 #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4028896844",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant9157",
+      "followers_count": 10,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-450 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043573",
+    "created_at": "2022-12-28T21:21:19Z",
+    "text": "Kecewa banget sama Touring-1000 Yellow — cepet aus banget Tolong AWC dibenahi. 🙄 #AdventureWorks #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5098467923",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat7282",
+      "followers_count": 510,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043654",
+    "created_at": "2022-12-28T22:47:23Z",
+    "text": "Done with the Road-350-W Yellow honestly — shipping took forever ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "2784214146",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija7747",
+      "followers_count": 174,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-350-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043553",
+    "created_at": "2022-12-28T23:15:54Z",
+    "text": "Suka banget sama Spokes dari @AWCycles — kualitasnya premium Bintang lima. ✨ #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "7095281897",
+      "name": "Galih Lopez",
+      "screen_name": "galilope22",
+      "followers_count": 966,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

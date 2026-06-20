@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000082306",
+    "created_at": "2023-07-08T03:08:43Z",
+    "text": "RT @kevi51: Terkesan banget sama Mountain-300 Black — kualitasnya premium 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "146395193",
+      "name": "Putri Santoso",
+      "screen_name": "putrsant2246",
+      "followers_count": 88,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-300 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082193",
+    "created_at": "2023-07-08T12:25:38Z",
+    "text": "Upgraded to the Hex Nut 19 and no looking back — performs flawlessly ✨ #MTB #bikes #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "3584195681",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali2898",
+      "followers_count": 644,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 19",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082188",
+    "created_at": "2023-07-08T16:05:40Z",
+    "text": "Absolutely loving my new Front Brakes from AWC — great value for the price Will buy again. #bikes #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1994530548",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope1727",
+      "followers_count": 646,
+      "verified": true
+    },
+    "retweet_count": 10,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Front Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082158",
+    "created_at": "2023-07-08T16:09:56Z",
+    "text": "Lagi mikir mau beli Handlebar Tube. Ada review? 🧐",
+    "lang": "in",
+    "user": {
+      "id_str": "6546936018",
+      "name": "Sofia Putra",
+      "screen_name": "sofiputr3159",
+      "followers_count": 2290,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082225",
+    "created_at": "2023-07-08T17:18:28Z",
+    "text": "Salut buat AdventureWorks Cycles soal Thin-Jam Hex Nut 3 — performanya mulus 🚴 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3082737156",
+      "name": "Dimas Halim",
+      "screen_name": "dimahali6761",
+      "followers_count": 962,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082273",
+    "created_at": "2023-07-08T17:29:42Z",
+    "text": "The Touring-1000 Blue from AdventureWorks let me down — overpriced for what you get 😡 #MTB #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "9853268286",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida2979",
+      "followers_count": 1131,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082264",
+    "created_at": "2023-07-08T17:34:45Z",
+    "text": "My Head Tube from AWC is excellent — still rock solid after months Zero regrets. #bikes #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "5434049043",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa1138",
+      "followers_count": 1641,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Head Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082210",
+    "created_at": "2023-07-08T17:51:36Z",
+    "text": "Upgraded to the LL Touring Seat/Saddle and no looking back — performs flawlessly Zero regrets. 👍 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "7444219357",
+      "name": "Lina Brown",
+      "screen_name": "linabrow1494",
+      "followers_count": 19,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

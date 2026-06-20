@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000002638",
+    "created_at": "2022-06-10T04:55:00Z",
+    "text": "Shoutout to @AdventureWorks for the Classic Vest — customer service sorted it instantly Will buy again. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "1482129132",
+      "name": "Budi Lopez",
+      "screen_name": "budilope3679",
+      "followers_count": 2958,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002531",
+    "created_at": "2022-06-10T10:38:38Z",
+    "text": "RT @sam64: Absolutely loving my new LL Touring Frame - Yellow from @AWCycles — feels solid and well made Five stars. 🚴 #rideon #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2650908958",
+      "name": "Tom Lee",
+      "screen_name": "tomlee3950",
+      "followers_count": 12,
+      "verified": false
+    },
+    "retweet_count": 37,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002594",
+    "created_at": "2022-06-10T12:47:49Z",
+    "text": "Really disappointed with the Road-650 Red — support ignored my emails Lesson learned. 👎 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "6588758768",
+      "name": "Citra Clark",
+      "screen_name": "citrclar7458",
+      "followers_count": 3592,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002489",
+    "created_at": "2022-06-10T13:05:45Z",
+    "text": "RT @gali44: My External Lock Washer 5 from AdventureWorks is excellent — great value for the price Highly recommend. 😍 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "2151706927",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope2166",
+      "followers_count": 1278,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "External Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002560",
+    "created_at": "2022-06-10T15:25:37Z",
+    "text": "Upgraded to the Thin-Jam Hex Nut 2 and no looking back — feels solid and well made Zero regrets. 🚴 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "613003815",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy2878",
+      "followers_count": 597,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002540",
+    "created_at": "2022-06-10T16:11:48Z",
+    "text": "Kecewa banget sama HL Shell — mahal nggak masuk akal Hindari. 👎 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7689679668",
+      "name": "Tom Nguyen",
+      "screen_name": "tomnguy8210",
+      "followers_count": 549,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002510",
+    "created_at": "2022-06-10T17:43:09Z",
+    "text": "Regret buying the HL Mountain Seat Assembly — rattles and feels flimsy Do better AdventureWorks. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "3793510920",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope7249",
+      "followers_count": 1390,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002447",
+    "created_at": "2022-06-10T19:57:43Z",
+    "text": "Akhirnya pakai Mountain-100 Black dan puas pol — murah buat kualitas segini Bakal beli lagi. 😍 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1396502486",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant2162",
+      "followers_count": 2961,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-100 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

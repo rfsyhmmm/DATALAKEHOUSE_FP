@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000097064",
+    "created_at": "2023-09-17T02:38:17Z",
+    "text": "Nyesel beli LL Hub — kirimnya lama banget Kapok. 😩 #cycling #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3790064419",
+      "name": "Maria Smith",
+      "screen_name": "marismit4388",
+      "followers_count": 3231,
+      "verified": true
+    },
+    "retweet_count": 13,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097257",
+    "created_at": "2023-09-17T03:14:51Z",
+    "text": "Two stars for the Men's Bib-Shorts from AWC — it broke after two weeks Lesson learned. 😣 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "864010173",
+      "name": "Putri Halim",
+      "screen_name": "putrhali5525",
+      "followers_count": 711,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Men's Bib-Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097097",
+    "created_at": "2023-09-17T12:23:14Z",
+    "text": "RT @jord13: Berharap lebih dari Blade — finishing-nya asal Pelajaran mahal. #AdventureWorks #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4519863065",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija1475",
+      "followers_count": 866,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Blade",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097212",
+    "created_at": "2023-09-17T12:56:01Z",
+    "text": "Akhirnya pakai Road-750 Black dan puas pol — pelayanannya membantu 🔥 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7506916314",
+      "name": "Putri Hidayat",
+      "screen_name": "putrhida7913",
+      "followers_count": 1465,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-750 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097202",
+    "created_at": "2023-09-17T13:51:17Z",
+    "text": "Bintang dua buat Internal Lock Washer 6 dari AdventureWorks Cycles — bahannya murahan 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "5830820075",
+      "name": "Budi Lopez",
+      "screen_name": "budilope4592",
+      "followers_count": 1106,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097180",
+    "created_at": "2023-09-17T14:00:06Z",
+    "text": "Salut buat AdventureWorks soal Thin-Jam Lock Nut 4 — admin responsif banget Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "5571508908",
+      "name": "Raka Lopez",
+      "screen_name": "rakalope5244",
+      "followers_count": 1950,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097116",
+    "created_at": "2023-09-17T19:40:08Z",
+    "text": "My ML Road Frame - Red from AdventureWorks Cycles is excellent — delivery was smooth Five stars. 🙌 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "121641034",
+      "name": "Sofia Brown",
+      "screen_name": "sofibrow5155",
+      "followers_count": 2911,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097146",
+    "created_at": "2023-09-17T20:48:44Z",
+    "text": "RT @dima6: Udahan deh sama HL Road Frame - Red ini — packing-nya berantakan 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "2553418864",
+      "name": "Maria Clark",
+      "screen_name": "mariclar7662",
+      "followers_count": 1761,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

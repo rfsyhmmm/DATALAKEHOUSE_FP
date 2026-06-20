@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000050909",
+    "created_at": "2023-02-02T04:50:47Z",
+    "text": "Salut buat AdventureWorks soal Decal 2 — harga sebanding kualitas 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "8686573857",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit5693",
+      "followers_count": 313,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051003",
+    "created_at": "2023-02-02T07:46:52Z",
+    "text": "Nyesel beli Half-Finger Gloves — zonk total Pelajaran mahal. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "1043783221",
+      "name": "Olivia Santoso",
+      "screen_name": "olivsant9323",
+      "followers_count": 3032,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 62,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Half-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050954",
+    "created_at": "2023-02-02T09:07:27Z",
+    "text": "Really impressed with the LL Touring Frame - Yellow — feels solid and well made 🙌 #AdventureWorks #cycling #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "7327785613",
+      "name": "Putri Lee",
+      "screen_name": "putrlee7952",
+      "followers_count": 658,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050941",
+    "created_at": "2023-02-02T12:34:18Z",
+    "text": "Naik level gowes ku gara-gara Cup-Shaped Race — CS-nya cepat dan ramah Nggak nyesel. 👍 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "1571669121",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy6790",
+      "followers_count": 464,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Cup-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051037",
+    "created_at": "2023-02-02T16:59:03Z",
+    "text": "My Hex Nut 8 from @AdventureWorks is excellent — customer service sorted it instantly ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "8186359277",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija5831",
+      "followers_count": 890,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051100",
+    "created_at": "2023-02-02T17:39:43Z",
+    "text": "Regret buying the LL Crankarm — way too expensive Lesson learned.",
+    "lang": "en",
+    "user": {
+      "id_str": "7478426108",
+      "name": "Sam Putra",
+      "screen_name": "samputr403",
+      "followers_count": 952,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 54,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051079",
+    "created_at": "2023-02-02T18:33:25Z",
+    "text": "Minipump dari @AdventureWorks mantap sih — performanya mulus Recommended. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "347306395",
+      "name": "Galih Halim",
+      "screen_name": "galihali2358",
+      "followers_count": 1931,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Minipump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000051114",
+    "created_at": "2023-02-02T20:44:19Z",
+    "text": "Done with the Mountain-400-W Silver honestly — way too expensive 😣 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "216903687",
+      "name": "Lina Saputra",
+      "screen_name": "linasapu2989",
+      "followers_count": 2155,
+      "verified": true
+    },
+    "retweet_count": 33,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-400-W Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

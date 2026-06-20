@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000180736",
+    "created_at": "2024-10-25T04:01:23Z",
+    "text": "Road-250 Red dari AdventureWorks Cycles mantap sih — kualitasnya premium Nggak nyesel. 👍 #AWcycles #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9749278797",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc9935",
+      "followers_count": 11,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180699",
+    "created_at": "2024-10-25T13:04:25Z",
+    "text": "Kecewa banget sama Mountain Tire Tube — proses retur ribet Kapok. #MTB #bikelife #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1081149224",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow1494",
+      "followers_count": 623,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180774",
+    "created_at": "2024-10-25T15:33:14Z",
+    "text": "Lagi banding-bandingin Internal Lock Washer 10 sama merek lain 🧐",
+    "lang": "in",
+    "user": {
+      "id_str": "5968506485",
+      "name": "Lina Lopez",
+      "screen_name": "linalope8890",
+      "followers_count": 4234,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Internal Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180794",
+    "created_at": "2024-10-25T16:14:05Z",
+    "text": "Nggak nyesel beli Lock Nut 6 — terasa kokoh dan rapi Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "1897799765",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija2067",
+      "followers_count": 4242,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180865",
+    "created_at": "2024-10-25T16:48:42Z",
+    "text": "LL Road Frame - Black dari AdventureWorks Cycles mantap sih — admin responsif banget Bintang lima. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "9219660377",
+      "name": "Tom Smith",
+      "screen_name": "tomsmit427",
+      "followers_count": 386,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 53,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180827",
+    "created_at": "2024-10-25T17:49:08Z",
+    "text": "My Road-650 Black from AWC is excellent — feels solid and well made 😍 #AWcycles #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5567965638",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida8244",
+      "followers_count": 788,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-650 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180730",
+    "created_at": "2024-10-25T19:45:08Z",
+    "text": "Nggak nyesel beli Full-Finger Gloves — CS-nya cepat dan ramah Nggak nyesel. 💯 #AWcycles #MTB #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3485369250",
+      "name": "Andi Wijaya",
+      "screen_name": "andiwija8223",
+      "followers_count": 262,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Full-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000180801",
+    "created_at": "2024-10-25T19:56:53Z",
+    "text": "Nggak puas sama ML Mountain Frame - Black ku — nggak sebanding harganya 😡 #bikes #AdventureWorks #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "1355181352",
+      "name": "Olivia Lee",
+      "screen_name": "olivlee2835",
+      "followers_count": 1988,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

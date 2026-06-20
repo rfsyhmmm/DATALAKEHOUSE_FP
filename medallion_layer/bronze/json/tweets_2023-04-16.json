@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000065552",
+    "created_at": "2023-04-16T00:35:50Z",
+    "text": "RT @maya88: Done with the Mountain-400-W Silver honestly — customer service was useless Do better AdventureWorks. #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1713808586",
+      "name": "Galih Putra",
+      "screen_name": "galiputr9383",
+      "followers_count": 1269,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065594",
+    "created_at": "2023-04-16T07:04:20Z",
+    "text": "Comparing the Mountain-500 Black with a few others before I buy 🤔 #MTB #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "173799749",
+      "name": "Hannah Hidayat",
+      "screen_name": "hannhida3389",
+      "followers_count": 1578,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-500 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065536",
+    "created_at": "2023-04-16T07:20:35Z",
+    "text": "My Road-750 Black from AdventureWorks is excellent — performs flawlessly 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "8191287717",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy3962",
+      "followers_count": 3803,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065675",
+    "created_at": "2023-04-16T18:12:15Z",
+    "text": "Terkesan banget sama Headset Ball Bearings — kirimnya lancar Bintang lima. #cycling #bikes #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9416081866",
+      "name": "Galih Halim",
+      "screen_name": "galihali2053",
+      "followers_count": 1235,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Headset Ball Bearings",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065722",
+    "created_at": "2023-04-16T19:07:13Z",
+    "text": "Regret buying the Full-Finger Gloves — poor build, cheap materials Avoid. 😤 #rideon #AdventureWorks #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "2548042244",
+      "name": "Budi Clark",
+      "screen_name": "budiclar9581",
+      "followers_count": 26,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 40,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Full-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065587",
+    "created_at": "2023-04-16T19:19:22Z",
+    "text": "Akhirnya pakai Long-Sleeve Logo Jersey dan puas pol — puas pol Bakal beli lagi. 🔥 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "2875191098",
+      "name": "Galih Santoso",
+      "screen_name": "galisant6305",
+      "followers_count": 1045,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065691",
+    "created_at": "2023-04-16T20:33:49Z",
+    "text": "Nggak nyesel beli Short-Sleeve Classic Jersey — kualitasnya premium 🔥 #cycling #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "434585609",
+      "name": "Dimas Brown",
+      "screen_name": "dimabrow1768",
+      "followers_count": 306,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065627",
+    "created_at": "2023-04-16T22:14:29Z",
+    "text": "Naik level gowes ku gara-gara Road-550-W Yellow — kuat di trek kasar 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "8077326384",
+      "name": "Putri Lee",
+      "screen_name": "putrlee355",
+      "followers_count": 540,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000100241",
+    "created_at": "2023-10-02T07:46:52Z",
+    "text": "Frustrated with the LL Road Frame - Red from @AdventureWorks — poor build, cheap materials Avoid. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "2742718540",
+      "name": "Maria Halim",
+      "screen_name": "marihali8662",
+      "followers_count": 373,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100053",
+    "created_at": "2023-10-02T09:32:37Z",
+    "text": "Suka banget sama Tension Pulley dari AdventureWorks Cycles — harga sebanding kualitas Bintang lima. 😍 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4595329944",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee2480",
+      "followers_count": 2615,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100029",
+    "created_at": "2023-10-02T11:39:07Z",
+    "text": "Suka banget sama HL Touring Seat Assembly dari AdventureWorks — kuat di trek kasar 😍 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "267099756",
+      "name": "Hannah Santoso",
+      "screen_name": "hannsant7206",
+      "followers_count": 96,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100187",
+    "created_at": "2023-10-02T17:23:32Z",
+    "text": "Upgraded to the Road-150 Red and no looking back — build quality feels premium 👍 #rideon #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2058534120",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat8614",
+      "followers_count": 3768,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100102",
+    "created_at": "2023-10-02T18:55:20Z",
+    "text": "RT @sam40: Udahan deh sama HL Mountain Rim ini — datang telat dan rusak 😤 #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "9090523656",
+      "name": "Nadia Putra",
+      "screen_name": "nadiputr8152",
+      "followers_count": 811,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100084",
+    "created_at": "2023-10-02T19:19:52Z",
+    "text": "The Thin-Jam Hex Nut 15 from AWC has been fantastic — build quality feels premium 🙌 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8377418319",
+      "name": "Tom Clark",
+      "screen_name": "tomclar1655",
+      "followers_count": 481,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100152",
+    "created_at": "2023-10-02T20:50:37Z",
+    "text": "Nggak nyesel beli Classic Vest — tahan banting dipakai berat 😎 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7062271883",
+      "name": "Dewi Clark",
+      "screen_name": "dewiclar9903",
+      "followers_count": 1010,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Classic Vest, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100206",
+    "created_at": "2023-10-02T23:32:00Z",
+    "text": "Terkesan banget sama Metal Plate 1 — masih awet setelah berbulan-bulan Bakal beli lagi. #cycling #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "923906733",
+      "name": "Tom Nguyen",
+      "screen_name": "tomnguy3809",
+      "followers_count": 483,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Metal Plate 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

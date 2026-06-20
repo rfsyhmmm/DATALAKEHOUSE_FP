@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000023532",
+    "created_at": "2022-09-22T02:41:55Z",
+    "text": "RT @maya21: Udah sebulan pakai Women's Mountain Shorts, oke terus — kuat di trek kasar Nggak nyesel. 😎 #cycling #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7429741774",
+      "name": "Andi Smith",
+      "screen_name": "andismit4016",
+      "followers_count": 1448,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Women's Mountain Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000023509",
+    "created_at": "2022-09-22T03:45:53Z",
+    "text": "Comparing the Mountain-100 Black with a few others before I buy 👀 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "6511368834",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija2102",
+      "followers_count": 230,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-100 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000023512",
+    "created_at": "2022-09-22T03:51:28Z",
+    "text": "Udah sebulan pakai Mountain-500 Silver, oke terus — melebihi ekspektasi Nggak nyesel. ✨ #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7101546148",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy2217",
+      "followers_count": 2039,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000023496",
+    "created_at": "2022-09-22T08:19:31Z",
+    "text": "Kecewa banget sama HL Touring Frame - Yellow — mahal nggak masuk akal Pelajaran mahal. 😤 #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8372024952",
+      "name": "Kevin Wijaya",
+      "screen_name": "keviwija6374",
+      "followers_count": 801,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000023481",
+    "created_at": "2022-09-22T08:30:58Z",
+    "text": "Nggak puas sama ML Road Handlebars ku — mahal nggak masuk akal 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "3046392738",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija3905",
+      "followers_count": 1460,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000023549",
+    "created_at": "2022-09-22T10:38:31Z",
+    "text": "Mountain-400-W Silver dari @AWCycles bikin nyesel — finishing-nya asal Kapok. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "7436093893",
+      "name": "Eko Clark",
+      "screen_name": "ekoclar9410",
+      "followers_count": 1191,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-400-W Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000023428",
+    "created_at": "2022-09-22T17:35:29Z",
+    "text": "Suka banget sama HL Touring Handlebars dari AWC — harga sebanding kualitas #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "1239709122",
+      "name": "Chris Putra",
+      "screen_name": "chriputr8882",
+      "followers_count": 2471,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000023456",
+    "created_at": "2022-09-22T18:38:44Z",
+    "text": "So glad I picked up the HL Mountain Frame - Black — build quality feels premium ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "4058067417",
+      "name": "Rizky Smith",
+      "screen_name": "rizksmit3049",
+      "followers_count": 1113,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Black, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

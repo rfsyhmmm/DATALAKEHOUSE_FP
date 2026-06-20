@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000100320",
+    "created_at": "2023-10-03T07:50:23Z",
+    "text": "Akhirnya pakai Road-350-W Yellow dan puas pol — kirimnya lancar Bakal beli lagi. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "707153201",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida108",
+      "followers_count": 1849,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-350-W Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100269",
+    "created_at": "2023-10-03T08:02:13Z",
+    "text": "Nggak nyesel beli HL Road Rear Wheel — performanya mulus 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "3686744096",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow6244",
+      "followers_count": 784,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100447",
+    "created_at": "2023-10-03T12:42:05Z",
+    "text": "Salut buat AdventureWorks soal ML Touring Seat/Saddle — kualitasnya premium Bakal beli lagi. 💯 #bikelife #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "3998196061",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc9515",
+      "followers_count": 1649,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100445",
+    "created_at": "2023-10-03T15:40:22Z",
+    "text": "Nggak nyesel beli LL Road Tire — performanya mulus Bintang lima. 🚴 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6888655519",
+      "name": "Rizky Wijaya",
+      "screen_name": "rizkwija3675",
+      "followers_count": 2350,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100281",
+    "created_at": "2023-10-03T16:22:17Z",
+    "text": "Expected so much more from the Lock Washer 2 — poor build, cheap materials Lesson learned. 🙄 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "249812279",
+      "name": "Andi Kim",
+      "screen_name": "andikim698",
+      "followers_count": 349,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100364",
+    "created_at": "2023-10-03T19:45:08Z",
+    "text": "Ada yang pakai Flat Washer 2 dari @AdventureWorks? Worth it nggak? 🧐",
+    "lang": "in",
+    "user": {
+      "id_str": "2039100122",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar7090",
+      "followers_count": 222,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Flat Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100353",
+    "created_at": "2023-10-03T20:02:44Z",
+    "text": "Capek deh sama Lock Nut 3 dari AWC — packing-nya berantakan Pelajaran mahal. 🙄 #bikes #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5599763196",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa6909",
+      "followers_count": 705,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100413",
+    "created_at": "2023-10-03T21:08:19Z",
+    "text": "Really impressed with the Thin-Jam Hex Nut 14 — feels solid and well made Highly recommend. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "1370502047",
+      "name": "Raka Kim",
+      "screen_name": "rakakim3843",
+      "followers_count": 974,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

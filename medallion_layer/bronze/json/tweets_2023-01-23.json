@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000049128",
+    "created_at": "2023-01-23T02:01:29Z",
+    "text": "RT @budi66: Absolutely loving my new Chain from @AWCycles — performs flawlessly 🔥 #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1468929708",
+      "name": "Galih Brown",
+      "screen_name": "galibrow3912",
+      "followers_count": 1589,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049201",
+    "created_at": "2023-01-23T11:21:04Z",
+    "text": "Mountain-500 Silver dari AWC mantap sih — murah buat kualitas segini Bakal beli lagi.",
+    "lang": "in",
+    "user": {
+      "id_str": "7669762516",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant986",
+      "followers_count": 1273,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049306",
+    "created_at": "2023-01-23T11:56:16Z",
+    "text": "Expected so much more from the Flat Washer 4 — the finish is sloppy 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "6407173065",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat1116",
+      "followers_count": 4185,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049233",
+    "created_at": "2023-01-23T11:57:46Z",
+    "text": "HL Road Frame - Black dari AdventureWorks mantap sih — performanya mulus Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "4937868670",
+      "name": "Olivia Saputra",
+      "screen_name": "olivsapu9839",
+      "followers_count": 1286,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049262",
+    "created_at": "2023-01-23T12:11:29Z",
+    "text": "Udah sebulan pakai Mountain-300 Black, oke terus — pelayanannya membantu Bintang lima. 🚴 #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6323154169",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow9914",
+      "followers_count": 176,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-300 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049177",
+    "created_at": "2023-01-23T16:06:19Z",
+    "text": "RT @jord77: Thin-Jam Hex Nut 6 dari AWC mantap sih — performanya mulus Recommended. 🚴 #cycling #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "6232367542",
+      "name": "Lina Smith",
+      "screen_name": "linasmit910",
+      "followers_count": 104,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049190",
+    "created_at": "2023-01-23T18:41:14Z",
+    "text": "Nggak nyesel beli Mountain-500 Black — pengiriman cepat dan packing rapi Bakal beli lagi. 😎 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3255015351",
+      "name": "Lina Putra",
+      "screen_name": "linaputr7120",
+      "followers_count": 1569,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-500 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049250",
+    "created_at": "2023-01-23T19:18:22Z",
+    "text": "Salut buat AdventureWorks soal Adjustable Race — performanya mulus ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "7910183052",
+      "name": "Hannah Garcia",
+      "screen_name": "hanngarc6851",
+      "followers_count": 1079,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

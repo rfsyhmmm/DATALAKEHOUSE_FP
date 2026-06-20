@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000082824",
+    "created_at": "2023-07-11T07:32:56Z",
+    "text": "Suka banget sama Half-Finger Gloves dari AdventureWorks — kualitasnya premium 👍 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9943769787",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope722",
+      "followers_count": 781,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Half-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082777",
+    "created_at": "2023-07-11T08:28:16Z",
+    "text": "Terkesan banget sama Lock Nut 5 — murah buat kualitas segini Bintang lima. 🙌 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4495820506",
+      "name": "Alex Garcia",
+      "screen_name": "alexgarc3733",
+      "followers_count": 1341,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082826",
+    "created_at": "2023-07-11T11:25:05Z",
+    "text": "Hex Nut 13 dari AWC mantap sih — harga sebanding kualitas Recommended. 👍 #AdventureWorks #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4090551965",
+      "name": "Nadia Clark",
+      "screen_name": "nadiclar6649",
+      "followers_count": 2728,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082731",
+    "created_at": "2023-07-11T12:03:23Z",
+    "text": "Absolutely loving my new Touring-1000 Blue from @AWCycles — honestly a great buy Will buy again. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "3803586662",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu4114",
+      "followers_count": 134,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Touring-1000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082873",
+    "created_at": "2023-07-11T12:48:42Z",
+    "text": "The ML Road Frame-W - Yellow from @AWCycles has been fantastic — arrived a day early, well packed 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "6035479010",
+      "name": "Maya Halim",
+      "screen_name": "mayahali6378",
+      "followers_count": 863,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame-W - Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082840",
+    "created_at": "2023-07-11T15:17:37Z",
+    "text": "Three weeks on the Rear Derailleur and I'm sold — performs flawlessly Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "2746196296",
+      "name": "Jordan Kim",
+      "screen_name": "jordkim1838",
+      "followers_count": 576,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082916",
+    "created_at": "2023-07-11T17:28:32Z",
+    "text": "Regret buying the Men's Bib-Shorts — just not worth the money Do better AWC. 😣 #rideon #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5869706307",
+      "name": "Maria Lopez",
+      "screen_name": "marilope3653",
+      "followers_count": 1061,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Men's Bib-Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082939",
+    "created_at": "2023-07-11T19:07:56Z",
+    "text": "The Lock Nut 4 from AdventureWorks Cycles let me down — shipping took forever 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "917075731",
+      "name": "Dimas Brown",
+      "screen_name": "dimabrow8481",
+      "followers_count": 1690,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000212115",
+    "created_at": "2025-03-26T14:44:38Z",
+    "text": "Udahan deh sama Road-650 Black ini — rusak baru dua minggu",
+    "lang": "in",
+    "user": {
+      "id_str": "8195325759",
+      "name": "Sam Pratama",
+      "screen_name": "samprat74",
+      "followers_count": 594,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-650 Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212244",
+    "created_at": "2025-03-26T16:20:58Z",
+    "text": "RT @jord68: Naik level gowes ku gara-gara Hex Nut 3 — kirimnya lancar Bintang lima. 🔥 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8727569021",
+      "name": "Dewi Wijaya",
+      "screen_name": "dewiwija6138",
+      "followers_count": 1363,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212156",
+    "created_at": "2025-03-26T16:22:20Z",
+    "text": "Udah sebulan pakai Touring-3000 Blue, oke terus — tahan banting dipakai berat 😍 #rideon #AWcycles #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "979528367",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa86",
+      "followers_count": 1532,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-3000 Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212166",
+    "created_at": "2025-03-26T17:43:20Z",
+    "text": "Nggak puas sama Half-Finger Gloves ku — bahannya murahan 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "4720157012",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee9201",
+      "followers_count": 391,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Half-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212286",
+    "created_at": "2025-03-26T17:49:29Z",
+    "text": "Naik level gowes ku gara-gara ML Mountain Frame - Black — worth it banget ✨ #bikelife #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5518944762",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope7877",
+      "followers_count": 1351,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Mountain Frame - Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212203",
+    "created_at": "2025-03-26T18:03:35Z",
+    "text": "Akhirnya pakai Mountain-500 Silver dan puas pol — sampai lebih cepat, aman Bakal beli lagi. 😍 #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6604786044",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat865",
+      "followers_count": 504,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-500 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212307",
+    "created_at": "2025-03-26T20:35:09Z",
+    "text": "Akhirnya pakai Full-Finger Gloves dan puas pol — worth it banget Recommended. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "4478664128",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali3400",
+      "followers_count": 1927,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 64,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Full-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000212100",
+    "created_at": "2025-03-26T21:16:49Z",
+    "text": "Just unboxed the Lock Washer 4, will report back #MTB #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6020792292",
+      "name": "Sofia Putra",
+      "screen_name": "sofiputr4523",
+      "followers_count": 15,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

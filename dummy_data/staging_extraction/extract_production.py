@@ -21,6 +21,8 @@ EXTRACTS = [
     ("person",     "address",            "address"),
     ("person",     "person",             "person"),
     ("purchasing", "shipmethod",         "shipmethod"),
+    ("production", "productinventory",   "inventory"),
+    ("production", "location",           "inventory"),
 ]
 
 

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000075177",
+    "created_at": "2023-06-01T02:58:28Z",
+    "text": "Absolutely loving my new LL Hub from AdventureWorks — arrived a day early, well packed Five stars. 🔥 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "168871609",
+      "name": "Olivia Anwar",
+      "screen_name": "olivanwa9227",
+      "followers_count": 1471,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075337",
+    "created_at": "2023-06-01T12:03:33Z",
+    "text": "Absolutely loving my new Thin-Jam Lock Nut 7 from AWC — great value for the price Highly recommend. 👍 #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5201265620",
+      "name": "Sofia Wijaya",
+      "screen_name": "sofiwija8904",
+      "followers_count": 1471,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075196",
+    "created_at": "2023-06-01T12:53:21Z",
+    "text": "Akhirnya pakai Road-650 Red dan puas pol — worth it banget Bintang lima. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "2763444028",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope969",
+      "followers_count": 804,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-650 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075280",
+    "created_at": "2023-06-01T13:21:42Z",
+    "text": "Upgraded to the Touring Tire Tube and no looking back — great value for the price Highly recommend. ✨ #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6463455486",
+      "name": "Maria Wijaya",
+      "screen_name": "mariwija474",
+      "followers_count": 812,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075175",
+    "created_at": "2023-06-01T14:56:22Z",
+    "text": "Really impressed with the Lock Washer 9 — great value for the price Highly recommend. 🚴 #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4406586205",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy8167",
+      "followers_count": 511,
+      "verified": true
+    },
+    "retweet_count": 10,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075246",
+    "created_at": "2023-06-01T16:27:28Z",
+    "text": "My LL Mountain Front Wheel from @AWCycles is excellent — feels solid and well made 👍 #AWcycles #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1806281141",
+      "name": "Eko Nguyen",
+      "screen_name": "ekonguy9120",
+      "followers_count": 2418,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075320",
+    "created_at": "2023-06-01T17:58:49Z",
+    "text": "RT @oliv88: Three weeks on the HL Road Frame - Black and I'm sold — holding up great on rough trails 🚴 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5031439460",
+      "name": "Citra Halim",
+      "screen_name": "citrhali2776",
+      "followers_count": 1477,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075269",
+    "created_at": "2023-06-01T21:58:05Z",
+    "text": "RT @maya26: So glad I picked up the Paint - Red — arrived a day early, well packed 😎 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "7996341768",
+      "name": "Jordan Clark",
+      "screen_name": "jordclar8803",
+      "followers_count": 680,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

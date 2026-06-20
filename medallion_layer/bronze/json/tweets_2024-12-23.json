@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000193057",
+    "created_at": "2024-12-23T05:37:06Z",
+    "text": "Salut buat AdventureWorks soal Touring-3000 Yellow — harga sebanding kualitas Recommended. 💯 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2013110546",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope380",
+      "followers_count": 1919,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193103",
+    "created_at": "2024-12-23T06:29:23Z",
+    "text": "Nggak nyesel beli Lock Washer 2 — puas pol 😍 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2931427052",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida670",
+      "followers_count": 4613,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193034",
+    "created_at": "2024-12-23T17:29:33Z",
+    "text": "Road-650 Red dari AdventureWorks Cycles mantap sih — kualitasnya premium Bintang lima. #AWcycles #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9649743873",
+      "name": "Citra Saputra",
+      "screen_name": "citrsapu2782",
+      "followers_count": 149,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-650 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000192968",
+    "created_at": "2024-12-23T17:54:19Z",
+    "text": "Absolutely loving my new Lock Washer 4 from AdventureWorks — the team was super helpful 🙌 #bikes #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "3939735463",
+      "name": "Sofia Garcia",
+      "screen_name": "sofigarc1206",
+      "followers_count": 1335,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193093",
+    "created_at": "2024-12-23T19:16:10Z",
+    "text": "Kecewa banget sama Men's Sports Shorts — CS-nya nggak guna 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "3808844950",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa8122",
+      "followers_count": 1690,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193007",
+    "created_at": "2024-12-23T21:22:28Z",
+    "text": "The ML Mountain Frame-W - Silver from AdventureWorks Cycles let me down — shipping took forever Lesson learned. ⚠️ #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4999984023",
+      "name": "Citra Clark",
+      "screen_name": "citrclar7479",
+      "followers_count": 1315,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame-W - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193084",
+    "created_at": "2024-12-23T21:23:15Z",
+    "text": "Capek deh sama Classic Vest dari @AWCycles — datang telat dan rusak Tolong @AWCycles dibenahi. ⚠️ #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1432040337",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant7165",
+      "followers_count": 1755,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193027",
+    "created_at": "2024-12-23T21:59:26Z",
+    "text": "Really disappointed with the Lock Nut 11 — rattles and feels flimsy 😩 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "770424928",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa8419",
+      "followers_count": 2557,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 60,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

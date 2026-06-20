@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000019387",
+    "created_at": "2022-09-01T07:01:38Z",
+    "text": "The Internal Lock Washer 6 from AdventureWorks Cycles has been fantastic — support was quick and friendly Will buy again. ✨ #bikelife #AdventureWorks #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "5880438503",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee3246",
+      "followers_count": 340,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Internal Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019399",
+    "created_at": "2022-09-01T12:46:23Z",
+    "text": "Not happy with my Road-250 Red at all — it broke after two weeks Never again. ⚠️ #bikelife #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5629037732",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc24",
+      "followers_count": 606,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 35,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019516",
+    "created_at": "2022-09-01T13:46:17Z",
+    "text": "Expected so much more from the Road-350-W Yellow — rattles and feels flimsy Lesson learned. 👎 #bikelife #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "6744837313",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu7387",
+      "followers_count": 1672,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-350-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019422",
+    "created_at": "2022-09-01T15:02:30Z",
+    "text": "Absolutely loving my new Thin-Jam Lock Nut 11 from AWC — delivery was smooth Will buy again. 🔥 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1736953700",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc3276",
+      "followers_count": 2219,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019504",
+    "created_at": "2022-09-01T17:20:09Z",
+    "text": "My Touring Tire from AdventureWorks is excellent — performs flawlessly Zero regrets. 🔥 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "1758356974",
+      "name": "Sam Clark",
+      "screen_name": "samclar5987",
+      "followers_count": 328,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019447",
+    "created_at": "2022-09-01T17:48:38Z",
+    "text": "Comparing the Hex Nut 15 with a few others before I buy 👀 #MTB #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5914264565",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc2927",
+      "followers_count": 1692,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019437",
+    "created_at": "2022-09-01T18:54:31Z",
+    "text": "Just unboxed the Touring-2000 Blue, will report back 👀",
+    "lang": "en",
+    "user": {
+      "id_str": "1228097218",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant5314",
+      "followers_count": 2066,
+      "verified": false
+    },
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-2000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019489",
+    "created_at": "2022-09-01T20:40:50Z",
+    "text": "Anyone using the Flat Washer 4 from AWC? Worth it? 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "6507130437",
+      "name": "Budi Halim",
+      "screen_name": "budihali6502",
+      "followers_count": 739,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

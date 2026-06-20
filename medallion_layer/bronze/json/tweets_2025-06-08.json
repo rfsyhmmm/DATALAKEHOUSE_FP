@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000227109",
+    "created_at": "2025-06-08T05:35:44Z",
+    "text": "RT @mia64: Terkesan banget sama ML Road Rim — pelayanannya membantu Nggak nyesel. 🔥 #bikelife #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "8772963659",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa4881",
+      "followers_count": 278,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227243",
+    "created_at": "2025-06-08T09:11:47Z",
+    "text": "Really impressed with the External Lock Washer 2 — feels solid and well made Zero regrets. 💯 #bikelife #rideon #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5866134574",
+      "name": "Budi Clark",
+      "screen_name": "budiclar7575",
+      "followers_count": 1064,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227023",
+    "created_at": "2025-06-08T12:07:36Z",
+    "text": "Akhirnya pakai Road-350-W Yellow dan puas pol — kualitasnya premium Recommended. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "1375447316",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope5661",
+      "followers_count": 1080,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-350-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227198",
+    "created_at": "2025-06-08T12:53:02Z",
+    "text": "Is the Mountain-100 Black any good for daily rides? #rideon #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "864560343",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat655",
+      "followers_count": 428,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-100 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227163",
+    "created_at": "2025-06-08T15:09:08Z",
+    "text": "RT @lina73: Not happy with my Lock Nut 2 at all — packaging was a mess Never again. 😣 #AdventureWorks #rideon #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3385960860",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija2035",
+      "followers_count": 848,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227060",
+    "created_at": "2025-06-08T20:54:57Z",
+    "text": "Really disappointed with the Freewheel — customer service was useless Do better @AWCycles. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "4273976181",
+      "name": "Budi Clark",
+      "screen_name": "budiclar4284",
+      "followers_count": 3050,
+      "verified": true
+    },
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227129",
+    "created_at": "2025-06-08T21:45:20Z",
+    "text": "The LL Road Front Wheel from AdventureWorks has been fantastic — build quality feels premium Highly recommend. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "637540405",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc6881",
+      "followers_count": 864,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 69,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227095",
+    "created_at": "2025-06-08T21:57:05Z",
+    "text": "Salut buat AdventureWorks soal ML Mountain Frame - Black — pengiriman cepat dan packing rapi Bakal beli lagi. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "5661970086",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope6979",
+      "followers_count": 2404,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

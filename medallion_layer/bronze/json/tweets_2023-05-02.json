@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000069021",
+    "created_at": "2023-05-02T07:05:29Z",
+    "text": "RT @tom69: Regret buying the Internal Lock Washer 8 — the finish is sloppy Lesson learned. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "1089401796",
+      "name": "Tom Lopez",
+      "screen_name": "tomlope6901",
+      "followers_count": 180,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068950",
+    "created_at": "2023-05-02T07:58:24Z",
+    "text": "The Thin-Jam Hex Nut 13 from AdventureWorks Cycles has been fantastic — worth every penny Will buy again. ✨ #bikelife #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "5916840946",
+      "name": "Lina Hidayat",
+      "screen_name": "linahida573",
+      "followers_count": 148,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068859",
+    "created_at": "2023-05-02T10:41:50Z",
+    "text": "Bintang dua buat Hex Nut 13 dari AdventureWorks — bunyi-bunyi dan ringkih Kapok. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "9650655570",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali3473",
+      "followers_count": 365,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068928",
+    "created_at": "2023-05-02T10:46:19Z",
+    "text": "Nggak nyesel beli Road-350-W Yellow — performanya mulus Nggak nyesel. 😎 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5911057154",
+      "name": "Rizky Santoso",
+      "screen_name": "rizksant3323",
+      "followers_count": 2429,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-350-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068900",
+    "created_at": "2023-05-02T15:19:43Z",
+    "text": "Bintang dua buat Touring Rear Wheel dari AdventureWorks Cycles — zonk total Hindari. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "3327882570",
+      "name": "Galih Putra",
+      "screen_name": "galiputr8447",
+      "followers_count": 412,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Touring Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068992",
+    "created_at": "2023-05-02T19:14:14Z",
+    "text": "So glad I picked up the Thin-Jam Hex Nut 6 — feels solid and well made 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "1410328864",
+      "name": "Dewi Santoso",
+      "screen_name": "dewisant5493",
+      "followers_count": 834,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068868",
+    "created_at": "2023-05-02T20:11:54Z",
+    "text": "Naik level gowes ku gara-gara Road-550-W Yellow — tahan banting dipakai berat Bakal beli lagi. 👍 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1031350800",
+      "name": "Sam Garcia",
+      "screen_name": "samgarc6206",
+      "followers_count": 262,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-550-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068910",
+    "created_at": "2023-05-02T22:22:51Z",
+    "text": "Udah sebulan pakai Lock Washer 10, oke terus — masih awet setelah berbulan-bulan Nggak nyesel. 😎 #cycling #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "9446727486",
+      "name": "Chris Halim",
+      "screen_name": "chrihali8966",
+      "followers_count": 2706,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

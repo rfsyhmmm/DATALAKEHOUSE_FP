@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000098018",
+    "created_at": "2023-09-21T08:56:35Z",
+    "text": "Really disappointed with the ML Mountain Frame-W - Silver — the finish is sloppy 👎 #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8277091840",
+      "name": "Bayu Smith",
+      "screen_name": "bayusmit7606",
+      "followers_count": 937,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097963",
+    "created_at": "2023-09-21T10:14:52Z",
+    "text": "Udah sebulan pakai Lock Nut 23, oke terus — sampai lebih cepat, aman Bakal beli lagi. 😎 #cycling #AWcycles #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3009356130",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant294",
+      "followers_count": 1151,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097916",
+    "created_at": "2023-09-21T10:44:42Z",
+    "text": "The Paint - Blue from AWC has been fantastic — fair price for this quality Highly recommend. #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3807476094",
+      "name": "Lina Brown",
+      "screen_name": "linabrow7920",
+      "followers_count": 3477,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Paint - Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098006",
+    "created_at": "2023-09-21T11:29:51Z",
+    "text": "Nggak nyesel beli ML Road Pedal — masih awet setelah berbulan-bulan Nggak nyesel. 👍 #bikes #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "8437443132",
+      "name": "Chris Smith",
+      "screen_name": "chrismit5888",
+      "followers_count": 995,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097987",
+    "created_at": "2023-09-21T12:04:31Z",
+    "text": "Suka banget sama Fork End dari @AdventureWorks — sampai lebih cepat, aman Recommended. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "6356251725",
+      "name": "Nadia Putra",
+      "screen_name": "nadiputr8354",
+      "followers_count": 163,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Fork End",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098041",
+    "created_at": "2023-09-21T16:35:46Z",
+    "text": "Nggak puas sama Internal Lock Washer 10 ku — nyesel ambil ini 😣 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7793368062",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope6721",
+      "followers_count": 330,
+      "verified": true
+    },
+    "retweet_count": 11,
+    "favorite_count": 73,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Internal Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000098055",
+    "created_at": "2023-09-21T19:01:40Z",
+    "text": "So glad I picked up the Decal 2 — performs flawlessly ✨ #bikelife #bikes #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5206522695",
+      "name": "Dimas Brown",
+      "screen_name": "dimabrow8534",
+      "followers_count": 969,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097992",
+    "created_at": "2023-09-21T22:06:52Z",
+    "text": "Salut buat @AWCycles soal Lock Washer 10 — tahan banting dipakai berat Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "8352514559",
+      "name": "Tom Clark",
+      "screen_name": "tomclar268",
+      "followers_count": 4214,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

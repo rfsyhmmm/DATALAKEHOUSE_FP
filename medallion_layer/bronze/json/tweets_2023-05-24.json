@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000073710",
+    "created_at": "2023-05-24T05:51:50Z",
+    "text": "So glad I picked up the Touring-1000 Yellow — great value for the price Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "4435607993",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope7465",
+      "followers_count": 83,
+      "verified": false
+    },
+    "retweet_count": 41,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-1000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073703",
+    "created_at": "2023-05-24T13:20:24Z",
+    "text": "Absolutely loving my new Mountain-500 Silver from AdventureWorks Cycles — zero wear after heavy use Zero regrets. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "9844179723",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa1941",
+      "followers_count": 1147,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-500 Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073659",
+    "created_at": "2023-05-24T13:47:02Z",
+    "text": "Udahan deh sama LL Grip Tape ini — jebol pas ride pertama Pelajaran mahal. 😡 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "2183099132",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija6761",
+      "followers_count": 3040,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 49,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073576",
+    "created_at": "2023-05-24T14:59:45Z",
+    "text": "My Half-Finger Gloves from AdventureWorks is excellent — build quality feels premium Zero regrets. 😍 #bikes #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1074315627",
+      "name": "Galih Putra",
+      "screen_name": "galiputr5391",
+      "followers_count": 172,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Half-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073546",
+    "created_at": "2023-05-24T18:57:37Z",
+    "text": "Ada yang pakai Pinch Bolt dari AWC? Worth it nggak? 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "7320756929",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc3952",
+      "followers_count": 697,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 49,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073694",
+    "created_at": "2023-05-24T19:21:58Z",
+    "text": "Udahan deh sama Touring-1000 Blue ini — kirimnya lama banget 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "637464788",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant4908",
+      "followers_count": 3960,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073621",
+    "created_at": "2023-05-24T20:00:07Z",
+    "text": "Frustrated with the Hex Nut 20 from @AdventureWorks — shipping took forever 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "367834505",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu9843",
+      "followers_count": 2377,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073701",
+    "created_at": "2023-05-24T20:54:50Z",
+    "text": "Just unboxed the Steerer, will report back 🤷",
+    "lang": "en",
+    "user": {
+      "id_str": "9264530690",
+      "name": "Lina Brown",
+      "screen_name": "linabrow4939",
+      "followers_count": 652,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Steerer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000111079",
+    "created_at": "2023-11-23T08:07:35Z",
+    "text": "Capek deh sama LL Road Seat Assembly dari @AdventureWorks — finishing-nya asal 😤 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "3372880982",
+      "name": "Lina Lee",
+      "screen_name": "linalee989",
+      "followers_count": 266,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111216",
+    "created_at": "2023-11-23T10:46:06Z",
+    "text": "Really disappointed with the LL Grip Tape — poor build, cheap materials Lesson learned. 😡 #MTB #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "4329940625",
+      "name": "Maya Putra",
+      "screen_name": "mayaputr2537",
+      "followers_count": 1119,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111146",
+    "created_at": "2023-11-23T13:09:15Z",
+    "text": "Road-750 Black dari AdventureWorks Cycles mantap sih — kirimnya lancar 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "928167987",
+      "name": "Kevin Lee",
+      "screen_name": "kevilee4301",
+      "followers_count": 329,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-750 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111126",
+    "created_at": "2023-11-23T16:30:54Z",
+    "text": "Expected so much more from the LL Road Frame - Black — shipping took forever Do better AWC. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "5632588583",
+      "name": "Galih Brown",
+      "screen_name": "galibrow6214",
+      "followers_count": 1751,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111017",
+    "created_at": "2023-11-23T17:07:13Z",
+    "text": "Terkesan banget sama HL Touring Frame - Yellow — terasa kokoh dan rapi",
+    "lang": "in",
+    "user": {
+      "id_str": "4936460366",
+      "name": "Bayu Wijaya",
+      "screen_name": "bayuwija2036",
+      "followers_count": 1074,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111230",
+    "created_at": "2023-11-23T18:30:19Z",
+    "text": "RT @citr48: Nggak puas sama Hitch Rack - 4-Bike ku — bunyi-bunyi dan ringkih ⚠️ #AWcycles #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9521553486",
+      "name": "Andi Santoso",
+      "screen_name": "andisant5987",
+      "followers_count": 3195,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hitch Rack - 4-Bike",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111182",
+    "created_at": "2023-11-23T21:00:00Z",
+    "text": "Road-350-W Yellow dari @AWCycles bikin nyesel — cepet aus banget Pelajaran mahal. 🙄 #MTB #AWcycles #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1263260676",
+      "name": "Eko Kim",
+      "screen_name": "ekokim4981",
+      "followers_count": 833,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 66,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-350-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111060",
+    "created_at": "2023-11-23T21:06:01Z",
+    "text": "Upgraded to the Hex Nut 18 and no looking back — zero wear after heavy use Will buy again. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "1195646932",
+      "name": "Maria Santoso",
+      "screen_name": "marisant2891",
+      "followers_count": 2345,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

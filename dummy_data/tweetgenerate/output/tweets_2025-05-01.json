@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000219914",
+    "created_at": "2025-05-01T02:09:06Z",
+    "text": "Regret buying the Touring-2000 Blue — wish I'd skipped it Never again. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "865875808",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida9466",
+      "followers_count": 656,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219952",
+    "created_at": "2025-05-01T13:58:13Z",
+    "text": "Absolutely loving my new Thin-Jam Lock Nut 8 from AdventureWorks — zero wear after heavy use Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "4670229434",
+      "name": "Budi Brown",
+      "screen_name": "budibrow7492",
+      "followers_count": 355,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219977",
+    "created_at": "2025-05-01T17:22:07Z",
+    "text": "Kecewa banget sama HL Road Front Wheel — rusak baru dua minggu Tolong AdventureWorks dibenahi. 😩 #AdventureWorks #bikes #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9792803296",
+      "name": "Tom Anwar",
+      "screen_name": "tomanwa5199",
+      "followers_count": 1437,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219879",
+    "created_at": "2025-05-01T18:51:15Z",
+    "text": "Nggak nyesel beli Keyed Washer — pengiriman cepat dan packing rapi 👍 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7170207359",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali2949",
+      "followers_count": 1021,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Keyed Washer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219995",
+    "created_at": "2025-05-01T19:24:58Z",
+    "text": "Two stars for the LL Mountain Frame - Silver from AdventureWorks — rattles and feels flimsy 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "4817227709",
+      "name": "Kevin Lopez",
+      "screen_name": "kevilope5472",
+      "followers_count": 8,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219847",
+    "created_at": "2025-05-01T20:13:30Z",
+    "text": "RT @lina9: Touring-Panniers dari AdventureWorks Cycles mantap sih — worth it banget Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "8758630063",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant8086",
+      "followers_count": 234,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-Panniers, Large",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219999",
+    "created_at": "2025-05-01T20:26:08Z",
+    "text": "Naik level gowes ku gara-gara Short-Sleeve Classic Jersey — masih awet setelah berbulan-bulan Recommended. 💯 #AWcycles #AdventureWorks #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6573739481",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit6298",
+      "followers_count": 608,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Short-Sleeve Classic Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219966",
+    "created_at": "2025-05-01T23:55:02Z",
+    "text": "Nggak nyesel beli Mountain-100 Silver — terasa kokoh dan rapi Nggak nyesel. ✨ #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "3449142724",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit7031",
+      "followers_count": 1979,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

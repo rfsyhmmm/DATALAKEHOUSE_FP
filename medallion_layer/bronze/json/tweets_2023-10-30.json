@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000105888",
+    "created_at": "2023-10-30T06:49:10Z",
+    "text": "Naik level gowes ku gara-gara Lock Nut 22 — terasa kokoh dan rapi Nggak nyesel. 🚴 #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "6068787496",
+      "name": "Alex Saputra",
+      "screen_name": "alexsapu7102",
+      "followers_count": 2176,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105863",
+    "created_at": "2023-10-30T10:55:09Z",
+    "text": "RT @sofi28: ML Fork dari AdventureWorks bikin nyesel — mahal nggak masuk akal Tolong AdventureWorks dibenahi. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "9858236243",
+      "name": "Andi Lopez",
+      "screen_name": "andilope9328",
+      "followers_count": 1597,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 48,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105973",
+    "created_at": "2023-10-30T11:42:58Z",
+    "text": "ML Road Rim dari AdventureWorks Cycles mantap sih — kirimnya lancar Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "6516397870",
+      "name": "Kevin Lopez",
+      "screen_name": "kevilope682",
+      "followers_count": 2461,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106000",
+    "created_at": "2023-10-30T12:12:33Z",
+    "text": "Akhirnya pakai Mountain-200 Black dan puas pol — terasa kokoh dan rapi ✨ #AdventureWorks #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "2389628530",
+      "name": "Maya Putra",
+      "screen_name": "mayaputr4231",
+      "followers_count": 2,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Black, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105961",
+    "created_at": "2023-10-30T16:44:46Z",
+    "text": "RT @maya37: The Hex Nut 13 from @AdventureWorks has been fantastic — still rock solid after months Will buy again. 😍 #rideon #AWcycles #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "1101301878",
+      "name": "Bayu Clark",
+      "screen_name": "bayuclar9008",
+      "followers_count": 586,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 68,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106062",
+    "created_at": "2023-10-30T19:25:00Z",
+    "text": "Capek deh sama LL Mountain Rear Wheel dari @AdventureWorks — rusak baru dua minggu Tolong @AdventureWorks dibenahi. 😡 #cycling #AdventureWorks #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "1978049576",
+      "name": "Galih Lopez",
+      "screen_name": "galilope4859",
+      "followers_count": 3059,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105911",
+    "created_at": "2023-10-30T19:41:46Z",
+    "text": "RT @sofi69: Nggak nyesel beli Seat Lug — melebihi ekspektasi 💯 #AdventureWorks #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "5816466985",
+      "name": "Sofia Santoso",
+      "screen_name": "sofisant9654",
+      "followers_count": 403,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Seat Lug",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000106013",
+    "created_at": "2023-10-30T21:14:48Z",
+    "text": "Nggak nyesel beli Lock Washer 7 — murah buat kualitas segini Recommended. 🚴 #cycling #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5705716470",
+      "name": "Sofia Halim",
+      "screen_name": "sofihali7167",
+      "followers_count": 143,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

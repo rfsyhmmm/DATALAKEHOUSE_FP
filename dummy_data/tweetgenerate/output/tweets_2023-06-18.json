@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000078522",
+    "created_at": "2023-06-18T09:25:46Z",
+    "text": "Frustrated with the Seat Post from AdventureWorks Cycles — poor build, cheap materials Lesson learned. 👎 #MTB #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "468678813",
+      "name": "Kevin Nguyen",
+      "screen_name": "kevinguy4014",
+      "followers_count": 703,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Seat Post",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078519",
+    "created_at": "2023-06-18T10:19:45Z",
+    "text": "Terkesan banget sama Touring-1000 Blue — kuat di trek kasar 😍 #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6422531325",
+      "name": "Maya Smith",
+      "screen_name": "mayasmit1744",
+      "followers_count": 4083,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078666",
+    "created_at": "2023-06-18T12:20:07Z",
+    "text": "RT @jord37: The Front Derailleur Cage from AdventureWorks has been fantastic — great value for the price Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "6132817733",
+      "name": "Maria Hidayat",
+      "screen_name": "marihida5230",
+      "followers_count": 1494,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Front Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078691",
+    "created_at": "2023-06-18T13:05:43Z",
+    "text": "Anyone using the Bearing Ball from @AdventureWorks? Worth it? 🤷 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "3837266865",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa9864",
+      "followers_count": 28,
+      "verified": true
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Bearing Ball",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078563",
+    "created_at": "2023-06-18T17:03:45Z",
+    "text": "Two stars for the HL Mountain Frame - Black from @AWCycles — just not worth the money 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "9057826768",
+      "name": "Bayu Saputra",
+      "screen_name": "bayusapu9988",
+      "followers_count": 538,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Mountain Frame - Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078637",
+    "created_at": "2023-06-18T17:16:29Z",
+    "text": "The Head Tube from AWC has been fantastic — couldn't be happier 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "2550045565",
+      "name": "Mia Santoso",
+      "screen_name": "miasant5230",
+      "followers_count": 2264,
+      "verified": true
+    },
+    "retweet_count": 13,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Head Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078591",
+    "created_at": "2023-06-18T19:59:14Z",
+    "text": "Tadi liat Touring Tire Tube di toko, lumayan menarik 🧐 #AWcycles #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2880742797",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa1951",
+      "followers_count": 2904,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078612",
+    "created_at": "2023-06-18T22:31:34Z",
+    "text": "The Road-750 Black from AWC has been fantastic — holding up great on rough trails Five stars. 🔥 #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8836414061",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida337",
+      "followers_count": 3850,
+      "verified": false
+    },
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-750 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

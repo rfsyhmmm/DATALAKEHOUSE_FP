@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000002798",
+    "created_at": "2022-06-11T05:17:24Z",
+    "text": "Nggak puas sama Lock Nut 12 ku — kirimnya lama banget 😣 #MTB #AdventureWorks #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "6552729913",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar5637",
+      "followers_count": 78,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002758",
+    "created_at": "2022-06-11T07:54:53Z",
+    "text": "Absolutely loving my new Guide Pulley from AdventureWorks Cycles — great value for the price Highly recommend. 🔥 #AWcycles #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5198775210",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc5800",
+      "followers_count": 225,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Guide Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002740",
+    "created_at": "2022-06-11T08:10:28Z",
+    "text": "Upgraded to the Touring-3000 Blue and no looking back — support was quick and friendly 💯 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2691164476",
+      "name": "Dewi Putra",
+      "screen_name": "dewiputr2583",
+      "followers_count": 2261,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring-3000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002675",
+    "created_at": "2022-06-11T08:51:33Z",
+    "text": "The ML Road Seat Assembly from AdventureWorks has been fantastic — customer service sorted it instantly Five stars. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "1684496586",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida131",
+      "followers_count": 120,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002725",
+    "created_at": "2022-06-11T08:59:26Z",
+    "text": "Three weeks on the HL Touring Frame - Blue and I'm sold — holding up great on rough trails ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "546457642",
+      "name": "Andi Anwar",
+      "screen_name": "andianwa5039",
+      "followers_count": 2236,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Touring Frame - Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002756",
+    "created_at": "2022-06-11T10:11:01Z",
+    "text": "Nggak nyesel beli Mountain-500 Black — worth it banget Bakal beli lagi. 😎 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7932617672",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija3247",
+      "followers_count": 670,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002802",
+    "created_at": "2022-06-11T19:14:10Z",
+    "text": "HL Mountain Seat/Saddle bagus nggak buat harian? 🧐 #MTB #bikelife #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "846087503",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa5814",
+      "followers_count": 3929,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002735",
+    "created_at": "2022-06-11T21:33:26Z",
+    "text": "RT @oliv17: The Half-Finger Gloves from AdventureWorks Cycles has been fantastic — feels solid and well made Highly recommend. 😎 #MTB #AWcycles #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8049613826",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy4277",
+      "followers_count": 2139,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Half-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

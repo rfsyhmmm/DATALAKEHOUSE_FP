@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000165474",
+    "created_at": "2024-08-10T07:03:03Z",
+    "text": "Really impressed with the Road-150 Red — couldn't be happier Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "1429811226",
+      "name": "Maya Smith",
+      "screen_name": "mayasmit558",
+      "followers_count": 119,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-150 Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000165438",
+    "created_at": "2024-08-10T10:04:07Z",
+    "text": "Suka banget sama Metal Plate 2 dari AdventureWorks Cycles — kualitasnya premium 🚴 #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2228294519",
+      "name": "Chris Hidayat",
+      "screen_name": "chrihida2404",
+      "followers_count": 1216,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Plate 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000165360",
+    "created_at": "2024-08-10T12:00:33Z",
+    "text": "Naik level gowes ku gara-gara ML Road Frame - Red — kualitasnya premium Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "3259748247",
+      "name": "Maya Halim",
+      "screen_name": "mayahali3009",
+      "followers_count": 2688,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000165448",
+    "created_at": "2024-08-10T14:16:53Z",
+    "text": "So glad I picked up the Road-550-W Yellow — feels solid and well made Will buy again. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "3528079357",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant56",
+      "followers_count": 636,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000165342",
+    "created_at": "2024-08-10T17:26:18Z",
+    "text": "Udah sebulan pakai HL Road Frame - Red, oke terus — terasa kokoh dan rapi Recommended. 😍 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7182212585",
+      "name": "Maya Saputra",
+      "screen_name": "mayasapu8146",
+      "followers_count": 944,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000165376",
+    "created_at": "2024-08-10T18:58:47Z",
+    "text": "Salut buat @AWCycles soal ML Road Frame - Red — masih awet setelah berbulan-bulan Bintang lima. 😎 #MTB #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "3426115573",
+      "name": "Raka Saputra",
+      "screen_name": "rakasapu4723",
+      "followers_count": 413,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 102,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000165321",
+    "created_at": "2024-08-10T20:20:29Z",
+    "text": "Shoutout to AdventureWorks Cycles for the HL Fork — the team was super helpful 👍 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4792390894",
+      "name": "Galih Lee",
+      "screen_name": "galilee9403",
+      "followers_count": 2579,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000165414",
+    "created_at": "2024-08-10T23:24:39Z",
+    "text": "Lagi banding-bandingin Hex Nut 4 sama merek lain 🧐",
+    "lang": "in",
+    "user": {
+      "id_str": "388844798",
+      "name": "Jordan Pratama",
+      "screen_name": "jordprat5683",
+      "followers_count": 1397,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

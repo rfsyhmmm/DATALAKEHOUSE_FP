@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000027895",
+    "created_at": "2022-10-13T08:01:02Z",
+    "text": "Three weeks on the Hex Nut 2 and I'm sold — delivery was smooth Will buy again. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "9311622742",
+      "name": "Jordan Hidayat",
+      "screen_name": "jordhida2001",
+      "followers_count": 345,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027763",
+    "created_at": "2022-10-13T10:45:38Z",
+    "text": "Regret buying the Guide Pulley — it broke after two weeks 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "536389523",
+      "name": "Nadia Brown",
+      "screen_name": "nadibrow853",
+      "followers_count": 2001,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Guide Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027809",
+    "created_at": "2022-10-13T11:26:47Z",
+    "text": "Capek deh sama HL Road Rim dari AWC — bunyi-bunyi dan ringkih Tolong AWC dibenahi. 🙄 #bikelife #cycling #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "755845401",
+      "name": "Sofia Halim",
+      "screen_name": "sofihali5591",
+      "followers_count": 1175,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 47,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027782",
+    "created_at": "2022-10-13T11:41:22Z",
+    "text": "Absolutely loving my new Classic Vest from AdventureWorks Cycles — build quality feels premium Five stars. ✨ #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9067680809",
+      "name": "Nadia Hidayat",
+      "screen_name": "nadihida8730",
+      "followers_count": 1412,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027920",
+    "created_at": "2022-10-13T17:46:37Z",
+    "text": "Done with the Flat Washer 1 honestly — rattles and feels flimsy ⚠️ #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9637222194",
+      "name": "Lina Lopez",
+      "screen_name": "linalope2205",
+      "followers_count": 374,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Flat Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027898",
+    "created_at": "2022-10-13T18:09:58Z",
+    "text": "Absolutely loving my new HL Nipple from @AWCycles — great value for the price Highly recommend. 🙌 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "7758681132",
+      "name": "Rizky Pratama",
+      "screen_name": "rizkprat6857",
+      "followers_count": 2594,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Nipple",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027846",
+    "created_at": "2022-10-13T21:25:10Z",
+    "text": "Headlights - Dual-Beam dari AWC mantap sih — masih awet setelah berbulan-bulan 🙌 #AWcycles #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1089537086",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat183",
+      "followers_count": 316,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Headlights - Dual-Beam",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027836",
+    "created_at": "2022-10-13T23:24:44Z",
+    "text": "Suka banget sama Mountain-500 Black dari @AWCycles — CS-nya cepat dan ramah 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "4925386725",
+      "name": "Maria Halim",
+      "screen_name": "marihali2196",
+      "followers_count": 543,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

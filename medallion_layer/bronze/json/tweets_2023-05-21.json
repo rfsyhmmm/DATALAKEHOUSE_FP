@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000072978",
+    "created_at": "2023-05-21T01:38:14Z",
+    "text": "Nyesel beli Paint - Silver — nyesel ambil ini Pelajaran mahal.",
+    "lang": "in",
+    "user": {
+      "id_str": "4394228693",
+      "name": "Raka Lopez",
+      "screen_name": "rakalope6622",
+      "followers_count": 1042,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Paint - Silver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073040",
+    "created_at": "2023-05-21T05:39:22Z",
+    "text": "HL Touring Frame - Blue dari AdventureWorks mantap sih — tahan banting dipakai berat Recommended. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "5997420000",
+      "name": "Olivia Lee",
+      "screen_name": "olivlee1423",
+      "followers_count": 312,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 53,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072894",
+    "created_at": "2023-05-21T07:52:17Z",
+    "text": "Suka banget sama Touring-1000 Yellow dari AWC — admin responsif banget 🚴 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "728818879",
+      "name": "Chris Brown",
+      "screen_name": "chribrow6498",
+      "followers_count": 2485,
+      "verified": true
+    },
+    "retweet_count": 3,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring-1000 Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072879",
+    "created_at": "2023-05-21T13:20:28Z",
+    "text": "RT @andi10: Shoutout to AdventureWorks for the ML Mountain Frame - Black — build quality feels premium 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "5909119747",
+      "name": "Budi Putra",
+      "screen_name": "budiputr8884",
+      "followers_count": 3319,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072958",
+    "created_at": "2023-05-21T16:37:53Z",
+    "text": "Internal Lock Washer 6 dari @AdventureWorks mantap sih — performanya mulus 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "2509500547",
+      "name": "Putri Halim",
+      "screen_name": "putrhali4908",
+      "followers_count": 3054,
+      "verified": true
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073008",
+    "created_at": "2023-05-21T18:19:14Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Mountain-500 Silver — arrived a day early, well packed 🚴 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1936052116",
+      "name": "Tom Lopez",
+      "screen_name": "tomlope4060",
+      "followers_count": 2349,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 77,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-500 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072939",
+    "created_at": "2023-05-21T21:52:58Z",
+    "text": "Flat Washer 4 dari @AWCycles bikin nyesel — kirimnya lama banget 🙄 #MTB #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "1686782547",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope2327",
+      "followers_count": 1964,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072980",
+    "created_at": "2023-05-21T23:20:54Z",
+    "text": "Naik level gowes ku gara-gara ML Road Frame - Red — harga sebanding kualitas Bakal beli lagi. 👍 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "751480059",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija756",
+      "followers_count": 2249,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 54,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

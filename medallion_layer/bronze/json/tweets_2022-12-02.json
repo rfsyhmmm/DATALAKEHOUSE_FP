@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000038342",
+    "created_at": "2022-12-02T05:15:12Z",
+    "text": "Berharap lebih dari Guide Pulley — jebol pas ride pertama Tolong @AdventureWorks dibenahi. 😡 #bikes #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "4042910275",
+      "name": "Budi Garcia",
+      "screen_name": "budigarc261",
+      "followers_count": 2245,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Guide Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038254",
+    "created_at": "2022-12-02T06:10:21Z",
+    "text": "RT @oliv63: Udahan deh sama ML Mountain Rim ini — komplain didiemin 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "8053926967",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc2586",
+      "followers_count": 1004,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038353",
+    "created_at": "2022-12-02T09:49:47Z",
+    "text": "Suka banget sama HL Mountain Handlebars dari AdventureWorks — masih awet setelah berbulan-bulan Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "3632976784",
+      "name": "Lina Santoso",
+      "screen_name": "linasant3851",
+      "followers_count": 1566,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038284",
+    "created_at": "2022-12-02T14:20:14Z",
+    "text": "Akhirnya pakai Lock Washer 6 dan puas pol — murah buat kualitas segini Nggak nyesel. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "1533271025",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa4058",
+      "followers_count": 369,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038345",
+    "created_at": "2022-12-02T15:29:50Z",
+    "text": "Nggak nyesel beli Road-250 Black — sampai lebih cepat, aman Bintang lima. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "5678282880",
+      "name": "Putri Kim",
+      "screen_name": "putrkim5712",
+      "followers_count": 1063,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038275",
+    "created_at": "2022-12-02T15:43:55Z",
+    "text": "Front Derailleur dari @AWCycles mantap sih — masih awet setelah berbulan-bulan Nggak nyesel. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "8942693279",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida16",
+      "followers_count": 3056,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Front Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038302",
+    "created_at": "2022-12-02T19:13:16Z",
+    "text": "Fork Crown dari AWC bikin nyesel — finishing-nya asal 👎 #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9499938961",
+      "name": "Tom Kim",
+      "screen_name": "tomkim9884",
+      "followers_count": 1654,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Fork Crown",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038367",
+    "created_at": "2022-12-02T22:33:20Z",
+    "text": "Bintang dua buat LL Mountain Seat Assembly dari AdventureWorks Cycles — zonk total Kapok. 😡 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9898713748",
+      "name": "Andi Anwar",
+      "screen_name": "andianwa7210",
+      "followers_count": 104,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

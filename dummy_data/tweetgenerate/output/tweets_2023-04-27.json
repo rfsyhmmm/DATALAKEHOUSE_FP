@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000067928",
+    "created_at": "2023-04-27T07:58:01Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Steerer — delivery was smooth Five stars. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "9863339754",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu1695",
+      "followers_count": 3331,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Steerer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067995",
+    "created_at": "2023-04-27T12:54:18Z",
+    "text": "Upgraded to the LL Road Frame - Black and no looking back — performs flawlessly Zero regrets. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "2395889998",
+      "name": "Eko Wijaya",
+      "screen_name": "ekowija8513",
+      "followers_count": 1195,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067911",
+    "created_at": "2023-04-27T15:36:22Z",
+    "text": "RT @jord64: Shoutout to @AdventureWorks for the Road-350-W Yellow — worth every penny Will buy again.",
+    "lang": "en",
+    "user": {
+      "id_str": "4954397596",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa8189",
+      "followers_count": 560,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-350-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067958",
+    "created_at": "2023-04-27T17:02:03Z",
+    "text": "Shoutout to @AWCycles for the HL Bottom Bracket — shipping was fast and packaging perfect 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "7599461088",
+      "name": "Alex Lee",
+      "screen_name": "alexlee7557",
+      "followers_count": 2661,
+      "verified": true
+    },
+    "retweet_count": 7,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068002",
+    "created_at": "2023-04-27T19:43:56Z",
+    "text": "Two stars for the LL Road Tire from AWC — overpriced for what you get ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "8913200569",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc3169",
+      "followers_count": 819,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068038",
+    "created_at": "2023-04-27T20:16:06Z",
+    "text": "Kecewa banget sama Rear Derailleur Cage — finishing-nya asal 😡 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7190802676",
+      "name": "Maria Pratama",
+      "screen_name": "mariprat6883",
+      "followers_count": 1269,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000068058",
+    "created_at": "2023-04-27T20:44:42Z",
+    "text": "My Full-Finger Gloves from @AdventureWorks is excellent — holding up great on rough trails 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "334251705",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija9162",
+      "followers_count": 1115,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 40,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Full-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067863",
+    "created_at": "2023-04-27T21:20:59Z",
+    "text": "External Lock Washer 9 bagus nggak buat harian? 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "8948195165",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc763",
+      "followers_count": 1487,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "External Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

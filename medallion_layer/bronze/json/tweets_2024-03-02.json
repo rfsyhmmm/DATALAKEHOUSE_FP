@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000131476",
+    "created_at": "2024-03-02T05:01:14Z",
+    "text": "RT @jord67: Shoutout to AdventureWorks for the Thin-Jam Lock Nut 10 — delivery was smooth Highly recommend. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "5148451563",
+      "name": "Maya Putra",
+      "screen_name": "mayaputr9192",
+      "followers_count": 804,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131400",
+    "created_at": "2024-03-02T09:45:59Z",
+    "text": "Guide Pulley dari AdventureWorks Cycles bikin nyesel — finishing-nya asal 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "7010521623",
+      "name": "Dimas Putra",
+      "screen_name": "dimaputr7306",
+      "followers_count": 2972,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Guide Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131506",
+    "created_at": "2024-03-02T12:18:00Z",
+    "text": "Naik level gowes ku gara-gara Road-250 Red — masih awet setelah berbulan-bulan Bintang lima. 😎 #cycling #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7678666309",
+      "name": "Alex Putra",
+      "screen_name": "alexputr7192",
+      "followers_count": 93,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131381",
+    "created_at": "2024-03-02T18:56:07Z",
+    "text": "Terkesan banget sama Minipump — pelayanannya membantu Nggak nyesel. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "1399154383",
+      "name": "Kevin Saputra",
+      "screen_name": "kevisapu9404",
+      "followers_count": 2151,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Minipump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131453",
+    "created_at": "2024-03-02T18:59:14Z",
+    "text": "HL Road Rim dari @AdventureWorks bikin nyesel — finishing-nya asal Tolong @AdventureWorks dibenahi. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "1485513829",
+      "name": "Jordan Pratama",
+      "screen_name": "jordprat7833",
+      "followers_count": 795,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131516",
+    "created_at": "2024-03-02T19:38:00Z",
+    "text": "Udah sebulan pakai LL Road Frame - Red, oke terus — pelayanannya membantu Bakal beli lagi. 🙌 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8284378570",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy4472",
+      "followers_count": 940,
+      "verified": true
+    },
+    "retweet_count": 1,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131478",
+    "created_at": "2024-03-02T20:28:44Z",
+    "text": "The Touring-2000 Blue from @AdventureWorks let me down — packaging was a mess Lesson learned. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "7227812867",
+      "name": "Budi Lee",
+      "screen_name": "budilee6118",
+      "followers_count": 900,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring-2000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131424",
+    "created_at": "2024-03-02T21:17:02Z",
+    "text": "Capek deh sama LL Mountain Frame - Silver dari @AdventureWorks — komplain didiemin Pelajaran mahal. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "9226668090",
+      "name": "Bayu Anwar",
+      "screen_name": "bayuanwa1835",
+      "followers_count": 1750,
+      "verified": false
+    },
+    "retweet_count": 33,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

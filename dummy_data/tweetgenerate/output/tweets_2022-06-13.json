@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000003254",
+    "created_at": "2022-06-13T08:33:48Z",
+    "text": "Udahan deh sama Metal Sheet 1 ini — finishing-nya asal Tolong @AdventureWorks dibenahi. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "6192693247",
+      "name": "Dimas Clark",
+      "screen_name": "dimaclar4844",
+      "followers_count": 492,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003019",
+    "created_at": "2022-06-13T09:52:40Z",
+    "text": "Udah sebulan pakai Flat Washer 1, oke terus — puas pol Recommended. 🚴 #AWcycles #rideon #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "1880016559",
+      "name": "Andi Lopez",
+      "screen_name": "andilope1844",
+      "followers_count": 1992,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 60,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Flat Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003139",
+    "created_at": "2022-06-13T09:53:12Z",
+    "text": "Absolutely loving my new LL Road Tire from AdventureWorks — great value for the price Highly recommend. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "6564468567",
+      "name": "Rizky Kim",
+      "screen_name": "rizkkim7606",
+      "followers_count": 2453,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003171",
+    "created_at": "2022-06-13T16:22:22Z",
+    "text": "Akhirnya pakai Road-550-W Yellow dan puas pol — beli yang tepat sih Recommended. 🚴 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9845639755",
+      "name": "Sam Brown",
+      "screen_name": "sambrow3388",
+      "followers_count": 545,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003213",
+    "created_at": "2022-06-13T17:19:45Z",
+    "text": "Naik level gowes ku gara-gara External Lock Washer 8 — performanya mulus Bakal beli lagi. 🙌 #bikes #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "7010817577",
+      "name": "Eko Lee",
+      "screen_name": "ekolee121",
+      "followers_count": 600,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003069",
+    "created_at": "2022-06-13T20:16:24Z",
+    "text": "Kecewa banget sama Thin-Jam Hex Nut 12 — rusak baru dua minggu Tolong AWC dibenahi. #rideon #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7597938394",
+      "name": "Kevin Brown",
+      "screen_name": "kevibrow808",
+      "followers_count": 463,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003300",
+    "created_at": "2022-06-13T21:42:22Z",
+    "text": "Thin-Jam Lock Nut 8 dari @AWCycles mantap sih — murah buat kualitas segini 🚴 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2910775408",
+      "name": "Hannah Garcia",
+      "screen_name": "hanngarc5500",
+      "followers_count": 374,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 57,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003089",
+    "created_at": "2022-06-13T22:14:08Z",
+    "text": "Expected so much more from the Lock Washer 10 — fell apart on the first ride #AdventureWorks #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8119515562",
+      "name": "Mia Clark",
+      "screen_name": "miaclar8463",
+      "followers_count": 1579,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000000624",
+    "created_at": "2022-06-01T05:17:12Z",
+    "text": "Akhirnya pakai HL Mountain Seat Assembly dan puas pol — puas pol Nggak nyesel. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "2524843951",
+      "name": "Andi Smith",
+      "screen_name": "andismit5465",
+      "followers_count": 101,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000496",
+    "created_at": "2022-06-01T07:24:36Z",
+    "text": "Terkesan banget sama LL Mountain Tire — melebihi ekspektasi 🚴 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "9678285566",
+      "name": "Budi Clark",
+      "screen_name": "budiclar4690",
+      "followers_count": 407,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000466",
+    "created_at": "2022-06-01T08:05:39Z",
+    "text": "Shoutout to AWC for the Hex Nut 18 — delivery was smooth Zero regrets. ✨ #bikes #AWcycles #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "778500147",
+      "name": "Nadia Nguyen",
+      "screen_name": "nadinguy8956",
+      "followers_count": 489,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000639",
+    "created_at": "2022-06-01T10:09:08Z",
+    "text": "So glad I picked up the LL Nipple — still rock solid after months 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "1490587865",
+      "name": "Lina Brown",
+      "screen_name": "linabrow9648",
+      "followers_count": 1025,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Nipple",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000668",
+    "created_at": "2022-06-01T15:39:02Z",
+    "text": "Salut buat @AWCycles soal Rear Derailleur — murah buat kualitas segini Recommended. 🚴 #MTB #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3962321353",
+      "name": "Galih Hidayat",
+      "screen_name": "galihida1205",
+      "followers_count": 394,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000540",
+    "created_at": "2022-06-01T17:57:40Z",
+    "text": "Shoutout to AdventureWorks for the Short-Sleeve Classic Jersey — worth every penny 🚴 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8567483275",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc3290",
+      "followers_count": 2456,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Short-Sleeve Classic Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000580",
+    "created_at": "2022-06-01T21:19:41Z",
+    "text": "Nyesel beli Touring-3000 Yellow — kemahalan buat kualitas segini Hindari. 👎 #AdventureWorks #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8481721143",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida6079",
+      "followers_count": 2212,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 54,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring-3000 Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000000559",
+    "created_at": "2022-06-01T22:09:48Z",
+    "text": "Berharap lebih dari Fender Set - Mountain — rusak baru dua minggu Pelajaran mahal. 😣 #AdventureWorks #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "9155277559",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa6087",
+      "followers_count": 3596,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

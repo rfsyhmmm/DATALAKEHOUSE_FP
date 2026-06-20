@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000014749",
+    "created_at": "2022-08-06T07:23:22Z",
+    "text": "RT @maya83: Thinking about the External Lock Washer 9. Any reviews? 🤔 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3634096467",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija8981",
+      "followers_count": 435,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "External Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014652",
+    "created_at": "2022-08-06T09:40:00Z",
+    "text": "Salut buat AdventureWorks Cycles soal Hex Nut 4 — pelayanannya membantu Nggak nyesel. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "2698804887",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu9909",
+      "followers_count": 650,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014677",
+    "created_at": "2022-08-06T10:09:18Z",
+    "text": "Udahan deh sama AWC Logo Cap ini — rusak baru dua minggu Tolong AdventureWorks dibenahi. 😡 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5569864421",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida5147",
+      "followers_count": 538,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "AWC Logo Cap",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014547",
+    "created_at": "2022-08-06T13:00:27Z",
+    "text": "RT @tom21: So glad I picked up the LL Touring Frame - Yellow — exceeded my expectations Highly recommend. 👍 #cycling #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5210779403",
+      "name": "Putri Halim",
+      "screen_name": "putrhali3732",
+      "followers_count": 581,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014560",
+    "created_at": "2022-08-06T13:26:15Z",
+    "text": "My LL Road Seat Assembly from @AdventureWorks is excellent — arrived a day early, well packed 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "7804389725",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu9458",
+      "followers_count": 230,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014606",
+    "created_at": "2022-08-06T14:30:56Z",
+    "text": "The Road-550-W Yellow from AdventureWorks let me down — fell apart on the first ride Never again. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "7520959730",
+      "name": "Chris Hidayat",
+      "screen_name": "chrihida9873",
+      "followers_count": 1116,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-550-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014715",
+    "created_at": "2022-08-06T20:35:30Z",
+    "text": "Three weeks on the Hex Nut 10 and I'm sold — feels solid and well made Will buy again. 👍 #AWcycles #bikelife #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2297770720",
+      "name": "Raka Smith",
+      "screen_name": "rakasmit4636",
+      "followers_count": 396,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000014551",
+    "created_at": "2022-08-06T22:45:30Z",
+    "text": "RT @putr81: Comparing the ML Mountain Rim with a few others before I buy 👀 #MTB #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9213265146",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu5090",
+      "followers_count": 592,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

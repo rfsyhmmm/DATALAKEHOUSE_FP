@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000085353",
+    "created_at": "2023-07-24T14:15:50Z",
+    "text": "Naik level gowes ku gara-gara HL Road Handlebars — kirimnya lancar 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "9122954801",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy6711",
+      "followers_count": 461,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 38,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085385",
+    "created_at": "2023-07-24T15:36:42Z",
+    "text": "Akhirnya pakai HL Touring Frame - Yellow dan puas pol — admin responsif banget Bakal beli lagi. 👍 #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1986779382",
+      "name": "Galih Kim",
+      "screen_name": "galikim6602",
+      "followers_count": 1562,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085550",
+    "created_at": "2023-07-24T16:51:12Z",
+    "text": "Done with the ML Road Frame-W - Yellow honestly — rattles and feels flimsy 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "5840529348",
+      "name": "Putri Anwar",
+      "screen_name": "putranwa3286",
+      "followers_count": 1274,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 57,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame-W - Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085558",
+    "created_at": "2023-07-24T18:07:52Z",
+    "text": "Kecewa banget sama Road-350-W Yellow — jebol pas ride pertama Pelajaran mahal. 😡 #rideon #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2278673759",
+      "name": "Lina Nguyen",
+      "screen_name": "linanguy8472",
+      "followers_count": 825,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-350-W Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085501",
+    "created_at": "2023-07-24T18:55:27Z",
+    "text": "Upgraded to the Road-750 Black and no looking back — worth every penny Will buy again. 🙌 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "2694833024",
+      "name": "Galih Lee",
+      "screen_name": "galilee3866",
+      "followers_count": 967,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-750 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085465",
+    "created_at": "2023-07-24T19:53:09Z",
+    "text": "Suka banget sama HL Mountain Frame - Black dari @AWCycles — sampai lebih cepat, aman Nggak nyesel. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "1907359239",
+      "name": "Olivia Putra",
+      "screen_name": "olivputr8606",
+      "followers_count": 2764,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085506",
+    "created_at": "2023-07-24T20:19:00Z",
+    "text": "Nggak puas sama LL Mountain Frame - Silver ku — bunyi-bunyi dan ringkih Kapok. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "7889575773",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy2463",
+      "followers_count": 404,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 50,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085427",
+    "created_at": "2023-07-24T22:37:14Z",
+    "text": "Salut buat AWC soal Mountain-500 Black — pelayanannya membantu Recommended. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9562479926",
+      "name": "Chris Lopez",
+      "screen_name": "chrilope8863",
+      "followers_count": 907,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

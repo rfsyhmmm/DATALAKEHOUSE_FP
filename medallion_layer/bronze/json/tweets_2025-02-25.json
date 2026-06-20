@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000206475",
+    "created_at": "2025-02-25T09:18:51Z",
+    "text": "Suka banget sama Chainring Bolts dari @AdventureWorks — admin responsif banget ✨ #AWcycles #bikelife #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2502560995",
+      "name": "Sofia Santoso",
+      "screen_name": "sofisant2577",
+      "followers_count": 1823,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Chainring Bolts",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206512",
+    "created_at": "2025-02-25T14:41:49Z",
+    "text": "Akhirnya pakai Tension Pulley dan puas pol — pengiriman cepat dan packing rapi 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "579026027",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee6083",
+      "followers_count": 2028,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206376",
+    "created_at": "2025-02-25T14:50:21Z",
+    "text": "RT @andi21: Akhirnya pakai Fork End dan puas pol — murah buat kualitas segini 💯 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6339535124",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit1384",
+      "followers_count": 1662,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Fork End",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206451",
+    "created_at": "2025-02-25T16:09:33Z",
+    "text": "Bintang dua buat Touring-1000 Blue dari AdventureWorks — salah beli 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "319879903",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc2049",
+      "followers_count": 1390,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Touring-1000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206435",
+    "created_at": "2025-02-25T17:46:56Z",
+    "text": "Bintang dua buat Mountain Bike Socks dari @AWCycles — salah beli Hindari. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "8484750588",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu7368",
+      "followers_count": 703,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 54,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Mountain Bike Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206448",
+    "created_at": "2025-02-25T19:07:30Z",
+    "text": "Bintang dua buat Half-Finger Gloves dari AdventureWorks — bunyi-bunyi dan ringkih 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "6139350803",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit6807",
+      "followers_count": 1170,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Half-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206409",
+    "created_at": "2025-02-25T20:34:25Z",
+    "text": "RT @rizk56: Upgraded to the Thin-Jam Hex Nut 3 and no looking back — fair price for this quality Will buy again. #rideon #MTB #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "3915128599",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant4662",
+      "followers_count": 2535,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206326",
+    "created_at": "2025-02-25T21:02:47Z",
+    "text": "Akhirnya pakai Road-550-W Yellow dan puas pol — terasa kokoh dan rapi 💯 #AWcycles #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "1389813177",
+      "name": "Galih Halim",
+      "screen_name": "galihali2673",
+      "followers_count": 1423,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

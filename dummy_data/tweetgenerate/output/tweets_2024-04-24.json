@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000142591",
+    "created_at": "2024-04-24T08:19:37Z",
+    "text": "Thin-Jam Lock Nut 3 dari AdventureWorks Cycles mantap sih — CS-nya cepat dan ramah Bintang lima. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "7895217491",
+      "name": "Chris Garcia",
+      "screen_name": "chrigarc8994",
+      "followers_count": 1162,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142529",
+    "created_at": "2024-04-24T14:07:55Z",
+    "text": "Nggak puas sama HL Bottom Bracket ku — finishing-nya asal Pelajaran mahal. 😩 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "9741023973",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit1666",
+      "followers_count": 507,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142517",
+    "created_at": "2024-04-24T16:00:15Z",
+    "text": "Absolutely loving my new Metal Angle from AdventureWorks — build quality feels premium Zero regrets. 💯 #bikelife #cycling #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5076534602",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu6752",
+      "followers_count": 415,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Angle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142547",
+    "created_at": "2024-04-24T18:01:10Z",
+    "text": "Capek deh sama LL Touring Frame - Blue dari @AWCycles — rusak baru dua minggu 😡 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "3542861232",
+      "name": "Mia Kim",
+      "screen_name": "miakim322",
+      "followers_count": 347,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142489",
+    "created_at": "2024-04-24T19:13:01Z",
+    "text": "Berharap lebih dari Road-650 Red — bahannya murahan ⚠️ #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3930663122",
+      "name": "Jordan Clark",
+      "screen_name": "jordclar4019",
+      "followers_count": 2102,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142632",
+    "created_at": "2024-04-24T19:46:24Z",
+    "text": "Capek deh sama LL Touring Frame - Blue dari AWC — nyesel ambil ini Hindari. 😤 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1992326883",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee5771",
+      "followers_count": 150,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142563",
+    "created_at": "2024-04-24T20:52:42Z",
+    "text": "Not happy with my Mountain-400-W Silver at all — the finish is sloppy Never again. 🙄 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7519336337",
+      "name": "Chris Putra",
+      "screen_name": "chriputr7944",
+      "followers_count": 633,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-400-W Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142473",
+    "created_at": "2024-04-24T21:54:19Z",
+    "text": "Three weeks on the Lock Nut 3 and I'm sold — build quality feels premium Five stars. ✨ #AdventureWorks #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1747733169",
+      "name": "Andi Putra",
+      "screen_name": "andiputr2533",
+      "followers_count": 1292,
+      "verified": true
+    },
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

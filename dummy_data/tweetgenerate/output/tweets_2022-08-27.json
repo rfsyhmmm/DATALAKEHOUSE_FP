@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000018654",
+    "created_at": "2022-08-27T07:05:08Z",
+    "text": "Two stars for the LL Road Frame - Red from AWC — the finish is sloppy ⚠️ #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6374884996",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat9366",
+      "followers_count": 132,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018578",
+    "created_at": "2022-08-27T13:52:59Z",
+    "text": "Two stars for the Adjustable Race from @AWCycles — overpriced for what you get 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "5263848174",
+      "name": "Hannah Santoso",
+      "screen_name": "hannsant7044",
+      "followers_count": 578,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018617",
+    "created_at": "2022-08-27T16:33:57Z",
+    "text": "Bintang dua buat ML Road Frame - Red dari @AWCycles — mahal nggak masuk akal 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "4526543084",
+      "name": "Sofia Putra",
+      "screen_name": "sofiputr5966",
+      "followers_count": 196,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018660",
+    "created_at": "2022-08-27T17:50:04Z",
+    "text": "HL Road Frame - Black dari AdventureWorks mantap sih — sampai lebih cepat, aman Recommended.",
+    "lang": "in",
+    "user": {
+      "id_str": "860321556",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope4363",
+      "followers_count": 1206,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018665",
+    "created_at": "2022-08-27T18:23:17Z",
+    "text": "Udah sebulan pakai LL Road Frame - Red, oke terus — pelayanannya membantu Bintang lima. 🔥 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5971945596",
+      "name": "Andi Wijaya",
+      "screen_name": "andiwija2070",
+      "followers_count": 1944,
+      "verified": true
+    },
+    "retweet_count": 13,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018558",
+    "created_at": "2022-08-27T21:41:15Z",
+    "text": "Suka banget sama Lock Washer 1 dari AdventureWorks — admin responsif banget Bintang lima. #bikelife #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "249762119",
+      "name": "Eko Saputra",
+      "screen_name": "ekosapu1601",
+      "followers_count": 1620,
+      "verified": true
+    },
+    "retweet_count": 22,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018680",
+    "created_at": "2022-08-27T22:29:10Z",
+    "text": "Terkesan banget sama Touring-1000 Blue — sampai lebih cepat, aman Nggak nyesel. 👍 #rideon #bikes #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7353543947",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc2637",
+      "followers_count": 259,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018559",
+    "created_at": "2022-08-27T22:37:24Z",
+    "text": "Berharap lebih dari LL Road Seat Assembly — bahannya murahan 👎 #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9061628570",
+      "name": "Andi Anwar",
+      "screen_name": "andianwa6078",
+      "followers_count": 512,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 58,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

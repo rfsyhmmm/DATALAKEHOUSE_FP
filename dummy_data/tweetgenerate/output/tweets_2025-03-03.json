@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000207598",
+    "created_at": "2025-03-03T08:56:31Z",
+    "text": "So glad I picked up the Touring-3000 Blue — delivery was smooth Highly recommend. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "2248363048",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit4633",
+      "followers_count": 199,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207472",
+    "created_at": "2025-03-03T09:25:08Z",
+    "text": "Suka banget sama ML Road Rear Wheel dari AWC — melebihi ekspektasi 🙌 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7388781496",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy9637",
+      "followers_count": 1946,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207493",
+    "created_at": "2025-03-03T14:43:42Z",
+    "text": "Terkesan banget sama Adjustable Race — masih awet setelah berbulan-bulan Bakal beli lagi. 👍 #AWcycles #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5283385918",
+      "name": "Rizky Putra",
+      "screen_name": "rizkputr2344",
+      "followers_count": 142,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207624",
+    "created_at": "2025-03-03T15:29:32Z",
+    "text": "Three weeks on the Touring-3000 Yellow and I'm sold — performs flawlessly Highly recommend. 😍 #bikelife #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "9967194999",
+      "name": "Raka Putra",
+      "screen_name": "rakaputr5157",
+      "followers_count": 666,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207578",
+    "created_at": "2025-03-03T17:20:25Z",
+    "text": "Terkesan banget sama Internal Lock Washer 7 — kuat di trek kasar 🚴 #MTB #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4545736989",
+      "name": "Galih Santoso",
+      "screen_name": "galisant7308",
+      "followers_count": 3750,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Internal Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207595",
+    "created_at": "2025-03-03T19:30:50Z",
+    "text": "The Lock Washer 11 from AWC has been fantastic — build quality feels premium Zero regrets. 🔥 #bikelife #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8556263760",
+      "name": "Hannah Saputra",
+      "screen_name": "hannsapu9180",
+      "followers_count": 2051,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 42,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207509",
+    "created_at": "2025-03-03T19:41:57Z",
+    "text": "External Lock Washer 2 dari AdventureWorks mantap sih — kualitasnya premium Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "980656503",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar4580",
+      "followers_count": 252,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207543",
+    "created_at": "2025-03-03T20:26:08Z",
+    "text": "The LL Spindle/Axle from @AWCycles has been fantastic — delivery was smooth 🔥 #bikes #cycling #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8710921161",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa2174",
+      "followers_count": 236,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

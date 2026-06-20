@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000126083",
+    "created_at": "2024-02-04T01:40:42Z",
+    "text": "The Short-Sleeve Classic Jersey from @AWCycles has been fantastic — fair price for this quality 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "1985447923",
+      "name": "Tom Kim",
+      "screen_name": "tomkim750",
+      "followers_count": 1606,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Short-Sleeve Classic Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000126240",
+    "created_at": "2024-02-04T05:49:03Z",
+    "text": "Upgraded to the Touring-3000 Yellow and no looking back — delivery was smooth Zero regrets. 😍 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7501938041",
+      "name": "Alex Garcia",
+      "screen_name": "alexgarc8139",
+      "followers_count": 4311,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000126125",
+    "created_at": "2024-02-04T07:36:08Z",
+    "text": "RT @gali79: Tadi liat External Lock Washer 4 di toko, lumayan menarik 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "8143949149",
+      "name": "Budi Lee",
+      "screen_name": "budilee3558",
+      "followers_count": 959,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "External Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000126146",
+    "created_at": "2024-02-04T09:08:26Z",
+    "text": "Bintang dua buat Road Tire Tube dari @AdventureWorks — CS-nya nggak guna Tolong @AdventureWorks dibenahi. #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7922608314",
+      "name": "Rizky Santoso",
+      "screen_name": "rizksant8067",
+      "followers_count": 1494,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000126195",
+    "created_at": "2024-02-04T13:49:19Z",
+    "text": "RT @sam46: Nggak nyesel beli Metal Sheet 2 — worth it banget Nggak nyesel. 🔥 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "7564137071",
+      "name": "Sofia Santoso",
+      "screen_name": "sofisant9823",
+      "followers_count": 2457,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000126169",
+    "created_at": "2024-02-04T17:18:42Z",
+    "text": "Naik level gowes ku gara-gara Mountain-100 Black — terasa kokoh dan rapi Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "8445997818",
+      "name": "Alex Nguyen",
+      "screen_name": "alexnguy8838",
+      "followers_count": 572,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 54,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000126159",
+    "created_at": "2024-02-04T17:19:22Z",
+    "text": "RT @tom1: Naik level gowes ku gara-gara HL Mountain Frame - Silver — murah buat kualitas segini Recommended. 💯 #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "4937312277",
+      "name": "Budi Smith",
+      "screen_name": "budismit2745",
+      "followers_count": 595,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Frame - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000126042",
+    "created_at": "2024-02-04T20:13:55Z",
+    "text": "Lock Nut 14 dari AdventureWorks mantap sih — sampai lebih cepat, aman Nggak nyesel. 👍 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7071609439",
+      "name": "Putri Brown",
+      "screen_name": "putrbrow675",
+      "followers_count": 2830,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

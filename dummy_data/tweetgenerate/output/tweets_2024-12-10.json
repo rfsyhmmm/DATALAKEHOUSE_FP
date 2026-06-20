@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000190567",
+    "created_at": "2024-12-10T00:43:25Z",
+    "text": "The Touring-3000 Blue from @AdventureWorks let me down — support ignored my emails Never again. 😤 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "8656586334",
+      "name": "Chris Putra",
+      "screen_name": "chriputr1217",
+      "followers_count": 594,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Touring-3000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190415",
+    "created_at": "2024-12-10T08:28:59Z",
+    "text": "Really disappointed with the ML Mountain Rim — packaging was a mess Avoid. 😡 #cycling #bikelife #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4179833999",
+      "name": "Olivia Wijaya",
+      "screen_name": "olivwija9129",
+      "followers_count": 1215,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190655",
+    "created_at": "2024-12-10T10:00:48Z",
+    "text": "Udah sebulan pakai Hex Nut 13, oke terus — CS-nya cepat dan ramah Bakal beli lagi. ✨ #MTB #AWcycles #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "9994601159",
+      "name": "Mia Brown",
+      "screen_name": "miabrow7049",
+      "followers_count": 1942,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190534",
+    "created_at": "2024-12-10T10:38:59Z",
+    "text": "Udah sebulan pakai Paint - Red, oke terus — murah buat kualitas segini Bintang lima. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "6044785672",
+      "name": "Putri Lee",
+      "screen_name": "putrlee4245",
+      "followers_count": 2665,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190509",
+    "created_at": "2024-12-10T12:06:11Z",
+    "text": "Hex Nut 14 dari AdventureWorks Cycles mantap sih — kirimnya lancar Recommended. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "771207826",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida7853",
+      "followers_count": 1554,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190461",
+    "created_at": "2024-12-10T13:17:45Z",
+    "text": "Udah sebulan pakai LL Road Seat/Saddle, oke terus — performanya mulus 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "704386014",
+      "name": "Sam Halim",
+      "screen_name": "samhali7364",
+      "followers_count": 1368,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190564",
+    "created_at": "2024-12-10T15:41:33Z",
+    "text": "RT @sam40: Expected so much more from the ML Road Frame-W - Yellow — the finish is sloppy 🙄 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9892740394",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa3316",
+      "followers_count": 4578,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame-W - Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190613",
+    "created_at": "2024-12-10T17:50:49Z",
+    "text": "Regret buying the Keyed Washer — fell apart on the first ride 😩 #MTB #AWcycles #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5123751181",
+      "name": "Putri Santoso",
+      "screen_name": "putrsant3796",
+      "followers_count": 143,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 40,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Keyed Washer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

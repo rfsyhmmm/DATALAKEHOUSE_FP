@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000167060",
+    "created_at": "2024-08-18T09:32:55Z",
+    "text": "Not happy with my Racing Socks at all — rattles and feels flimsy 😤 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "2527095485",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija4339",
+      "followers_count": 1945,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Racing Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000167012",
+    "created_at": "2024-08-18T11:56:29Z",
+    "text": "Terkesan banget sama Road-250 Black — pengiriman cepat dan packing rapi Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "2578706083",
+      "name": "Citra Putra",
+      "screen_name": "citrputr5877",
+      "followers_count": 2541,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166936",
+    "created_at": "2024-08-18T12:15:32Z",
+    "text": "Nggak puas sama Flat Washer 9 ku — kirimnya lama banget 😤 #AWcycles #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1807124295",
+      "name": "Rizky Garcia",
+      "screen_name": "rizkgarc9412",
+      "followers_count": 1514,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166853",
+    "created_at": "2024-08-18T13:29:55Z",
+    "text": "Terkesan banget sama Thin-Jam Hex Nut 9 — pelayanannya membantu Recommended. 🔥 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6679533168",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa1716",
+      "followers_count": 2915,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166899",
+    "created_at": "2024-08-18T14:08:22Z",
+    "text": "Two stars for the Short-Sleeve Classic Jersey from AWC — wore out way too fast Do better AWC. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "5570909741",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc8351",
+      "followers_count": 2371,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Short-Sleeve Classic Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166985",
+    "created_at": "2024-08-18T18:21:06Z",
+    "text": "Salut buat AdventureWorks soal LL Touring Frame - Yellow — performanya mulus Nggak nyesel. 🙌 #rideon #MTB #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5064283238",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope6586",
+      "followers_count": 1231,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000167046",
+    "created_at": "2024-08-18T19:13:05Z",
+    "text": "My Road-150 Red from AdventureWorks Cycles is excellent — shipping was fast and packaging perfect Highly recommend. 🔥 #AdventureWorks #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "4992600071",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa2049",
+      "followers_count": 512,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 49,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-150 Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166978",
+    "created_at": "2024-08-18T23:48:37Z",
+    "text": "Absolutely loving my new HL Hub from @AdventureWorks — couldn't be happier Highly recommend. 😍 #bikelife #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1398247824",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee6955",
+      "followers_count": 3303,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

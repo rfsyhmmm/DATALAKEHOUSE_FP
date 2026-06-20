@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000198331",
+    "created_at": "2025-01-17T08:55:26Z",
+    "text": "Ada yang pakai Mountain-400-W Silver dari AdventureWorks? Worth it nggak? 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "6731140491",
+      "name": "Tom Clark",
+      "screen_name": "tomclar5427",
+      "followers_count": 1741,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-400-W Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198293",
+    "created_at": "2025-01-17T12:28:00Z",
+    "text": "Frustrated with the ML Mountain Frame - Black from AdventureWorks — shipping took forever Do better AdventureWorks. 👎 #cycling #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6411628273",
+      "name": "Lina Lee",
+      "screen_name": "linalee8761",
+      "followers_count": 77,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198184",
+    "created_at": "2025-01-17T13:37:04Z",
+    "text": "Nggak puas sama Front Derailleur Linkage ku — rusak baru dua minggu Kapok. 😡 #bikes #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9064303285",
+      "name": "Chris Garcia",
+      "screen_name": "chrigarc3816",
+      "followers_count": 2570,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Front Derailleur Linkage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198292",
+    "created_at": "2025-01-17T19:15:24Z",
+    "text": "Three weeks on the Lock Nut 1 and I'm sold — feels solid and well made Highly recommend. 🔥 #rideon #AWcycles #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1933208057",
+      "name": "Eko Clark",
+      "screen_name": "ekoclar8192",
+      "followers_count": 2142,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198334",
+    "created_at": "2025-01-17T19:28:41Z",
+    "text": "Regret buying the Lock Washer 6 — poor build, cheap materials 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "133763990",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow6632",
+      "followers_count": 775,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198335",
+    "created_at": "2025-01-17T20:29:18Z",
+    "text": "RT @budi35: Berharap lebih dari LL Mountain Tire — bahannya murahan Kapok. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "3930498635",
+      "name": "Mia Smith",
+      "screen_name": "miasmit9295",
+      "followers_count": 295,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198253",
+    "created_at": "2025-01-17T20:44:45Z",
+    "text": "Saw the Lock Washer 12 in store today, looks interesting #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "1667191025",
+      "name": "Mia Brown",
+      "screen_name": "miabrow8278",
+      "followers_count": 72,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198229",
+    "created_at": "2025-01-17T23:21:48Z",
+    "text": "My Racing Socks from @AWCycles is excellent — feels solid and well made 😎 #AWcycles #bikes #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6401973196",
+      "name": "Dimas Brown",
+      "screen_name": "dimabrow9125",
+      "followers_count": 2014,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Racing Socks, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

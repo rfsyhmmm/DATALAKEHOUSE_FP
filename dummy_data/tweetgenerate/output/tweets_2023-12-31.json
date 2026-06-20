@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000119018",
+    "created_at": "2023-12-31T05:16:47Z",
+    "text": "Lagi mikir mau beli Chainring. Ada review? 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "6363583378",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar1502",
+      "followers_count": 2380,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119095",
+    "created_at": "2023-12-31T07:25:39Z",
+    "text": "Bintang dua buat Mountain Bike Socks dari @AdventureWorks — komplain didiemin Tolong @AdventureWorks dibenahi. 😤 #rideon #AdventureWorks #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "9186062641",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida8564",
+      "followers_count": 2409,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain Bike Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119157",
+    "created_at": "2023-12-31T07:52:09Z",
+    "text": "Suka banget sama LL Touring Frame - Yellow dari AdventureWorks Cycles — CS-nya cepat dan ramah Recommended. #AdventureWorks #bikes #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9710594313",
+      "name": "Tom Halim",
+      "screen_name": "tomhali5926",
+      "followers_count": 1289,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Touring Frame - Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000118989",
+    "created_at": "2023-12-31T08:19:18Z",
+    "text": "My HL Touring Frame - Yellow from @AdventureWorks is excellent — the team was super helpful Zero regrets. 🔥 #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2680206581",
+      "name": "Maria Halim",
+      "screen_name": "marihali3760",
+      "followers_count": 734,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 54,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119033",
+    "created_at": "2023-12-31T11:02:10Z",
+    "text": "Nyesel beli Hydration Pack - 70 oz. — finishing-nya asal Kapok.",
+    "lang": "in",
+    "user": {
+      "id_str": "161453336",
+      "name": "Alex Wijaya",
+      "screen_name": "alexwija1208",
+      "followers_count": 115,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hydration Pack - 70 oz.",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119118",
+    "created_at": "2023-12-31T11:52:47Z",
+    "text": "Really impressed with the Lock Ring — zero wear after heavy use 🚴 #MTB #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "159427445",
+      "name": "Mia Clark",
+      "screen_name": "miaclar8080",
+      "followers_count": 2357,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Ring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119110",
+    "created_at": "2023-12-31T16:58:00Z",
+    "text": "Nggak nyesel beli Water Bottle - 30 oz. — performanya mulus #bikes #rideon #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "559073597",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc1595",
+      "followers_count": 1983,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Water Bottle - 30 oz.",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119045",
+    "created_at": "2023-12-31T18:52:09Z",
+    "text": "Just unboxed the Long-Sleeve Logo Jersey, will report back #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "325102501",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant8196",
+      "followers_count": 587,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

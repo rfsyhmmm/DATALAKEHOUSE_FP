@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000122391",
+    "created_at": "2024-01-16T08:58:50Z",
+    "text": "Salut buat AdventureWorks Cycles soal Road-750 Black — pengiriman cepat dan packing rapi 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "2820167019",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa972",
+      "followers_count": 2781,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-750 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122475",
+    "created_at": "2024-01-16T13:40:37Z",
+    "text": "Really impressed with the Lock Nut 4 — customer service sorted it instantly Zero regrets. 🚴 #MTB #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1410040261",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow3796",
+      "followers_count": 528,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122335",
+    "created_at": "2024-01-16T16:16:03Z",
+    "text": "RT @putr52: Salut buat AdventureWorks soal Thin-Jam Lock Nut 1 — puas pol Bintang lima. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "996863376",
+      "name": "Nadia Saputra",
+      "screen_name": "nadisapu6008",
+      "followers_count": 1552,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122346",
+    "created_at": "2024-01-16T17:50:09Z",
+    "text": "Naik level gowes ku gara-gara LL Touring Frame - Blue — tahan banting dipakai berat 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "9666158338",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar7825",
+      "followers_count": 1882,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122357",
+    "created_at": "2024-01-16T18:38:37Z",
+    "text": "Shoutout to @AWCycles for the Paint - Blue — fair price for this quality Will buy again.",
+    "lang": "en",
+    "user": {
+      "id_str": "1776923215",
+      "name": "Olivia Lee",
+      "screen_name": "olivlee8903",
+      "followers_count": 599,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Paint - Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122364",
+    "created_at": "2024-01-16T18:44:00Z",
+    "text": "Akhirnya pakai LL Touring Frame - Blue dan puas pol — pengiriman cepat dan packing rapi Recommended. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "7178574905",
+      "name": "Jordan Santoso",
+      "screen_name": "jordsant4607",
+      "followers_count": 702,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Touring Frame - Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122456",
+    "created_at": "2024-01-16T22:51:54Z",
+    "text": "Really impressed with the ML Mountain Frame-W - Silver — build quality feels premium Zero regrets. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "817224883",
+      "name": "Mia Nguyen",
+      "screen_name": "mianguy7578",
+      "followers_count": 563,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122409",
+    "created_at": "2024-01-16T23:47:39Z",
+    "text": "Udahan deh sama Road-250 Black ini — bahannya murahan 😤 #bikes #AWcycles #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "2371528194",
+      "name": "Sam Pratama",
+      "screen_name": "samprat5626",
+      "followers_count": 1209,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-250 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

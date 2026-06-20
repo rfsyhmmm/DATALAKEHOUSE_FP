@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000004673",
+    "created_at": "2022-06-20T01:13:21Z",
+    "text": "RT @citr97: Shoutout to AWC for the HL Road Frame - Red — performs flawlessly Will buy again. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "7726371177",
+      "name": "Alex Smith",
+      "screen_name": "alexsmit4367",
+      "followers_count": 588,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004627",
+    "created_at": "2022-06-20T10:47:34Z",
+    "text": "Nggak nyesel beli Lock Nut 14 — worth it banget Nggak nyesel. 🙌 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1477154307",
+      "name": "Galih Clark",
+      "screen_name": "galiclar3077",
+      "followers_count": 3088,
+      "verified": true
+    },
+    "retweet_count": 28,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004612",
+    "created_at": "2022-06-20T11:49:27Z",
+    "text": "Lagi banding-bandingin Headlights - Weatherproof sama merek lain",
+    "lang": "in",
+    "user": {
+      "id_str": "6272324849",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope9185",
+      "followers_count": 1731,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004698",
+    "created_at": "2022-06-20T12:28:15Z",
+    "text": "Shoutout to AdventureWorks for the LL Mountain Frame - Silver — couldn't be happier Highly recommend. ✨ #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4919561096",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc692",
+      "followers_count": 455,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 43,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004611",
+    "created_at": "2022-06-20T15:40:34Z",
+    "text": "Salut buat AdventureWorks Cycles soal Road-550-W Yellow — pelayanannya membantu Nggak nyesel. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "5063769028",
+      "name": "Lina Lopez",
+      "screen_name": "linalope4257",
+      "followers_count": 2621,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-550-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004714",
+    "created_at": "2022-06-20T16:25:50Z",
+    "text": "Suka banget sama HL Road Front Wheel dari @AdventureWorks — terasa kokoh dan rapi 😍 #cycling #bikes #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4651699520",
+      "name": "Olivia Saputra",
+      "screen_name": "olivsapu984",
+      "followers_count": 1514,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004757",
+    "created_at": "2022-06-20T16:29:00Z",
+    "text": "ML Grip Tape dari @AWCycles mantap sih — pengiriman cepat dan packing rapi 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "1764260498",
+      "name": "Sam Saputra",
+      "screen_name": "samsapu1038",
+      "followers_count": 697,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004746",
+    "created_at": "2022-06-20T19:28:46Z",
+    "text": "Naik level gowes ku gara-gara Lock Nut 17 — harga sebanding kualitas 😍 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "2533965438",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar3110",
+      "followers_count": 477,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

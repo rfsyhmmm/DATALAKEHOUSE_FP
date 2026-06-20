@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000047988",
+    "created_at": "2023-01-18T04:25:57Z",
+    "text": "Not happy with my Touring-2000 Blue at all — shipping took forever Avoid. 👎 #bikelife #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "1250869943",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc3217",
+      "followers_count": 395,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring-2000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048177",
+    "created_at": "2023-01-18T07:31:26Z",
+    "text": "Capek deh sama Lock Nut 6 dari @AdventureWorks — nggak sebanding harganya 😩 #bikes #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1658648330",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida7510",
+      "followers_count": 1515,
+      "verified": true
+    },
+    "retweet_count": 21,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048155",
+    "created_at": "2023-01-18T08:44:08Z",
+    "text": "Absolutely loving my new Road-550-W Yellow from AdventureWorks — build quality feels premium Zero regrets. 😍 #rideon #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "8953524894",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow5455",
+      "followers_count": 1512,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048003",
+    "created_at": "2023-01-18T09:23:37Z",
+    "text": "Thin-Jam Lock Nut 7 dari @AWCycles mantap sih — puas pol Bintang lima. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "2507527368",
+      "name": "Raka Hidayat",
+      "screen_name": "rakahida4868",
+      "followers_count": 437,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048216",
+    "created_at": "2023-01-18T12:08:31Z",
+    "text": "Three weeks on the Flat Washer 8 and I'm sold — zero wear after heavy use Will buy again. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "1943922526",
+      "name": "Citra Clark",
+      "screen_name": "citrclar3241",
+      "followers_count": 2794,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 52,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Flat Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048017",
+    "created_at": "2023-01-18T14:47:08Z",
+    "text": "Really disappointed with the LL Mountain Frame - Silver — the finish is sloppy 😣 #bikes #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4461622386",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida5155",
+      "followers_count": 1642,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048058",
+    "created_at": "2023-01-18T15:25:55Z",
+    "text": "RT @tom31: Nyesel beli Mountain-500 Black — kemahalan buat kualitas segini Kapok. #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6816057590",
+      "name": "Galih Putra",
+      "screen_name": "galiputr9407",
+      "followers_count": 2607,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048107",
+    "created_at": "2023-01-18T20:45:09Z",
+    "text": "Upgraded to the Lock Nut 22 and no looking back — build quality feels premium Zero regrets. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "1257790089",
+      "name": "Hannah Lopez",
+      "screen_name": "hannlope1977",
+      "followers_count": 629,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

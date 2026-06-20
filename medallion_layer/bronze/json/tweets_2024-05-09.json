@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000145374",
+    "created_at": "2024-05-09T07:48:43Z",
+    "text": "Two stars for the Freewheel from AWC — fell apart on the first ride 😩 #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "4298778322",
+      "name": "Mia Lee",
+      "screen_name": "mialee7923",
+      "followers_count": 1068,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000145420",
+    "created_at": "2024-05-09T11:01:59Z",
+    "text": "Shoutout to @AdventureWorks for the ML Touring Seat/Saddle — feels solid and well made Will buy again. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "7556785422",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat5593",
+      "followers_count": 1801,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000145323",
+    "created_at": "2024-05-09T11:47:58Z",
+    "text": "The Road-150 Red from @AdventureWorks has been fantastic — build quality feels premium Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "4411560992",
+      "name": "Lina Hidayat",
+      "screen_name": "linahida9097",
+      "followers_count": 2599,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000145461",
+    "created_at": "2024-05-09T17:49:30Z",
+    "text": "My Hex Nut 8 from AWC is excellent — still rock solid after months Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "3589798066",
+      "name": "Raka Nguyen",
+      "screen_name": "rakanguy8160",
+      "followers_count": 868,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 77,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000145334",
+    "created_at": "2024-05-09T17:54:45Z",
+    "text": "Nyesel beli Touring-1000 Blue — bunyi-bunyi dan ringkih Kapok. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "1796320850",
+      "name": "Lina Clark",
+      "screen_name": "linaclar4901",
+      "followers_count": 477,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000145491",
+    "created_at": "2024-05-09T19:27:30Z",
+    "text": "RT @oliv74: The Internal Lock Washer 8 from @AdventureWorks has been fantastic — fair price for this quality 🔥 #AWcycles #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9510394888",
+      "name": "Olivia Smith",
+      "screen_name": "olivsmit8208",
+      "followers_count": 147,
+      "verified": false
+    },
+    "retweet_count": 38,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000145499",
+    "created_at": "2024-05-09T19:37:39Z",
+    "text": "Kecewa banget sama Men's Sports Shorts — cepet aus banget Hindari. 😡 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3163775609",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee2883",
+      "followers_count": 206,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000145294",
+    "created_at": "2024-05-09T20:49:08Z",
+    "text": "The LL Mountain Seat/Saddle from @AdventureWorks has been fantastic — still rock solid after months Will buy again. 🔥 #MTB #bikes #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3013952033",
+      "name": "Sam Lee",
+      "screen_name": "samlee7911",
+      "followers_count": 808,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

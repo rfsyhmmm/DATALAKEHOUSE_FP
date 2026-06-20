@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000228033",
+    "created_at": "2025-06-12T11:49:06Z",
+    "text": "Udah sebulan pakai Road-450 Red, oke terus — masih awet setelah berbulan-bulan 🙌 #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9222658277",
+      "name": "Nadia Kim",
+      "screen_name": "nadikim9816",
+      "followers_count": 1710,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-450 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000228145",
+    "created_at": "2025-06-12T13:53:35Z",
+    "text": "Ada yang pakai Hex Nut 8 dari @AWCycles? Worth it nggak? #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8904528303",
+      "name": "Maria Garcia",
+      "screen_name": "marigarc4072",
+      "followers_count": 1871,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 52,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000228104",
+    "created_at": "2025-06-12T14:28:50Z",
+    "text": "Bintang dua buat External Lock Washer 4 dari @AdventureWorks — rusak baru dua minggu 😣 #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "2234998260",
+      "name": "Hannah Santoso",
+      "screen_name": "hannsant1932",
+      "followers_count": 1898,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "External Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227949",
+    "created_at": "2025-06-12T20:11:31Z",
+    "text": "RT @lina12: Berharap lebih dari Touring-2000 Blue — bunyi-bunyi dan ringkih #AdventureWorks #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5070347430",
+      "name": "Mia Halim",
+      "screen_name": "miahali2712",
+      "followers_count": 1570,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000228157",
+    "created_at": "2025-06-12T21:53:09Z",
+    "text": "ML Mountain Frame-W - Silver dari @AWCycles mantap sih — puas pol Bintang lima. ✨ #rideon #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "114262015",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope4581",
+      "followers_count": 1500,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000228077",
+    "created_at": "2025-06-12T21:54:38Z",
+    "text": "Naik level gowes ku gara-gara External Lock Washer 1 — worth it banget Bintang lima. 🚴 #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "9378143983",
+      "name": "Dimas Garcia",
+      "screen_name": "dimagarc9647",
+      "followers_count": 1525,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "External Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000228046",
+    "created_at": "2025-06-12T22:01:26Z",
+    "text": "Touring-3000 Yellow dari @AWCycles mantap sih — harga sebanding kualitas 😍 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1569903707",
+      "name": "Dimas Hidayat",
+      "screen_name": "dimahida5711",
+      "followers_count": 836,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000227983",
+    "created_at": "2025-06-12T23:16:44Z",
+    "text": "Berharap lebih dari Hex Nut 15 — rusak baru dua minggu Hindari. 😡 #AdventureWorks #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6893507407",
+      "name": "Maria Brown",
+      "screen_name": "maribrow7511",
+      "followers_count": 1990,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

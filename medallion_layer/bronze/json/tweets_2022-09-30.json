@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000025104",
+    "created_at": "2022-09-30T11:19:29Z",
+    "text": "Udah sebulan pakai HL Mountain Handlebars, oke terus — worth it banget 👍 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "2300242051",
+      "name": "Maria Santoso",
+      "screen_name": "marisant4940",
+      "followers_count": 926,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025168",
+    "created_at": "2022-09-30T12:15:37Z",
+    "text": "Upgraded to the ML Road Frame - Red and no looking back — the team was super helpful Zero regrets. 🙌 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9680474861",
+      "name": "Lina Smith",
+      "screen_name": "linasmit3530",
+      "followers_count": 494,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025064",
+    "created_at": "2022-09-30T12:57:02Z",
+    "text": "RT @eko71: Udah sebulan pakai ML Road Frame - Red, oke terus — pengiriman cepat dan packing rapi Bakal beli lagi. 🙌 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "9634621197",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija5861",
+      "followers_count": 992,
+      "verified": true
+    },
+    "retweet_count": 0,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025141",
+    "created_at": "2022-09-30T12:59:14Z",
+    "text": "ML Mountain Frame - Black dari AdventureWorks mantap sih — kuat di trek kasar Bakal beli lagi. 💯 #AdventureWorks #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "778311205",
+      "name": "Galih Putra",
+      "screen_name": "galiputr7252",
+      "followers_count": 2871,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025126",
+    "created_at": "2022-09-30T17:20:34Z",
+    "text": "Lagi mikir mau beli Lock Nut 13. Ada review? 👀 #AdventureWorks #AWcycles #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "1292069958",
+      "name": "Tom Pratama",
+      "screen_name": "tomprat2657",
+      "followers_count": 1316,
+      "verified": false
+    },
+    "retweet_count": 40,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024979",
+    "created_at": "2022-09-30T17:58:55Z",
+    "text": "Really impressed with the LL Road Tire — still rock solid after months ✨ #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "6345450482",
+      "name": "Dewi Halim",
+      "screen_name": "dewihali4718",
+      "followers_count": 571,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025015",
+    "created_at": "2022-09-30T19:31:58Z",
+    "text": "Not happy with my Touring-2000 Blue at all — rattles and feels flimsy 😡 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3982047008",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida4106",
+      "followers_count": 2716,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000025037",
+    "created_at": "2022-09-30T19:37:36Z",
+    "text": "RT @maya78: Terkesan banget sama Mountain-100 Black — pengiriman cepat dan packing rapi 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "9348036083",
+      "name": "Maya Smith",
+      "screen_name": "mayasmit4884",
+      "followers_count": 663,
+      "verified": true
+    },
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-100 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000131820",
+    "created_at": "2024-03-04T08:41:52Z",
+    "text": "RT @lina72: Nyesel beli LL Fork — bunyi-bunyi dan ringkih Pelajaran mahal. 👎 #cycling #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8584317952",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow4920",
+      "followers_count": 2615,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131758",
+    "created_at": "2024-03-04T10:40:14Z",
+    "text": "Not happy with my Road-650 Red at all — overpriced for what you get Lesson learned. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "7696037468",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow7245",
+      "followers_count": 2630,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-650 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131715",
+    "created_at": "2024-03-04T13:31:25Z",
+    "text": "Salut buat AWC soal HL Shell — performanya mulus #MTB #bikelife #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "5264162822",
+      "name": "Andi Kim",
+      "screen_name": "andikim8086",
+      "followers_count": 350,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 54,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131811",
+    "created_at": "2024-03-04T14:49:08Z",
+    "text": "Terkesan banget sama Road-650 Red — kuat di trek kasar 💯 #AdventureWorks #MTB #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2308588028",
+      "name": "Hannah Lee",
+      "screen_name": "hannlee5875",
+      "followers_count": 3150,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-650 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131891",
+    "created_at": "2024-03-04T15:01:12Z",
+    "text": "Naik level gowes ku gara-gara HL Road Frame - Red — CS-nya cepat dan ramah Recommended. 🔥 #MTB #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "225238754",
+      "name": "Andi Santoso",
+      "screen_name": "andisant3287",
+      "followers_count": 778,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Frame - Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131853",
+    "created_at": "2024-03-04T16:52:20Z",
+    "text": "RT @putr57: The Mountain-300 Black from @AWCycles has been fantastic — shipping was fast and packaging perfect 🔥 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9489996435",
+      "name": "Rizky Lopez",
+      "screen_name": "rizklope4667",
+      "followers_count": 414,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-300 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131939",
+    "created_at": "2024-03-04T18:00:59Z",
+    "text": "Udah sebulan pakai Touring-3000 Yellow, oke terus — performanya mulus Recommended.",
+    "lang": "in",
+    "user": {
+      "id_str": "8324800740",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy6348",
+      "followers_count": 1021,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131803",
+    "created_at": "2024-03-04T18:13:32Z",
+    "text": "Upgraded to the Seat Tube and no looking back — exceeded my expectations #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9768867081",
+      "name": "Budi Santoso",
+      "screen_name": "budisant221",
+      "followers_count": 2041,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Seat Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

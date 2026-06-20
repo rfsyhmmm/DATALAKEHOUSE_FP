@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000032206",
+    "created_at": "2022-11-03T10:29:37Z",
+    "text": "So glad I picked up the LL Road Pedal — exceeded my expectations Five stars. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "5092067081",
+      "name": "Galih Santoso",
+      "screen_name": "galisant9025",
+      "followers_count": 3338,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032160",
+    "created_at": "2022-11-03T10:47:24Z",
+    "text": "Terkesan banget sama LL Road Seat/Saddle — melebihi ekspektasi Recommended. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "4955162519",
+      "name": "Chris Kim",
+      "screen_name": "chrikim7130",
+      "followers_count": 173,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 57,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032016",
+    "created_at": "2022-11-03T15:47:30Z",
+    "text": "Lagi mikir mau beli Sport-100 Helmet. Ada review? 🤔 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3923643757",
+      "name": "Nadia Saputra",
+      "screen_name": "nadisapu5656",
+      "followers_count": 729,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032092",
+    "created_at": "2022-11-03T17:20:17Z",
+    "text": "Naik level gowes ku gara-gara ML Mountain Seat/Saddle — performanya mulus Recommended. 💯 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6639772068",
+      "name": "Maya Wijaya",
+      "screen_name": "mayawija2494",
+      "followers_count": 707,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032074",
+    "created_at": "2022-11-03T19:01:50Z",
+    "text": "Udah sebulan pakai Thin-Jam Hex Nut 10, oke terus — murah buat kualitas segini 💯 #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "7629333608",
+      "name": "Sam Anwar",
+      "screen_name": "samanwa8300",
+      "followers_count": 3998,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032049",
+    "created_at": "2022-11-03T19:23:28Z",
+    "text": "Akhirnya pakai Thin-Jam Hex Nut 11 dan puas pol — pelayanannya membantu Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "6710018828",
+      "name": "Citra Putra",
+      "screen_name": "citrputr6785",
+      "followers_count": 2596,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 60,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032137",
+    "created_at": "2022-11-03T19:51:13Z",
+    "text": "Berharap lebih dari Thin-Jam Hex Nut 8 — proses retur ribet Hindari. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "2614604433",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida352",
+      "followers_count": 658,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 40,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000032140",
+    "created_at": "2022-11-03T20:48:49Z",
+    "text": "Terkesan banget sama Mountain-100 Silver — terasa kokoh dan rapi ✨ #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6844870231",
+      "name": "Budi Pratama",
+      "screen_name": "budiprat6881",
+      "followers_count": 1957,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

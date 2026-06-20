@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000008198",
+    "created_at": "2022-07-06T00:27:41Z",
+    "text": "RT @mia29: Naik level gowes ku gara-gara HL Mountain Handlebars — harga sebanding kualitas Bintang lima. 💯 #AWcycles #MTB #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "6681652053",
+      "name": "Budi Halim",
+      "screen_name": "budihali6883",
+      "followers_count": 195,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000008163",
+    "created_at": "2022-07-06T08:12:42Z",
+    "text": "Hex Nut 17 dari @AWCycles bikin nyesel — mahal nggak masuk akal Kapok. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "1278229686",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow8571",
+      "followers_count": 689,
+      "verified": false
+    },
+    "retweet_count": 34,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000008137",
+    "created_at": "2022-07-06T09:01:48Z",
+    "text": "Not happy with my ML Road Frame - Red at all — poor build, cheap materials ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "8549474170",
+      "name": "Sam Brown",
+      "screen_name": "sambrow8091",
+      "followers_count": 2501,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000008213",
+    "created_at": "2022-07-06T09:21:19Z",
+    "text": "Really disappointed with the HL Bottom Bracket — just a bad buy Lesson learned. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "1161516500",
+      "name": "Dimas Saputra",
+      "screen_name": "dimasapu4103",
+      "followers_count": 1063,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000008303",
+    "created_at": "2022-07-06T13:12:12Z",
+    "text": "Three weeks on the Lock Nut 8 and I'm sold — still rock solid after months 🔥 #AWcycles #rideon #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "1511408078",
+      "name": "Kevin Nguyen",
+      "screen_name": "kevinguy6860",
+      "followers_count": 556,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000008262",
+    "created_at": "2022-07-06T14:29:50Z",
+    "text": "Three weeks on the LL Road Pedal and I'm sold — fair price for this quality 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "541048728",
+      "name": "Kevin Santoso",
+      "screen_name": "kevisant1770",
+      "followers_count": 2004,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000008299",
+    "created_at": "2022-07-06T14:39:28Z",
+    "text": "Nyesel beli Hex Nut 1 — bahannya murahan Hindari. 🙄 #AWcycles #rideon #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6411556508",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija2416",
+      "followers_count": 191,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000008247",
+    "created_at": "2022-07-06T19:40:28Z",
+    "text": "Akhirnya pakai LL Touring Frame - Yellow dan puas pol — kualitasnya premium Recommended. 🔥 #AdventureWorks #cycling #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9127280729",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope1078",
+      "followers_count": 1261,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

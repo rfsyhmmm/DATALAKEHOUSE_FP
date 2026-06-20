@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000130966",
+    "created_at": "2024-02-29T05:08:02Z",
+    "text": "So glad I picked up the Decal 2 — great value for the price Zero regrets. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "7842296130",
+      "name": "Rizky Kim",
+      "screen_name": "rizkkim9141",
+      "followers_count": 2085,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131060",
+    "created_at": "2024-02-29T11:27:15Z",
+    "text": "Suka banget sama HL Touring Frame - Yellow dari AdventureWorks Cycles — pengiriman cepat dan packing rapi 💯 #bikes #AWcycles #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3198964987",
+      "name": "Tom Pratama",
+      "screen_name": "tomprat7630",
+      "followers_count": 1271,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Touring Frame - Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130967",
+    "created_at": "2024-02-29T12:01:41Z",
+    "text": "Suka banget sama Road-450 Red dari AWC — melebihi ekspektasi Recommended. 👍 #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8376882324",
+      "name": "Eko Lee",
+      "screen_name": "ekolee6151",
+      "followers_count": 1099,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-450 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131089",
+    "created_at": "2024-02-29T13:27:02Z",
+    "text": "Suka banget sama Sport-100 Helmet dari AdventureWorks Cycles — kuat di trek kasar 💯 #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6081525273",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope8513",
+      "followers_count": 415,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Sport-100 Helmet, Black",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131016",
+    "created_at": "2024-02-29T13:44:16Z",
+    "text": "Not happy with my LL Mountain Rear Wheel at all — wore out way too fast Lesson learned. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "2759182881",
+      "name": "Chris Nguyen",
+      "screen_name": "chringuy8839",
+      "followers_count": 315,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000131030",
+    "created_at": "2024-02-29T16:40:01Z",
+    "text": "Really impressed with the Touring-3000 Yellow — shipping was fast and packaging perfect Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "315247985",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija7279",
+      "followers_count": 1733,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 55,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130974",
+    "created_at": "2024-02-29T20:19:05Z",
+    "text": "RT @budi37: Lagi banding-bandingin Tension Pulley sama merek lain 🧐 #MTB #rideon #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2510247914",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa4377",
+      "followers_count": 1236,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130982",
+    "created_at": "2024-02-29T21:32:45Z",
+    "text": "Nyesel beli Hex Nut 22 — zonk total Kapok. #bikelife #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4554964287",
+      "name": "Galih Smith",
+      "screen_name": "galismit9894",
+      "followers_count": 2486,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

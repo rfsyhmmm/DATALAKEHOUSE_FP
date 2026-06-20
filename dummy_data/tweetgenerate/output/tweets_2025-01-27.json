@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000200522",
+    "created_at": "2025-01-27T07:57:06Z",
+    "text": "Bintang dua buat Sport-100 Helmet dari @AWCycles — kemahalan buat kualitas segini Kapok. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "2665072153",
+      "name": "Budi Anwar",
+      "screen_name": "budianwa9670",
+      "followers_count": 953,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000200511",
+    "created_at": "2025-01-27T08:04:58Z",
+    "text": "LL Mountain Frame - Silver dari AWC bikin nyesel — finishing-nya asal 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "9521065855",
+      "name": "Alex Halim",
+      "screen_name": "alexhali9190",
+      "followers_count": 2880,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000200420",
+    "created_at": "2025-01-27T08:07:49Z",
+    "text": "Regret buying the ML Road Front Wheel — packaging was a mess Do better AWC. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "1735614336",
+      "name": "Galih Anwar",
+      "screen_name": "galianwa1542",
+      "followers_count": 2197,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000200556",
+    "created_at": "2025-01-27T12:02:19Z",
+    "text": "Salut buat @AdventureWorks soal ML Road Frame - Red — CS-nya cepat dan ramah ✨ #AWcycles #MTB #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "433141980",
+      "name": "Eko Garcia",
+      "screen_name": "ekogarc813",
+      "followers_count": 1306,
+      "verified": true
+    },
+    "retweet_count": 24,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000200477",
+    "created_at": "2025-01-27T12:50:02Z",
+    "text": "Saw the Thin-Jam Hex Nut 7 in store today, looks interesting 👀 #rideon #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4181329466",
+      "name": "Citra Anwar",
+      "screen_name": "citranwa3896",
+      "followers_count": 747,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000200341",
+    "created_at": "2025-01-27T14:56:48Z",
+    "text": "The HL Road Tire from AdventureWorks Cycles has been fantastic — great value for the price 😍 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2297269500",
+      "name": "Maya Smith",
+      "screen_name": "mayasmit4632",
+      "followers_count": 924,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000200390",
+    "created_at": "2025-01-27T18:17:07Z",
+    "text": "Not happy with my Tension Pulley at all — a total letdown 😣 #cycling #AdventureWorks #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "7380281713",
+      "name": "Putri Halim",
+      "screen_name": "putrhali1548",
+      "followers_count": 715,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000200452",
+    "created_at": "2025-01-27T20:52:58Z",
+    "text": "Frustrated with the Mountain-200 Silver from AWC — the finish is sloppy Do better AWC. 😤 #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6001338271",
+      "name": "Hannah Lee",
+      "screen_name": "hannlee6203",
+      "followers_count": 538,
+      "verified": false
+    },
+    "retweet_count": 32,
+    "favorite_count": 45,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

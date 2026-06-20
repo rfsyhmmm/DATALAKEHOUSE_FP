@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000130052",
+    "created_at": "2024-02-24T06:29:38Z",
+    "text": "Udah sebulan pakai Touring Pedal, oke terus — beli yang tepat sih Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "6989015970",
+      "name": "Sofia Pratama",
+      "screen_name": "sofiprat6131",
+      "followers_count": 509,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Touring Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130127",
+    "created_at": "2024-02-24T07:13:32Z",
+    "text": "Akhirnya pakai Thin-Jam Hex Nut 16 dan puas pol — performanya mulus Nggak nyesel. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "3800794021",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija109",
+      "followers_count": 1239,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130046",
+    "created_at": "2024-02-24T08:10:34Z",
+    "text": "So glad I picked up the Lock Nut 12 — support was quick and friendly ✨ #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9132211675",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa5358",
+      "followers_count": 1230,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130033",
+    "created_at": "2024-02-24T13:22:33Z",
+    "text": "Nggak nyesel beli LL Headset — sampai lebih cepat, aman Bintang lima. 😎 #MTB #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "5500744939",
+      "name": "Hannah Brown",
+      "screen_name": "hannbrow508",
+      "followers_count": 570,
+      "verified": false
+    },
+    "retweet_count": 31,
+    "favorite_count": 53,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000129991",
+    "created_at": "2024-02-24T19:42:38Z",
+    "text": "Three weeks on the Road-250 Red and I'm sold — fair price for this quality Zero regrets. 😍 #MTB #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4125047746",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant6567",
+      "followers_count": 819,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 42,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130113",
+    "created_at": "2024-02-24T20:09:33Z",
+    "text": "Nggak puas sama Road-550-W Yellow ku — rusak baru dua minggu Pelajaran mahal. ⚠️ #cycling #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8903844294",
+      "name": "Sam Brown",
+      "screen_name": "sambrow9119",
+      "followers_count": 2113,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-550-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130063",
+    "created_at": "2024-02-24T20:46:56Z",
+    "text": "RT @dima30: My Lock Nut 13 from @AWCycles is excellent — zero wear after heavy use 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "8272399033",
+      "name": "Raka Halim",
+      "screen_name": "rakahali1222",
+      "followers_count": 1429,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000130111",
+    "created_at": "2024-02-24T21:35:20Z",
+    "text": "RT @citr78: Nyesel beli Road-750 Black — bunyi-bunyi dan ringkih 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "7839254592",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant4601",
+      "followers_count": 429,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

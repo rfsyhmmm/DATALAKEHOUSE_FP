@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000038540",
+    "created_at": "2022-12-03T06:09:41Z",
+    "text": "Really impressed with the HL Road Seat Assembly — delivery was smooth 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "951249321",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy8612",
+      "followers_count": 1126,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038530",
+    "created_at": "2022-12-03T12:26:40Z",
+    "text": "Three weeks on the Mountain-300 Black and I'm sold — honestly a great buy Highly recommend. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "6916166316",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow3393",
+      "followers_count": 33,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 56,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-300 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038398",
+    "created_at": "2022-12-03T15:13:29Z",
+    "text": "HL Road Frame - Black dari AWC mantap sih — performanya mulus 🔥 #rideon #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "4749517497",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy9886",
+      "followers_count": 2190,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038444",
+    "created_at": "2022-12-03T17:18:19Z",
+    "text": "RT @rizk10: Udah sebulan pakai Women's Tights, oke terus — kualitasnya premium Nggak nyesel. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "3849602624",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc4967",
+      "followers_count": 3853,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Women's Tights, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038461",
+    "created_at": "2022-12-03T19:38:43Z",
+    "text": "HL Mountain Frame - Silver dari AdventureWorks Cycles bikin nyesel — cepet aus banget Tolong AdventureWorks Cycles dibenahi. 😡 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "8880893261",
+      "name": "Sam Lopez",
+      "screen_name": "samlope8030",
+      "followers_count": 2113,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Frame - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038527",
+    "created_at": "2022-12-03T19:48:25Z",
+    "text": "The Touring-1000 Blue from AWC let me down — rattles and feels flimsy ⚠️ #rideon #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1888424813",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee5327",
+      "followers_count": 1715,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038481",
+    "created_at": "2022-12-03T20:31:15Z",
+    "text": "RT @chri76: Absolutely loving my new HL Road Frame - Black from AdventureWorks Cycles — delivery was smooth Zero regrets. 🙌 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5546854277",
+      "name": "Sofia Wijaya",
+      "screen_name": "sofiwija1439",
+      "followers_count": 2067,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000038387",
+    "created_at": "2022-12-03T21:57:26Z",
+    "text": "My HL Road Seat/Saddle from AdventureWorks Cycles is excellent — delivery was smooth Five stars.",
+    "lang": "en",
+    "user": {
+      "id_str": "334212199",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida4084",
+      "followers_count": 368,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

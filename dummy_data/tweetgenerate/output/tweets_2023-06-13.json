@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000077534",
+    "created_at": "2023-06-13T04:33:13Z",
+    "text": "Capek deh sama Flat Washer 9 dari @AdventureWorks — bahannya murahan Kapok.",
+    "lang": "in",
+    "user": {
+      "id_str": "5433340210",
+      "name": "Putri Clark",
+      "screen_name": "putrclar4393",
+      "followers_count": 2947,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077487",
+    "created_at": "2023-06-13T06:33:17Z",
+    "text": "Bintang dua buat HL Road Handlebars dari AdventureWorks Cycles — rusak baru dua minggu Pelajaran mahal. 😣 #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5645929330",
+      "name": "Jordan Nguyen",
+      "screen_name": "jordnguy9136",
+      "followers_count": 601,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077703",
+    "created_at": "2023-06-13T09:31:46Z",
+    "text": "My External Lock Washer 3 from AdventureWorks Cycles is excellent — customer service sorted it instantly 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "7421981894",
+      "name": "Alex Anwar",
+      "screen_name": "alexanwa7792",
+      "followers_count": 822,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "External Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077725",
+    "created_at": "2023-06-13T17:03:59Z",
+    "text": "Done with the ML Mountain Rim honestly — support ignored my emails Never again. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "7718063500",
+      "name": "Galih Kim",
+      "screen_name": "galikim1033",
+      "followers_count": 504,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 54,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077660",
+    "created_at": "2023-06-13T20:54:23Z",
+    "text": "My Mountain-500 Silver from @AWCycles is excellent — feels solid and well made Will buy again. 😎 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9118245421",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit6376",
+      "followers_count": 886,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077718",
+    "created_at": "2023-06-13T21:10:14Z",
+    "text": "Mountain-500 Black dari @AWCycles mantap sih — performanya mulus 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "6922645252",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope810",
+      "followers_count": 60,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077611",
+    "created_at": "2023-06-13T21:40:50Z",
+    "text": "Nggak puas sama ML Mountain Frame - Black ku — kemahalan buat kualitas segini Tolong @AdventureWorks dibenahi. 😡 #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "7393542864",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida2967",
+      "followers_count": 429,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077575",
+    "created_at": "2023-06-13T22:23:57Z",
+    "text": "Akhirnya pakai LL Road Frame - Black dan puas pol — kuat di trek kasar Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "6865146897",
+      "name": "Sofia Wijaya",
+      "screen_name": "sofiwija1409",
+      "followers_count": 1267,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

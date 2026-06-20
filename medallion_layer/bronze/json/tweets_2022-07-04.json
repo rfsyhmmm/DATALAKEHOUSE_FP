@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000007840",
+    "created_at": "2022-07-04T09:49:19Z",
+    "text": "Kecewa banget sama Decal 2 — nggak sebanding harganya Tolong AWC dibenahi. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "9969667821",
+      "name": "Budi Lee",
+      "screen_name": "budilee7353",
+      "followers_count": 664,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007886",
+    "created_at": "2022-07-04T12:18:42Z",
+    "text": "Is the Touring-2000 Blue any good for daily rides? 🧐 #cycling #AdventureWorks #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "520854556",
+      "name": "Raka Kim",
+      "screen_name": "rakakim7444",
+      "followers_count": 3434,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-2000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007914",
+    "created_at": "2022-07-04T12:33:25Z",
+    "text": "Upgraded to the ML Crankset and no looking back — performs flawlessly #AWcycles #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "2272333857",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc2365",
+      "followers_count": 851,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007796",
+    "created_at": "2022-07-04T13:25:48Z",
+    "text": "Just unboxed the Seat Tube, will report back 🧐 #bikelife #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "8300084089",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy5140",
+      "followers_count": 2013,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 42,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Seat Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007732",
+    "created_at": "2022-07-04T18:48:32Z",
+    "text": "Touring Pedal dari AWC mantap sih — kirimnya lancar Bintang lima. 🔥 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "6429335818",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat4020",
+      "followers_count": 589,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007838",
+    "created_at": "2022-07-04T18:56:51Z",
+    "text": "Capek deh sama Thin-Jam Lock Nut 16 dari AWC — kemahalan buat kualitas segini Hindari. 🙄 #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9088591612",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy3502",
+      "followers_count": 316,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007775",
+    "created_at": "2022-07-04T19:08:51Z",
+    "text": "Naik level gowes ku gara-gara Lock Nut 12 — admin responsif banget 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "3407777078",
+      "name": "Andi Hidayat",
+      "screen_name": "andihida2386",
+      "followers_count": 716,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007928",
+    "created_at": "2022-07-04T21:07:38Z",
+    "text": "Akhirnya pakai LL Road Frame - Red dan puas pol — admin responsif banget 🔥 #cycling #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3498194022",
+      "name": "Putri Clark",
+      "screen_name": "putrclar459",
+      "followers_count": 647,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

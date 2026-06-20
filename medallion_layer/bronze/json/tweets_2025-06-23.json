@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000230492",
+    "created_at": "2025-06-23T00:55:21Z",
+    "text": "The Thin-Jam Hex Nut 6 from @AdventureWorks has been fantastic — performs flawlessly Five stars.",
+    "lang": "en",
+    "user": {
+      "id_str": "7760516432",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija5767",
+      "followers_count": 796,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230477",
+    "created_at": "2025-06-23T13:38:42Z",
+    "text": "Shoutout to @AdventureWorks for the Hex Nut 18 — build quality feels premium Highly recommend. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "9655866455",
+      "name": "Alex Garcia",
+      "screen_name": "alexgarc1403",
+      "followers_count": 2157,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230357",
+    "created_at": "2025-06-23T15:00:56Z",
+    "text": "RT @rizk93: Bintang dua buat Lock Nut 10 dari AdventureWorks — mahal nggak masuk akal 😡 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1667818230",
+      "name": "Tom Halim",
+      "screen_name": "tomhali9443",
+      "followers_count": 766,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230502",
+    "created_at": "2025-06-23T19:02:29Z",
+    "text": "Suka banget sama Metal Angle dari AdventureWorks — terasa kokoh dan rapi Bakal beli lagi. 😎 #cycling #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9310981067",
+      "name": "Rizky Garcia",
+      "screen_name": "rizkgarc3345",
+      "followers_count": 1428,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Angle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230469",
+    "created_at": "2025-06-23T19:21:42Z",
+    "text": "Shoutout to @AWCycles for the Touring-2000 Blue — performs flawlessly Five stars. 😍 #bikes #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7549893023",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee9114",
+      "followers_count": 375,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230418",
+    "created_at": "2025-06-23T20:07:00Z",
+    "text": "My LL Grip Tape from @AWCycles is excellent — worth every penny Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "1823553213",
+      "name": "Alex Pratama",
+      "screen_name": "alexprat9150",
+      "followers_count": 3432,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230444",
+    "created_at": "2025-06-23T20:48:00Z",
+    "text": "Upgraded to the Cup-Shaped Race and no looking back — zero wear after heavy use 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "4561246160",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant7178",
+      "followers_count": 2128,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Cup-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230383",
+    "created_at": "2025-06-23T22:43:20Z",
+    "text": "So glad I picked up the HL Road Frame - Red — customer service sorted it instantly 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "1603217101",
+      "name": "Kevin Clark",
+      "screen_name": "keviclar1188",
+      "followers_count": 1008,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

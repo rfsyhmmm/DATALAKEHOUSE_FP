@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000045023",
+    "created_at": "2023-01-04T08:47:22Z",
+    "text": "Nyesel beli LL Mountain Pedal — finishing-nya asal Kapok.",
+    "lang": "in",
+    "user": {
+      "id_str": "5329490913",
+      "name": "Andi Lopez",
+      "screen_name": "andilope2577",
+      "followers_count": 1325,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045064",
+    "created_at": "2023-01-04T09:31:05Z",
+    "text": "Salut buat @AdventureWorks soal Touring-1000 Blue — pengiriman cepat dan packing rapi 😎 #MTB #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "3125609772",
+      "name": "Eko Putra",
+      "screen_name": "ekoputr2881",
+      "followers_count": 663,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045131",
+    "created_at": "2023-01-04T15:28:04Z",
+    "text": "RT @tom85: Absolutely loving my new Mountain-300 Black from @AWCycles — delivery was smooth Will buy again. 🙌 #cycling #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3194274007",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant8499",
+      "followers_count": 372,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 87,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-300 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045153",
+    "created_at": "2023-01-04T18:35:56Z",
+    "text": "Really disappointed with the External Lock Washer 6 — way too expensive Avoid. 😣 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "210239423",
+      "name": "Maria Santoso",
+      "screen_name": "marisant6558",
+      "followers_count": 1090,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045132",
+    "created_at": "2023-01-04T18:50:51Z",
+    "text": "Nggak puas sama Metal Bar 2 ku — packing-nya berantakan 😡 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8838377186",
+      "name": "Dimas Lopez",
+      "screen_name": "dimalope2887",
+      "followers_count": 2441,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Metal Bar 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045093",
+    "created_at": "2023-01-04T19:24:17Z",
+    "text": "Headlights - Weatherproof dari AdventureWorks Cycles bikin nyesel — rusak baru dua minggu ⚠️ #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7709009063",
+      "name": "Olivia Santoso",
+      "screen_name": "olivsant4598",
+      "followers_count": 294,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045186",
+    "created_at": "2023-01-04T19:31:08Z",
+    "text": "So glad I picked up the Lock Washer 8 — customer service sorted it instantly ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "4149046701",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant9160",
+      "followers_count": 2631,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045033",
+    "created_at": "2023-01-04T22:29:23Z",
+    "text": "The Short-Sleeve Classic Jersey from AdventureWorks has been fantastic — customer service sorted it instantly Zero regrets. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "7983604875",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat3524",
+      "followers_count": 2471,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Short-Sleeve Classic Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

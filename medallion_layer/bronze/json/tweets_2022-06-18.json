@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000004217",
+    "created_at": "2022-06-18T00:47:50Z",
+    "text": "Really disappointed with the LL Fork — packaging was a mess 👎 #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7318146534",
+      "name": "Eko Halim",
+      "screen_name": "ekohali4282",
+      "followers_count": 848,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004321",
+    "created_at": "2022-06-18T12:07:51Z",
+    "text": "Terkesan banget sama Road-450 Red — terasa kokoh dan rapi Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "4512437658",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow5566",
+      "followers_count": 1217,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 45,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-450 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004294",
+    "created_at": "2022-06-18T16:33:00Z",
+    "text": "Terkesan banget sama LL Touring Frame - Blue — pelayanannya membantu 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "4236298935",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow9935",
+      "followers_count": 2581,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004276",
+    "created_at": "2022-06-18T17:46:24Z",
+    "text": "RT @oliv67: Really impressed with the Thin-Jam Hex Nut 3 — feels solid and well made #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3099818762",
+      "name": "Putri Santoso",
+      "screen_name": "putrsant551",
+      "followers_count": 882,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004342",
+    "created_at": "2022-06-18T18:16:15Z",
+    "text": "Thinking about the Sport-100 Helmet. Any reviews? 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "5743040635",
+      "name": "Citra Garcia",
+      "screen_name": "citrgarc7808",
+      "followers_count": 717,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004192",
+    "created_at": "2022-06-18T18:21:59Z",
+    "text": "Not happy with my Internal Lock Washer 5 at all — just not worth the money Lesson learned. 👎 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "2700650037",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope2451",
+      "followers_count": 2222,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004248",
+    "created_at": "2022-06-18T19:25:47Z",
+    "text": "Lock Nut 11 bagus nggak buat harian? 🤔 #cycling #AdventureWorks #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "2831069282",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit2634",
+      "followers_count": 958,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004198",
+    "created_at": "2022-06-18T21:49:43Z",
+    "text": "Upgraded to the HL Mountain Frame - Silver and no looking back — zero wear after heavy use Highly recommend.",
+    "lang": "en",
+    "user": {
+      "id_str": "4814658227",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa5743",
+      "followers_count": 483,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Frame - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

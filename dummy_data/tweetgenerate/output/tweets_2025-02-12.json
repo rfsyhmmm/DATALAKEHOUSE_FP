@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000203580",
+    "created_at": "2025-02-12T11:14:27Z",
+    "text": "So glad I picked up the Tension Pulley — feels solid and well made Highly recommend. 🚴 #bikelife #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "800114272",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida8550",
+      "followers_count": 1677,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203663",
+    "created_at": "2025-02-12T13:24:42Z",
+    "text": "LL Touring Handlebars dari AWC bikin nyesel — packing-nya berantakan Kapok. 😩 #AdventureWorks #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7325773307",
+      "name": "Budi Putra",
+      "screen_name": "budiputr6891",
+      "followers_count": 539,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203693",
+    "created_at": "2025-02-12T15:43:23Z",
+    "text": "Absolutely loving my new Lock Washer 13 from AWC — performs flawlessly Five stars. 😎 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8715760974",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc9673",
+      "followers_count": 119,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203615",
+    "created_at": "2025-02-12T17:47:44Z",
+    "text": "Regret buying the Road-150 Red — a total letdown Avoid. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "6375676357",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija5911",
+      "followers_count": 728,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-150 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203766",
+    "created_at": "2025-02-12T19:09:59Z",
+    "text": "Long-Sleeve Logo Jersey dari AWC mantap sih — masih awet setelah berbulan-bulan 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "7906463964",
+      "name": "Dewi Nguyen",
+      "screen_name": "dewinguy3883",
+      "followers_count": 2178,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203813",
+    "created_at": "2025-02-12T21:23:19Z",
+    "text": "The HL Road Frame - Black from AdventureWorks Cycles has been fantastic — holding up great on rough trails Highly recommend. 😍 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "7502559739",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar4651",
+      "followers_count": 966,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203551",
+    "created_at": "2025-02-12T22:58:25Z",
+    "text": "Udah sebulan pakai ML Mountain Frame - Black, oke terus — tahan banting dipakai berat Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "751917884",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow6110",
+      "followers_count": 535,
+      "verified": true
+    },
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000203716",
+    "created_at": "2025-02-12T23:07:00Z",
+    "text": "Regret buying the LL Touring Handlebars — rattles and feels flimsy Do better AdventureWorks. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "8505494432",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow8202",
+      "followers_count": 1534,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

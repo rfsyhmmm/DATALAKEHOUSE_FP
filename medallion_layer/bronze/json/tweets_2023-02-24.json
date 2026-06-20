@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000055473",
+    "created_at": "2023-02-24T06:01:45Z",
+    "text": "Udah sebulan pakai ML Mountain Frame-W - Silver, oke terus — kirimnya lancar ✨ #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1186065265",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope8463",
+      "followers_count": 307,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame-W - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055528",
+    "created_at": "2023-02-24T17:39:03Z",
+    "text": "Absolutely loving my new LL Road Frame - Red from @AdventureWorks — performs flawlessly Will buy again. 😎 #MTB #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9835497532",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant8548",
+      "followers_count": 1804,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055505",
+    "created_at": "2023-02-24T18:00:04Z",
+    "text": "My Mountain-100 Silver from @AdventureWorks is excellent — build quality feels premium ✨ #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3676895687",
+      "name": "Maya Kim",
+      "screen_name": "mayakim9080",
+      "followers_count": 1804,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055555",
+    "created_at": "2023-02-24T18:30:56Z",
+    "text": "Salut buat AdventureWorks soal Thin-Jam Hex Nut 2 — performanya mulus Nggak nyesel. 😎 #bikelife #rideon #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "9858437906",
+      "name": "Galih Anwar",
+      "screen_name": "galianwa1627",
+      "followers_count": 1204,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055404",
+    "created_at": "2023-02-24T19:19:30Z",
+    "text": "Shoutout to AdventureWorks for the Road-750 Black — support was quick and friendly Zero regrets. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "9123029076",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa4560",
+      "followers_count": 1112,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-750 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055572",
+    "created_at": "2023-02-24T19:48:52Z",
+    "text": "Expected so much more from the Thin-Jam Hex Nut 7 — poor build, cheap materials 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "1946649947",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit5278",
+      "followers_count": 623,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055426",
+    "created_at": "2023-02-24T20:08:02Z",
+    "text": "The LL Road Frame - Red from AWC has been fantastic — couldn't be happier 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "6841717261",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant6017",
+      "followers_count": 1198,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055371",
+    "created_at": "2023-02-24T22:30:47Z",
+    "text": "Akhirnya pakai Mountain-500 Black dan puas pol — pelayanannya membantu Recommended. ✨ #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "7907176995",
+      "name": "Bayu Anwar",
+      "screen_name": "bayuanwa3978",
+      "followers_count": 2343,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000230963",
+    "created_at": "2025-06-26T05:27:31Z",
+    "text": "Shoutout to AdventureWorks Cycles for the LL Road Tire — the team was super helpful 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "8263656794",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu508",
+      "followers_count": 213,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231032",
+    "created_at": "2025-06-26T09:11:04Z",
+    "text": "LL Touring Frame - Yellow bagus nggak buat harian? 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "8305256361",
+      "name": "Budi Garcia",
+      "screen_name": "budigarc1294",
+      "followers_count": 709,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230994",
+    "created_at": "2025-06-26T11:26:19Z",
+    "text": "Three weeks on the Short-Sleeve Classic Jersey and I'm sold — holding up great on rough trails Will buy again. 👍 #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "2772771328",
+      "name": "Budi Saputra",
+      "screen_name": "budisapu99",
+      "followers_count": 2091,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 49,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Short-Sleeve Classic Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231105",
+    "created_at": "2025-06-26T16:51:42Z",
+    "text": "RT @oliv12: Udah sebulan pakai Lock Nut 18, oke terus — terasa kokoh dan rapi 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "5223039638",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow8364",
+      "followers_count": 913,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231073",
+    "created_at": "2025-06-26T17:04:33Z",
+    "text": "HL Shell dari AWC bikin nyesel — kemahalan buat kualitas segini 😡 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3947967470",
+      "name": "Dewi Smith",
+      "screen_name": "dewismit4652",
+      "followers_count": 256,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230951",
+    "created_at": "2025-06-26T18:37:39Z",
+    "text": "RT @andi21: So glad I picked up the Chain Stays — holding up great on rough trails Zero regrets. ✨ #rideon #bikelife #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "7906751028",
+      "name": "Mia Nguyen",
+      "screen_name": "mianguy8737",
+      "followers_count": 1473,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Chain Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231135",
+    "created_at": "2025-06-26T19:18:19Z",
+    "text": "Udah sebulan pakai Thin-Jam Lock Nut 1, oke terus — performanya mulus 😍 #bikelife #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1839354340",
+      "name": "Hannah Hidayat",
+      "screen_name": "hannhida1974",
+      "followers_count": 2726,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000231067",
+    "created_at": "2025-06-26T20:46:39Z",
+    "text": "Mountain-200 Silver dari AWC bikin nyesel — bahannya murahan Tolong AWC dibenahi. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "6126411642",
+      "name": "Tom Putra",
+      "screen_name": "tomputr1772",
+      "followers_count": 715,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 43,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

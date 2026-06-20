@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000048299",
+    "created_at": "2023-01-19T03:26:58Z",
+    "text": "Nggak puas sama Lock Nut 5 ku — proses retur ribet Pelajaran mahal. 🙄 #cycling #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "6896831102",
+      "name": "Sam Santoso",
+      "screen_name": "samsant8558",
+      "followers_count": 943,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Lock Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048458",
+    "created_at": "2023-01-19T08:18:53Z",
+    "text": "Touring End Caps dari AdventureWorks Cycles mantap sih — pengiriman cepat dan packing rapi Bakal beli lagi. ✨ #bikelife #cycling #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3830078458",
+      "name": "Putri Brown",
+      "screen_name": "putrbrow4889",
+      "followers_count": 294,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048251",
+    "created_at": "2023-01-19T09:46:47Z",
+    "text": "Nggak nyesel beli Mountain-300 Black — kirimnya lancar Nggak nyesel. 🚴 #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3477425313",
+      "name": "Maria Brown",
+      "screen_name": "maribrow3225",
+      "followers_count": 1962,
+      "verified": false
+    },
+    "retweet_count": 29,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-300 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048381",
+    "created_at": "2023-01-19T14:40:48Z",
+    "text": "RT @dima99: Akhirnya pakai LL Mountain Frame - Silver dan puas pol — admin responsif banget 👍 #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8692836957",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija2284",
+      "followers_count": 2093,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048348",
+    "created_at": "2023-01-19T16:23:36Z",
+    "text": "Mountain End Caps dari AdventureWorks Cycles mantap sih — admin responsif banget Bakal beli lagi. 😍 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6798253853",
+      "name": "Andi Clark",
+      "screen_name": "andiclar74",
+      "followers_count": 659,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048481",
+    "created_at": "2023-01-19T19:02:38Z",
+    "text": "RT @mia47: Done with the Handlebar Tube honestly — the return process is a nightmare Never again. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "1661009929",
+      "name": "Sam Putra",
+      "screen_name": "samputr3053",
+      "followers_count": 767,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048427",
+    "created_at": "2023-01-19T19:03:57Z",
+    "text": "Done with the Lock Nut 15 honestly — poor build, cheap materials ⚠️ #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7948640725",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat9333",
+      "followers_count": 2778,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048253",
+    "created_at": "2023-01-19T21:52:54Z",
+    "text": "Terkesan banget sama LL Shell — admin responsif banget Recommended. 🔥 #cycling #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3000610268",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa7255",
+      "followers_count": 234,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

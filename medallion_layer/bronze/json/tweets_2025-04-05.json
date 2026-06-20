@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000214363",
+    "created_at": "2025-04-05T06:11:20Z",
+    "text": "Nggak nyesel beli Touring-3000 Blue — harga sebanding kualitas 🔥 #AdventureWorks #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5631420469",
+      "name": "Rizky Kim",
+      "screen_name": "rizkkim173",
+      "followers_count": 1966,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000214352",
+    "created_at": "2025-04-05T08:24:56Z",
+    "text": "Saw the Touring Rear Wheel in store today, looks interesting 🤷",
+    "lang": "en",
+    "user": {
+      "id_str": "524391585",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa8077",
+      "followers_count": 183,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000214273",
+    "created_at": "2025-04-05T11:30:10Z",
+    "text": "Three weeks on the LL Road Tire and I'm sold — performs flawlessly Highly recommend. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "9740529920",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat3553",
+      "followers_count": 272,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000214429",
+    "created_at": "2025-04-05T12:42:52Z",
+    "text": "Kecewa banget sama Road-750 Black — mahal nggak masuk akal 😤 #AWcycles #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "4170861664",
+      "name": "Dimas Nguyen",
+      "screen_name": "dimanguy2634",
+      "followers_count": 4724,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-750 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000214348",
+    "created_at": "2025-04-05T16:12:52Z",
+    "text": "RT @maya61: Three weeks on the Hex Nut 2 and I'm sold — performs flawlessly 😍 #rideon #AdventureWorks #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "9154418768",
+      "name": "Citra Halim",
+      "screen_name": "citrhali2248",
+      "followers_count": 598,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000214282",
+    "created_at": "2025-04-05T17:41:10Z",
+    "text": "Absolutely loving my new LL Road Seat Assembly from AdventureWorks Cycles — great value for the price 😎 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "779958136",
+      "name": "Raka Garcia",
+      "screen_name": "rakagarc9997",
+      "followers_count": 3081,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000214386",
+    "created_at": "2025-04-05T19:31:53Z",
+    "text": "Bintang dua buat Road-650 Black dari @AWCycles — kirimnya lama banget Kapok. 🙄 #AdventureWorks #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "4842788951",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant2604",
+      "followers_count": 229,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-650 Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000214327",
+    "created_at": "2025-04-05T21:36:47Z",
+    "text": "Done with the LL Road Seat Assembly honestly — overpriced for what you get 😩 #bikelife #bikes #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1396300084",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy8137",
+      "followers_count": 135,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 71,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

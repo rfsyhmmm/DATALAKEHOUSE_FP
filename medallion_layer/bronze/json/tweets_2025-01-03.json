@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000195348",
+    "created_at": "2025-01-03T07:29:45Z",
+    "text": "My Hex Nut 18 from @AdventureWorks is excellent — build quality feels premium 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "6446249017",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida8407",
+      "followers_count": 1532,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195365",
+    "created_at": "2025-01-03T13:51:35Z",
+    "text": "Really impressed with the Bike Wash - Dissolver — fair price for this quality Highly recommend. ✨ #bikelife #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9845924453",
+      "name": "Dimas Pratama",
+      "screen_name": "dimaprat982",
+      "followers_count": 1112,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Bike Wash - Dissolver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195380",
+    "created_at": "2025-01-03T16:41:36Z",
+    "text": "Suka banget sama Hex Nut 7 dari @AWCycles — harga sebanding kualitas Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "2687163274",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr9743",
+      "followers_count": 1314,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195318",
+    "created_at": "2025-01-03T17:50:20Z",
+    "text": "Mountain-500 Silver dari AdventureWorks mantap sih — CS-nya cepat dan ramah Bintang lima. 😍 #bikelife #AdventureWorks #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "8448699180",
+      "name": "Maya Putra",
+      "screen_name": "mayaputr4927",
+      "followers_count": 170,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195213",
+    "created_at": "2025-01-03T19:07:07Z",
+    "text": "Salut buat AWC soal Road-650 Black — terasa kokoh dan rapi Nggak nyesel. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "428170347",
+      "name": "Tom Smith",
+      "screen_name": "tomsmit4441",
+      "followers_count": 2727,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 57,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-650 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195406",
+    "created_at": "2025-01-03T19:21:33Z",
+    "text": "Salut buat @AWCycles soal ML Road Frame - Red — kualitasnya premium 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "3388494634",
+      "name": "Rizky Smith",
+      "screen_name": "rizksmit2660",
+      "followers_count": 1975,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195289",
+    "created_at": "2025-01-03T19:24:03Z",
+    "text": "Suka banget sama External Lock Washer 3 dari AdventureWorks — terasa kokoh dan rapi Nggak nyesel. ✨ #bikes #bikelife #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "4587720595",
+      "name": "Andi Clark",
+      "screen_name": "andiclar9894",
+      "followers_count": 437,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000195251",
+    "created_at": "2025-01-03T20:33:38Z",
+    "text": "Really impressed with the Long-Sleeve Logo Jersey — build quality feels premium Highly recommend. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "4025586266",
+      "name": "Maria Brown",
+      "screen_name": "maribrow4257",
+      "followers_count": 2803,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Long-Sleeve Logo Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

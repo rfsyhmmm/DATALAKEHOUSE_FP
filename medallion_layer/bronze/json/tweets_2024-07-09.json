@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000158487",
+    "created_at": "2024-07-09T07:32:53Z",
+    "text": "Fender Set - Mountain dari AdventureWorks Cycles mantap sih — admin responsif banget Bakal beli lagi. #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "8672930633",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc1203",
+      "followers_count": 3508,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158533",
+    "created_at": "2024-07-09T08:43:46Z",
+    "text": "Akhirnya pakai Lock Nut 21 dan puas pol — worth it banget Bintang lima. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "2232021482",
+      "name": "Raka Kim",
+      "screen_name": "rakakim1002",
+      "followers_count": 2170,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158611",
+    "created_at": "2024-07-09T09:09:03Z",
+    "text": "External Lock Washer 8 dari @AWCycles mantap sih — sampai lebih cepat, aman Bakal beli lagi. 👍 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "9203989787",
+      "name": "Sofia Garcia",
+      "screen_name": "sofigarc8182",
+      "followers_count": 1405,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "External Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158622",
+    "created_at": "2024-07-09T10:32:18Z",
+    "text": "Frustrated with the LL Road Frame - Black from @AWCycles — wore out way too fast Never again. 😡 #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "5785226214",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy7853",
+      "followers_count": 1302,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158644",
+    "created_at": "2024-07-09T15:49:59Z",
+    "text": "My Metal Sheet 1 from @AdventureWorks is excellent — feels solid and well made 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "5067958698",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy5351",
+      "followers_count": 710,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158552",
+    "created_at": "2024-07-09T16:05:29Z",
+    "text": "My Flat Washer 4 from AdventureWorks is excellent — support was quick and friendly Highly recommend. ✨ #MTB #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2313869206",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant8899",
+      "followers_count": 690,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158589",
+    "created_at": "2024-07-09T22:33:53Z",
+    "text": "Naik level gowes ku gara-gara Lock Nut 13 — beli yang tepat sih Bintang lima. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "7029892822",
+      "name": "Alex Halim",
+      "screen_name": "alexhali2828",
+      "followers_count": 2101,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158473",
+    "created_at": "2024-07-09T22:34:50Z",
+    "text": "Akhirnya pakai HL Mountain Rim dan puas pol — kualitasnya premium 🚴 #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "9768784662",
+      "name": "Jordan Pratama",
+      "screen_name": "jordprat4948",
+      "followers_count": 1695,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 45,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

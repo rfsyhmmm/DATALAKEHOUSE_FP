@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000186797",
+    "created_at": "2024-11-23T04:20:32Z",
+    "text": "The Men's Bib-Shorts from @AWCycles has been fantastic — couldn't be happier Highly recommend. 😎 #AdventureWorks #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4572955229",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope5569",
+      "followers_count": 1723,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Men's Bib-Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186948",
+    "created_at": "2024-11-23T07:16:03Z",
+    "text": "Metal Sheet 5 bagus nggak buat harian? 🧐 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3933681128",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu8252",
+      "followers_count": 1034,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Metal Sheet 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186750",
+    "created_at": "2024-11-23T14:57:27Z",
+    "text": "Expected so much more from the Road-150 Red — shipping took forever Do better AdventureWorks Cycles. #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "5140042091",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida1575",
+      "followers_count": 2368,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-150 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186839",
+    "created_at": "2024-11-23T15:52:35Z",
+    "text": "Salut buat @AdventureWorks soal Touring-1000 Yellow — kirimnya lancar Nggak nyesel. 🚴 #cycling #bikes #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6284483606",
+      "name": "Putri Lee",
+      "screen_name": "putrlee6697",
+      "followers_count": 1869,
+      "verified": true
+    },
+    "retweet_count": 3,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186898",
+    "created_at": "2024-11-23T16:09:24Z",
+    "text": "Two stars for the LL Road Frame - Black from @AdventureWorks — just a bad buy #bikes #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2837166989",
+      "name": "Tom Halim",
+      "screen_name": "tomhali6611",
+      "followers_count": 2609,
+      "verified": false
+    },
+    "retweet_count": 31,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186709",
+    "created_at": "2024-11-23T16:21:55Z",
+    "text": "Really impressed with the ML Road Handlebars — zero wear after heavy use Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "1487900271",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy1555",
+      "followers_count": 1763,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186881",
+    "created_at": "2024-11-23T19:26:13Z",
+    "text": "Udahan deh sama LL Mountain Seat/Saddle ini — rusak baru dua minggu 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "8225539465",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit8052",
+      "followers_count": 195,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000186684",
+    "created_at": "2024-11-23T22:39:11Z",
+    "text": "Bintang dua buat LL Mountain Seat Assembly dari @AWCycles — mahal nggak masuk akal Kapok. 🙄 #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2586986040",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee3829",
+      "followers_count": 1250,
+      "verified": false
+    },
+    "retweet_count": 37,
+    "favorite_count": 28,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

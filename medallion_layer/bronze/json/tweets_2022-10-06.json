@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000026224",
+    "created_at": "2022-10-06T08:52:00Z",
+    "text": "Nggak nyesel beli Road-550-W Yellow — performanya mulus Nggak nyesel. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "8886121831",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant9293",
+      "followers_count": 551,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 48,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026221",
+    "created_at": "2022-10-06T09:49:56Z",
+    "text": "Baru unboxing BB Ball Bearing, nanti aku update #bikes #MTB #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4531005078",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu8775",
+      "followers_count": 3180,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "BB Ball Bearing",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026332",
+    "created_at": "2022-10-06T12:22:20Z",
+    "text": "ML Road Frame-W - Yellow bagus nggak buat harian? 🤷 #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5457760105",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida3274",
+      "followers_count": 126,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 35,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Frame-W - Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026262",
+    "created_at": "2022-10-06T18:43:00Z",
+    "text": "Suka banget sama Metal Sheet 3 dari @AdventureWorks — masih awet setelah berbulan-bulan Bakal beli lagi. #bikes #AdventureWorks #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8657538383",
+      "name": "Galih Pratama",
+      "screen_name": "galiprat4914",
+      "followers_count": 1749,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Metal Sheet 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026375",
+    "created_at": "2022-10-06T18:48:55Z",
+    "text": "RT @rizk68: Capek deh sama Metal Sheet 7 dari @AdventureWorks — datang telat dan rusak Kapok. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "786266034",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida6427",
+      "followers_count": 2153,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Metal Sheet 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026271",
+    "created_at": "2022-10-06T20:48:31Z",
+    "text": "My Touring-3000 Yellow from @AWCycles is excellent — build quality feels premium 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "2574349799",
+      "name": "Alex Brown",
+      "screen_name": "alexbrow5777",
+      "followers_count": 2073,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026301",
+    "created_at": "2022-10-06T21:51:42Z",
+    "text": "Suka banget sama LL Touring Seat/Saddle dari AdventureWorks Cycles — murah buat kualitas segini Bintang lima. 🔥 #cycling #rideon #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4295320378",
+      "name": "Citra Halim",
+      "screen_name": "citrhali7068",
+      "followers_count": 1633,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000026391",
+    "created_at": "2022-10-06T22:27:47Z",
+    "text": "Capek deh sama Chainring dari AWC — bunyi-bunyi dan ringkih Hindari. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "6193583669",
+      "name": "Eko Wijaya",
+      "screen_name": "ekowija2049",
+      "followers_count": 2830,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 49,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

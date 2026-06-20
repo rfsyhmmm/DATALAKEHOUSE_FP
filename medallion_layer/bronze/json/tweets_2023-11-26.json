@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000111862",
+    "created_at": "2023-11-26T05:30:32Z",
+    "text": "The Cable Lock from @AdventureWorks has been fantastic — great value for the price Zero regrets. 😍 #bikes #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6381702523",
+      "name": "Mia Santoso",
+      "screen_name": "miasant307",
+      "followers_count": 261,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Cable Lock",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111939",
+    "created_at": "2023-11-26T06:45:39Z",
+    "text": "Capek deh sama External Lock Washer 4 dari @AdventureWorks — packing-nya berantakan Kapok. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "3080560526",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat3117",
+      "followers_count": 2237,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "External Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111799",
+    "created_at": "2023-11-26T08:34:59Z",
+    "text": "Bintang dua buat Front Brakes dari @AdventureWorks — proses retur ribet Hindari. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "7777164407",
+      "name": "Budi Santoso",
+      "screen_name": "budisant8152",
+      "followers_count": 2344,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Front Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111768",
+    "created_at": "2023-11-26T12:23:41Z",
+    "text": "Is the LL Road Frame - Black any good for daily rides? 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "1856950936",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant8284",
+      "followers_count": 1288,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 46,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111975",
+    "created_at": "2023-11-26T13:00:13Z",
+    "text": "Bintang dua buat HL Road Pedal dari AdventureWorks — kirimnya lama banget Kapok. 🙄 #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9462329172",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy4002",
+      "followers_count": 1871,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111899",
+    "created_at": "2023-11-26T16:01:16Z",
+    "text": "The Mountain-500 Black from @AdventureWorks has been fantastic — feels solid and well made Five stars. 💯 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "4327959045",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija2536",
+      "followers_count": 2446,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111824",
+    "created_at": "2023-11-26T18:38:42Z",
+    "text": "Nggak nyesel beli Thin-Jam Lock Nut 7 — kualitasnya premium Recommended. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "9438043619",
+      "name": "Lina Pratama",
+      "screen_name": "linaprat3757",
+      "followers_count": 1663,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 59,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111859",
+    "created_at": "2023-11-26T21:39:45Z",
+    "text": "So glad I picked up the Steerer — customer service sorted it instantly",
+    "lang": "en",
+    "user": {
+      "id_str": "4460336879",
+      "name": "Eko Lee",
+      "screen_name": "ekolee1267",
+      "followers_count": 1972,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Steerer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

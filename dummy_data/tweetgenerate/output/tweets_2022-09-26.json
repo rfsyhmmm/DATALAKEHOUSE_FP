@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000024406",
+    "created_at": "2022-09-26T00:11:47Z",
+    "text": "Lock Washer 3 dari AdventureWorks Cycles bikin nyesel — finishing-nya asal ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "6110077437",
+      "name": "Rizky Nguyen",
+      "screen_name": "rizknguy4192",
+      "followers_count": 941,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024407",
+    "created_at": "2022-09-26T06:59:23Z",
+    "text": "The Lock Washer 11 from AdventureWorks Cycles has been fantastic — performs flawlessly 🙌 #MTB #cycling #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6615717157",
+      "name": "Galih Hidayat",
+      "screen_name": "galihida8618",
+      "followers_count": 307,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024400",
+    "created_at": "2022-09-26T13:19:08Z",
+    "text": "Akhirnya pakai LL Road Frame - Red dan puas pol — kirimnya lancar Bakal beli lagi. 😍 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7116712477",
+      "name": "Raka Kim",
+      "screen_name": "rakakim6249",
+      "followers_count": 761,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024294",
+    "created_at": "2022-09-26T13:28:00Z",
+    "text": "RT @oliv13: Comparing the Racing Socks with a few others before I buy 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "524694413",
+      "name": "Tom Putra",
+      "screen_name": "tomputr4697",
+      "followers_count": 1097,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Racing Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024445",
+    "created_at": "2022-09-26T13:32:12Z",
+    "text": "Udah sebulan pakai Metal Sheet 5, oke terus — kirimnya lancar Recommended. #bikelife #rideon #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "4673809091",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr5318",
+      "followers_count": 664,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Sheet 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024348",
+    "created_at": "2022-09-26T14:38:47Z",
+    "text": "Udahan deh sama Mountain-200 Silver ini — packing-nya berantakan Hindari. 😣 #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "9263911922",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija2098",
+      "followers_count": 466,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024340",
+    "created_at": "2022-09-26T19:18:01Z",
+    "text": "Naik level gowes ku gara-gara Road-550-W Yellow — harga sebanding kualitas 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "8816937418",
+      "name": "Jordan Pratama",
+      "screen_name": "jordprat2484",
+      "followers_count": 1098,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-550-W Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000024395",
+    "created_at": "2022-09-26T21:31:22Z",
+    "text": "Anyone using the HL Road Frame - Red from @AWCycles? Worth it? 🤔 #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5573282196",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa1971",
+      "followers_count": 640,
+      "verified": true
+    },
+    "retweet_count": 7,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

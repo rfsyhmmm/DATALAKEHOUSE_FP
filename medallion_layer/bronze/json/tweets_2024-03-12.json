@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000133500",
+    "created_at": "2024-03-12T01:05:02Z",
+    "text": "RT @putr91: Akhirnya pakai LL Touring Frame - Blue dan puas pol — kualitasnya premium Recommended. #MTB #bikes #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "825220545",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu8801",
+      "followers_count": 2137,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133652",
+    "created_at": "2024-03-12T11:33:14Z",
+    "text": "Udahan deh sama LL Crankarm ini — zonk total 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "7443798810",
+      "name": "Dewi Anwar",
+      "screen_name": "dewianwa5878",
+      "followers_count": 1173,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133614",
+    "created_at": "2024-03-12T13:15:40Z",
+    "text": "ML Road Frame - Red dari AdventureWorks Cycles bikin nyesel — finishing-nya asal Kapok. 😣 #MTB #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4711843481",
+      "name": "Sam Halim",
+      "screen_name": "samhali1627",
+      "followers_count": 1020,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133471",
+    "created_at": "2024-03-12T13:37:15Z",
+    "text": "RT @dewi3: Really impressed with the Lock Nut 22 — customer service sorted it instantly 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "7879779135",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida1166",
+      "followers_count": 44,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133496",
+    "created_at": "2024-03-12T14:59:13Z",
+    "text": "Udah sebulan pakai Hex Nut 6, oke terus — kirimnya lancar 🚴 #bikelife #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8751925957",
+      "name": "Alex Pratama",
+      "screen_name": "alexprat5283",
+      "followers_count": 1444,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133581",
+    "created_at": "2024-03-12T15:03:20Z",
+    "text": "Really impressed with the Mountain-500 Silver — couldn't be happier Will buy again. 😎 #AWcycles #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2903390973",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida3766",
+      "followers_count": 2763,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-500 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133556",
+    "created_at": "2024-03-12T16:24:14Z",
+    "text": "Terkesan banget sama Decal 2 — CS-nya cepat dan ramah Bintang lima. #bikelife #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6063172327",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant8099",
+      "followers_count": 1267,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133511",
+    "created_at": "2024-03-12T20:32:47Z",
+    "text": "Salut buat AdventureWorks Cycles soal HL Bottom Bracket — terasa kokoh dan rapi Nggak nyesel. 🚴 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "897886573",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc4518",
+      "followers_count": 2525,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

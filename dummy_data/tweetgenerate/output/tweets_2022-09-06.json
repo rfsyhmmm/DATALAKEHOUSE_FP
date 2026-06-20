@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000020408",
+    "created_at": "2022-09-06T07:58:32Z",
+    "text": "Naik level gowes ku gara-gara Hex Nut 10 — kirimnya lancar 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "9455276613",
+      "name": "Putri Kim",
+      "screen_name": "putrkim8151",
+      "followers_count": 1268,
+      "verified": false
+    },
+    "retweet_count": 29,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020506",
+    "created_at": "2022-09-06T08:08:29Z",
+    "text": "RT @hann23: Upgraded to the Mountain-500 Black and no looking back — zero wear after heavy use 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "2333741461",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali5875",
+      "followers_count": 806,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020485",
+    "created_at": "2022-09-06T09:46:37Z",
+    "text": "Akhirnya pakai Lock Nut 23 dan puas pol — sampai lebih cepat, aman Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "2698146019",
+      "name": "Rizky Nguyen",
+      "screen_name": "rizknguy5178",
+      "followers_count": 767,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020523",
+    "created_at": "2022-09-06T12:06:35Z",
+    "text": "Lagi banding-bandingin Chainring Bolts sama merek lain",
+    "lang": "in",
+    "user": {
+      "id_str": "8912355110",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy7078",
+      "followers_count": 1032,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Chainring Bolts",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020455",
+    "created_at": "2022-09-06T13:19:04Z",
+    "text": "Salut buat AWC soal LL Road Frame - Black — pengiriman cepat dan packing rapi 🙌 #AWcycles #bikes #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1284550307",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy6646",
+      "followers_count": 1742,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020550",
+    "created_at": "2022-09-06T17:13:27Z",
+    "text": "Really disappointed with the Front Derailleur — poor build, cheap materials Do better AdventureWorks Cycles. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "4580792737",
+      "name": "Rizky Wijaya",
+      "screen_name": "rizkwija9855",
+      "followers_count": 717,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 45,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Front Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020453",
+    "created_at": "2022-09-06T17:22:36Z",
+    "text": "Expected so much more from the Mountain-500 Silver — just not worth the money Never again. 😤 #rideon #MTB #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7676306314",
+      "name": "Rizky Lopez",
+      "screen_name": "rizklope148",
+      "followers_count": 2011,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000020509",
+    "created_at": "2022-09-06T17:47:30Z",
+    "text": "RT @jord6: Three weeks on the LL Nipple and I'm sold — customer service sorted it instantly Zero regrets. 🔥 #MTB #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "1832147710",
+      "name": "Olivia Kim",
+      "screen_name": "olivkim6396",
+      "followers_count": 368,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Nipple",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

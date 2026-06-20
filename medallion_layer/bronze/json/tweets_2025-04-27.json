@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000219072",
+    "created_at": "2025-04-27T06:51:50Z",
+    "text": "Regret buying the ML Road Frame-W - Yellow — rattles and feels flimsy 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "7274617552",
+      "name": "Rizky Kim",
+      "screen_name": "rizkkim3014",
+      "followers_count": 1579,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 45,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame-W - Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219011",
+    "created_at": "2025-04-27T08:36:39Z",
+    "text": "RT @mari80: Naik level gowes ku gara-gara Mountain-500 Black — performanya mulus Bintang lima. 👍 #rideon #AWcycles #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "1193000822",
+      "name": "Budi Halim",
+      "screen_name": "budihali1954",
+      "followers_count": 200,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219148",
+    "created_at": "2025-04-27T15:11:03Z",
+    "text": "Berharap lebih dari Thin-Jam Hex Nut 7 — rusak baru dua minggu Pelajaran mahal. 😡 #cycling #MTB #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "5657419673",
+      "name": "Sam Lee",
+      "screen_name": "samlee8236",
+      "followers_count": 1395,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219136",
+    "created_at": "2025-04-27T15:21:14Z",
+    "text": "Two stars for the Road-650 Red from @AdventureWorks — the finish is sloppy Never again. 😡 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7715713607",
+      "name": "Andi Anwar",
+      "screen_name": "andianwa3849",
+      "followers_count": 1136,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219099",
+    "created_at": "2025-04-27T18:10:45Z",
+    "text": "RT @citr48: Really disappointed with the LL Mountain Front Wheel — just a bad buy Never again. 😡 #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5849798072",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy7533",
+      "followers_count": 679,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219164",
+    "created_at": "2025-04-27T18:11:43Z",
+    "text": "Absolutely loving my new Long-Sleeve Logo Jersey from AWC — support was quick and friendly Will buy again. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "2951890253",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa6650",
+      "followers_count": 1336,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Long-Sleeve Logo Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219029",
+    "created_at": "2025-04-27T19:22:57Z",
+    "text": "Frustrated with the Touring Pedal from AWC — packaging was a mess Do better AWC. 🙄 #AWcycles #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "8931968439",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc1507",
+      "followers_count": 176,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000219135",
+    "created_at": "2025-04-27T20:10:31Z",
+    "text": "Expected so much more from the Road-550-W Yellow — the finish is sloppy 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "2436893391",
+      "name": "Lina Lee",
+      "screen_name": "linalee633",
+      "followers_count": 1386,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

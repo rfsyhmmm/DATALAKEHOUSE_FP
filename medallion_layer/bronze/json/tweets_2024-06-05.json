@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000151078",
+    "created_at": "2024-06-05T05:17:02Z",
+    "text": "Road-150 Red dari AWC bikin nyesel — bunyi-bunyi dan ringkih Tolong AWC dibenahi. 😩 #bikelife #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "3788522966",
+      "name": "Kevin Putra",
+      "screen_name": "keviputr488",
+      "followers_count": 1430,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151080",
+    "created_at": "2024-06-05T10:05:14Z",
+    "text": "The LL Touring Frame - Blue from AWC has been fantastic — feels solid and well made Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "8371850733",
+      "name": "Sofia Garcia",
+      "screen_name": "sofigarc7521",
+      "followers_count": 823,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151101",
+    "created_at": "2024-06-05T13:50:01Z",
+    "text": "Nggak puas sama Decal 1 ku — nggak sebanding harganya Hindari. ⚠️ #AdventureWorks #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2800081813",
+      "name": "Sam Pratama",
+      "screen_name": "samprat3250",
+      "followers_count": 207,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Decal 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151131",
+    "created_at": "2024-06-05T16:55:34Z",
+    "text": "Three weeks on the Touring-1000 Yellow and I'm sold — fair price for this quality Highly recommend. 😍 #bikes #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8532906482",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat2681",
+      "followers_count": 1478,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 28,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-1000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151118",
+    "created_at": "2024-06-05T19:12:35Z",
+    "text": "Absolutely loving my new ML Mountain Frame-W - Silver from @AdventureWorks — zero wear after heavy use Highly recommend. 💯 #cycling #bikes #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1357871569",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy7187",
+      "followers_count": 1217,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Frame-W - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151209",
+    "created_at": "2024-06-05T19:50:52Z",
+    "text": "Really impressed with the LL Road Frame - Black — exceeded my expectations Five stars. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "6850606039",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy9210",
+      "followers_count": 718,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151048",
+    "created_at": "2024-06-05T21:27:01Z",
+    "text": "Shoutout to AdventureWorks for the Touring-3000 Yellow — shipping was fast and packaging perfect Zero regrets. 💯 #AdventureWorks #MTB #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "564272157",
+      "name": "Citra Putra",
+      "screen_name": "citrputr6046",
+      "followers_count": 1354,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151173",
+    "created_at": "2024-06-05T23:18:36Z",
+    "text": "Absolutely loving my new LL Road Frame - Red from @AdventureWorks — fair price for this quality 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "8127127483",
+      "name": "Mia Santoso",
+      "screen_name": "miasant5013",
+      "followers_count": 201,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

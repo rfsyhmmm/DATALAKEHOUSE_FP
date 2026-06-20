@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000222002",
+    "created_at": "2025-05-11T05:13:15Z",
+    "text": "Akhirnya pakai Lock Washer 3 dan puas pol — admin responsif banget Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "8727049543",
+      "name": "Chris Lee",
+      "screen_name": "chrilee770",
+      "followers_count": 568,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221933",
+    "created_at": "2025-05-11T07:15:36Z",
+    "text": "Naik level gowes ku gara-gara Hex Nut 11 — pengiriman cepat dan packing rapi 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "4525418049",
+      "name": "Raka Garcia",
+      "screen_name": "rakagarc889",
+      "followers_count": 37,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221882",
+    "created_at": "2025-05-11T07:40:52Z",
+    "text": "Nyesel beli LL Road Frame - Black — packing-nya berantakan 👎 #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "4126773403",
+      "name": "Dewi Wijaya",
+      "screen_name": "dewiwija816",
+      "followers_count": 799,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221975",
+    "created_at": "2025-05-11T09:05:12Z",
+    "text": "Three weeks on the Touring-2000 Blue and I'm sold — shipping was fast and packaging perfect Zero regrets. 💯 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6256715295",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee1328",
+      "followers_count": 1386,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-2000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222031",
+    "created_at": "2025-05-11T09:58:54Z",
+    "text": "RT @rizk54: Udahan deh sama Lock Nut 3 ini — datang telat dan rusak Hindari. 😡 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6629694678",
+      "name": "Maria Garcia",
+      "screen_name": "marigarc8165",
+      "followers_count": 1152,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221876",
+    "created_at": "2025-05-11T13:35:28Z",
+    "text": "Udah sebulan pakai HL Touring Frame - Blue, oke terus — pengiriman cepat dan packing rapi 💯 #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "6726282298",
+      "name": "Sofia Wijaya",
+      "screen_name": "sofiwija2724",
+      "followers_count": 3009,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221920",
+    "created_at": "2025-05-11T17:04:45Z",
+    "text": "RT @sofi68: Not happy with my Thin-Jam Lock Nut 2 at all — customer service was useless Avoid. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "9867597461",
+      "name": "Andi Kim",
+      "screen_name": "andikim7648",
+      "followers_count": 167,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221947",
+    "created_at": "2025-05-11T21:17:42Z",
+    "text": "Absolutely loving my new Road Bottle Cage from AdventureWorks — worth every penny 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "2242296346",
+      "name": "Budi Kim",
+      "screen_name": "budikim7215",
+      "followers_count": 1878,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road Bottle Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

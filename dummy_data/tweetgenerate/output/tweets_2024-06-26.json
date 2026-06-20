@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000155534",
+    "created_at": "2024-06-26T10:22:05Z",
+    "text": "Nggak puas sama LL Touring Handlebars ku — mahal nggak masuk akal 😩 #AWcycles #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "678691057",
+      "name": "Hannah Saputra",
+      "screen_name": "hannsapu5844",
+      "followers_count": 2275,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 47,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000155579",
+    "created_at": "2024-06-26T10:32:41Z",
+    "text": "Berharap lebih dari Hex Nut 14 — bunyi-bunyi dan ringkih Pelajaran mahal. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "6830635403",
+      "name": "Kevin Clark",
+      "screen_name": "keviclar9192",
+      "followers_count": 1183,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000155698",
+    "created_at": "2024-06-26T12:38:02Z",
+    "text": "Frustrated with the HL Road Tire from AdventureWorks — just not worth the money Avoid. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "436943878",
+      "name": "Lina Nguyen",
+      "screen_name": "linanguy4393",
+      "followers_count": 2268,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000155583",
+    "created_at": "2024-06-26T13:14:21Z",
+    "text": "Not happy with my Men's Bib-Shorts at all — rattles and feels flimsy Never again. 😤 #bikelife #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "8359684181",
+      "name": "Hannah Hidayat",
+      "screen_name": "hannhida2302",
+      "followers_count": 202,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Men's Bib-Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000155644",
+    "created_at": "2024-06-26T16:09:33Z",
+    "text": "Expected so much more from the Guide Pulley — shipping took forever Never again. 🙄 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9897021561",
+      "name": "Eko Garcia",
+      "screen_name": "ekogarc3213",
+      "followers_count": 821,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Guide Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000155632",
+    "created_at": "2024-06-26T19:36:04Z",
+    "text": "RT @tom71: Not happy with my HL Touring Frame - Yellow at all — customer service was useless Avoid. 😣 #bikes #AWcycles #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "5605681637",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa6274",
+      "followers_count": 979,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000155677",
+    "created_at": "2024-06-26T19:46:16Z",
+    "text": "Kecewa banget sama ML Road Frame - Red — finishing-nya asal Pelajaran mahal. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "2904190642",
+      "name": "Citra Anwar",
+      "screen_name": "citranwa7452",
+      "followers_count": 398,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000155703",
+    "created_at": "2024-06-26T22:23:35Z",
+    "text": "Suka banget sama ML Road Frame - Red dari AWC — admin responsif banget 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "4333545781",
+      "name": "Tom Nguyen",
+      "screen_name": "tomnguy3066",
+      "followers_count": 1776,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000031247",
+    "created_at": "2022-10-29T07:57:12Z",
+    "text": "Nggak nyesel beli HL Road Frame - Red — beli yang tepat sih Bakal beli lagi. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "2391679464",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida6215",
+      "followers_count": 669,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Road Frame - Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031194",
+    "created_at": "2022-10-29T08:48:59Z",
+    "text": "Suka banget sama Flat Washer 9 dari @AdventureWorks — CS-nya cepat dan ramah Recommended. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "6428080348",
+      "name": "Chris Kim",
+      "screen_name": "chrikim9881",
+      "followers_count": 538,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031132",
+    "created_at": "2022-10-29T16:33:28Z",
+    "text": "Bintang dua buat Road-250 Red dari AdventureWorks — zonk total 👎 #bikelife #AWcycles #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9134294393",
+      "name": "Maria Smith",
+      "screen_name": "marismit7857",
+      "followers_count": 2407,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031279",
+    "created_at": "2022-10-29T17:02:51Z",
+    "text": "RT @budi28: Terkesan banget sama HL Touring Frame - Yellow — kuat di trek kasar #AdventureWorks #bikes #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "9906447409",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa2801",
+      "followers_count": 855,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031126",
+    "created_at": "2022-10-29T17:09:29Z",
+    "text": "Nggak nyesel beli ML Touring Seat Assembly — pengiriman cepat dan packing rapi Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "8616841176",
+      "name": "Alex Kim",
+      "screen_name": "alexkim3904",
+      "followers_count": 233,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 55,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031100",
+    "created_at": "2022-10-29T18:04:45Z",
+    "text": "Ada yang pakai LL Touring Frame - Blue dari AWC? Worth it nggak? 👀 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5832445035",
+      "name": "Dimas Lopez",
+      "screen_name": "dimalope546",
+      "followers_count": 597,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031170",
+    "created_at": "2022-10-29T18:41:58Z",
+    "text": "ML Road Seat Assembly dari AdventureWorks Cycles bikin nyesel — mahal nggak masuk akal Hindari. 😣 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4850814737",
+      "name": "Andi Smith",
+      "screen_name": "andismit7684",
+      "followers_count": 1845,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031233",
+    "created_at": "2022-10-29T19:16:53Z",
+    "text": "AWC Logo Cap dari @AdventureWorks mantap sih — tahan banting dipakai berat 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "4636156926",
+      "name": "Mia Halim",
+      "screen_name": "miahali2716",
+      "followers_count": 241,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "AWC Logo Cap",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

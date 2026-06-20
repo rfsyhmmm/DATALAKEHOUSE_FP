@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000086623",
+    "created_at": "2023-07-29T00:57:42Z",
+    "text": "My Hex Nut 23 from @AdventureWorks is excellent — customer service sorted it instantly",
+    "lang": "en",
+    "user": {
+      "id_str": "1266115416",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida8940",
+      "followers_count": 703,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086577",
+    "created_at": "2023-07-29T12:15:30Z",
+    "text": "Just unboxed the Racing Socks, will report back 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "7425757264",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee379",
+      "followers_count": 1218,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Racing Socks, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086429",
+    "created_at": "2023-07-29T12:31:14Z",
+    "text": "Udah sebulan pakai Road-350-W Yellow, oke terus — sampai lebih cepat, aman Nggak nyesel. 🙌 #AdventureWorks #MTB #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "8091650166",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa6449",
+      "followers_count": 1837,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-350-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086419",
+    "created_at": "2023-07-29T17:45:35Z",
+    "text": "Bintang dua buat Chainring Nut dari @AWCycles — jebol pas ride pertama Pelajaran mahal. #cycling #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8578356286",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope3964",
+      "followers_count": 1821,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Chainring Nut",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086504",
+    "created_at": "2023-07-29T20:02:13Z",
+    "text": "Two stars for the HL Road Frame - Black from AdventureWorks — it broke after two weeks Lesson learned. 😤 #bikelife #cycling #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8817338983",
+      "name": "Maya Clark",
+      "screen_name": "mayaclar7586",
+      "followers_count": 1496,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086472",
+    "created_at": "2023-07-29T20:23:36Z",
+    "text": "RT @raka3: Salut buat @AdventureWorks soal LL Road Front Wheel — terasa kokoh dan rapi Bakal beli lagi. 💯 #AWcycles #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3886068663",
+      "name": "Maria Hidayat",
+      "screen_name": "marihida3405",
+      "followers_count": 855,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086493",
+    "created_at": "2023-07-29T20:58:08Z",
+    "text": "Absolutely loving my new Metal Sheet 2 from @AdventureWorks — shipping was fast and packaging perfect 🚴 #rideon #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5618486929",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida7502",
+      "followers_count": 1298,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086550",
+    "created_at": "2023-07-29T21:53:34Z",
+    "text": "RT @andi40: Three weeks on the Racing Socks and I'm sold — fair price for this quality Zero regrets. 😎 #AWcycles #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8325613982",
+      "name": "Lina Lee",
+      "screen_name": "linalee2808",
+      "followers_count": 2806,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Racing Socks, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000115718",
+    "created_at": "2023-12-15T08:15:49Z",
+    "text": "Suka banget sama LL Road Frame - Black dari @AdventureWorks — masih awet setelah berbulan-bulan 😍 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1969393536",
+      "name": "Tom Kim",
+      "screen_name": "tomkim7896",
+      "followers_count": 291,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115607",
+    "created_at": "2023-12-15T10:10:27Z",
+    "text": "Nyesel beli Road-650 Red — nggak sebanding harganya Pelajaran mahal. 😤 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5146703361",
+      "name": "Dewi Clark",
+      "screen_name": "dewiclar6603",
+      "followers_count": 3021,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115671",
+    "created_at": "2023-12-15T10:17:27Z",
+    "text": "Akhirnya pakai Crown Race dan puas pol — kualitasnya premium Nggak nyesel. 👍 #rideon #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4886038994",
+      "name": "Galih Santoso",
+      "screen_name": "galisant641",
+      "followers_count": 293,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Crown Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115769",
+    "created_at": "2023-12-15T10:48:12Z",
+    "text": "Berharap lebih dari Guide Pulley — bunyi-bunyi dan ringkih Tolong @AdventureWorks dibenahi. 😤 #AdventureWorks #MTB #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "1391446801",
+      "name": "Tom Clark",
+      "screen_name": "tomclar217",
+      "followers_count": 497,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Guide Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115610",
+    "created_at": "2023-12-15T14:23:37Z",
+    "text": "Naik level gowes ku gara-gara Road-550-W Yellow — performanya mulus Recommended. 🙌 #rideon #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6475431399",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy5425",
+      "followers_count": 953,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115670",
+    "created_at": "2023-12-15T17:26:14Z",
+    "text": "Nggak nyesel beli Flat Washer 5 — terasa kokoh dan rapi Bakal beli lagi. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "2280145292",
+      "name": "Nadia Hidayat",
+      "screen_name": "nadihida274",
+      "followers_count": 183,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 51,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115633",
+    "created_at": "2023-12-15T18:31:35Z",
+    "text": "Berharap lebih dari Hex Nut 7 — finishing-nya asal Pelajaran mahal. 🙄 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7637692564",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit229",
+      "followers_count": 798,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115740",
+    "created_at": "2023-12-15T19:36:44Z",
+    "text": "Really impressed with the Mountain-100 Silver — still rock solid after months ✨ #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4651132117",
+      "name": "Maria Halim",
+      "screen_name": "marihali5334",
+      "followers_count": 877,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-100 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

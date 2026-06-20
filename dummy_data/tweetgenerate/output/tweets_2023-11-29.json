@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000112563",
+    "created_at": "2023-11-29T05:45:28Z",
+    "text": "My Touring-3000 Blue from @AWCycles is excellent — the team was super helpful",
+    "lang": "en",
+    "user": {
+      "id_str": "6290027091",
+      "name": "Lina Smith",
+      "screen_name": "linasmit2506",
+      "followers_count": 714,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring-3000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112548",
+    "created_at": "2023-11-29T08:42:26Z",
+    "text": "Salut buat AdventureWorks Cycles soal Fender Set - Mountain — terasa kokoh dan rapi Bintang lima. #AWcycles #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1407486211",
+      "name": "Hannah Garcia",
+      "screen_name": "hanngarc2385",
+      "followers_count": 731,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112612",
+    "created_at": "2023-11-29T11:33:57Z",
+    "text": "Nggak nyesel beli External Lock Washer 2 — kualitasnya premium 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "8412463523",
+      "name": "Alex Halim",
+      "screen_name": "alexhali8020",
+      "followers_count": 2003,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112480",
+    "created_at": "2023-11-29T11:41:43Z",
+    "text": "Bike Wash - Dissolver dari AdventureWorks mantap sih — harga sebanding kualitas Recommended. 🙌 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7956979155",
+      "name": "Putri Lee",
+      "screen_name": "putrlee4963",
+      "followers_count": 1698,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Bike Wash - Dissolver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112487",
+    "created_at": "2023-11-29T12:02:00Z",
+    "text": "Upgraded to the Hex Nut 22 and no looking back — performs flawlessly Will buy again. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "8447543829",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant5021",
+      "followers_count": 1120,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112529",
+    "created_at": "2023-11-29T17:28:32Z",
+    "text": "My Steerer from @AWCycles is excellent — arrived a day early, well packed Will buy again. 💯 #MTB #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4582059742",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija3007",
+      "followers_count": 468,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Steerer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112567",
+    "created_at": "2023-11-29T19:36:01Z",
+    "text": "Metal Plate 1 dari @AWCycles mantap sih — tahan banting dipakai berat Recommended. #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "5044734671",
+      "name": "Tom Clark",
+      "screen_name": "tomclar8883",
+      "followers_count": 2581,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 55,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Metal Plate 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000112605",
+    "created_at": "2023-11-29T21:16:52Z",
+    "text": "Nggak puas sama Lock Washer 5 ku — cepet aus banget Kapok. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "1086556774",
+      "name": "Eko Putra",
+      "screen_name": "ekoputr4627",
+      "followers_count": 1242,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

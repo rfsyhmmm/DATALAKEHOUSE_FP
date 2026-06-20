@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000220819",
+    "created_at": "2025-05-06T03:41:19Z",
+    "text": "Two stars for the Touring-2000 Blue from AWC — support ignored my emails Avoid. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "4093080881",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow9348",
+      "followers_count": 117,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000220866",
+    "created_at": "2025-05-06T03:41:36Z",
+    "text": "Nggak nyesel beli HL Touring Frame - Yellow — masih awet setelah berbulan-bulan Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "1703102456",
+      "name": "Bayu Halim",
+      "screen_name": "bayuhali7299",
+      "followers_count": 165,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 40,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Touring Frame - Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000221025",
+    "created_at": "2025-05-06T13:18:05Z",
+    "text": "Shoutout to @AWCycles for the Internal Lock Washer 9 — exceeded my expectations Will buy again. 😍 #AdventureWorks #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2107025661",
+      "name": "Citra Saputra",
+      "screen_name": "citrsapu949",
+      "followers_count": 2560,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000220916",
+    "created_at": "2025-05-06T15:23:15Z",
+    "text": "Upgraded to the Decal 2 and no looking back — delivery was smooth Zero regrets. 😍 #AdventureWorks #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "700422881",
+      "name": "Alex Halim",
+      "screen_name": "alexhali2969",
+      "followers_count": 1911,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000220831",
+    "created_at": "2025-05-06T19:05:58Z",
+    "text": "RT @gali20: Frustrated with the Hex Nut 9 from AdventureWorks Cycles — packaging was a mess Avoid. 😡 #AWcycles #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9489193716",
+      "name": "Bayu Putra",
+      "screen_name": "bayuputr7961",
+      "followers_count": 252,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000220874",
+    "created_at": "2025-05-06T19:17:09Z",
+    "text": "Bintang dua buat Metal Plate 3 dari @AdventureWorks — salah beli Hindari. 😤 #rideon #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "982220852",
+      "name": "Sam Saputra",
+      "screen_name": "samsapu9652",
+      "followers_count": 1900,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Metal Plate 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000220992",
+    "created_at": "2025-05-06T19:32:19Z",
+    "text": "Not happy with my ML Touring Seat Assembly at all — way too expensive 😣 #cycling #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3911363776",
+      "name": "Sam Lopez",
+      "screen_name": "samlope6268",
+      "followers_count": 2206,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000220952",
+    "created_at": "2025-05-06T20:48:09Z",
+    "text": "RT @oliv42: Really impressed with the HL Mountain Tire — the team was super helpful Five stars. 💯 #rideon #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4734502499",
+      "name": "Rizky Nguyen",
+      "screen_name": "rizknguy1729",
+      "followers_count": 1340,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

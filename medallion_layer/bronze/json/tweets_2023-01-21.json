@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000048791",
+    "created_at": "2023-01-21T06:52:58Z",
+    "text": "The LL Mountain Frame - Silver from @AdventureWorks let me down — way too expensive Never again. ⚠️ #AdventureWorks #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "4298553519",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope1809",
+      "followers_count": 978,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048904",
+    "created_at": "2023-01-21T10:52:31Z",
+    "text": "RT @hann32: The HL Road Frame - Red from AdventureWorks Cycles has been fantastic — performs flawlessly Will buy again. ✨ #MTB #cycling #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "3996361928",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa587",
+      "followers_count": 1293,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048828",
+    "created_at": "2023-01-21T12:30:13Z",
+    "text": "Udahan deh sama Internal Lock Washer 9 ini — CS-nya nggak guna Kapok. 😡 #rideon #bikelife #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7470190464",
+      "name": "Tom Clark",
+      "screen_name": "tomclar7016",
+      "followers_count": 1061,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048876",
+    "created_at": "2023-01-21T13:05:37Z",
+    "text": "Frustrated with the Flat Washer 9 from AdventureWorks — the return process is a nightmare 👎 #rideon #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "9888587959",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida7250",
+      "followers_count": 1538,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 55,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048755",
+    "created_at": "2023-01-21T15:45:27Z",
+    "text": "Upgraded to the Long-Sleeve Logo Jersey and no looking back — performs flawlessly 🙌 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1264321409",
+      "name": "Maria Wijaya",
+      "screen_name": "mariwija7674",
+      "followers_count": 2369,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Long-Sleeve Logo Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048785",
+    "created_at": "2023-01-21T15:57:08Z",
+    "text": "My LL Road Frame - Red from AdventureWorks Cycles is excellent — feels solid and well made Five stars. 😍 #MTB #cycling #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "866285595",
+      "name": "Lina Hidayat",
+      "screen_name": "linahida9443",
+      "followers_count": 63,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048850",
+    "created_at": "2023-01-21T16:02:26Z",
+    "text": "Saw the Mountain Tire Tube in store today, looks interesting 🧐 #rideon #MTB #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9024221186",
+      "name": "Lina Lopez",
+      "screen_name": "linalope4834",
+      "followers_count": 305,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000048930",
+    "created_at": "2023-01-21T19:20:04Z",
+    "text": "Saw the LL Road Frame - Black in store today, looks interesting 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "4981787012",
+      "name": "Chris Nguyen",
+      "screen_name": "chringuy3309",
+      "followers_count": 2336,
+      "verified": true
+    },
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

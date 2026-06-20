@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000166511",
+    "created_at": "2024-08-16T00:46:37Z",
+    "text": "RT @gali43: Shoutout to AdventureWorks for the HL Touring Frame - Yellow — support was quick and friendly 🚴 #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2294073231",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa8388",
+      "followers_count": 2277,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166488",
+    "created_at": "2024-08-16T06:18:03Z",
+    "text": "Nggak nyesel beli Thin-Jam Lock Nut 6 — CS-nya cepat dan ramah Nggak nyesel. 👍 #AdventureWorks #bikes #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9284331799",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc7648",
+      "followers_count": 723,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166497",
+    "created_at": "2024-08-16T08:16:49Z",
+    "text": "Three weeks on the Road Tire Tube and I'm sold — arrived a day early, well packed #MTB #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "2931925723",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow8731",
+      "followers_count": 3319,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166442",
+    "created_at": "2024-08-16T10:48:06Z",
+    "text": "RT @putr67: Udahan deh sama Internal Lock Washer 4 ini — kemahalan buat kualitas segini Hindari.",
+    "lang": "in",
+    "user": {
+      "id_str": "8065615201",
+      "name": "Olivia Anwar",
+      "screen_name": "olivanwa6069",
+      "followers_count": 2913,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166552",
+    "created_at": "2024-08-16T11:20:07Z",
+    "text": "Suka banget sama HL Fork dari AdventureWorks — terasa kokoh dan rapi Bakal beli lagi. 👍 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7939256036",
+      "name": "Nadia Brown",
+      "screen_name": "nadibrow7568",
+      "followers_count": 1464,
+      "verified": false
+    },
+    "retweet_count": 32,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166593",
+    "created_at": "2024-08-16T12:31:47Z",
+    "text": "Terkesan banget sama Mountain-200 Silver — pelayanannya membantu Bakal beli lagi. #AdventureWorks #AWcycles #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5798722235",
+      "name": "Budi Clark",
+      "screen_name": "budiclar9974",
+      "followers_count": 1239,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 50,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-200 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166539",
+    "created_at": "2024-08-16T14:01:20Z",
+    "text": "Thinking about the Road-750 Black. Any reviews? #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "9608915890",
+      "name": "Sam Lopez",
+      "screen_name": "samlope8314",
+      "followers_count": 1306,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Road-750 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000166599",
+    "created_at": "2024-08-16T19:00:17Z",
+    "text": "RT @nadi11: Three weeks on the HL Road Frame - Red and I'm sold — performs flawlessly Five stars. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "1927401265",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu4695",
+      "followers_count": 1414,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

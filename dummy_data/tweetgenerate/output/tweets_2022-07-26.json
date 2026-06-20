@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000012332",
+    "created_at": "2022-07-26T07:21:50Z",
+    "text": "Frustrated with the Mountain-500 Black from AdventureWorks — overpriced for what you get Do better AdventureWorks. 👎 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "445209162",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy5039",
+      "followers_count": 887,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012118",
+    "created_at": "2022-07-26T11:54:34Z",
+    "text": "Really disappointed with the Touring Tire Tube — rattles and feels flimsy 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "7248953034",
+      "name": "Galih Garcia",
+      "screen_name": "galigarc9615",
+      "followers_count": 1126,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012281",
+    "created_at": "2022-07-26T12:24:42Z",
+    "text": "Udah sebulan pakai ML Road Front Wheel, oke terus — terasa kokoh dan rapi Recommended. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "6437206747",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc6905",
+      "followers_count": 878,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012215",
+    "created_at": "2022-07-26T14:56:46Z",
+    "text": "Nggak puas sama External Lock Washer 6 ku — finishing-nya asal 😩 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5203474676",
+      "name": "Alex Saputra",
+      "screen_name": "alexsapu6783",
+      "followers_count": 1496,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012293",
+    "created_at": "2022-07-26T16:44:27Z",
+    "text": "RT @sam98: Nggak nyesel beli Short-Sleeve Classic Jersey — tahan banting dipakai berat 😎 #AWcycles #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6875259340",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee6898",
+      "followers_count": 1495,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012165",
+    "created_at": "2022-07-26T17:44:32Z",
+    "text": "Suka banget sama Lock Nut 4 dari AWC — sampai lebih cepat, aman Bintang lima. 👍 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "488959643",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida1445",
+      "followers_count": 3177,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012333",
+    "created_at": "2022-07-26T18:58:30Z",
+    "text": "Nggak nyesel beli HL Mountain Frame - Silver — kualitasnya premium Bakal beli lagi. 😎 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "4702730904",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope9781",
+      "followers_count": 3077,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000012238",
+    "created_at": "2022-07-26T20:43:53Z",
+    "text": "Naik level gowes ku gara-gara Road-250 Red — CS-nya cepat dan ramah 😍 #AWcycles #bikes #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5300011339",
+      "name": "Bayu Halim",
+      "screen_name": "bayuhali1487",
+      "followers_count": 312,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 64,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-250 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

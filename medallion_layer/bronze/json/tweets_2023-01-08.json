@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000045900",
+    "created_at": "2023-01-08T04:10:40Z",
+    "text": "Upgraded to the Women's Mountain Shorts and no looking back — exceeded my expectations #MTB #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "6064862687",
+      "name": "Maria Brown",
+      "screen_name": "maribrow852",
+      "followers_count": 281,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Women's Mountain Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045854",
+    "created_at": "2023-01-08T06:46:30Z",
+    "text": "Naik level gowes ku gara-gara Rear Derailleur Cage — kualitasnya premium Nggak nyesel. 😎 #rideon #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2285331278",
+      "name": "Galih Halim",
+      "screen_name": "galihali8696",
+      "followers_count": 3110,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045809",
+    "created_at": "2023-01-08T10:25:51Z",
+    "text": "Done with the Taillights - Battery-Powered honestly — customer service was useless Lesson learned. 😤 #AWcycles #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9814819633",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant1282",
+      "followers_count": 334,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Taillights - Battery-Powered",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045818",
+    "created_at": "2023-01-08T11:00:41Z",
+    "text": "My LL Touring Frame - Yellow from @AdventureWorks is excellent — customer service sorted it instantly 😍 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9538570501",
+      "name": "Eko Garcia",
+      "screen_name": "ekogarc7820",
+      "followers_count": 239,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Touring Frame - Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045918",
+    "created_at": "2023-01-08T16:00:16Z",
+    "text": "Anyone using the Men's Bib-Shorts from AdventureWorks Cycles? Worth it? 🤷",
+    "lang": "en",
+    "user": {
+      "id_str": "1903149618",
+      "name": "Maria Smith",
+      "screen_name": "marismit9206",
+      "followers_count": 1072,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Men's Bib-Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045776",
+    "created_at": "2023-01-08T17:01:00Z",
+    "text": "Terkesan banget sama Road-550-W Yellow — pengiriman cepat dan packing rapi #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "1962165537",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee6629",
+      "followers_count": 3106,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-550-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045866",
+    "created_at": "2023-01-08T17:34:21Z",
+    "text": "Absolutely loving my new Road-650 Black from @AWCycles — feels solid and well made Zero regrets. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "1596246268",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee4488",
+      "followers_count": 1702,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 51,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-650 Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045849",
+    "created_at": "2023-01-08T19:49:35Z",
+    "text": "Akhirnya pakai HL Road Rear Wheel dan puas pol — admin responsif banget Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "2397502052",
+      "name": "Maria Kim",
+      "screen_name": "marikim8256",
+      "followers_count": 1848,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

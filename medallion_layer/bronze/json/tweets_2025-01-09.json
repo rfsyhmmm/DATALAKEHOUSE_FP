@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000196450",
+    "created_at": "2025-01-09T00:47:32Z",
+    "text": "Suka banget sama Flat Washer 9 dari @AWCycles — kualitasnya premium Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "323439750",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope4266",
+      "followers_count": 592,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000196642",
+    "created_at": "2025-01-09T07:37:26Z",
+    "text": "Flat Washer 4 dari AWC mantap sih — kuat di trek kasar Bakal beli lagi. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "2565508340",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu2728",
+      "followers_count": 1684,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000196556",
+    "created_at": "2025-01-09T07:38:17Z",
+    "text": "Berharap lebih dari HL Road Frame - Black — rusak baru dua minggu Hindari. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "3020962826",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu9092",
+      "followers_count": 1580,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 42,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000196493",
+    "created_at": "2025-01-09T08:51:11Z",
+    "text": "Berharap lebih dari Thin-Jam Hex Nut 14 — datang telat dan rusak Pelajaran mahal. 😣 #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "4802440298",
+      "name": "Galih Kim",
+      "screen_name": "galikim9718",
+      "followers_count": 2664,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000196594",
+    "created_at": "2025-01-09T10:10:15Z",
+    "text": "Terkesan banget sama Internal Lock Washer 5 — performanya mulus Bakal beli lagi. 😎 #cycling #rideon #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "1743026293",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc7672",
+      "followers_count": 1265,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000196686",
+    "created_at": "2025-01-09T14:06:52Z",
+    "text": "Absolutely loving my new Road-550-W Yellow from @AWCycles — great value for the price Highly recommend. 😎 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "4123535862",
+      "name": "Alex Lee",
+      "screen_name": "alexlee8138",
+      "followers_count": 1699,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000196510",
+    "created_at": "2025-01-09T18:22:56Z",
+    "text": "Baru unboxing Front Derailleur Cage, nanti aku update 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "1414433538",
+      "name": "Galih Putra",
+      "screen_name": "galiputr7147",
+      "followers_count": 1593,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Front Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000196423",
+    "created_at": "2025-01-09T21:46:14Z",
+    "text": "Suka banget sama ML Mountain Handlebars dari AdventureWorks Cycles — harga sebanding kualitas Nggak nyesel. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "944807701",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant7795",
+      "followers_count": 49,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

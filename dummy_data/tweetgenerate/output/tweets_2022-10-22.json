@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000029758",
+    "created_at": "2022-10-22T01:06:09Z",
+    "text": "So glad I picked up the Hex Nut 16 — great value for the price Five stars. 😍 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3192037989",
+      "name": "Eko Smith",
+      "screen_name": "ekosmit8312",
+      "followers_count": 547,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029843",
+    "created_at": "2022-10-22T08:05:42Z",
+    "text": "Absolutely loving my new ML Road Seat Assembly from AdventureWorks Cycles — arrived a day early, well packed Highly recommend.",
+    "lang": "en",
+    "user": {
+      "id_str": "4693251639",
+      "name": "Maria Pratama",
+      "screen_name": "mariprat5519",
+      "followers_count": 434,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029731",
+    "created_at": "2022-10-22T09:59:09Z",
+    "text": "Lagi banding-bandingin Flat Washer 9 sama merek lain 🤔 #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "1139185398",
+      "name": "Raka Clark",
+      "screen_name": "rakaclar7813",
+      "followers_count": 496,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029840",
+    "created_at": "2022-10-22T11:17:26Z",
+    "text": "Bintang dua buat LL Bottom Bracket dari AWC — finishing-nya asal Kapok. 😤 #rideon #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "339172973",
+      "name": "Raka Saputra",
+      "screen_name": "rakasapu6623",
+      "followers_count": 892,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029698",
+    "created_at": "2022-10-22T12:32:46Z",
+    "text": "Udah sebulan pakai HL Mountain Frame - Silver, oke terus — kualitasnya premium 😎 #AdventureWorks #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7812065718",
+      "name": "Budi Kim",
+      "screen_name": "budikim9956",
+      "followers_count": 2466,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029673",
+    "created_at": "2022-10-22T14:14:46Z",
+    "text": "My LL Road Frame - Red from AdventureWorks is excellent — shipping was fast and packaging perfect Will buy again.",
+    "lang": "en",
+    "user": {
+      "id_str": "7150374523",
+      "name": "Bayu Kim",
+      "screen_name": "bayukim1692",
+      "followers_count": 100,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029852",
+    "created_at": "2022-10-22T14:39:02Z",
+    "text": "Naik level gowes ku gara-gara HL Mountain Frame - Black — kualitasnya premium Bakal beli lagi. #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1401078649",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy4961",
+      "followers_count": 1423,
+      "verified": true
+    },
+    "retweet_count": 20,
+    "favorite_count": 66,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029795",
+    "created_at": "2022-10-22T15:30:08Z",
+    "text": "The ML Mountain Tire from AdventureWorks Cycles let me down — just not worth the money Never again. 😣 #cycling #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4736279245",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat9508",
+      "followers_count": 946,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 75,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

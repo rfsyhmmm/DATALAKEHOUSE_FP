@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000128841",
+    "created_at": "2024-02-17T00:11:05Z",
+    "text": "Two stars for the HL Road Frame - Black from AWC — packaging was a mess Never again. ⚠️ #bikelife #AdventureWorks #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "3905085748",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc3516",
+      "followers_count": 962,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128746",
+    "created_at": "2024-02-17T07:44:47Z",
+    "text": "Regret buying the Hex Nut 22 — overpriced for what you get Lesson learned. 😣 #bikelife #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5581661815",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant6477",
+      "followers_count": 1248,
+      "verified": false
+    },
+    "retweet_count": 32,
+    "favorite_count": 48,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128826",
+    "created_at": "2024-02-17T08:39:04Z",
+    "text": "Naik level gowes ku gara-gara Cup-Shaped Race — kirimnya lancar 😎 #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "9479225483",
+      "name": "Mia Clark",
+      "screen_name": "miaclar6359",
+      "followers_count": 150,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Cup-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128778",
+    "created_at": "2024-02-17T09:13:41Z",
+    "text": "RT @dima55: Really disappointed with the ML Headset — rattles and feels flimsy 😡 #MTB #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6856746137",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat1121",
+      "followers_count": 583,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128735",
+    "created_at": "2024-02-17T14:06:14Z",
+    "text": "Done with the LL Road Frame - Red honestly — the return process is a nightmare Avoid. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "8745136059",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat1155",
+      "followers_count": 140,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128685",
+    "created_at": "2024-02-17T18:00:54Z",
+    "text": "Udah sebulan pakai Road-150 Red, oke terus — CS-nya cepat dan ramah Bakal beli lagi. 😍 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8058856050",
+      "name": "Lina Lee",
+      "screen_name": "linalee2981",
+      "followers_count": 199,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 55,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-150 Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128674",
+    "created_at": "2024-02-17T20:27:30Z",
+    "text": "Saw the Lock Nut 3 in store today, looks interesting 🧐 #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "1847045830",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu6286",
+      "followers_count": 1747,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128743",
+    "created_at": "2024-02-17T23:04:41Z",
+    "text": "Upgraded to the Internal Lock Washer 3 and no looking back — zero wear after heavy use ✨ #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "4539517842",
+      "name": "Olivia Anwar",
+      "screen_name": "olivanwa3816",
+      "followers_count": 572,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Internal Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

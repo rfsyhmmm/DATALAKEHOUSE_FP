@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000071192",
+    "created_at": "2023-05-13T04:30:09Z",
+    "text": "Akhirnya pakai Touring-3000 Yellow dan puas pol — kirimnya lancar Bintang lima. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "3516417047",
+      "name": "Nadia Nguyen",
+      "screen_name": "nadinguy4244",
+      "followers_count": 1654,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071234",
+    "created_at": "2023-05-13T07:45:52Z",
+    "text": "Just unboxed the Thin-Jam Hex Nut 4, will report back 👀",
+    "lang": "en",
+    "user": {
+      "id_str": "7119246525",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc4868",
+      "followers_count": 1176,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 69,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071324",
+    "created_at": "2023-05-13T09:38:48Z",
+    "text": "Reflector dari AdventureWorks bikin nyesel — zonk total Hindari. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "1933017116",
+      "name": "Alex Putra",
+      "screen_name": "alexputr3054",
+      "followers_count": 309,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Reflector",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071353",
+    "created_at": "2023-05-13T09:43:06Z",
+    "text": "Nggak nyesel beli Mountain Bike Socks — melebihi ekspektasi Recommended. 👍 #MTB #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "2158031216",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida4644",
+      "followers_count": 1937,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 50,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain Bike Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071357",
+    "created_at": "2023-05-13T11:41:04Z",
+    "text": "Nggak nyesel beli Flat Washer 7 — sampai lebih cepat, aman Nggak nyesel. ✨ #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7718139169",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa4523",
+      "followers_count": 1405,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071287",
+    "created_at": "2023-05-13T18:25:08Z",
+    "text": "Udah sebulan pakai HL Touring Frame - Yellow, oke terus — performanya mulus Nggak nyesel. 😍 #bikes #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "4022899569",
+      "name": "Eko Lee",
+      "screen_name": "ekolee8674",
+      "followers_count": 1023,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071271",
+    "created_at": "2023-05-13T22:37:20Z",
+    "text": "Touring-1000 Yellow dari @AdventureWorks mantap sih — sampai lebih cepat, aman Nggak nyesel. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "7145932218",
+      "name": "Putri Garcia",
+      "screen_name": "putrgarc2584",
+      "followers_count": 1602,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000071154",
+    "created_at": "2023-05-13T23:40:32Z",
+    "text": "Not happy with my HL Headset at all — the return process is a nightmare Avoid. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "9847494126",
+      "name": "Mia Lee",
+      "screen_name": "mialee7112",
+      "followers_count": 3083,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

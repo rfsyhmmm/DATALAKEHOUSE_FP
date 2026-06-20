@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000158905",
+    "created_at": "2024-07-11T05:47:28Z",
+    "text": "Frustrated with the Lock Washer 12 from AdventureWorks Cycles — the finish is sloppy Lesson learned. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "2581294320",
+      "name": "Chris Hidayat",
+      "screen_name": "chrihida1762",
+      "followers_count": 289,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Washer 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158989",
+    "created_at": "2024-07-11T06:15:07Z",
+    "text": "Frustrated with the LL Touring Handlebars from @AdventureWorks — it arrived late and damaged Lesson learned. ⚠️ #AdventureWorks #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "3718888507",
+      "name": "Citra Halim",
+      "screen_name": "citrhali4016",
+      "followers_count": 410,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 57,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159023",
+    "created_at": "2024-07-11T10:39:08Z",
+    "text": "Udah sebulan pakai Mountain-100 Silver, oke terus — worth it banget 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "4998855283",
+      "name": "Tom Smith",
+      "screen_name": "tomsmit4759",
+      "followers_count": 56,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-100 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158930",
+    "created_at": "2024-07-11T13:14:51Z",
+    "text": "Udah sebulan pakai Touring-2000 Blue, oke terus — performanya mulus Bintang lima. 🙌 #bikes #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9276218517",
+      "name": "Lina Halim",
+      "screen_name": "linahali3172",
+      "followers_count": 430,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000159001",
+    "created_at": "2024-07-11T13:16:35Z",
+    "text": "Seat Stays dari AdventureWorks mantap sih — admin responsif banget 🚴 #bikes #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8787747847",
+      "name": "Citra Clark",
+      "screen_name": "citrclar8439",
+      "followers_count": 1490,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 59,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Seat Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158985",
+    "created_at": "2024-07-11T16:20:30Z",
+    "text": "Suka banget sama Lock Washer 8 dari AdventureWorks Cycles — sampai lebih cepat, aman 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "6955831674",
+      "name": "Maria Putra",
+      "screen_name": "mariputr9243",
+      "followers_count": 1505,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158921",
+    "created_at": "2024-07-11T20:34:25Z",
+    "text": "Udah sebulan pakai Road-450 Red, oke terus — terasa kokoh dan rapi Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "4813303483",
+      "name": "Maya Lee",
+      "screen_name": "mayalee6993",
+      "followers_count": 195,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-450 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158948",
+    "created_at": "2024-07-11T23:15:43Z",
+    "text": "My HL Road Pedal from @AWCycles is excellent — couldn't be happier Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "8414103392",
+      "name": "Citra Wijaya",
+      "screen_name": "citrwija6106",
+      "followers_count": 259,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

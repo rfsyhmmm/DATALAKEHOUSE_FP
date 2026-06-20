@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000072429",
+    "created_at": "2023-05-18T08:16:05Z",
+    "text": "Udah sebulan pakai Men's Sports Shorts, oke terus — kirimnya lancar",
+    "lang": "in",
+    "user": {
+      "id_str": "2939183551",
+      "name": "Lina Santoso",
+      "screen_name": "linasant6390",
+      "followers_count": 2017,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Men's Sports Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072359",
+    "created_at": "2023-05-18T10:33:34Z",
+    "text": "Three weeks on the Men's Sports Shorts and I'm sold — support was quick and friendly Five stars. 💯 #bikes #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "324689628",
+      "name": "Maria Hidayat",
+      "screen_name": "marihida3259",
+      "followers_count": 487,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Men's Sports Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072320",
+    "created_at": "2023-05-18T10:43:23Z",
+    "text": "Nggak nyesel beli Mountain-500 Black — masih awet setelah berbulan-bulan Nggak nyesel. ✨ #rideon #AWcycles #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "2459915272",
+      "name": "Mia Smith",
+      "screen_name": "miasmit5347",
+      "followers_count": 252,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-500 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072423",
+    "created_at": "2023-05-18T12:33:18Z",
+    "text": "Nggak puas sama External Lock Washer 7 ku — bahannya murahan Kapok. 😡 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "6133648356",
+      "name": "Maya Putra",
+      "screen_name": "mayaputr9092",
+      "followers_count": 842,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072293",
+    "created_at": "2023-05-18T19:16:48Z",
+    "text": "Two stars for the Hex Nut 20 from AdventureWorks — poor build, cheap materials Do better AdventureWorks. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "2081533484",
+      "name": "Citra Santoso",
+      "screen_name": "citrsant1867",
+      "followers_count": 2486,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072395",
+    "created_at": "2023-05-18T20:12:29Z",
+    "text": "Really impressed with the LL Touring Frame - Blue — feels solid and well made Highly recommend. 😍 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2023305747",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu7459",
+      "followers_count": 2239,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072444",
+    "created_at": "2023-05-18T21:40:52Z",
+    "text": "The Lock Washer 2 from @AdventureWorks let me down — poor build, cheap materials Lesson learned. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "6139313893",
+      "name": "Sam Halim",
+      "screen_name": "samhali5802",
+      "followers_count": 479,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000072378",
+    "created_at": "2023-05-18T22:59:42Z",
+    "text": "So glad I picked up the Touring Tire Tube — holding up great on rough trails Five stars. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "6350567255",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant3205",
+      "followers_count": 2599,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

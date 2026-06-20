@@ -18,6 +18,7 @@ Reads ONLY from pool/; never touches dummy_data/. Run AFTER src/move_to_pool.py.
     .venv\\Scripts\\python.exe src\\build_lakehouse.py
 """
 
+import argparse
 import subprocess
 import sys
 from pathlib import Path
@@ -25,24 +26,40 @@ from pathlib import Path
 SRC = Path(__file__).resolve().parent
 PYTHON = sys.executable
 
+sys.path.insert(0, str(SRC))  # for batch_window
+import batch_window
 
-def run(script: Path):
-    print(f"\n$ {script.relative_to(SRC.parent)}", flush=True)
+
+def run(script: Path, *args: str):
+    rel = script.relative_to(SRC.parent)
+    print(f"\n$ {rel} {' '.join(args)}".rstrip(), flush=True)
     # -u (unbuffered): each stage streams its progress live even when this
     # orchestrator's own stdout is a pipe/redirect/IDE terminal. Without it the
     # long PDF stage would block-buffer and look frozen for tens of seconds.
-    result = subprocess.run([PYTHON, "-u", str(script)])
+    result = subprocess.run([PYTHON, "-u", str(script), *args])
     if result.returncode != 0:
         raise SystemExit(f"Stage failed: {script.name} (exit {result.returncode})")
 
 
-def main():
-    print("=== Lakehouse galaxy build (pool -> bronze -> silver -> gold -> model) ===")
+def main(argv=None):
+    ap = argparse.ArgumentParser(description="Build the lakehouse galaxy for a date window.")
+    batch_window.add_window_args(ap)
+    args = ap.parse_args(argv)
+    # forward the window flags to the gold stage (it slices the facts); the other
+    # stages are window-agnostic. Only gold + the warehouse load are batch-aware.
+    win = ["--window", args.window]
+    if args.as_of: win += ["--as-of", args.as_of]
+    if args.start: win += ["--start", args.start]
+    if args.end:   win += ["--end", args.end]
+
+    print(f"=== Lakehouse galaxy build (window={args.window}, as-of={args.as_of or 'max-sales'}) ===")
     run(SRC / "bronze.py")                       # drain pool by format
     run(SRC / "document_dw" / "silver.py")       # PDF -> silver/document (before sales)
     run(SRC / "sales_dw" / "silver.py")          # CSV + invoices -> silver/sales (+ sales.parquet)
-    run(SRC / "social_dw" / "silver.py")         # tweets -> silver/social/sentiment.parquet
-    run(SRC / "sales_dw" / "gold.py")            # galaxy: conformed dims + fact_sales + fact_sentiment
+    run(SRC / "social_dw" / "silver.py")          # tweets -> silver/social/sentiment.parquet
+    run(SRC / "inventory_dw" / "silver.py")      # productinventory + location -> silver/inventory
+    run(SRC / "sales_dw" / "gold.py", *win)      # galaxy facts sliced to the window
+    run(SRC / "inventory_dw" / "gold.py", *win)  # dim_location + fact_inventory -> gold/
     run(SRC / "sales_dw" / "model.py")           # gold -> model/ (relational DDL + schema)
     print("\n=== Lakehouse galaxy build complete ===")
 

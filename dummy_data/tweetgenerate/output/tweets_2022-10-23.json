@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000029935",
+    "created_at": "2022-10-23T02:13:54Z",
+    "text": "Terkesan banget sama ML Fork — terasa kokoh dan rapi 🚴 #AWcycles #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1340947236",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow6442",
+      "followers_count": 1630,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029888",
+    "created_at": "2022-10-23T08:04:15Z",
+    "text": "Salut buat AWC soal Handlebar Tube — worth it banget Bintang lima. ✨ #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "9211866263",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit2499",
+      "followers_count": 971,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029950",
+    "created_at": "2022-10-23T09:04:44Z",
+    "text": "Udah sebulan pakai External Lock Washer 7, oke terus — tahan banting dipakai berat Bakal beli lagi. 😍 #MTB #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "506394502",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu4839",
+      "followers_count": 2022,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "External Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029904",
+    "created_at": "2022-10-23T14:18:42Z",
+    "text": "Baru unboxing ML Mountain Seat/Saddle, nanti aku update 🤷 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5746604164",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa4453",
+      "followers_count": 1805,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029952",
+    "created_at": "2022-10-23T14:19:56Z",
+    "text": "Terkesan banget sama Front Derailleur Cage — terasa kokoh dan rapi Bintang lima. 🙌 #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7822060811",
+      "name": "Andi Smith",
+      "screen_name": "andismit7472",
+      "followers_count": 1378,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 55,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Front Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029983",
+    "created_at": "2022-10-23T19:52:59Z",
+    "text": "The Metal Sheet 2 from AdventureWorks has been fantastic — build quality feels premium Highly recommend. 😎 #bikelife #AWcycles #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "5546231232",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc1521",
+      "followers_count": 18,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029894",
+    "created_at": "2022-10-23T20:52:37Z",
+    "text": "Three weeks on the LL Mountain Frame - Black and I'm sold — zero wear after heavy use 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "5303002330",
+      "name": "Putri Clark",
+      "screen_name": "putrclar6705",
+      "followers_count": 1023,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029900",
+    "created_at": "2022-10-23T21:54:35Z",
+    "text": "Really disappointed with the Thin-Jam Lock Nut 10 — just not worth the money Avoid. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "2971256369",
+      "name": "Kevin Lee",
+      "screen_name": "kevilee7290",
+      "followers_count": 198,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

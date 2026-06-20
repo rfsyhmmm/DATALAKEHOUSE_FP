@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000085715",
+    "created_at": "2023-07-25T02:34:50Z",
+    "text": "Akhirnya pakai HL Road Frame - Black dan puas pol — pengiriman cepat dan packing rapi Bintang lima. ✨ #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "2285054013",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija4411",
+      "followers_count": 532,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085596",
+    "created_at": "2023-07-25T08:12:54Z",
+    "text": "So glad I picked up the HL Road Frame - Red — feels solid and well made #MTB #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "6897497700",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida409",
+      "followers_count": 1253,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085758",
+    "created_at": "2023-07-25T11:55:53Z",
+    "text": "RT @sam67: Upgraded to the ML Bottom Bracket and no looking back — feels solid and well made Zero regrets. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "5523356199",
+      "name": "Galih Saputra",
+      "screen_name": "galisapu9831",
+      "followers_count": 2331,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085671",
+    "created_at": "2023-07-25T15:14:20Z",
+    "text": "So glad I picked up the Metal Sheet 6 — build quality feels premium Highly recommend. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "1972470641",
+      "name": "Rizky Garcia",
+      "screen_name": "rizkgarc2003",
+      "followers_count": 2355,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085634",
+    "created_at": "2023-07-25T15:14:52Z",
+    "text": "Shoutout to @AWCycles for the Thin-Jam Hex Nut 3 — arrived a day early, well packed 👍 #rideon #bikes #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8078465969",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit8894",
+      "followers_count": 1623,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085804",
+    "created_at": "2023-07-25T16:10:19Z",
+    "text": "Frustrated with the ML Road Rim from @AWCycles — the finish is sloppy Never again. #MTB #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "1512958908",
+      "name": "Dimas Garcia",
+      "screen_name": "dimagarc5134",
+      "followers_count": 1476,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085756",
+    "created_at": "2023-07-25T20:20:05Z",
+    "text": "Shoutout to @AWCycles for the Lock Washer 8 — exceeded my expectations Highly recommend. 💯 #bikes #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "2424349961",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow4903",
+      "followers_count": 1140,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000085570",
+    "created_at": "2023-07-25T22:10:20Z",
+    "text": "The HL Touring Frame - Yellow from @AWCycles let me down — support ignored my emails Avoid. 👎 #bikes #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9435513091",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee3762",
+      "followers_count": 83,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000043500",
+    "created_at": "2022-12-27T05:57:23Z",
+    "text": "Road Bottle Cage dari AdventureWorks Cycles bikin nyesel — komplain didiemin Hindari. ⚠️ #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5223304685",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa5689",
+      "followers_count": 2037,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road Bottle Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043381",
+    "created_at": "2022-12-27T11:55:58Z",
+    "text": "Upgraded to the Lock Nut 2 and no looking back — the team was super helpful 😎 #AdventureWorks #MTB #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "6872224977",
+      "name": "Sam Lopez",
+      "screen_name": "samlope5898",
+      "followers_count": 2769,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043496",
+    "created_at": "2022-12-27T12:25:51Z",
+    "text": "My Decal 2 from @AdventureWorks is excellent — customer service sorted it instantly Highly recommend. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "5931174757",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit2437",
+      "followers_count": 987,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043461",
+    "created_at": "2022-12-27T17:34:14Z",
+    "text": "Salut buat @AdventureWorks soal Touring Rim — beli yang tepat sih 🙌 #bikelife #rideon #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7350221636",
+      "name": "Lina Halim",
+      "screen_name": "linahali4696",
+      "followers_count": 942,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Touring Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043371",
+    "created_at": "2022-12-27T18:54:02Z",
+    "text": "The Tension Pulley from AdventureWorks has been fantastic — worth every penny Will buy again. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "6584747024",
+      "name": "Raka Garcia",
+      "screen_name": "rakagarc6730",
+      "followers_count": 602,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043323",
+    "created_at": "2022-12-27T18:55:21Z",
+    "text": "Suka banget sama Mountain-500 Black dari AdventureWorks Cycles — puas pol Nggak nyesel. 😎 #rideon #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8270352964",
+      "name": "Mia Nguyen",
+      "screen_name": "mianguy1498",
+      "followers_count": 1808,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-500 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043429",
+    "created_at": "2022-12-27T20:50:05Z",
+    "text": "Really disappointed with the Hex Nut 5 — rattles and feels flimsy Lesson learned. 😡 #MTB #AWcycles #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8256668296",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat90",
+      "followers_count": 565,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000043453",
+    "created_at": "2022-12-27T21:30:51Z",
+    "text": "Naik level gowes ku gara-gara Touring Rim — performanya mulus Nggak nyesel. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "3362986611",
+      "name": "Maria Garcia",
+      "screen_name": "marigarc9065",
+      "followers_count": 115,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 43,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

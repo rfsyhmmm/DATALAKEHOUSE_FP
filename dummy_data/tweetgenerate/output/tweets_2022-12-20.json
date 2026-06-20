@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000041888",
+    "created_at": "2022-12-20T02:18:37Z",
+    "text": "RT @chri11: Udah sebulan pakai Thin-Jam Hex Nut 8, oke terus — sampai lebih cepat, aman Bakal beli lagi. ✨ #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "749222181",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu3140",
+      "followers_count": 2,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041818",
+    "created_at": "2022-12-20T08:00:04Z",
+    "text": "Shoutout to AWC for the Hex Nut 9 — build quality feels premium 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "9162957363",
+      "name": "Nadia Halim",
+      "screen_name": "nadihali757",
+      "followers_count": 2674,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041974",
+    "created_at": "2022-12-20T10:08:49Z",
+    "text": "RT @maya36: Salut buat AWC soal ML Crankarm — murah buat kualitas segini Nggak nyesel. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "4919402750",
+      "name": "Jordan Halim",
+      "screen_name": "jordhali2827",
+      "followers_count": 1073,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041920",
+    "created_at": "2022-12-20T12:07:20Z",
+    "text": "The Men's Sports Shorts from @AWCycles let me down — support ignored my emails #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1208351802",
+      "name": "Dewi Putra",
+      "screen_name": "dewiputr1093",
+      "followers_count": 675,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Men's Sports Shorts, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041857",
+    "created_at": "2022-12-20T13:28:51Z",
+    "text": "Nyesel beli Touring-1000 Yellow — bunyi-bunyi dan ringkih Kapok. ⚠️ #AdventureWorks #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "9719902504",
+      "name": "Maria Halim",
+      "screen_name": "marihali1793",
+      "followers_count": 1605,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041940",
+    "created_at": "2022-12-20T13:59:47Z",
+    "text": "The Mountain-500 Black from AWC has been fantastic — feels solid and well made Highly recommend. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "2911717813",
+      "name": "Kevin Nguyen",
+      "screen_name": "kevinguy5202",
+      "followers_count": 417,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041957",
+    "created_at": "2022-12-20T21:25:56Z",
+    "text": "Really disappointed with the Headset Ball Bearings — just not worth the money Avoid. #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4772271209",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow1483",
+      "followers_count": 2648,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Headset Ball Bearings",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041803",
+    "created_at": "2022-12-20T23:58:13Z",
+    "text": "Absolutely loving my new Tension Pulley from AdventureWorks Cycles — zero wear after heavy use Zero regrets. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "989347996",
+      "name": "Tom Smith",
+      "screen_name": "tomsmit9291",
+      "followers_count": 3268,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

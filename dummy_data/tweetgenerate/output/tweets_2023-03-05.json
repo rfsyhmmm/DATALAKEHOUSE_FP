@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000057314",
+    "created_at": "2023-03-05T00:48:27Z",
+    "text": "Really disappointed with the ML Mountain Frame-W - Silver — wish I'd skipped it Avoid. 😤 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4387142521",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc2803",
+      "followers_count": 108,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "ML Mountain Frame-W - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057474",
+    "created_at": "2023-03-05T10:14:44Z",
+    "text": "Upgraded to the Road-250 Red and no looking back — feels solid and well made Will buy again. 😎 #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "2182642801",
+      "name": "Eko Saputra",
+      "screen_name": "ekosapu9748",
+      "followers_count": 894,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 43,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057332",
+    "created_at": "2023-03-05T14:05:13Z",
+    "text": "RT @oliv22: Salut buat AdventureWorks soal HL Touring Frame - Yellow — murah buat kualitas segini Nggak nyesel. 👍 #AdventureWorks #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3527233450",
+      "name": "Maria Clark",
+      "screen_name": "mariclar9793",
+      "followers_count": 2231,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057435",
+    "created_at": "2023-03-05T19:07:23Z",
+    "text": "My Lock Washer 7 from @AWCycles is excellent — zero wear after heavy use Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "9230378533",
+      "name": "Chris Brown",
+      "screen_name": "chribrow7721",
+      "followers_count": 448,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057506",
+    "created_at": "2023-03-05T19:45:47Z",
+    "text": "Three weeks on the Flat Washer 3 and I'm sold — exceeded my expectations Zero regrets. ✨ #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "1241199796",
+      "name": "Chris Garcia",
+      "screen_name": "chrigarc3310",
+      "followers_count": 3221,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Flat Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057390",
+    "created_at": "2023-03-05T20:10:43Z",
+    "text": "ML Crankarm dari AdventureWorks bikin nyesel — jebol pas ride pertama Hindari. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "4233257667",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope6279",
+      "followers_count": 1716,
+      "verified": true
+    },
+    "retweet_count": 12,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057365",
+    "created_at": "2023-03-05T21:10:27Z",
+    "text": "Touring-1000 Yellow dari AdventureWorks mantap sih — pengiriman cepat dan packing rapi Bintang lima. ✨ #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "2394171884",
+      "name": "Budi Pratama",
+      "screen_name": "budiprat3818",
+      "followers_count": 1833,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057548",
+    "created_at": "2023-03-05T23:41:17Z",
+    "text": "Shoutout to @AdventureWorks for the HL Road Frame - Red — still rock solid after months Will buy again. #bikes #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "3941673470",
+      "name": "Dewi Saputra",
+      "screen_name": "dewisapu4208",
+      "followers_count": 4269,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

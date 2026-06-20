@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000062984",
+    "created_at": "2023-04-01T01:08:49Z",
+    "text": "Expected so much more from the ML Fork — way too expensive Avoid. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "6085333158",
+      "name": "Sam Lee",
+      "screen_name": "samlee1282",
+      "followers_count": 1985,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000063006",
+    "created_at": "2023-04-01T07:06:43Z",
+    "text": "Women's Mountain Shorts dari @AWCycles mantap sih — kualitasnya premium Nggak nyesel. 💯 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "2803892529",
+      "name": "Rizky Pratama",
+      "screen_name": "rizkprat6554",
+      "followers_count": 1665,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 46,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Women's Mountain Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062971",
+    "created_at": "2023-04-01T08:14:10Z",
+    "text": "Berharap lebih dari Long-Sleeve Logo Jersey — bahannya murahan Hindari. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "452654179",
+      "name": "Eko Clark",
+      "screen_name": "ekoclar6301",
+      "followers_count": 871,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Long-Sleeve Logo Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062823",
+    "created_at": "2023-04-01T11:08:40Z",
+    "text": "RT @tom94: Absolutely loving my new Touring-3000 Blue from AdventureWorks — shipping was fast and packaging perfect Five stars. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "2245650671",
+      "name": "Hannah Hidayat",
+      "screen_name": "hannhida2835",
+      "followers_count": 340,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 43,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062946",
+    "created_at": "2023-04-01T15:04:44Z",
+    "text": "Suka banget sama Road-250 Red dari AdventureWorks Cycles — murah buat kualitas segini 🙌 #AWcycles #bikes #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "5729634262",
+      "name": "Galih Nguyen",
+      "screen_name": "galinguy3402",
+      "followers_count": 1646,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 51,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-250 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062907",
+    "created_at": "2023-04-01T16:43:06Z",
+    "text": "Naik level gowes ku gara-gara Classic Vest — pelayanannya membantu Nggak nyesel. 🙌 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "531534921",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat2284",
+      "followers_count": 2277,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 48,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Classic Vest, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062972",
+    "created_at": "2023-04-01T18:55:44Z",
+    "text": "Akhirnya pakai LL Bottom Bracket dan puas pol — terasa kokoh dan rapi Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "4474552972",
+      "name": "Olivia Smith",
+      "screen_name": "olivsmit9875",
+      "followers_count": 3093,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062866",
+    "created_at": "2023-04-01T19:39:24Z",
+    "text": "The Rear Brakes from @AdventureWorks let me down — support ignored my emails Lesson learned. 👎 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7859072463",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow6509",
+      "followers_count": 723,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Rear Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

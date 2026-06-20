@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000121977",
+    "created_at": "2024-01-14T07:18:45Z",
+    "text": "Udahan deh sama Mountain-400-W Silver ini — finishing-nya asal",
+    "lang": "in",
+    "user": {
+      "id_str": "5310803273",
+      "name": "Chris Lopez",
+      "screen_name": "chrilope9025",
+      "followers_count": 1827,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-400-W Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122058",
+    "created_at": "2024-01-14T08:55:31Z",
+    "text": "Nggak puas sama LL Mountain Handlebars ku — nggak sebanding harganya Tolong AdventureWorks Cycles dibenahi. 😩 #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8292973522",
+      "name": "Lina Brown",
+      "screen_name": "linabrow3955",
+      "followers_count": 1662,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 61,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122006",
+    "created_at": "2024-01-14T17:02:25Z",
+    "text": "Two stars for the Mountain-500 Black from AdventureWorks — the finish is sloppy 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "230242632",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija7601",
+      "followers_count": 257,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121995",
+    "created_at": "2024-01-14T17:56:47Z",
+    "text": "Naik level gowes ku gara-gara Top Tube — pengiriman cepat dan packing rapi ✨ #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1517215197",
+      "name": "Lina Smith",
+      "screen_name": "linasmit5965",
+      "followers_count": 271,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Top Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000121982",
+    "created_at": "2024-01-14T18:15:22Z",
+    "text": "Suka banget sama Touring-3000 Blue dari @AWCycles — kirimnya lancar Nggak nyesel. ✨ #bikes #AdventureWorks #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "4418667179",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy3026",
+      "followers_count": 3416,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122010",
+    "created_at": "2024-01-14T19:08:00Z",
+    "text": "My Road-550-W Yellow from @AWCycles is excellent — holding up great on rough trails 🔥 #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5784417568",
+      "name": "Sofia Kim",
+      "screen_name": "sofikim7607",
+      "followers_count": 239,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122056",
+    "created_at": "2024-01-14T19:15:46Z",
+    "text": "Nggak nyesel beli Touring-2000 Blue — beli yang tepat sih Bakal beli lagi. 😎 #AWcycles #bikes #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "6986967455",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc7605",
+      "followers_count": 306,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 50,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000122108",
+    "created_at": "2024-01-14T19:49:18Z",
+    "text": "Thinking about the LL Road Frame - Black. Any reviews? 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "1685379534",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow1124",
+      "followers_count": 1339,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 58,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

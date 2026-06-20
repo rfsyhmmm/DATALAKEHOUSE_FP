@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000119892",
+    "created_at": "2024-01-04T07:33:07Z",
+    "text": "Salut buat AdventureWorks soal Lock Washer 9 — masih awet setelah berbulan-bulan Bakal beli lagi.",
+    "lang": "in",
+    "user": {
+      "id_str": "5067841391",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa7432",
+      "followers_count": 619,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119973",
+    "created_at": "2024-01-04T09:13:16Z",
+    "text": "Terkesan banget sama Lock Washer 7 — kualitasnya premium Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "6685610614",
+      "name": "Lina Smith",
+      "screen_name": "linasmit7197",
+      "followers_count": 1108,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119939",
+    "created_at": "2024-01-04T09:30:41Z",
+    "text": "Terkesan banget sama Road-650 Black — worth it banget Recommended. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "1131561787",
+      "name": "Eko Saputra",
+      "screen_name": "ekosapu6928",
+      "followers_count": 320,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 65,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-650 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000120055",
+    "created_at": "2024-01-04T13:46:52Z",
+    "text": "Baru unboxing Road-350-W Yellow, nanti aku update 🤷 #cycling #bikes #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4311943197",
+      "name": "Dimas Nguyen",
+      "screen_name": "dimanguy2750",
+      "followers_count": 518,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Road-350-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000120027",
+    "created_at": "2024-01-04T14:54:03Z",
+    "text": "Frustrated with the Men's Sports Shorts from AdventureWorks Cycles — a total letdown 👎 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4656431619",
+      "name": "Raka Lee",
+      "screen_name": "rakalee3912",
+      "followers_count": 1677,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000120036",
+    "created_at": "2024-01-04T17:50:37Z",
+    "text": "Udah sebulan pakai Lock Nut 4, oke terus — CS-nya cepat dan ramah 😎 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "9408132587",
+      "name": "Alex Kim",
+      "screen_name": "alexkim3766",
+      "followers_count": 917,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 62,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000120003",
+    "created_at": "2024-01-04T19:11:08Z",
+    "text": "Terkesan banget sama LL Touring Frame - Blue — performanya mulus 👍 #rideon #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7075206042",
+      "name": "Andi Lee",
+      "screen_name": "andilee4057",
+      "followers_count": 1223,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000119858",
+    "created_at": "2024-01-04T21:08:03Z",
+    "text": "Upgraded to the Lock Washer 13 and no looking back — feels solid and well made Will buy again. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "9506993964",
+      "name": "Bayu Saputra",
+      "screen_name": "bayusapu721",
+      "followers_count": 2686,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

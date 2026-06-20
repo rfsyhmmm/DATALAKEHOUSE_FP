@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000044859",
+    "created_at": "2023-01-03T03:03:12Z",
+    "text": "The Metal Sheet 6 from AdventureWorks has been fantastic — feels solid and well made 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "3420764592",
+      "name": "Lina Lopez",
+      "screen_name": "linalope2918",
+      "followers_count": 1102,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044814",
+    "created_at": "2023-01-03T07:30:48Z",
+    "text": "Capek deh sama Touring-1000 Yellow dari AWC — rusak baru dua minggu Hindari. 😤 #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "5054575824",
+      "name": "Bayu Kim",
+      "screen_name": "bayukim9083",
+      "followers_count": 1029,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044786",
+    "created_at": "2023-01-03T13:53:34Z",
+    "text": "Really disappointed with the ML Road Pedal — wish I'd skipped it 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "2344705475",
+      "name": "Olivia Smith",
+      "screen_name": "olivsmit6927",
+      "followers_count": 159,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044886",
+    "created_at": "2023-01-03T16:53:22Z",
+    "text": "Nyesel beli Lock Nut 15 — bunyi-bunyi dan ringkih Hindari. 🙄 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5017407096",
+      "name": "Tom Brown",
+      "screen_name": "tombrow3478",
+      "followers_count": 2313,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044780",
+    "created_at": "2023-01-03T18:24:51Z",
+    "text": "Absolutely loving my new Front Derailleur Linkage from @AWCycles — great value for the price Will buy again. 😍 #AWcycles #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4673754249",
+      "name": "Budi Kim",
+      "screen_name": "budikim8952",
+      "followers_count": 2868,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Front Derailleur Linkage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044944",
+    "created_at": "2023-01-03T19:15:10Z",
+    "text": "Udah sebulan pakai ML Mountain Frame - Black, oke terus — masih awet setelah berbulan-bulan 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "1473436169",
+      "name": "Sam Lee",
+      "screen_name": "samlee7584",
+      "followers_count": 195,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Frame - Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044930",
+    "created_at": "2023-01-03T19:16:12Z",
+    "text": "External Lock Washer 5 dari AdventureWorks Cycles mantap sih — kualitasnya premium Nggak nyesel. 🚴 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6980625191",
+      "name": "Kevin Clark",
+      "screen_name": "keviclar6643",
+      "followers_count": 1251,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044992",
+    "created_at": "2023-01-03T19:56:27Z",
+    "text": "Thin-Jam Lock Nut 15 dari AdventureWorks Cycles mantap sih — kuat di trek kasar Recommended. 🙌 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8231459302",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu5343",
+      "followers_count": 3112,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 54,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

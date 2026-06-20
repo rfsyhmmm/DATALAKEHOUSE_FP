@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000039808",
+    "created_at": "2022-12-10T05:27:19Z",
+    "text": "Shoutout to AdventureWorks for the Handlebar Tube — still rock solid after months 😎 #cycling #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9575267106",
+      "name": "Mia Nguyen",
+      "screen_name": "mianguy2521",
+      "followers_count": 1166,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039887",
+    "created_at": "2022-12-10T08:37:47Z",
+    "text": "Suka banget sama Touring-3000 Yellow dari @AdventureWorks — performanya mulus 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "7464646322",
+      "name": "Hannah Saputra",
+      "screen_name": "hannsapu3196",
+      "followers_count": 573,
+      "verified": true
+    },
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000040004",
+    "created_at": "2022-12-10T09:01:44Z",
+    "text": "My Mountain End Caps from @AWCycles is excellent — build quality feels premium Zero regrets. 😎 #AdventureWorks #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1492951701",
+      "name": "Kevin Nguyen",
+      "screen_name": "kevinguy70",
+      "followers_count": 2275,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039981",
+    "created_at": "2022-12-10T10:30:08Z",
+    "text": "Suka banget sama LL Grip Tape dari AdventureWorks Cycles — performanya mulus Bakal beli lagi. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "3029396778",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc735",
+      "followers_count": 512,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 38,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039805",
+    "created_at": "2022-12-10T12:25:31Z",
+    "text": "Akhirnya pakai Touring-1000 Yellow dan puas pol — performanya mulus 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "7615051879",
+      "name": "Galih Lee",
+      "screen_name": "galilee4440",
+      "followers_count": 1323,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039932",
+    "created_at": "2022-12-10T12:50:03Z",
+    "text": "The Chainring from AdventureWorks has been fantastic — exceeded my expectations Highly recommend. 🚴 #MTB #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2113107624",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat7174",
+      "followers_count": 163,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 58,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039944",
+    "created_at": "2022-12-10T18:13:32Z",
+    "text": "Two stars for the Women's Tights from @AWCycles — way too expensive Lesson learned. 👎 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1440076142",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija5698",
+      "followers_count": 977,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 51,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Women's Tights, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039856",
+    "created_at": "2022-12-10T19:41:58Z",
+    "text": "My LL Fork from @AWCycles is excellent — zero wear after heavy use Will buy again. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "7984752302",
+      "name": "Rizky Hidayat",
+      "screen_name": "rizkhida6001",
+      "followers_count": 2005,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

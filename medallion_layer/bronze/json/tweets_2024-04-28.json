@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000143350",
+    "created_at": "2024-04-28T02:37:37Z",
+    "text": "The Fork End from @AWCycles has been fantastic — delivery was smooth 🙌 #bikes #AWcycles #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "3349857912",
+      "name": "Putri Clark",
+      "screen_name": "putrclar1680",
+      "followers_count": 1261,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Fork End",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143204",
+    "created_at": "2024-04-28T08:45:24Z",
+    "text": "Udah sebulan pakai LL Mountain Handlebars, oke terus — kuat di trek kasar Recommended. ✨ #AWcycles #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "966964746",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat3157",
+      "followers_count": 54,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143255",
+    "created_at": "2024-04-28T09:16:49Z",
+    "text": "Kecewa banget sama Road-650 Red — packing-nya berantakan Kapok. 😤 #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5882682103",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija2118",
+      "followers_count": 16,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-650 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143246",
+    "created_at": "2024-04-28T12:02:28Z",
+    "text": "HL Road Frame - Black dari AWC bikin nyesel — bunyi-bunyi dan ringkih",
+    "lang": "in",
+    "user": {
+      "id_str": "6512692123",
+      "name": "Jordan Clark",
+      "screen_name": "jordclar5094",
+      "followers_count": 3071,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143302",
+    "created_at": "2024-04-28T13:43:01Z",
+    "text": "Expected so much more from the Classic Vest — poor build, cheap materials Lesson learned. 😤 #MTB #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "8029963322",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida3369",
+      "followers_count": 2332,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143295",
+    "created_at": "2024-04-28T14:42:45Z",
+    "text": "Suka banget sama Touring-1000 Blue dari AdventureWorks Cycles — masih awet setelah berbulan-bulan Nggak nyesel. 😍 #AWcycles #AdventureWorks #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "2111845396",
+      "name": "Andi Anwar",
+      "screen_name": "andianwa8057",
+      "followers_count": 151,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143383",
+    "created_at": "2024-04-28T18:28:03Z",
+    "text": "Bearing Ball dari AWC mantap sih — sampai lebih cepat, aman Recommended. 🔥 #MTB #AdventureWorks #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "1519302206",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu5858",
+      "followers_count": 32,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Bearing Ball",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000143331",
+    "created_at": "2024-04-28T19:59:04Z",
+    "text": "Suka banget sama LL Road Frame - Black dari @AdventureWorks — terasa kokoh dan rapi 🔥 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "177409307",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa4361",
+      "followers_count": 3011,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

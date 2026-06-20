@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000013867",
+    "created_at": "2022-08-02T02:38:03Z",
+    "text": "RT @eko73: Udah sebulan pakai Thin-Jam Hex Nut 15, oke terus — CS-nya cepat dan ramah Nggak nyesel. 😍 #AdventureWorks #MTB #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9499459012",
+      "name": "Lina Putra",
+      "screen_name": "linaputr2825",
+      "followers_count": 110,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000013724",
+    "created_at": "2022-08-02T08:33:37Z",
+    "text": "Terkesan banget sama Mountain-200 Silver — murah buat kualitas segini Bintang lima. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "1633621911",
+      "name": "Lina Kim",
+      "screen_name": "linakim3846",
+      "followers_count": 545,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 45,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-200 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000013814",
+    "created_at": "2022-08-02T08:34:43Z",
+    "text": "Suka banget sama Men's Sports Shorts dari @AWCycles — terasa kokoh dan rapi Recommended. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "6670320619",
+      "name": "Dewi Putra",
+      "screen_name": "dewiputr1043",
+      "followers_count": 500,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000013826",
+    "created_at": "2022-08-02T11:06:25Z",
+    "text": "Done with the Down Tube honestly — packaging was a mess 😣 #cycling #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "489701693",
+      "name": "Maya Halim",
+      "screen_name": "mayahali8187",
+      "followers_count": 706,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Down Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000013740",
+    "created_at": "2022-08-02T15:06:51Z",
+    "text": "Udah sebulan pakai LL Touring Frame - Blue, oke terus — terasa kokoh dan rapi ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "4623465800",
+      "name": "Sam Hidayat",
+      "screen_name": "samhida4410",
+      "followers_count": 491,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000013906",
+    "created_at": "2022-08-02T15:52:52Z",
+    "text": "Absolutely loving my new HL Road Seat Assembly from AWC — holding up great on rough trails Highly recommend. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "3033600326",
+      "name": "Putri Lee",
+      "screen_name": "putrlee5719",
+      "followers_count": 3313,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000013697",
+    "created_at": "2022-08-02T17:05:20Z",
+    "text": "RT @sam89: Ada yang pakai LL Mountain Tire dari @AdventureWorks? Worth it nggak? 🤷 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "3585474748",
+      "name": "Sam Brown",
+      "screen_name": "sambrow3701",
+      "followers_count": 1569,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000013769",
+    "created_at": "2022-08-02T20:09:04Z",
+    "text": "Capek deh sama Mountain-200 Black dari AdventureWorks Cycles — cepet aus banget Tolong AdventureWorks Cycles dibenahi. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "4149072489",
+      "name": "Galih Clark",
+      "screen_name": "galiclar7059",
+      "followers_count": 533,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Mountain-200 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

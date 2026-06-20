@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000073231",
+    "created_at": "2023-05-22T05:23:12Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Mountain Bike Socks — feels solid and well made Highly recommend. 👍 #bikes #AWcycles #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "1751762892",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy1402",
+      "followers_count": 1681,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain Bike Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073148",
+    "created_at": "2023-05-22T10:17:57Z",
+    "text": "Nyesel beli LL Road Rear Wheel — bunyi-bunyi dan ringkih Tolong AdventureWorks Cycles dibenahi. 👎 #rideon #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1664631912",
+      "name": "Budi Santoso",
+      "screen_name": "budisant5425",
+      "followers_count": 2904,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073196",
+    "created_at": "2023-05-22T10:22:43Z",
+    "text": "Absolutely loving my new Seat Stays from @AWCycles — support was quick and friendly Zero regrets. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "5217956984",
+      "name": "Hannah Hidayat",
+      "screen_name": "hannhida533",
+      "followers_count": 685,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Seat Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073256",
+    "created_at": "2023-05-22T10:42:46Z",
+    "text": "My HL Road Handlebars from AdventureWorks is excellent — delivery was smooth Five stars. #rideon #bikes #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "7398331444",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa2065",
+      "followers_count": 118,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073101",
+    "created_at": "2023-05-22T13:07:21Z",
+    "text": "RT @bayu15: Bintang dua buat Road-350-W Yellow dari AdventureWorks Cycles — zonk total 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "3740861159",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit5841",
+      "followers_count": 1788,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-350-W Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073050",
+    "created_at": "2023-05-22T13:16:43Z",
+    "text": "Frustrated with the LL Road Frame - Red from @AWCycles — rattles and feels flimsy Lesson learned. 😡 #cycling #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9363611169",
+      "name": "Mia Smith",
+      "screen_name": "miasmit2474",
+      "followers_count": 1636,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 51,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073071",
+    "created_at": "2023-05-22T18:38:28Z",
+    "text": "Anyone using the Hitch Rack - 4-Bike from @AWCycles? Worth it? 👀 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2189304032",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat6306",
+      "followers_count": 2887,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hitch Rack - 4-Bike",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000073135",
+    "created_at": "2023-05-22T19:24:18Z",
+    "text": "Nggak puas sama ML Touring Seat Assembly ku — finishing-nya asal Kapok. 🙄 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1817630033",
+      "name": "Dimas Nguyen",
+      "screen_name": "dimanguy7176",
+      "followers_count": 1123,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

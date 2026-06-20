@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000208501",
+    "created_at": "2025-03-08T06:52:07Z",
+    "text": "Really impressed with the LL Grip Tape — honestly a great buy Five stars. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "351831066",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc3047",
+      "followers_count": 1783,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "LL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208429",
+    "created_at": "2025-03-08T10:33:44Z",
+    "text": "RT @eko51: Udahan deh sama HL Touring Frame - Blue ini — jebol pas ride pertama ⚠️ #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5235633988",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija4464",
+      "followers_count": 227,
+      "verified": false
+    },
+    "retweet_count": 36,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Touring Frame - Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208397",
+    "created_at": "2025-03-08T11:08:03Z",
+    "text": "Akhirnya pakai Lock Washer 5 dan puas pol — worth it banget Nggak nyesel. 🙌 #bikelife #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7724532060",
+      "name": "Sam Smith",
+      "screen_name": "samsmit1615",
+      "followers_count": 1742,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208489",
+    "created_at": "2025-03-08T11:12:47Z",
+    "text": "Salut buat AdventureWorks Cycles soal HL Road Frame - Black — murah buat kualitas segini Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "719677398",
+      "name": "Chris Smith",
+      "screen_name": "chrismit2245",
+      "followers_count": 1729,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208485",
+    "created_at": "2025-03-08T11:57:56Z",
+    "text": "Udahan deh sama Handlebar Tube ini — zonk total Tolong AdventureWorks Cycles dibenahi. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "9527282350",
+      "name": "Dewi Brown",
+      "screen_name": "dewibrow7886",
+      "followers_count": 452,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208481",
+    "created_at": "2025-03-08T19:12:06Z",
+    "text": "Done with the LL Spindle/Axle honestly — support ignored my emails 👎 #cycling #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6172720763",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu4219",
+      "followers_count": 4198,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208466",
+    "created_at": "2025-03-08T19:42:22Z",
+    "text": "Akhirnya pakai Adjustable Race dan puas pol — sampai lebih cepat, aman Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "4118391300",
+      "name": "Tom Clark",
+      "screen_name": "tomclar3953",
+      "followers_count": 2667,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000208436",
+    "created_at": "2025-03-08T23:57:07Z",
+    "text": "Nggak nyesel beli Short-Sleeve Classic Jersey — performanya mulus Recommended. 👍 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "6157415605",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc6965",
+      "followers_count": 158,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

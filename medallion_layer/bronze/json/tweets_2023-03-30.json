@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000062475",
+    "created_at": "2023-03-30T11:34:51Z",
+    "text": "RT @budi8: My ML Mountain Seat Assembly from @AWCycles is excellent — feels solid and well made 🙌 #bikes #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "4174205245",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu1437",
+      "followers_count": 1565,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062538",
+    "created_at": "2023-03-30T15:54:05Z",
+    "text": "Just unboxed the HL Road Frame - Black, will report back",
+    "lang": "en",
+    "user": {
+      "id_str": "2470519541",
+      "name": "Maya Lee",
+      "screen_name": "mayalee7901",
+      "followers_count": 7,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062499",
+    "created_at": "2023-03-30T17:13:37Z",
+    "text": "Three weeks on the Mountain-200 Silver and I'm sold — fair price for this quality 🔥 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4855857677",
+      "name": "Budi Garcia",
+      "screen_name": "budigarc1815",
+      "followers_count": 638,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-200 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062397",
+    "created_at": "2023-03-30T17:53:53Z",
+    "text": "Capek deh sama ML Road Pedal dari @AWCycles — kirimnya lama banget Hindari. 👎 #AdventureWorks #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4021105973",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat4822",
+      "followers_count": 780,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062632",
+    "created_at": "2023-03-30T18:55:04Z",
+    "text": "Berharap lebih dari Lock Nut 19 — jebol pas ride pertama ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "2985189874",
+      "name": "Andi Anwar",
+      "screen_name": "andianwa5036",
+      "followers_count": 207,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 19",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062582",
+    "created_at": "2023-03-30T19:47:49Z",
+    "text": "Nggak nyesel beli Hydration Pack - 70 oz. — terasa kokoh dan rapi Nggak nyesel. 💯 #AWcycles #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "1311086218",
+      "name": "Eko Santoso",
+      "screen_name": "ekosant4633",
+      "followers_count": 1985,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hydration Pack - 70 oz.",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062430",
+    "created_at": "2023-03-30T20:17:29Z",
+    "text": "RT @mari4: Udah sebulan pakai Mountain-500 Silver, oke terus — performanya mulus 🙌 #MTB #rideon #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "9243050893",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali1817",
+      "followers_count": 2879,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062460",
+    "created_at": "2023-03-30T23:58:01Z",
+    "text": "Nggak nyesel beli HL Touring Frame - Yellow — performanya mulus Nggak nyesel. ✨ #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7884274309",
+      "name": "Hannah Putra",
+      "screen_name": "hannputr3415",
+      "followers_count": 502,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000125544",
+    "created_at": "2024-01-31T00:43:41Z",
+    "text": "Shoutout to AdventureWorks for the Chainring Bolts — exceeded my expectations ✨ #bikelife #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "1365843520",
+      "name": "Andi Smith",
+      "screen_name": "andismit1865",
+      "followers_count": 2543,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Chainring Bolts",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000125437",
+    "created_at": "2024-01-31T14:44:04Z",
+    "text": "The Pinch Bolt from @AWCycles has been fantastic — performs flawlessly 🙌 #bikes #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "5903852150",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy7467",
+      "followers_count": 1479,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000125559",
+    "created_at": "2024-01-31T17:30:16Z",
+    "text": "Three weeks on the Lock Nut 15 and I'm sold — great value for the price 🔥 #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1220293906",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar4416",
+      "followers_count": 2030,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000125580",
+    "created_at": "2024-01-31T17:56:08Z",
+    "text": "Done with the LL Crankarm honestly — overpriced for what you get Lesson learned. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "1494964141",
+      "name": "Maya Halim",
+      "screen_name": "mayahali4033",
+      "followers_count": 2288,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000125462",
+    "created_at": "2024-01-31T19:09:18Z",
+    "text": "Capek deh sama Hex Nut 7 dari AdventureWorks — bahannya murahan Pelajaran mahal. #rideon #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4196836648",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant7700",
+      "followers_count": 674,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000125507",
+    "created_at": "2024-01-31T19:35:24Z",
+    "text": "Not happy with my Hex Nut 9 at all — poor build, cheap materials Never again. 🙄 #bikelife #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5391477949",
+      "name": "Jordan Smith",
+      "screen_name": "jordsmit3105",
+      "followers_count": 2652,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000125465",
+    "created_at": "2024-01-31T19:49:31Z",
+    "text": "Nggak puas sama HL Road Frame - Black ku — rusak baru dua minggu Pelajaran mahal. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "6519498876",
+      "name": "Galih Hidayat",
+      "screen_name": "galihida4263",
+      "followers_count": 1482,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000125390",
+    "created_at": "2024-01-31T23:12:54Z",
+    "text": "Nyesel beli Road-350-W Yellow — finishing-nya asal Hindari. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "1247819573",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy1276",
+      "followers_count": 839,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-350-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

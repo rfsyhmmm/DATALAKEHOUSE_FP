@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000027694",
+    "created_at": "2022-10-12T10:26:49Z",
+    "text": "The Blade from AdventureWorks Cycles has been fantastic — great value for the price Zero regrets.",
+    "lang": "en",
+    "user": {
+      "id_str": "3079704282",
+      "name": "Raka Kim",
+      "screen_name": "rakakim2750",
+      "followers_count": 1232,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Blade",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027670",
+    "created_at": "2022-10-12T11:19:28Z",
+    "text": "The LL Mountain Frame - Silver from @AdventureWorks has been fantastic — arrived a day early, well packed Will buy again. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "650624593",
+      "name": "Maria Halim",
+      "screen_name": "marihali7459",
+      "followers_count": 1577,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 61,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Frame - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027681",
+    "created_at": "2022-10-12T17:53:22Z",
+    "text": "Naik level gowes ku gara-gara Touring-3000 Yellow — tahan banting dipakai berat Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "975258405",
+      "name": "Chris Nguyen",
+      "screen_name": "chringuy1565",
+      "followers_count": 1134,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-3000 Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027656",
+    "created_at": "2022-10-12T18:00:46Z",
+    "text": "Shoutout to @AdventureWorks for the ML Road Handlebars — customer service sorted it instantly Five stars. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "1913897978",
+      "name": "Chris Brown",
+      "screen_name": "chribrow8766",
+      "followers_count": 57,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027614",
+    "created_at": "2022-10-12T18:17:46Z",
+    "text": "Udahan deh sama HL Mountain Rear Wheel ini — kirimnya lama banget 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "7574849787",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija260",
+      "followers_count": 459,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027581",
+    "created_at": "2022-10-12T20:05:05Z",
+    "text": "Berharap lebih dari Headlights - Weatherproof — mahal nggak masuk akal Kapok. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "4723535663",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa6986",
+      "followers_count": 1998,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027728",
+    "created_at": "2022-10-12T21:35:24Z",
+    "text": "The Metal Bar 1 from AdventureWorks Cycles has been fantastic — customer service sorted it instantly Will buy again. 💯 #cycling #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9083782476",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow5097",
+      "followers_count": 652,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Metal Bar 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000027542",
+    "created_at": "2022-10-12T23:40:43Z",
+    "text": "Capek deh sama LL Road Pedal dari AdventureWorks — salah beli Hindari. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "3259430696",
+      "name": "Citra Putra",
+      "screen_name": "citrputr982",
+      "followers_count": 1589,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "LL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

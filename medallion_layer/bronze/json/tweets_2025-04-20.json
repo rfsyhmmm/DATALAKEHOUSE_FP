@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000217477",
+    "created_at": "2025-04-20T02:13:11Z",
+    "text": "Frustrated with the LL Mountain Pedal from AWC — rattles and feels flimsy Never again. #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3281183605",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant5534",
+      "followers_count": 1715,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217645",
+    "created_at": "2025-04-20T07:36:33Z",
+    "text": "RT @sofi80: Really impressed with the Fender Set - Mountain — shipping was fast and packaging perfect 🚴 #cycling #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "7722780354",
+      "name": "Sofia Wijaya",
+      "screen_name": "sofiwija4219",
+      "followers_count": 604,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217422",
+    "created_at": "2025-04-20T11:50:16Z",
+    "text": "Absolutely loving my new Touring-2000 Blue from AdventureWorks — feels solid and well made Five stars. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "3542786365",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat3443",
+      "followers_count": 1040,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217613",
+    "created_at": "2025-04-20T12:33:10Z",
+    "text": "Touring Tire dari AdventureWorks bikin nyesel — bunyi-bunyi dan ringkih Tolong AdventureWorks dibenahi. ⚠️ #MTB #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7478122543",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali1301",
+      "followers_count": 1527,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217518",
+    "created_at": "2025-04-20T14:23:27Z",
+    "text": "Expected so much more from the HL Mountain Frame - Silver — support ignored my emails Do better AdventureWorks. 😡 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "3909368716",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija5081",
+      "followers_count": 2221,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Mountain Frame - Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217573",
+    "created_at": "2025-04-20T15:52:01Z",
+    "text": "My Men's Sports Shorts from @AWCycles is excellent — build quality feels premium 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "5955757737",
+      "name": "Budi Clark",
+      "screen_name": "budiclar5464",
+      "followers_count": 1119,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Men's Sports Shorts, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217549",
+    "created_at": "2025-04-20T21:00:20Z",
+    "text": "The LL Touring Frame - Yellow from AWC has been fantastic — feels solid and well made Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "6073227000",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat8052",
+      "followers_count": 1934,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217457",
+    "created_at": "2025-04-20T23:35:23Z",
+    "text": "RT @kevi74: Kecewa banget sama HL Road Frame - Red — nggak sebanding harganya Pelajaran mahal. 🙄 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "280674751",
+      "name": "Andi Lopez",
+      "screen_name": "andilope4933",
+      "followers_count": 4873,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

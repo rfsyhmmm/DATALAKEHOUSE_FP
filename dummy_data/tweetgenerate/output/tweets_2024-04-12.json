@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000139879",
+    "created_at": "2024-04-12T04:47:09Z",
+    "text": "Two stars for the HL Road Frame - Red from AdventureWorks — poor build, cheap materials 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "9350843329",
+      "name": "Lina Nguyen",
+      "screen_name": "linanguy1026",
+      "followers_count": 1235,
+      "verified": true
+    },
+    "retweet_count": 10,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139800",
+    "created_at": "2024-04-12T09:35:10Z",
+    "text": "Kecewa banget sama Hex Nut 4 — salah beli Kapok. 😤 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "9583116076",
+      "name": "Sam Putra",
+      "screen_name": "samputr2673",
+      "followers_count": 1499,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139837",
+    "created_at": "2024-04-12T11:55:59Z",
+    "text": "The Hex Nut 5 from AWC let me down — way too expensive Do better AWC. 😡 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9216339280",
+      "name": "Sam Kim",
+      "screen_name": "samkim7092",
+      "followers_count": 1051,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139941",
+    "created_at": "2024-04-12T16:19:03Z",
+    "text": "Terkesan banget sama HL Road Frame - Red — masih awet setelah berbulan-bulan Nggak nyesel. ✨ #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8148129811",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali6338",
+      "followers_count": 322,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139892",
+    "created_at": "2024-04-12T18:40:20Z",
+    "text": "Really impressed with the LL Touring Frame - Blue — performs flawlessly Highly recommend. 🙌 #bikes #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "9679046222",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu9840",
+      "followers_count": 1917,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139957",
+    "created_at": "2024-04-12T19:23:16Z",
+    "text": "Nggak nyesel beli Paint - Blue — masih awet setelah berbulan-bulan Bintang lima. 💯 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1642215940",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida8169",
+      "followers_count": 1631,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Paint - Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139926",
+    "created_at": "2024-04-12T21:01:39Z",
+    "text": "Bintang dua buat HL Mountain Rear Wheel dari @AdventureWorks — kemahalan buat kualitas segini 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "3010065499",
+      "name": "Tom Lee",
+      "screen_name": "tomlee6195",
+      "followers_count": 947,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000139883",
+    "created_at": "2024-04-12T22:40:22Z",
+    "text": "Udah sebulan pakai HL Road Frame - Red, oke terus — terasa kokoh dan rapi Bakal beli lagi. 💯 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4659324555",
+      "name": "Dimas Nguyen",
+      "screen_name": "dimanguy4697",
+      "followers_count": 1192,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

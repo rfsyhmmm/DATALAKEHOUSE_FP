@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000076806",
+    "created_at": "2023-06-09T08:35:06Z",
+    "text": "Regret buying the Road-250 Red — fell apart on the first ride Lesson learned. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "2863361056",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida7655",
+      "followers_count": 3715,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076769",
+    "created_at": "2023-06-09T09:50:51Z",
+    "text": "Anyone using the Road-650 Red from AdventureWorks Cycles? Worth it? 🤷 #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8097979302",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali361",
+      "followers_count": 706,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076891",
+    "created_at": "2023-06-09T10:23:12Z",
+    "text": "Udah sebulan pakai Mountain-400-W Silver, oke terus — murah buat kualitas segini 😎 #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "2930489619",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant3797",
+      "followers_count": 1093,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076836",
+    "created_at": "2023-06-09T12:38:49Z",
+    "text": "Expected so much more from the Front Derailleur Cage — overpriced for what you get Do better @AWCycles. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "1945733814",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope4110",
+      "followers_count": 1354,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Front Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076841",
+    "created_at": "2023-06-09T14:11:20Z",
+    "text": "Suka banget sama Road-550-W Yellow dari @AWCycles — harga sebanding kualitas Bakal beli lagi. 🚴 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "5455476657",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat7173",
+      "followers_count": 2775,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076782",
+    "created_at": "2023-06-09T17:44:05Z",
+    "text": "Absolutely loving my new Touring-3000 Yellow from AdventureWorks — feels solid and well made Zero regrets.",
+    "lang": "en",
+    "user": {
+      "id_str": "1468515619",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu4129",
+      "followers_count": 3890,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 49,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076771",
+    "created_at": "2023-06-09T19:04:19Z",
+    "text": "Capek deh sama HL Road Handlebars dari AdventureWorks — packing-nya berantakan Tolong AdventureWorks dibenahi. 😡 #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6649825068",
+      "name": "Maya Lee",
+      "screen_name": "mayalee8339",
+      "followers_count": 285,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076879",
+    "created_at": "2023-06-09T19:27:33Z",
+    "text": "Terkesan banget sama ML Road Frame - Red — performanya mulus 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "9778179605",
+      "name": "Kevin Brown",
+      "screen_name": "kevibrow4045",
+      "followers_count": 1928,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

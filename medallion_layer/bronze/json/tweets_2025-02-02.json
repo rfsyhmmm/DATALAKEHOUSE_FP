@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000201622",
+    "created_at": "2025-02-02T07:56:07Z",
+    "text": "Done with the HL Road Frame - Black honestly — rattles and feels flimsy 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "3449865388",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy3731",
+      "followers_count": 881,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201651",
+    "created_at": "2025-02-02T08:10:49Z",
+    "text": "Upgraded to the Thin-Jam Lock Nut 4 and no looking back — customer service sorted it instantly Five stars. 😍 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "9660192351",
+      "name": "Budi Saputra",
+      "screen_name": "budisapu4974",
+      "followers_count": 2736,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201623",
+    "created_at": "2025-02-02T09:15:05Z",
+    "text": "Frustrated with the LL Mountain Seat Assembly from AdventureWorks Cycles — the return process is a nightmare 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "3358534614",
+      "name": "Jordan Pratama",
+      "screen_name": "jordprat175",
+      "followers_count": 576,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201579",
+    "created_at": "2025-02-02T10:43:49Z",
+    "text": "Nggak nyesel beli Hex Nut 16 — tahan banting dipakai berat Bakal beli lagi. #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1117894747",
+      "name": "Kevin Hidayat",
+      "screen_name": "kevihida9132",
+      "followers_count": 2421,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201708",
+    "created_at": "2025-02-02T11:34:42Z",
+    "text": "Naik level gowes ku gara-gara Paint - Silver — sampai lebih cepat, aman Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "2962457410",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc532",
+      "followers_count": 2732,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Paint - Silver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201683",
+    "created_at": "2025-02-02T14:53:51Z",
+    "text": "Akhirnya pakai HL Road Rear Wheel dan puas pol — pengiriman cepat dan packing rapi Nggak nyesel. 😎 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2911826298",
+      "name": "Chris Putra",
+      "screen_name": "chriputr2632",
+      "followers_count": 1588,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201638",
+    "created_at": "2025-02-02T20:56:05Z",
+    "text": "Lagi mikir mau beli LL Mountain Frame - Silver. Ada review? 🧐 #MTB #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7434630359",
+      "name": "Citra Garcia",
+      "screen_name": "citrgarc6485",
+      "followers_count": 343,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201552",
+    "created_at": "2025-02-02T21:56:10Z",
+    "text": "Frustrated with the Mountain Pump from @AWCycles — wore out way too fast ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "8850228160",
+      "name": "Sam Lee",
+      "screen_name": "samlee1347",
+      "followers_count": 165,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Mountain Pump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

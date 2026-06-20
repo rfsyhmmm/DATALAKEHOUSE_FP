@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000076982",
+    "created_at": "2023-06-10T08:49:25Z",
+    "text": "Naik level gowes ku gara-gara Road-650 Red — pengiriman cepat dan packing rapi Recommended. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "5316640516",
+      "name": "Mia Halim",
+      "screen_name": "miahali9449",
+      "followers_count": 820,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-650 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077015",
+    "created_at": "2023-06-10T09:35:49Z",
+    "text": "Shoutout to AWC for the Hex Nut 20 — delivery was smooth Will buy again. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "360303523",
+      "name": "Andi Brown",
+      "screen_name": "andibrow3054",
+      "followers_count": 876,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076941",
+    "created_at": "2023-06-10T11:11:51Z",
+    "text": "Frustrated with the Hex Nut 5 from AdventureWorks Cycles — shipping took forever Avoid.",
+    "lang": "en",
+    "user": {
+      "id_str": "2822613624",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy7094",
+      "followers_count": 269,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000076907",
+    "created_at": "2023-06-10T12:25:55Z",
+    "text": "Berharap lebih dari ML Road Frame-W - Yellow — bunyi-bunyi dan ringkih Tolong @AWCycles dibenahi. 😣 #AdventureWorks #AWcycles #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4942776346",
+      "name": "Tom Brown",
+      "screen_name": "tombrow3853",
+      "followers_count": 1921,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame-W - Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077053",
+    "created_at": "2023-06-10T12:51:57Z",
+    "text": "Really disappointed with the Women's Tights — poor build, cheap materials Do better AdventureWorks. 🙄 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "832122650",
+      "name": "Eko Lee",
+      "screen_name": "ekolee8319",
+      "followers_count": 326,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Women's Tights, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077062",
+    "created_at": "2023-06-10T17:49:21Z",
+    "text": "Frustrated with the LL Fork from AdventureWorks Cycles — packaging was a mess Never again. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "5748557070",
+      "name": "Lina Wijaya",
+      "screen_name": "linawija1616",
+      "followers_count": 1800,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077026",
+    "created_at": "2023-06-10T19:19:13Z",
+    "text": "Terkesan banget sama Mountain-200 Black — murah buat kualitas segini Bakal beli lagi. 👍 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1322731076",
+      "name": "Andi Nguyen",
+      "screen_name": "andinguy4000",
+      "followers_count": 1878,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-200 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077082",
+    "created_at": "2023-06-10T22:08:31Z",
+    "text": "Udah sebulan pakai Touring-1000 Blue, oke terus — tahan banting dipakai berat #AdventureWorks #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4002108619",
+      "name": "Mia Hidayat",
+      "screen_name": "miahida9822",
+      "followers_count": 3501,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

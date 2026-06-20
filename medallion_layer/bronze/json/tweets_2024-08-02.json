@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000163454",
+    "created_at": "2024-08-02T07:07:14Z",
+    "text": "The Lock Washer 12 from AdventureWorks Cycles let me down — it arrived late and damaged 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "5338832147",
+      "name": "Rizky Hidayat",
+      "screen_name": "rizkhida3789",
+      "followers_count": 976,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163609",
+    "created_at": "2024-08-02T09:10:41Z",
+    "text": "Akhirnya pakai Road-250 Red dan puas pol — worth it banget Nggak nyesel. 😍 #bikelife #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2091881331",
+      "name": "Sam Anwar",
+      "screen_name": "samanwa1004",
+      "followers_count": 4867,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163522",
+    "created_at": "2024-08-02T13:54:39Z",
+    "text": "Not happy with my Thin-Jam Hex Nut 16 at all — customer service was useless Lesson learned. 👎 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "8147422948",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope7886",
+      "followers_count": 631,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163584",
+    "created_at": "2024-08-02T17:10:40Z",
+    "text": "Absolutely loving my new ML Road Frame - Red from AdventureWorks — customer service sorted it instantly Five stars. ✨ #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "415593879",
+      "name": "Andi Brown",
+      "screen_name": "andibrow23",
+      "followers_count": 1122,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163592",
+    "created_at": "2024-08-02T18:31:02Z",
+    "text": "Udah sebulan pakai LL Touring Frame - Blue, oke terus — terasa kokoh dan rapi 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "5479769640",
+      "name": "Tom Garcia",
+      "screen_name": "tomgarc7552",
+      "followers_count": 1044,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 63,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163484",
+    "created_at": "2024-08-02T19:14:08Z",
+    "text": "Done with the Mountain-100 Silver honestly — it arrived late and damaged Do better AdventureWorks. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "3564845141",
+      "name": "Bayu Wijaya",
+      "screen_name": "bayuwija1284",
+      "followers_count": 1132,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Mountain-100 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163551",
+    "created_at": "2024-08-02T21:29:16Z",
+    "text": "Not happy with my HL Mountain Tire at all — way too expensive Never again.",
+    "lang": "en",
+    "user": {
+      "id_str": "1878429544",
+      "name": "Sam Pratama",
+      "screen_name": "samprat1813",
+      "followers_count": 3485,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163547",
+    "created_at": "2024-08-02T21:53:57Z",
+    "text": "Naik level gowes ku gara-gara LL Touring Frame - Blue — admin responsif banget Nggak nyesel. 👍 #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "459532071",
+      "name": "Jordan Halim",
+      "screen_name": "jordhali1080",
+      "followers_count": 691,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Touring Frame - Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

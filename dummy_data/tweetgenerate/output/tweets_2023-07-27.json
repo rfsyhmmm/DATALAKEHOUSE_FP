@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000086078",
+    "created_at": "2023-07-27T07:03:21Z",
+    "text": "Udahan deh sama Road-650 Red ini — nggak sebanding harganya Kapok. 😡 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3886207067",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc3116",
+      "followers_count": 878,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086206",
+    "created_at": "2023-07-27T07:24:05Z",
+    "text": "Terkesan banget sama ML Road Frame-W - Yellow — harga sebanding kualitas ✨ #cycling #AWcycles #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "707670781",
+      "name": "Budi Smith",
+      "screen_name": "budismit7092",
+      "followers_count": 172,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame-W - Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086117",
+    "created_at": "2023-07-27T09:45:49Z",
+    "text": "The LL Road Frame - Red from @AdventureWorks has been fantastic — great value for the price Zero regrets. 🙌 #AWcycles #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "1561909037",
+      "name": "Chris Putra",
+      "screen_name": "chriputr1534",
+      "followers_count": 495,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 53,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086165",
+    "created_at": "2023-07-27T10:16:38Z",
+    "text": "Berharap lebih dari Hitch Rack - 4-Bike — komplain didiemin Hindari. 😩 #MTB #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "4642066188",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija5597",
+      "followers_count": 3129,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Hitch Rack - 4-Bike",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086118",
+    "created_at": "2023-07-27T12:19:54Z",
+    "text": "Absolutely loving my new Mountain-500 Black from AWC — feels solid and well made Will buy again. 👍 #MTB #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5125723797",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu5964",
+      "followers_count": 914,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086100",
+    "created_at": "2023-07-27T16:44:18Z",
+    "text": "Terkesan banget sama Thin-Jam Lock Nut 10 — kirimnya lancar Bakal beli lagi. #rideon #bikes #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8214240388",
+      "name": "Sam Kim",
+      "screen_name": "samkim1490",
+      "followers_count": 3370,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086087",
+    "created_at": "2023-07-27T18:49:45Z",
+    "text": "Baru unboxing Touring-3000 Yellow, nanti aku update 🧐 #MTB #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "507301249",
+      "name": "Raka Lee",
+      "screen_name": "rakalee3129",
+      "followers_count": 234,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-3000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000086179",
+    "created_at": "2023-07-27T19:56:31Z",
+    "text": "RT @eko7: Udah sebulan pakai Internal Lock Washer 5, oke terus — performanya mulus Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "936288033",
+      "name": "Maya Lopez",
+      "screen_name": "mayalope1383",
+      "followers_count": 1939,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

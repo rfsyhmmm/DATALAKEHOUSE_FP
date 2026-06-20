@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000035432",
+    "created_at": "2022-11-18T10:06:31Z",
+    "text": "Anyone using the Adjustable Race from AdventureWorks Cycles? Worth it? 🤷 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "623326383",
+      "name": "Citra Saputra",
+      "screen_name": "citrsapu4421",
+      "followers_count": 1015,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035433",
+    "created_at": "2022-11-18T11:27:44Z",
+    "text": "Two stars for the Hex Nut 14 from AdventureWorks Cycles — wish I'd skipped it 👎 #bikelife #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9995680862",
+      "name": "Galih Saputra",
+      "screen_name": "galisapu2912",
+      "followers_count": 1076,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035452",
+    "created_at": "2022-11-18T15:18:07Z",
+    "text": "Akhirnya pakai External Lock Washer 3 dan puas pol — masih awet setelah berbulan-bulan 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "4914645976",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant9511",
+      "followers_count": 2321,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "External Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035398",
+    "created_at": "2022-11-18T17:44:10Z",
+    "text": "Terkesan banget sama Mountain Tire Tube — CS-nya cepat dan ramah Bakal beli lagi. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "5378832139",
+      "name": "Nadia Brown",
+      "screen_name": "nadibrow4835",
+      "followers_count": 1249,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035420",
+    "created_at": "2022-11-18T18:46:42Z",
+    "text": "Ada yang pakai Road Tire Tube dari AdventureWorks? Worth it nggak? 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "1635323606",
+      "name": "Eko Putra",
+      "screen_name": "ekoputr844",
+      "followers_count": 254,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Road Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035390",
+    "created_at": "2022-11-18T20:19:29Z",
+    "text": "Absolutely loving my new Thin-Jam Hex Nut 12 from AdventureWorks Cycles — the team was super helpful Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "5199742889",
+      "name": "Putri Garcia",
+      "screen_name": "putrgarc6298",
+      "followers_count": 1468,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035463",
+    "created_at": "2022-11-18T21:09:03Z",
+    "text": "Capek deh sama HL Touring Seat/Saddle dari @AWCycles — bunyi-bunyi dan ringkih 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "9966806888",
+      "name": "Bayu Anwar",
+      "screen_name": "bayuanwa6607",
+      "followers_count": 2476,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035506",
+    "created_at": "2022-11-18T21:19:17Z",
+    "text": "Three weeks on the LL Shell and I'm sold — support was quick and friendly Zero regrets. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "918999160",
+      "name": "Andi Lee",
+      "screen_name": "andilee1612",
+      "followers_count": 46,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

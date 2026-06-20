@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000082599",
+    "created_at": "2023-07-10T08:10:46Z",
+    "text": "The Lock Nut 18 from @AWCycles has been fantastic — delivery was smooth 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "2311455970",
+      "name": "Hannah Hidayat",
+      "screen_name": "hannhida6161",
+      "followers_count": 2088,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082579",
+    "created_at": "2023-07-10T10:33:53Z",
+    "text": "Really impressed with the ML Road Tire — delivery was smooth Five stars. 😎 #bikes #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4567532789",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu3652",
+      "followers_count": 1896,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082708",
+    "created_at": "2023-07-10T12:12:47Z",
+    "text": "Akhirnya pakai LL Road Frame - Black dan puas pol — pelayanannya membantu 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "4570292038",
+      "name": "Olivia Lee",
+      "screen_name": "olivlee4162",
+      "followers_count": 464,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082687",
+    "created_at": "2023-07-10T13:18:08Z",
+    "text": "Shoutout to AWC for the Hex Nut 21 — performs flawlessly ✨ #AWcycles #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "8295901935",
+      "name": "Putri Anwar",
+      "screen_name": "putranwa8509",
+      "followers_count": 2835,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 21",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082633",
+    "created_at": "2023-07-10T13:36:07Z",
+    "text": "Terkesan banget sama HL Headset — murah buat kualitas segini Recommended. 😎 #rideon #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "2308729314",
+      "name": "Budi Pratama",
+      "screen_name": "budiprat2542",
+      "followers_count": 1839,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 51,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082571",
+    "created_at": "2023-07-10T20:24:42Z",
+    "text": "Naik level gowes ku gara-gara Lock Washer 1 — masih awet setelah berbulan-bulan Nggak nyesel. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "1442670554",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija4583",
+      "followers_count": 819,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082527",
+    "created_at": "2023-07-10T22:15:59Z",
+    "text": "Bintang dua buat Road-350-W Yellow dari AdventureWorks — CS-nya nggak guna Hindari. 😡 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2268530014",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant1771",
+      "followers_count": 243,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 47,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road-350-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082642",
+    "created_at": "2023-07-10T22:18:29Z",
+    "text": "Nyesel beli Rear Derailleur — finishing-nya asal Hindari. 😤 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9289846045",
+      "name": "Putri Brown",
+      "screen_name": "putrbrow8020",
+      "followers_count": 1880,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

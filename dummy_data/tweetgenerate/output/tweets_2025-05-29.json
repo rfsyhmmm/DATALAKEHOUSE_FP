@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000225310",
+    "created_at": "2025-05-29T08:20:36Z",
+    "text": "Done with the Thin-Jam Hex Nut 1 honestly — poor build, cheap materials Do better @AWCycles. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "597823895",
+      "name": "Sam Hidayat",
+      "screen_name": "samhida358",
+      "followers_count": 1024,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225233",
+    "created_at": "2025-05-29T10:53:42Z",
+    "text": "Two stars for the External Lock Washer 1 from @AWCycles — customer service was useless Lesson learned. 👎 #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7694660615",
+      "name": "Tom Anwar",
+      "screen_name": "tomanwa3978",
+      "followers_count": 606,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "External Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225211",
+    "created_at": "2025-05-29T15:36:45Z",
+    "text": "Naik level gowes ku gara-gara LL Touring Frame - Blue — tahan banting dipakai berat Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "5753908118",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat9795",
+      "followers_count": 588,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 40,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Touring Frame - Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225291",
+    "created_at": "2025-05-29T16:01:55Z",
+    "text": "Nggak puas sama Front Derailleur ku — packing-nya berantakan 😤 #rideon #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2880778425",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy1979",
+      "followers_count": 817,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Front Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225229",
+    "created_at": "2025-05-29T16:02:32Z",
+    "text": "Frustrated with the LL Mountain Frame - Silver from @AWCycles — rattles and feels flimsy 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "9903088618",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat3100",
+      "followers_count": 1570,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225258",
+    "created_at": "2025-05-29T16:10:05Z",
+    "text": "Naik level gowes ku gara-gara HL Mountain Frame - Black — kuat di trek kasar Recommended.",
+    "lang": "in",
+    "user": {
+      "id_str": "2215310790",
+      "name": "Mia Santoso",
+      "screen_name": "miasant4926",
+      "followers_count": 1860,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 48,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225249",
+    "created_at": "2025-05-29T20:54:43Z",
+    "text": "Thinking about the LL Road Frame - Black. Any reviews? 👀 #AdventureWorks #bikes #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "864356435",
+      "name": "Maya Halim",
+      "screen_name": "mayahali490",
+      "followers_count": 1239,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000225219",
+    "created_at": "2025-05-29T22:31:33Z",
+    "text": "Anyone using the Fender Set - Mountain from @AdventureWorks? Worth it? 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "837772096",
+      "name": "Maria Smith",
+      "screen_name": "marismit7937",
+      "followers_count": 2928,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

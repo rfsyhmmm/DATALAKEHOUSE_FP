@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000191062",
+    "created_at": "2024-12-12T09:19:22Z",
+    "text": "Regret buying the Mountain-100 Silver — it broke after two weeks 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "1874913184",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit7489",
+      "followers_count": 91,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 38,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Mountain-100 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000191025",
+    "created_at": "2024-12-12T09:53:16Z",
+    "text": "RT @gali84: Nggak nyesel beli HL Headset — worth it banget Recommended. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "5255271069",
+      "name": "Olivia Pratama",
+      "screen_name": "olivprat3477",
+      "followers_count": 629,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190899",
+    "created_at": "2024-12-12T13:39:11Z",
+    "text": "Shoutout to AWC for the Touring-3000 Blue — build quality feels premium Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "8746785589",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc4641",
+      "followers_count": 1871,
+      "verified": true
+    },
+    "retweet_count": 7,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190943",
+    "created_at": "2024-12-12T15:41:51Z",
+    "text": "Terkesan banget sama ML Mountain Seat/Saddle — harga sebanding kualitas 😍 #cycling #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "8612193786",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope7125",
+      "followers_count": 666,
+      "verified": false
+    },
+    "retweet_count": 32,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190937",
+    "created_at": "2024-12-12T18:22:16Z",
+    "text": "RT @maya99: Regret buying the Lock Washer 11 — rattles and feels flimsy Lesson learned. 👎 #bikelife #cycling #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1155758147",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa2954",
+      "followers_count": 159,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Washer 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190865",
+    "created_at": "2024-12-12T19:58:54Z",
+    "text": "Nggak nyesel beli HL Mountain Frame - Black — worth it banget 💯 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "5429760522",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc4408",
+      "followers_count": 3555,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190900",
+    "created_at": "2024-12-12T20:19:43Z",
+    "text": "Suka banget sama Hex Nut 13 dari AWC — harga sebanding kualitas Nggak nyesel. ✨ #AdventureWorks #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7262383327",
+      "name": "Lina Wijaya",
+      "screen_name": "linawija4037",
+      "followers_count": 594,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000190989",
+    "created_at": "2024-12-12T20:32:56Z",
+    "text": "Terkesan banget sama Road-450 Red — kualitasnya premium Bintang lima. 👍 #bikelife #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1178113823",
+      "name": "Maya Brown",
+      "screen_name": "mayabrow4254",
+      "followers_count": 2846,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-450 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

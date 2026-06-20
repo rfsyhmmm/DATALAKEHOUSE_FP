@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000015536",
+    "created_at": "2022-08-11T00:04:10Z",
+    "text": "RT @nadi44: Shoutout to AdventureWorks for the Long-Sleeve Logo Jersey — build quality feels premium Zero regrets. 🚴 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9798394194",
+      "name": "Sofia Kim",
+      "screen_name": "sofikim7683",
+      "followers_count": 2135,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Long-Sleeve Logo Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015521",
+    "created_at": "2022-08-11T05:32:13Z",
+    "text": "Suka banget sama Thin-Jam Hex Nut 12 dari @AWCycles — admin responsif banget Bakal beli lagi. 💯 #AWcycles #bikes #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7652667703",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee7183",
+      "followers_count": 846,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015490",
+    "created_at": "2022-08-11T11:01:20Z",
+    "text": "Kecewa banget sama Hex Nut 9 — datang telat dan rusak Pelajaran mahal. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "1802356557",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija4948",
+      "followers_count": 2817,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015556",
+    "created_at": "2022-08-11T13:25:26Z",
+    "text": "Terkesan banget sama Touring-2000 Blue — worth it banget Nggak nyesel. 💯 #bikelife #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7895626937",
+      "name": "Budi Lopez",
+      "screen_name": "budilope6651",
+      "followers_count": 1762,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-2000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015588",
+    "created_at": "2022-08-11T16:25:27Z",
+    "text": "Lagi banding-bandingin LL Touring Handlebars sama merek lain 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "455959916",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu9724",
+      "followers_count": 512,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015526",
+    "created_at": "2022-08-11T18:28:46Z",
+    "text": "Mountain-500 Black dari AdventureWorks Cycles mantap sih — masih awet setelah berbulan-bulan Recommended. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "1400989802",
+      "name": "Sam Smith",
+      "screen_name": "samsmit722",
+      "followers_count": 59,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-500 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015546",
+    "created_at": "2022-08-11T19:49:57Z",
+    "text": "Suka banget sama HL Road Frame - Black dari @AdventureWorks — admin responsif banget Bakal beli lagi. ✨ #bikes #AWcycles #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2483767348",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee2425",
+      "followers_count": 2739,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 69,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015520",
+    "created_at": "2022-08-11T22:15:09Z",
+    "text": "Berharap lebih dari ML Road Seat Assembly — datang telat dan rusak Tolong AdventureWorks dibenahi. 😩 #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2159258639",
+      "name": "Bayu Clark",
+      "screen_name": "bayuclar664",
+      "followers_count": 2314,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 60,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

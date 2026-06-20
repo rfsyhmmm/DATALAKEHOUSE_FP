@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000030909",
+    "created_at": "2022-10-28T02:46:04Z",
+    "text": "RT @maya77: ML Headset dari AdventureWorks Cycles mantap sih — worth it banget Recommended. 🔥 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1742363502",
+      "name": "Chris Garcia",
+      "screen_name": "chrigarc1877",
+      "followers_count": 558,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030859",
+    "created_at": "2022-10-28T03:33:11Z",
+    "text": "Naik level gowes ku gara-gara ML Fork — pelayanannya membantu 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "889249949",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat3011",
+      "followers_count": 2303,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030812",
+    "created_at": "2022-10-28T12:51:21Z",
+    "text": "Kecewa banget sama Lock Nut 1 — zonk total Pelajaran mahal. ⚠️ #AWcycles #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9686739845",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy3546",
+      "followers_count": 2298,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031031",
+    "created_at": "2022-10-28T14:00:54Z",
+    "text": "Suka banget sama Road-250 Red dari @AWCycles — pelayanannya membantu Bakal beli lagi. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "8687030322",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija4212",
+      "followers_count": 1539,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-250 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030789",
+    "created_at": "2022-10-28T19:06:35Z",
+    "text": "The Lower Head Race from @AWCycles let me down — wore out way too fast Never again. 🙄 #MTB #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2887895119",
+      "name": "Tom Lee",
+      "screen_name": "tomlee2521",
+      "followers_count": 379,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lower Head Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030958",
+    "created_at": "2022-10-28T19:10:36Z",
+    "text": "The Headlights - Dual-Beam from AWC let me down — overpriced for what you get Do better AWC. 😤 #AdventureWorks #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2294332526",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija2381",
+      "followers_count": 136,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Headlights - Dual-Beam",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000031067",
+    "created_at": "2022-10-28T19:44:38Z",
+    "text": "Three weeks on the Touring-3000 Blue and I'm sold — performs flawlessly Will buy again. 🙌 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6738970971",
+      "name": "Bayu Hidayat",
+      "screen_name": "bayuhida2510",
+      "followers_count": 1043,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030998",
+    "created_at": "2022-10-28T19:57:35Z",
+    "text": "Naik level gowes ku gara-gara Mountain-200 Black — CS-nya cepat dan ramah Nggak nyesel. 😍 #rideon #bikelife #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "2476861895",
+      "name": "Maria Lopez",
+      "screen_name": "marilope9453",
+      "followers_count": 942,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 46,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-200 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

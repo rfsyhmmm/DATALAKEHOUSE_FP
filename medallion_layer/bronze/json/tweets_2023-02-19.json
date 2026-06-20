@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000054401",
+    "created_at": "2023-02-19T06:04:38Z",
+    "text": "Nggak nyesel beli Lock Nut 23 — tahan banting dipakai berat Bintang lima. 🔥 #AdventureWorks #bikelife #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4575992963",
+      "name": "Maria Lopez",
+      "screen_name": "marilope668",
+      "followers_count": 2548,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054549",
+    "created_at": "2023-02-19T07:16:20Z",
+    "text": "The Hex Nut 20 from @AdventureWorks has been fantastic — honestly a great buy 😎 #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9026878063",
+      "name": "Nadia Clark",
+      "screen_name": "nadiclar9019",
+      "followers_count": 1791,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Hex Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054561",
+    "created_at": "2023-02-19T08:22:50Z",
+    "text": "Kecewa banget sama Thin-Jam Lock Nut 9 — CS-nya nggak guna Kapok. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "5860519628",
+      "name": "Eko Santoso",
+      "screen_name": "ekosant1419",
+      "followers_count": 2318,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054508",
+    "created_at": "2023-02-19T08:56:06Z",
+    "text": "Three weeks on the Touring-3000 Yellow and I'm sold — zero wear after heavy use Highly recommend. ✨ #rideon #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4818973525",
+      "name": "Hannah Kim",
+      "screen_name": "hannkim4250",
+      "followers_count": 623,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054415",
+    "created_at": "2023-02-19T15:38:20Z",
+    "text": "Expected so much more from the HL Road Rim — way too expensive 😩 #AdventureWorks #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9852937928",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc9773",
+      "followers_count": 1687,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054443",
+    "created_at": "2023-02-19T20:21:18Z",
+    "text": "Really impressed with the Internal Lock Washer 4 — feels solid and well made 😎 #cycling #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "5042180324",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija5932",
+      "followers_count": 1608,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054465",
+    "created_at": "2023-02-19T22:22:04Z",
+    "text": "RT @maya69: Really impressed with the Headlights - Weatherproof — customer service sorted it instantly Will buy again. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "2119559629",
+      "name": "Mia Wijaya",
+      "screen_name": "miawija4191",
+      "followers_count": 2457,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054426",
+    "created_at": "2023-02-19T23:12:34Z",
+    "text": "RT @mari17: Bintang dua buat Road-650 Red dari @AdventureWorks — jebol pas ride pertama Pelajaran mahal. 😣 #AdventureWorks #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9654152594",
+      "name": "Dimas Putra",
+      "screen_name": "dimaputr4021",
+      "followers_count": 948,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-650 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

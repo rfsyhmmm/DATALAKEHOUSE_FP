@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000111563",
+    "created_at": "2023-11-25T03:11:55Z",
+    "text": "The Rear Derailleur from AdventureWorks Cycles has been fantastic — arrived a day early, well packed Zero regrets. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "2473136112",
+      "name": "Hannah Lopez",
+      "screen_name": "hannlope546",
+      "followers_count": 1629,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111689",
+    "created_at": "2023-11-25T07:17:45Z",
+    "text": "Really disappointed with the Women's Mountain Shorts — fell apart on the first ride Avoid. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "3139826986",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr4440",
+      "followers_count": 765,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Women's Mountain Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111723",
+    "created_at": "2023-11-25T08:22:01Z",
+    "text": "Three weeks on the Road-250 Black and I'm sold — performs flawlessly Highly recommend. 😎 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6862559206",
+      "name": "Lina Saputra",
+      "screen_name": "linasapu1583",
+      "followers_count": 630,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111623",
+    "created_at": "2023-11-25T13:38:28Z",
+    "text": "Expected so much more from the Road-650 Black — overpriced for what you get Lesson learned. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "9323265043",
+      "name": "Alex Halim",
+      "screen_name": "alexhali2764",
+      "followers_count": 3164,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-650 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111586",
+    "created_at": "2023-11-25T19:14:19Z",
+    "text": "Baru unboxing LL Road Rear Wheel, nanti aku update 👀 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9029742549",
+      "name": "Chris Garcia",
+      "screen_name": "chrigarc3235",
+      "followers_count": 823,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111497",
+    "created_at": "2023-11-25T19:20:21Z",
+    "text": "Salut buat @AWCycles soal Full-Finger Gloves — performanya mulus Nggak nyesel. 👍 #MTB #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1473132056",
+      "name": "Galih Putra",
+      "screen_name": "galiputr3005",
+      "followers_count": 2954,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Full-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111520",
+    "created_at": "2023-11-25T19:20:36Z",
+    "text": "RT @alex99: Udah sebulan pakai Road-450 Red, oke terus — beli yang tepat sih Recommended. 😎 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1131720616",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali9092",
+      "followers_count": 201,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-450 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000111648",
+    "created_at": "2023-11-25T23:07:30Z",
+    "text": "Three weeks on the Thin-Jam Hex Nut 6 and I'm sold — couldn't be happier Zero regrets. 🚴 #cycling #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "558361750",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy575",
+      "followers_count": 565,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 57,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

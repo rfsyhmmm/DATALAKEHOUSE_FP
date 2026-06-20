@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000169576",
+    "created_at": "2024-08-30T05:35:34Z",
+    "text": "Berharap lebih dari Lock Nut 15 — nggak sebanding harganya 😤 #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6557452068",
+      "name": "Budi Brown",
+      "screen_name": "budibrow758",
+      "followers_count": 134,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169571",
+    "created_at": "2024-08-30T11:07:40Z",
+    "text": "Two stars for the Mountain-300 Black from AdventureWorks Cycles — customer service was useless Never again. 👎 #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2227764811",
+      "name": "Maria Halim",
+      "screen_name": "marihali9552",
+      "followers_count": 1478,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain-300 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169538",
+    "created_at": "2024-08-30T20:04:06Z",
+    "text": "Shoutout to AdventureWorks Cycles for the ML Road Frame - Red — worth every penny 🙌 #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3022178318",
+      "name": "Alex Kim",
+      "screen_name": "alexkim8624",
+      "followers_count": 1526,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 64,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169474",
+    "created_at": "2024-08-30T20:25:00Z",
+    "text": "Salut buat @AdventureWorks soal Seat Post — sampai lebih cepat, aman Recommended. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "1369677623",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat686",
+      "followers_count": 3923,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Seat Post",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169427",
+    "created_at": "2024-08-30T20:42:23Z",
+    "text": "Regret buying the External Lock Washer 1 — it arrived late and damaged Never again. 😣 #AdventureWorks #cycling #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6439418370",
+      "name": "Olivia Lee",
+      "screen_name": "olivlee4766",
+      "followers_count": 250,
+      "verified": true
+    },
+    "retweet_count": 26,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "External Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169577",
+    "created_at": "2024-08-30T22:20:16Z",
+    "text": "Capek deh sama LL Mountain Frame - Silver dari AdventureWorks — bunyi-bunyi dan ringkih Pelajaran mahal. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "523747197",
+      "name": "Dewi Clark",
+      "screen_name": "dewiclar622",
+      "followers_count": 470,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169504",
+    "created_at": "2024-08-30T22:35:06Z",
+    "text": "Akhirnya pakai Men's Sports Shorts dan puas pol — murah buat kualitas segini 👍 #AdventureWorks #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4439193837",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu8727",
+      "followers_count": 422,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Men's Sports Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169581",
+    "created_at": "2024-08-30T23:31:27Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Mountain-500 Silver — worth every penny 🙌 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9160427948",
+      "name": "Dimas Brown",
+      "screen_name": "dimabrow4887",
+      "followers_count": 693,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

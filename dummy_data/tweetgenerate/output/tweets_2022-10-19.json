@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000029094",
+    "created_at": "2022-10-19T07:29:20Z",
+    "text": "Berharap lebih dari Flat Washer 5 — bahannya murahan Pelajaran mahal. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "3644364423",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali2799",
+      "followers_count": 1103,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Flat Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029057",
+    "created_at": "2022-10-19T08:15:56Z",
+    "text": "Really disappointed with the Decal 2 — poor build, cheap materials",
+    "lang": "en",
+    "user": {
+      "id_str": "4062122987",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa6795",
+      "followers_count": 84,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 28,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029142",
+    "created_at": "2022-10-19T09:36:23Z",
+    "text": "Comparing the Mountain-100 Silver with a few others before I buy 🤷",
+    "lang": "en",
+    "user": {
+      "id_str": "4439917130",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa8764",
+      "followers_count": 248,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-100 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029217",
+    "created_at": "2022-10-19T09:45:09Z",
+    "text": "Absolutely loving my new HL Hub from @AWCycles — customer service sorted it instantly 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "9383680616",
+      "name": "Chris Saputra",
+      "screen_name": "chrisapu8283",
+      "followers_count": 1154,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 61,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029088",
+    "created_at": "2022-10-19T09:51:44Z",
+    "text": "Mountain-300 Black dari AdventureWorks mantap sih — sampai lebih cepat, aman 🚴 #cycling #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1390281457",
+      "name": "Olivia Anwar",
+      "screen_name": "olivanwa5075",
+      "followers_count": 183,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-300 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029031",
+    "created_at": "2022-10-19T10:23:22Z",
+    "text": "Absolutely loving my new Short-Sleeve Classic Jersey from AdventureWorks Cycles — great value for the price Zero regrets. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "4523230411",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija5983",
+      "followers_count": 2935,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 54,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029181",
+    "created_at": "2022-10-19T10:42:34Z",
+    "text": "The LL Hub from AdventureWorks Cycles has been fantastic — delivery was smooth #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8584412553",
+      "name": "Maya Clark",
+      "screen_name": "mayaclar9983",
+      "followers_count": 627,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029089",
+    "created_at": "2022-10-19T15:19:21Z",
+    "text": "Absolutely loving my new Chainring Nut from AdventureWorks — support was quick and friendly 👍 #bikelife #AdventureWorks #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "4681970919",
+      "name": "Putri Kim",
+      "screen_name": "putrkim4450",
+      "followers_count": 336,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Chainring Nut",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

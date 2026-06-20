@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000211572",
+    "created_at": "2025-03-23T05:23:25Z",
+    "text": "Nyesel beli Lock Nut 17 — bahannya murahan 😩 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "7502177113",
+      "name": "Sam Hidayat",
+      "screen_name": "samhida5694",
+      "followers_count": 546,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211620",
+    "created_at": "2025-03-23T07:46:53Z",
+    "text": "Terkesan banget sama Thin-Jam Hex Nut 11 — CS-nya cepat dan ramah #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4964885595",
+      "name": "Raka Lee",
+      "screen_name": "rakalee9912",
+      "followers_count": 782,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211480",
+    "created_at": "2025-03-23T09:06:34Z",
+    "text": "Kecewa banget sama ML Mountain Handlebars — proses retur ribet Pelajaran mahal. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "8373820154",
+      "name": "Lina Kim",
+      "screen_name": "linakim6939",
+      "followers_count": 4054,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211527",
+    "created_at": "2025-03-23T15:08:40Z",
+    "text": "Nggak nyesel beli Front Derailleur Cage — CS-nya cepat dan ramah ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "1161934669",
+      "name": "Kevin Lee",
+      "screen_name": "kevilee2774",
+      "followers_count": 31,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Front Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211610",
+    "created_at": "2025-03-23T16:24:08Z",
+    "text": "Three weeks on the Pinch Bolt and I'm sold — build quality feels premium Highly recommend. 🔥 #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2543085768",
+      "name": "Bayu Halim",
+      "screen_name": "bayuhali8863",
+      "followers_count": 1606,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211565",
+    "created_at": "2025-03-23T17:49:51Z",
+    "text": "Udahan deh sama Mountain-200 Black ini — datang telat dan rusak Tolong AdventureWorks Cycles dibenahi. 🙄 #bikes #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9741355848",
+      "name": "Galih Halim",
+      "screen_name": "galihali3952",
+      "followers_count": 803,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Mountain-200 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211648",
+    "created_at": "2025-03-23T19:51:09Z",
+    "text": "Terkesan banget sama Road-250 Red — kuat di trek kasar Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "3576506744",
+      "name": "Tom Putra",
+      "screen_name": "tomputr7783",
+      "followers_count": 1162,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000211477",
+    "created_at": "2025-03-23T22:02:21Z",
+    "text": "The Thin-Jam Lock Nut 9 from @AdventureWorks has been fantastic — shipping was fast and packaging perfect Highly recommend. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "9670649304",
+      "name": "Kevin Putra",
+      "screen_name": "keviputr1916",
+      "followers_count": 297,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

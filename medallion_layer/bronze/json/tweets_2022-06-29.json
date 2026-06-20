@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000006892",
+    "created_at": "2022-06-29T06:31:07Z",
+    "text": "Two stars for the LL Touring Frame - Yellow from AWC — the finish is sloppy 😩 #cycling #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7841405405",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant1141",
+      "followers_count": 1308,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006695",
+    "created_at": "2022-06-29T07:42:57Z",
+    "text": "RT @raka36: Lock Nut 14 dari AdventureWorks Cycles mantap sih — harga sebanding kualitas 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "7597147047",
+      "name": "Chris Putra",
+      "screen_name": "chriputr9813",
+      "followers_count": 891,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006703",
+    "created_at": "2022-06-29T08:03:09Z",
+    "text": "HL Road Seat Assembly dari AdventureWorks Cycles mantap sih — harga sebanding kualitas Nggak nyesel. 😎 #AWcycles #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "9019902664",
+      "name": "Putri Nguyen",
+      "screen_name": "putrnguy8678",
+      "followers_count": 428,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006752",
+    "created_at": "2022-06-29T10:44:44Z",
+    "text": "Udah sebulan pakai External Lock Washer 7, oke terus — masih awet setelah berbulan-bulan Recommended. 🔥 #bikes #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9353742895",
+      "name": "Maria Lee",
+      "screen_name": "marilee3570",
+      "followers_count": 974,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "External Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006787",
+    "created_at": "2022-06-29T13:58:04Z",
+    "text": "Absolutely loving my new Half-Finger Gloves from AdventureWorks — customer service sorted it instantly Five stars. 👍 #cycling #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "7443942606",
+      "name": "Raka Saputra",
+      "screen_name": "rakasapu2822",
+      "followers_count": 1050,
+      "verified": true
+    },
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Half-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006811",
+    "created_at": "2022-06-29T18:01:05Z",
+    "text": "Just unboxed the Road-250 Black, will report back 👀 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "3378108191",
+      "name": "Sam Putra",
+      "screen_name": "samputr1624",
+      "followers_count": 1239,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 55,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Road-250 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006860",
+    "created_at": "2022-06-29T21:54:45Z",
+    "text": "So glad I picked up the Mountain-100 Silver — customer service sorted it instantly 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "9610234426",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa6949",
+      "followers_count": 903,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-100 Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000006797",
+    "created_at": "2022-06-29T22:27:44Z",
+    "text": "Absolutely loving my new Headlights - Weatherproof from AdventureWorks — performs flawlessly Will buy again. 🔥 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8297070913",
+      "name": "Budi Clark",
+      "screen_name": "budiclar1949",
+      "followers_count": 2024,
+      "verified": true
+    },
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

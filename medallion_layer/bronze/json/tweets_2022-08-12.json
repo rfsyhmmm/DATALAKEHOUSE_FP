@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000015760",
+    "created_at": "2022-08-12T00:50:10Z",
+    "text": "The Mountain-500 Black from AdventureWorks Cycles let me down — just not worth the money Do better AdventureWorks Cycles. 😣 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "1894738827",
+      "name": "Rizky Santoso",
+      "screen_name": "rizksant2958",
+      "followers_count": 1077,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015798",
+    "created_at": "2022-08-12T01:55:46Z",
+    "text": "Salut buat AdventureWorks Cycles soal Mountain-500 Silver — kuat di trek kasar Nggak nyesel. 😍 #bikes #AdventureWorks #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "960097617",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu2904",
+      "followers_count": 1272,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-500 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015767",
+    "created_at": "2022-08-12T09:21:43Z",
+    "text": "Done with the HL Mountain Frame - Black honestly — wish I'd skipped it 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "9936305252",
+      "name": "Maya Smith",
+      "screen_name": "mayasmit7454",
+      "followers_count": 577,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "HL Mountain Frame - Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015667",
+    "created_at": "2022-08-12T11:45:52Z",
+    "text": "Nggak nyesel beli Men's Sports Shorts — sampai lebih cepat, aman 🙌 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3858704679",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit9629",
+      "followers_count": 4000,
+      "verified": false
+    },
+    "retweet_count": 37,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Men's Sports Shorts, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015712",
+    "created_at": "2022-08-12T13:59:41Z",
+    "text": "RT @budi33: Nggak puas sama Metal Sheet 4 ku — komplain didiemin 😩 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8546278791",
+      "name": "Tom Garcia",
+      "screen_name": "tomgarc8153",
+      "followers_count": 404,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Metal Sheet 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015794",
+    "created_at": "2022-08-12T20:26:59Z",
+    "text": "Berharap lebih dari Road-550-W Yellow — cepet aus banget Kapok. 🙄 #bikelife #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1239737922",
+      "name": "Eko Halim",
+      "screen_name": "ekohali6469",
+      "followers_count": 376,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015656",
+    "created_at": "2022-08-12T21:52:31Z",
+    "text": "Frustrated with the Adjustable Race from AdventureWorks — the finish is sloppy 😩 #bikes #cycling #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2704827192",
+      "name": "Maria Lee",
+      "screen_name": "marilee8134",
+      "followers_count": 785,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000015616",
+    "created_at": "2022-08-12T23:00:30Z",
+    "text": "Regret buying the HL Mountain Frame - Silver — just a bad buy Do better @AdventureWorks. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "475896352",
+      "name": "Galih Kim",
+      "screen_name": "galikim9372",
+      "followers_count": 1455,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "HL Mountain Frame - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

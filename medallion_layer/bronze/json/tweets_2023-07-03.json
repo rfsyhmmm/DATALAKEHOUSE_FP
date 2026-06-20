@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000081380",
+    "created_at": "2023-07-03T07:45:01Z",
+    "text": "Nggak nyesel beli Road-550-W Yellow — terasa kokoh dan rapi Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "5286948656",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow1097",
+      "followers_count": 3125,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081296",
+    "created_at": "2023-07-03T07:54:19Z",
+    "text": "Nggak nyesel beli Road-350-W Yellow — sampai lebih cepat, aman ✨ #AdventureWorks #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6865783263",
+      "name": "Maria Putra",
+      "screen_name": "mariputr4976",
+      "followers_count": 1613,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-350-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081318",
+    "created_at": "2023-07-03T12:08:10Z",
+    "text": "RT @lina5: Nyesel beli HL Road Rim — finishing-nya asal Pelajaran mahal. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "8647259519",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit9350",
+      "followers_count": 1412,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081280",
+    "created_at": "2023-07-03T14:03:30Z",
+    "text": "Done with the Cone-Shaped Race honestly — rattles and feels flimsy",
+    "lang": "en",
+    "user": {
+      "id_str": "1638468793",
+      "name": "Mia Lee",
+      "screen_name": "mialee9828",
+      "followers_count": 861,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Cone-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081257",
+    "created_at": "2023-07-03T15:49:40Z",
+    "text": "RT @rizk10: Done with the Internal Lock Washer 2 honestly — poor build, cheap materials Lesson learned. 😤 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3052773540",
+      "name": "Kevin Anwar",
+      "screen_name": "kevianwa8888",
+      "followers_count": 192,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081352",
+    "created_at": "2023-07-03T16:29:59Z",
+    "text": "Nyesel beli Mountain-400-W Silver — mahal nggak masuk akal Pelajaran mahal. 🙄 #bikelife #MTB #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "8561542706",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija3232",
+      "followers_count": 2682,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081267",
+    "created_at": "2023-07-03T16:39:17Z",
+    "text": "RT @dima54: Nyesel beli HL Mountain Frame - Black — nggak sebanding harganya Pelajaran mahal. 👎 #cycling #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3283373780",
+      "name": "Lina Lopez",
+      "screen_name": "linalope635",
+      "followers_count": 1385,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Mountain Frame - Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000081208",
+    "created_at": "2023-07-03T21:52:35Z",
+    "text": "Road-250 Red dari @AdventureWorks mantap sih — performanya mulus Nggak nyesel. ✨ #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "9246262553",
+      "name": "Bayu Halim",
+      "screen_name": "bayuhali7795",
+      "followers_count": 1782,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000094428",
+    "created_at": "2023-09-03T07:44:27Z",
+    "text": "Udah sebulan pakai Road-550-W Yellow, oke terus — terasa kokoh dan rapi 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "6600539491",
+      "name": "Kevin Kim",
+      "screen_name": "kevikim3100",
+      "followers_count": 979,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094252",
+    "created_at": "2023-09-03T08:32:52Z",
+    "text": "Lagi banding-bandingin ML Road Pedal sama merek lain 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "8622346815",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat4605",
+      "followers_count": 1832,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094295",
+    "created_at": "2023-09-03T11:49:10Z",
+    "text": "RT @jord25: My Thin-Jam Lock Nut 16 from AdventureWorks is excellent — feels solid and well made Will buy again.",
+    "lang": "en",
+    "user": {
+      "id_str": "7556568647",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc6028",
+      "followers_count": 941,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094458",
+    "created_at": "2023-09-03T14:27:27Z",
+    "text": "My Thin-Jam Lock Nut 14 from AdventureWorks is excellent — shipping was fast and packaging perfect 🔥 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9859892233",
+      "name": "Galih Lopez",
+      "screen_name": "galilope5995",
+      "followers_count": 180,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094404",
+    "created_at": "2023-09-03T15:10:56Z",
+    "text": "Expected so much more from the Headlights - Weatherproof — shipping took forever Avoid. 😣 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "5972037275",
+      "name": "Sofia Halim",
+      "screen_name": "sofihali2225",
+      "followers_count": 980,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Headlights - Weatherproof",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094384",
+    "created_at": "2023-09-03T15:29:20Z",
+    "text": "The Mountain-400-W Silver from @AdventureWorks let me down — packaging was a mess Avoid. 😤 #cycling #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4741082258",
+      "name": "Alex Nguyen",
+      "screen_name": "alexnguy3710",
+      "followers_count": 1356,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Mountain-400-W Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094304",
+    "created_at": "2023-09-03T16:42:33Z",
+    "text": "Terkesan banget sama Hex Nut 7 — terasa kokoh dan rapi Nggak nyesel. ✨ #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "9478034605",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant2018",
+      "followers_count": 678,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000094334",
+    "created_at": "2023-09-03T18:22:51Z",
+    "text": "Tadi liat HL Mountain Frame - Silver di toko, lumayan menarik 🧐 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "5783966755",
+      "name": "Kevin Halim",
+      "screen_name": "kevihali7283",
+      "followers_count": 294,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Mountain Frame - Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

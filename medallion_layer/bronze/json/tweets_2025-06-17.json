@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000228975",
+    "created_at": "2025-06-17T05:28:40Z",
+    "text": "Two stars for the Road-650 Red from AdventureWorks — just not worth the money Do better AdventureWorks. ⚠️ #bikelife #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1237786886",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee7990",
+      "followers_count": 1142,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-650 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000229126",
+    "created_at": "2025-06-17T06:57:58Z",
+    "text": "Capek deh sama Touring-3000 Blue dari @AWCycles — cepet aus banget 😩 #AWcycles #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8553442284",
+      "name": "Putri Halim",
+      "screen_name": "putrhali5500",
+      "followers_count": 408,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 63,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000229096",
+    "created_at": "2025-06-17T07:58:58Z",
+    "text": "Udah sebulan pakai Mountain-300 Black, oke terus — performanya mulus Bintang lima. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "5745272893",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow7179",
+      "followers_count": 1303,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-300 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000229197",
+    "created_at": "2025-06-17T09:21:00Z",
+    "text": "Absolutely loving my new Road-250 Red from AdventureWorks Cycles — arrived a day early, well packed ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "6591003465",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar7980",
+      "followers_count": 557,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000229046",
+    "created_at": "2025-06-17T14:43:32Z",
+    "text": "Thin-Jam Hex Nut 6 dari AWC mantap sih — sampai lebih cepat, aman Bakal beli lagi. 😎 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "7627668633",
+      "name": "Andi Lopez",
+      "screen_name": "andilope8479",
+      "followers_count": 116,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000229027",
+    "created_at": "2025-06-17T17:01:35Z",
+    "text": "Done with the Classic Vest honestly — just not worth the money 😣 #rideon #bikes #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "6043406832",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu6675",
+      "followers_count": 1139,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 53,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Classic Vest, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000228997",
+    "created_at": "2025-06-17T19:09:05Z",
+    "text": "RT @raka92: Not happy with my Lock Washer 3 at all — overpriced for what you get 👎 #rideon #AdventureWorks #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4295696776",
+      "name": "Sam Hidayat",
+      "screen_name": "samhida2570",
+      "followers_count": 1354,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000229155",
+    "created_at": "2025-06-17T22:17:30Z",
+    "text": "Nggak puas sama Handlebar Tube ku — zonk total 😩 #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8906256210",
+      "name": "Bayu Lopez",
+      "screen_name": "bayulope1029",
+      "followers_count": 3587,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

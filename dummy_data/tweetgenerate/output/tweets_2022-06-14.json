@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000003442",
+    "created_at": "2022-06-14T05:07:26Z",
+    "text": "The Flat Washer 9 from AWC let me down — way too expensive Do better AWC. 😣 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "9849477630",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope1655",
+      "followers_count": 158,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003372",
+    "created_at": "2022-06-14T11:03:00Z",
+    "text": "My Thin-Jam Hex Nut 15 from AWC is excellent — worth every penny 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "7034137693",
+      "name": "Raka Putra",
+      "screen_name": "rakaputr2121",
+      "followers_count": 3140,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003322",
+    "created_at": "2022-06-14T14:55:40Z",
+    "text": "Shoutout to @AWCycles for the ML Road Seat Assembly — build quality feels premium 🔥 #AWcycles #rideon #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5866723248",
+      "name": "Alex Wijaya",
+      "screen_name": "alexwija3282",
+      "followers_count": 3960,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003511",
+    "created_at": "2022-06-14T17:29:18Z",
+    "text": "Suka banget sama Road-450 Red dari AdventureWorks Cycles — CS-nya cepat dan ramah Nggak nyesel. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "3272006012",
+      "name": "Lina Saputra",
+      "screen_name": "linasapu6980",
+      "followers_count": 2890,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-450 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003461",
+    "created_at": "2022-06-14T19:53:33Z",
+    "text": "Done with the Hex Nut 8 honestly — packaging was a mess Never again. ⚠️ #cycling #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "3995020135",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat1459",
+      "followers_count": 2263,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003533",
+    "created_at": "2022-06-14T20:05:23Z",
+    "text": "ML Road Rim dari AdventureWorks Cycles bikin nyesel — salah beli Pelajaran mahal. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "3522700486",
+      "name": "Tom Clark",
+      "screen_name": "tomclar6910",
+      "followers_count": 974,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "ML Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003403",
+    "created_at": "2022-06-14T20:08:21Z",
+    "text": "Nggak nyesel beli Women's Mountain Shorts — worth it banget Bakal beli lagi. 💯 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "4555441991",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc2018",
+      "followers_count": 328,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Women's Mountain Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000003373",
+    "created_at": "2022-06-14T21:48:53Z",
+    "text": "Absolutely loving my new Fork End from @AWCycles — the team was super helpful Highly recommend. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "653753599",
+      "name": "Galih Kim",
+      "screen_name": "galikim5114",
+      "followers_count": 687,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Fork End",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

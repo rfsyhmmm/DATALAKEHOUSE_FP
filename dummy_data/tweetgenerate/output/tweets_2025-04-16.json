@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000216693",
+    "created_at": "2025-04-16T07:49:06Z",
+    "text": "Akhirnya pakai Thin-Jam Hex Nut 16 dan puas pol — pelayanannya membantu #rideon #AdventureWorks #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5236750289",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija8950",
+      "followers_count": 1086,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216631",
+    "created_at": "2025-04-16T08:39:42Z",
+    "text": "Chainring Nut dari AdventureWorks bikin nyesel — proses retur ribet Pelajaran mahal. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "8776310828",
+      "name": "Lina Putra",
+      "screen_name": "linaputr7201",
+      "followers_count": 986,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Chainring Nut",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216752",
+    "created_at": "2025-04-16T13:49:36Z",
+    "text": "Really impressed with the HL Hub — great value for the price Will buy again. 💯 #AWcycles #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "916194444",
+      "name": "Tom Lopez",
+      "screen_name": "tomlope8406",
+      "followers_count": 1267,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216569",
+    "created_at": "2025-04-16T15:55:47Z",
+    "text": "Salut buat AWC soal Headlights - Dual-Beam — sampai lebih cepat, aman Nggak nyesel. 🚴 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1249676228",
+      "name": "Kevin Putra",
+      "screen_name": "keviputr9416",
+      "followers_count": 2091,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Headlights - Dual-Beam",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216720",
+    "created_at": "2025-04-16T16:18:33Z",
+    "text": "RT @chri51: Terkesan banget sama Touring-3000 Blue — kualitasnya premium Recommended. #AWcycles #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "340118168",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa5091",
+      "followers_count": 4331,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216652",
+    "created_at": "2025-04-16T16:24:10Z",
+    "text": "The Metal Sheet 5 from AdventureWorks let me down — poor build, cheap materials 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "918030738",
+      "name": "Putri Kim",
+      "screen_name": "putrkim9671",
+      "followers_count": 507,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216745",
+    "created_at": "2025-04-16T19:18:10Z",
+    "text": "RT @putr15: The Full-Finger Gloves from AWC let me down — fell apart on the first ride 😩 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "404481520",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida5511",
+      "followers_count": 1180,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Full-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216617",
+    "created_at": "2025-04-16T21:08:25Z",
+    "text": "Udah sebulan pakai Pinch Bolt, oke terus — kualitasnya premium 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "7087709245",
+      "name": "Nadia Nguyen",
+      "screen_name": "nadinguy8179",
+      "followers_count": 1152,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

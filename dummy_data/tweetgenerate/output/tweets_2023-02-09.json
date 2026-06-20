@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000052389",
+    "created_at": "2023-02-09T07:19:56Z",
+    "text": "The Touring-1000 Yellow from AdventureWorks has been fantastic — arrived a day early, well packed 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "4691893808",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija3472",
+      "followers_count": 850,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052261",
+    "created_at": "2023-02-09T08:25:05Z",
+    "text": "Absolutely loving my new LL Mountain Tire from @AdventureWorks — build quality feels premium Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "3898540092",
+      "name": "Maya Hidayat",
+      "screen_name": "mayahida4589",
+      "followers_count": 1886,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052375",
+    "created_at": "2023-02-09T08:46:01Z",
+    "text": "The Metal Bar 2 from AdventureWorks has been fantastic — performs flawlessly Zero regrets. 👍 #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5463717099",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc3524",
+      "followers_count": 1131,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Bar 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052415",
+    "created_at": "2023-02-09T09:38:28Z",
+    "text": "Udah sebulan pakai Paint - Silver, oke terus — admin responsif banget 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "376399046",
+      "name": "Alex Lee",
+      "screen_name": "alexlee6073",
+      "followers_count": 2029,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Paint - Silver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052264",
+    "created_at": "2023-02-09T09:44:37Z",
+    "text": "Udahan deh sama Touring-1000 Blue ini — bunyi-bunyi dan ringkih Pelajaran mahal. 😣 #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2669326692",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope5110",
+      "followers_count": 806,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052384",
+    "created_at": "2023-02-09T19:49:30Z",
+    "text": "Nyesel beli HL Touring Frame - Blue — mahal nggak masuk akal Hindari. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "966872555",
+      "name": "Galih Pratama",
+      "screen_name": "galiprat1853",
+      "followers_count": 2066,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052296",
+    "created_at": "2023-02-09T20:38:20Z",
+    "text": "Hex Nut 12 bagus nggak buat harian? 👀 #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2033608299",
+      "name": "Nadia Lee",
+      "screen_name": "nadilee4017",
+      "followers_count": 156,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000052330",
+    "created_at": "2023-02-09T21:49:11Z",
+    "text": "Done with the Touring-3000 Yellow honestly — support ignored my emails Do better AWC. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "8093981150",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija8186",
+      "followers_count": 234,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

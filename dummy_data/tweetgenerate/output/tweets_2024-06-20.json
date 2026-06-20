@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000154250",
+    "created_at": "2024-06-20T02:10:04Z",
+    "text": "Road-650 Black dari AdventureWorks Cycles mantap sih — CS-nya cepat dan ramah Bintang lima. 😍 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "8370859425",
+      "name": "Citra Wijaya",
+      "screen_name": "citrwija9488",
+      "followers_count": 2278,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 65,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-650 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154280",
+    "created_at": "2024-06-20T05:09:16Z",
+    "text": "Lock Washer 8 bagus nggak buat harian? 👀 #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8156080800",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar8753",
+      "followers_count": 1254,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154362",
+    "created_at": "2024-06-20T07:20:36Z",
+    "text": "Shoutout to @AWCycles for the HL Touring Frame - Yellow — customer service sorted it instantly Highly recommend. 🚴 #rideon #bikes #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2062019886",
+      "name": "Dewi Smith",
+      "screen_name": "dewismit1261",
+      "followers_count": 1299,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 42,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154282",
+    "created_at": "2024-06-20T08:46:40Z",
+    "text": "Regret buying the HL Road Frame - Black — packaging was a mess Avoid. 😩 #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9459975929",
+      "name": "Maria Brown",
+      "screen_name": "maribrow4019",
+      "followers_count": 1240,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154313",
+    "created_at": "2024-06-20T13:46:20Z",
+    "text": "Upgraded to the Men's Sports Shorts and no looking back — arrived a day early, well packed 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "4462478535",
+      "name": "Chris Pratama",
+      "screen_name": "chriprat4351",
+      "followers_count": 2999,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Men's Sports Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154343",
+    "created_at": "2024-06-20T13:57:35Z",
+    "text": "Bintang dua buat Freewheel dari @AdventureWorks — salah beli Kapok.",
+    "lang": "in",
+    "user": {
+      "id_str": "6490553421",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida9675",
+      "followers_count": 1322,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154327",
+    "created_at": "2024-06-20T14:23:41Z",
+    "text": "Spokes bagus nggak buat harian? 🤷 #AdventureWorks #AWcycles #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "589657932",
+      "name": "Olivia Pratama",
+      "screen_name": "olivprat4015",
+      "followers_count": 2126,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154225",
+    "created_at": "2024-06-20T18:08:31Z",
+    "text": "Bintang dua buat Thin-Jam Lock Nut 10 dari AdventureWorks Cycles — nggak sebanding harganya Pelajaran mahal. ⚠️ #cycling #rideon #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "9386183654",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija6662",
+      "followers_count": 604,
+      "verified": true
+    },
+    "retweet_count": 8,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

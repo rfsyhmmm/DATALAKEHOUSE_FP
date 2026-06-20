@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000057618",
+    "created_at": "2023-03-06T03:18:39Z",
+    "text": "Absolutely loving my new Lock Nut 18 from AdventureWorks Cycles — the team was super helpful Highly recommend. 😍 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1027479315",
+      "name": "Hannah Putra",
+      "screen_name": "hannputr9878",
+      "followers_count": 5060,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057791",
+    "created_at": "2023-03-06T06:25:04Z",
+    "text": "Akhirnya pakai Mountain-100 Black dan puas pol — puas pol 😍 #rideon #AdventureWorks #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8361890858",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope2785",
+      "followers_count": 1548,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-100 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057726",
+    "created_at": "2023-03-06T08:05:38Z",
+    "text": "Not happy with my Mountain-200 Silver at all — a total letdown Lesson learned. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "3185326555",
+      "name": "Nadia Lopez",
+      "screen_name": "nadilope2107",
+      "followers_count": 1457,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057768",
+    "created_at": "2023-03-06T08:28:29Z",
+    "text": "Expected so much more from the Racing Socks — overpriced for what you get 👎 #MTB #bikes #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8599081961",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat1002",
+      "followers_count": 1609,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Racing Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057678",
+    "created_at": "2023-03-06T16:22:44Z",
+    "text": "Nggak puas sama LL Spindle/Axle ku — CS-nya nggak guna 🙄 #AWcycles #MTB #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8649424321",
+      "name": "Sam Halim",
+      "screen_name": "samhali7574",
+      "followers_count": 991,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057586",
+    "created_at": "2023-03-06T17:27:19Z",
+    "text": "Terkesan banget sama Paint - Red — kualitasnya premium Recommended. 🔥 #bikes #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "2448563730",
+      "name": "Galih Putra",
+      "screen_name": "galiputr9287",
+      "followers_count": 2967,
+      "verified": true
+    },
+    "retweet_count": 11,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057643",
+    "created_at": "2023-03-06T18:28:22Z",
+    "text": "RT @dewi57: Absolutely loving my new ML Mountain Frame-W - Silver from AdventureWorks — feels solid and well made Will buy again. 💯 #AdventureWorks #MTB #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "520696156",
+      "name": "Sofia Anwar",
+      "screen_name": "sofianwa6055",
+      "followers_count": 2000,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000057604",
+    "created_at": "2023-03-06T19:58:36Z",
+    "text": "Akhirnya pakai LL Mountain Frame - Black dan puas pol — terasa kokoh dan rapi 🔥 #bikelife #bikes #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3847419692",
+      "name": "Dewi Kim",
+      "screen_name": "dewikim4670",
+      "followers_count": 1824,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

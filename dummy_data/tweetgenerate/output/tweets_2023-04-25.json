@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000067546",
+    "created_at": "2023-04-25T02:07:36Z",
+    "text": "Nyesel beli ML Crankarm — bunyi-bunyi dan ringkih Pelajaran mahal. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "5910018906",
+      "name": "Citra Wijaya",
+      "screen_name": "citrwija2481",
+      "followers_count": 3889,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067511",
+    "created_at": "2023-04-25T05:59:59Z",
+    "text": "Capek deh sama Lock Washer 6 dari @AWCycles — bahannya murahan Hindari. ⚠️ #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7271444107",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa7662",
+      "followers_count": 394,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067586",
+    "created_at": "2023-04-25T13:59:22Z",
+    "text": "RT @budi9: Upgraded to the Mountain-400-W Silver and no looking back — couldn't be happier 💯 #AdventureWorks #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8565999075",
+      "name": "Budi Kim",
+      "screen_name": "budikim5982",
+      "followers_count": 983,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067535",
+    "created_at": "2023-04-25T15:08:50Z",
+    "text": "Saw the HL Touring Frame - Yellow in store today, looks interesting 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "8371581615",
+      "name": "Alex Putra",
+      "screen_name": "alexputr5172",
+      "followers_count": 136,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Touring Frame - Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067481",
+    "created_at": "2023-04-25T15:25:56Z",
+    "text": "Akhirnya pakai Flat Washer 4 dan puas pol — kirimnya lancar Nggak nyesel. 🔥 #bikelife #bikes #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5360044082",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit8403",
+      "followers_count": 1672,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067531",
+    "created_at": "2023-04-25T18:52:05Z",
+    "text": "Shoutout to @AdventureWorks for the Mountain-500 Black — worth every penny Zero regrets. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "2335316251",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy851",
+      "followers_count": 1837,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067615",
+    "created_at": "2023-04-25T22:30:41Z",
+    "text": "Three weeks on the Mountain-200 Silver and I'm sold — feels solid and well made #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6801190860",
+      "name": "Hannah Putra",
+      "screen_name": "hannputr8213",
+      "followers_count": 3445,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000067447",
+    "created_at": "2023-04-25T22:47:45Z",
+    "text": "Udahan deh sama Internal Lock Washer 1 ini — CS-nya nggak guna Tolong AdventureWorks dibenahi. 👎 #rideon #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8655280766",
+      "name": "Citra Lee",
+      "screen_name": "citrlee4398",
+      "followers_count": 1854,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Internal Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

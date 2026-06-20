@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000177889",
+    "created_at": "2024-10-11T08:10:00Z",
+    "text": "Nggak puas sama ML Road Frame - Red ku — proses retur ribet 😡 #bikes #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8943161710",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija1680",
+      "followers_count": 1095,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177962",
+    "created_at": "2024-10-11T08:31:50Z",
+    "text": "Regret buying the ML Mountain Frame-W - Silver — a total letdown 😩 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "2539662664",
+      "name": "Alex Clark",
+      "screen_name": "alexclar7005",
+      "followers_count": 5,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "ML Mountain Frame-W - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177858",
+    "created_at": "2024-10-11T13:57:15Z",
+    "text": "Absolutely loving my new Road-350-W Yellow from @AdventureWorks — holding up great on rough trails Will buy again. ✨ #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "7754601207",
+      "name": "Bayu Anwar",
+      "screen_name": "bayuanwa5124",
+      "followers_count": 1834,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-350-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177799",
+    "created_at": "2024-10-11T15:42:53Z",
+    "text": "Nyesel beli Internal Lock Washer 9 — bahannya murahan 😣 #bikelife #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8987872188",
+      "name": "Kevin Santoso",
+      "screen_name": "kevisant4010",
+      "followers_count": 2140,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177983",
+    "created_at": "2024-10-11T16:16:08Z",
+    "text": "Akhirnya pakai HL Road Rear Wheel dan puas pol — terasa kokoh dan rapi Nggak nyesel. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "692997334",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat6272",
+      "followers_count": 1691,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177926",
+    "created_at": "2024-10-11T17:28:43Z",
+    "text": "So glad I picked up the Thin-Jam Hex Nut 11 — fair price for this quality ✨ #bikes #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3103928908",
+      "name": "Tom Pratama",
+      "screen_name": "tomprat1998",
+      "followers_count": 330,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177830",
+    "created_at": "2024-10-11T17:40:03Z",
+    "text": "Really impressed with the ML Road Frame - Red — build quality feels premium Will buy again. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "7919334322",
+      "name": "Olivia Wijaya",
+      "screen_name": "olivwija5172",
+      "followers_count": 1081,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177903",
+    "created_at": "2024-10-11T19:08:40Z",
+    "text": "Akhirnya pakai HL Mountain Frame - Black dan puas pol — pengiriman cepat dan packing rapi Bintang lima. 🔥 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5881879872",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija6922",
+      "followers_count": 2465,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Frame - Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

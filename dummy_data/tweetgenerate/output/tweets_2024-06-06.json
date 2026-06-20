@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000151248",
+    "created_at": "2024-06-06T06:03:37Z",
+    "text": "Anyone using the Metal Bar 2 from AdventureWorks? Worth it? 👀 #rideon #cycling #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1856673947",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit1241",
+      "followers_count": 2680,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Metal Bar 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151314",
+    "created_at": "2024-06-06T10:40:00Z",
+    "text": "Nggak nyesel beli External Lock Washer 5 — sampai lebih cepat, aman Recommended.",
+    "lang": "in",
+    "user": {
+      "id_str": "5902735923",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant7365",
+      "followers_count": 2152,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "External Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151376",
+    "created_at": "2024-06-06T13:41:15Z",
+    "text": "Touring-3000 Blue dari AWC mantap sih — admin responsif banget Bintang lima. ✨ #bikelife #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "7817146023",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu7245",
+      "followers_count": 1122,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring-3000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151339",
+    "created_at": "2024-06-06T14:08:23Z",
+    "text": "So glad I picked up the Road-250 Black — build quality feels premium 👍 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6042998227",
+      "name": "Citra Putra",
+      "screen_name": "citrputr6795",
+      "followers_count": 2332,
+      "verified": false
+    },
+    "retweet_count": 33,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151222",
+    "created_at": "2024-06-06T15:31:14Z",
+    "text": "Shoutout to @AdventureWorks for the ML Road Seat Assembly — great value for the price Will buy again. 🙌 #cycling #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6366100784",
+      "name": "Sam Brown",
+      "screen_name": "sambrow5821",
+      "followers_count": 582,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151280",
+    "created_at": "2024-06-06T16:23:33Z",
+    "text": "Udah sebulan pakai LL Mountain Handlebars, oke terus — terasa kokoh dan rapi Bintang lima. ✨ #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "732331980",
+      "name": "Nadia Hidayat",
+      "screen_name": "nadihida9325",
+      "followers_count": 1786,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151288",
+    "created_at": "2024-06-06T18:37:52Z",
+    "text": "Kecewa banget sama Mountain-500 Black — mahal nggak masuk akal Tolong @AWCycles dibenahi.",
+    "lang": "in",
+    "user": {
+      "id_str": "6439738020",
+      "name": "Galih Anwar",
+      "screen_name": "galianwa4037",
+      "followers_count": 320,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000151343",
+    "created_at": "2024-06-06T20:09:05Z",
+    "text": "Absolutely loving my new Lock Washer 1 from @AWCycles — performs flawlessly Will buy again. 👍 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1099827868",
+      "name": "Budi Halim",
+      "screen_name": "budihali2648",
+      "followers_count": 970,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

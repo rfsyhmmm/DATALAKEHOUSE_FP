@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000222640",
+    "created_at": "2025-05-14T03:20:48Z",
+    "text": "Terkesan banget sama LL Touring Frame - Blue — terasa kokoh dan rapi Bintang lima. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "8660604697",
+      "name": "Eko Lee",
+      "screen_name": "ekolee1072",
+      "followers_count": 2150,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222548",
+    "created_at": "2025-05-14T05:41:25Z",
+    "text": "The Paint - Silver from AdventureWorks let me down — just not worth the money 🙄 #bikelife #AdventureWorks #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "7270339123",
+      "name": "Maria Putra",
+      "screen_name": "mariputr8506",
+      "followers_count": 931,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Paint - Silver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222572",
+    "created_at": "2025-05-14T08:36:26Z",
+    "text": "Udahan deh sama HL Road Pedal ini — nggak sebanding harganya Kapok. 🙄 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "7198038738",
+      "name": "Maya Wijaya",
+      "screen_name": "mayawija5789",
+      "followers_count": 1975,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 53,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222619",
+    "created_at": "2025-05-14T13:26:34Z",
+    "text": "Upgraded to the Paint - Blue and no looking back — build quality feels premium Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "6304965951",
+      "name": "Putri Santoso",
+      "screen_name": "putrsant3398",
+      "followers_count": 551,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Paint - Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222564",
+    "created_at": "2025-05-14T13:56:52Z",
+    "text": "So glad I picked up the HL Touring Handlebars — arrived a day early, well packed Will buy again. 😎 #AWcycles #rideon #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4983481787",
+      "name": "Nadia Saputra",
+      "screen_name": "nadisapu3515",
+      "followers_count": 1134,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222599",
+    "created_at": "2025-05-14T16:29:33Z",
+    "text": "RT @jord8: Absolutely loving my new Metal Plate 3 from @AdventureWorks — holding up great on rough trails 😎 #AdventureWorks #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "8158336494",
+      "name": "Lina Lee",
+      "screen_name": "linalee2918",
+      "followers_count": 1413,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Metal Plate 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222496",
+    "created_at": "2025-05-14T18:53:46Z",
+    "text": "RT @alex68: Lagi mikir mau beli Front Derailleur Cage. Ada review? 🧐 #bikes #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "4416954243",
+      "name": "Galih Hidayat",
+      "screen_name": "galihida6059",
+      "followers_count": 2073,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Front Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222508",
+    "created_at": "2025-05-14T20:13:10Z",
+    "text": "Naik level gowes ku gara-gara Classic Vest — kirimnya lancar ✨ #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7724909871",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant4500",
+      "followers_count": 328,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

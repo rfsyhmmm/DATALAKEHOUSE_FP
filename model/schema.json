@@ -129,6 +129,28 @@
     "primary_key": "source_key",
     "foreign_keys": []
   },
+  "dim_location": {
+    "columns": [
+      {
+        "name": "location_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "location_id",
+        "type": "BIGINT"
+      },
+      {
+        "name": "location_name",
+        "type": "VARCHAR(50)"
+      },
+      {
+        "name": "cost_rate",
+        "type": "NUMERIC(10,4)"
+      }
+    ],
+    "primary_key": "location_key",
+    "foreign_keys": []
+  },
   "dim_aspect": {
     "columns": [
       {
@@ -224,6 +246,10 @@
         "type": "BIGINT"
       },
       {
+        "name": "sales_line_id",
+        "type": "VARCHAR(40)"
+      },
+      {
         "name": "sales_order_id",
         "type": "BIGINT"
       },
@@ -269,6 +295,49 @@
       {
         "column": "source_key",
         "references": "dim_source(source_key)"
+      }
+    ]
+  },
+  "fact_inventory": {
+    "columns": [
+      {
+        "name": "inventory_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "date_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "product_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "location_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "quantity_on_hand",
+        "type": "BIGINT"
+      },
+      {
+        "name": "inv_key",
+        "type": "VARCHAR(40)"
+      }
+    ],
+    "primary_key": "inventory_key",
+    "foreign_keys": [
+      {
+        "column": "date_key",
+        "references": "dim_date(date_key)"
+      },
+      {
+        "column": "product_key",
+        "references": "dim_product(product_key)"
+      },
+      {
+        "column": "location_key",
+        "references": "dim_location(location_key)"
       }
     ]
   },

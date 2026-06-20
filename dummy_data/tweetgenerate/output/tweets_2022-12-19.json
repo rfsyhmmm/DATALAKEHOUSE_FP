@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000041783",
+    "created_at": "2022-12-19T07:50:09Z",
+    "text": "RT @jord27: My Mountain-500 Black from AdventureWorks is excellent — great value for the price 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "7286895933",
+      "name": "Sam Lee",
+      "screen_name": "samlee6141",
+      "followers_count": 1010,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041619",
+    "created_at": "2022-12-19T11:26:08Z",
+    "text": "Frustrated with the Mountain-500 Silver from AdventureWorks — a total letdown Avoid. 😡 #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9273827568",
+      "name": "Dimas Pratama",
+      "screen_name": "dimaprat6467",
+      "followers_count": 568,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 36,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Mountain-500 Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041591",
+    "created_at": "2022-12-19T12:18:25Z",
+    "text": "Udahan deh sama Sport-100 Helmet ini — finishing-nya asal Kapok. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "8514699721",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija2370",
+      "followers_count": 1498,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 69,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041631",
+    "created_at": "2022-12-19T13:23:03Z",
+    "text": "Lagi mikir mau beli HL Road Pedal. Ada review? 🧐 #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "941662152",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida3704",
+      "followers_count": 787,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041753",
+    "created_at": "2022-12-19T14:03:03Z",
+    "text": "Terkesan banget sama Road-650 Black — performanya mulus Nggak nyesel. 👍 #MTB #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8338236086",
+      "name": "Dimas Kim",
+      "screen_name": "dimakim280",
+      "followers_count": 996,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 48,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-650 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041720",
+    "created_at": "2022-12-19T15:56:21Z",
+    "text": "My External Lock Washer 1 from @AdventureWorks is excellent — build quality feels premium Zero regrets. 👍 #bikelife #cycling #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5665159191",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow9023",
+      "followers_count": 869,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041680",
+    "created_at": "2022-12-19T17:09:01Z",
+    "text": "Upgraded to the Thin-Jam Lock Nut 10 and no looking back — build quality feels premium Will buy again. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "6509971008",
+      "name": "Dimas Garcia",
+      "screen_name": "dimagarc4662",
+      "followers_count": 528,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000041558",
+    "created_at": "2022-12-19T20:14:32Z",
+    "text": "My AWC Logo Cap from @AWCycles is excellent — build quality feels premium Highly recommend. 💯 #cycling #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "3575142181",
+      "name": "Chris Brown",
+      "screen_name": "chribrow4262",
+      "followers_count": 2061,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "AWC Logo Cap",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

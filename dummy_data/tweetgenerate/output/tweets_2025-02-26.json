@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000206543",
+    "created_at": "2025-02-26T07:31:24Z",
+    "text": "Lock Nut 20 dari @AdventureWorks mantap sih — kualitasnya premium 💯 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "3683854658",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida2422",
+      "followers_count": 1207,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206717",
+    "created_at": "2025-02-26T08:46:32Z",
+    "text": "Nggak nyesel beli Touring-3000 Blue — harga sebanding kualitas #bikes #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7564244386",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa5549",
+      "followers_count": 284,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206679",
+    "created_at": "2025-02-26T09:06:17Z",
+    "text": "Udah sebulan pakai Road-350-W Yellow, oke terus — pengiriman cepat dan packing rapi Bakal beli lagi. 💯 #MTB #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3055134489",
+      "name": "Alex Nguyen",
+      "screen_name": "alexnguy5622",
+      "followers_count": 3982,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-350-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206633",
+    "created_at": "2025-02-26T09:27:15Z",
+    "text": "RT @dima15: Done with the Half-Finger Gloves honestly — wore out way too fast Lesson learned. 😤 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6387843967",
+      "name": "Budi Lopez",
+      "screen_name": "budilope1329",
+      "followers_count": 1502,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Half-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206612",
+    "created_at": "2025-02-26T16:13:44Z",
+    "text": "Naik level gowes ku gara-gara LL Shell — worth it banget Recommended. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "4446654590",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee4342",
+      "followers_count": 2991,
+      "verified": false
+    },
+    "retweet_count": 43,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206571",
+    "created_at": "2025-02-26T17:09:37Z",
+    "text": "Lagi banding-bandingin Short-Sleeve Classic Jersey sama merek lain 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "1683315994",
+      "name": "Eko Smith",
+      "screen_name": "ekosmit4276",
+      "followers_count": 30,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206703",
+    "created_at": "2025-02-26T17:18:15Z",
+    "text": "Udah sebulan pakai LL Touring Frame - Yellow, oke terus — sampai lebih cepat, aman ✨ #bikes #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2110058298",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar1437",
+      "followers_count": 1258,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Touring Frame - Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000206554",
+    "created_at": "2025-02-26T20:37:14Z",
+    "text": "Really impressed with the LL Crankarm — support was quick and friendly Will buy again. 💯 #rideon #AWcycles #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6432466468",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa4959",
+      "followers_count": 1123,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000192360",
+    "created_at": "2024-12-19T06:24:01Z",
+    "text": "Really impressed with the Road-750 Black — performs flawlessly Zero regrets. 👍 #rideon #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3073852499",
+      "name": "Tom Putra",
+      "screen_name": "tomputr6600",
+      "followers_count": 1767,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000192282",
+    "created_at": "2024-12-19T08:16:39Z",
+    "text": "RT @tom47: ML Road Seat Assembly dari @AWCycles bikin nyesel — cepet aus banget 😤 #MTB #AdventureWorks #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "5818205318",
+      "name": "Tom Halim",
+      "screen_name": "tomhali14",
+      "followers_count": 183,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000192331",
+    "created_at": "2024-12-19T09:31:14Z",
+    "text": "Absolutely loving my new Hex Nut 23 from @AWCycles — feels solid and well made 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "276317736",
+      "name": "Andi Kim",
+      "screen_name": "andikim4749",
+      "followers_count": 1129,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000192355",
+    "created_at": "2024-12-19T10:02:39Z",
+    "text": "Capek deh sama Road-650 Red dari AdventureWorks — zonk total ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "7153350477",
+      "name": "Sam Halim",
+      "screen_name": "samhali7820",
+      "followers_count": 1739,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-650 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000192256",
+    "created_at": "2024-12-19T10:18:29Z",
+    "text": "Really disappointed with the LL Road Frame - Red — rattles and feels flimsy Do better @AWCycles. 😣 #bikes #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "2063841264",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu1995",
+      "followers_count": 2103,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000192191",
+    "created_at": "2024-12-19T13:26:46Z",
+    "text": "The Mountain-200 Black from AdventureWorks Cycles has been fantastic — build quality feels premium Will buy again. 👍 #bikes #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4694883966",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc1810",
+      "followers_count": 1539,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Black, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000192239",
+    "created_at": "2024-12-19T16:31:32Z",
+    "text": "Not happy with my HL Road Seat/Saddle at all — the finish is sloppy ⚠️ #bikelife #AdventureWorks #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "9821468629",
+      "name": "Tom Halim",
+      "screen_name": "tomhali9442",
+      "followers_count": 449,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000192338",
+    "created_at": "2024-12-19T19:28:59Z",
+    "text": "Naik level gowes ku gara-gara Metal Sheet 6 — melebihi ekspektasi Bintang lima. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "603237407",
+      "name": "Mia Putra",
+      "screen_name": "miaputr777",
+      "followers_count": 204,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Metal Sheet 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000207292",
+    "created_at": "2025-03-02T08:27:06Z",
+    "text": "Salut buat @AWCycles soal ML Mountain Front Wheel — masih awet setelah berbulan-bulan Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "8249357169",
+      "name": "Sam Pratama",
+      "screen_name": "samprat5147",
+      "followers_count": 924,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207385",
+    "created_at": "2025-03-02T08:33:05Z",
+    "text": "RT @budi66: Salut buat @AdventureWorks soal Road-450 Red — sampai lebih cepat, aman Bakal beli lagi. 😍 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1957994284",
+      "name": "Budi Santoso",
+      "screen_name": "budisant5955",
+      "followers_count": 530,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-450 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207469",
+    "created_at": "2025-03-02T09:11:28Z",
+    "text": "The Metal Plate 3 from @AdventureWorks has been fantastic — worth every penny Will buy again. 💯 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "931649262",
+      "name": "Galih Garcia",
+      "screen_name": "galigarc5127",
+      "followers_count": 365,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 43,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Metal Plate 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207337",
+    "created_at": "2025-03-02T10:13:15Z",
+    "text": "Comparing the Thin-Jam Lock Nut 16 with a few others before I buy #AdventureWorks #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5514007806",
+      "name": "Mia Clark",
+      "screen_name": "miaclar5236",
+      "followers_count": 1824,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207290",
+    "created_at": "2025-03-02T18:45:06Z",
+    "text": "Udah sebulan pakai ML Road Pedal, oke terus — kualitasnya premium #AWcycles #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "2454177256",
+      "name": "Sofia Pratama",
+      "screen_name": "sofiprat6674",
+      "followers_count": 3359,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207413",
+    "created_at": "2025-03-02T19:06:49Z",
+    "text": "Really impressed with the Mountain-200 Black — performs flawlessly Will buy again. #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "8617246999",
+      "name": "Chris Lopez",
+      "screen_name": "chrilope7423",
+      "followers_count": 23,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Black, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207422",
+    "created_at": "2025-03-02T20:41:04Z",
+    "text": "Thinking about the Hex Nut 22. Any reviews? 🤷",
+    "lang": "en",
+    "user": {
+      "id_str": "9101590162",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee6120",
+      "followers_count": 721,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000207339",
+    "created_at": "2025-03-02T22:37:36Z",
+    "text": "So glad I picked up the AWC Logo Cap — support was quick and friendly 😍 #rideon #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "1936660319",
+      "name": "Dimas Nguyen",
+      "screen_name": "dimanguy515",
+      "followers_count": 915,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "AWC Logo Cap",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

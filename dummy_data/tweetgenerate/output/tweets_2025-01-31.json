@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000201198",
+    "created_at": "2025-01-31T12:47:59Z",
+    "text": "RT @eko81: Bintang dua buat LL Road Tire dari @AdventureWorks — bunyi-bunyi dan ringkih 😣 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5787971759",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy3516",
+      "followers_count": 2239,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 35,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201276",
+    "created_at": "2025-01-31T14:27:42Z",
+    "text": "Is the Metal Sheet 6 any good for daily rides? 👀 #bikelife #cycling #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3861845941",
+      "name": "Lina Smith",
+      "screen_name": "linasmit3492",
+      "followers_count": 917,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Metal Sheet 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201305",
+    "created_at": "2025-01-31T14:43:06Z",
+    "text": "Frustrated with the Thin-Jam Lock Nut 11 from AdventureWorks Cycles — fell apart on the first ride 😡 #bikelife #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5564033709",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija8548",
+      "followers_count": 765,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201272",
+    "created_at": "2025-01-31T15:07:20Z",
+    "text": "Lagi mikir mau beli Chain Stays. Ada review? 👀 #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "4883228404",
+      "name": "Maria Lopez",
+      "screen_name": "marilope1413",
+      "followers_count": 493,
+      "verified": false
+    },
+    "retweet_count": 29,
+    "favorite_count": 67,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Chain Stays",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201146",
+    "created_at": "2025-01-31T17:18:24Z",
+    "text": "RT @gali84: Three weeks on the Road-650 Red and I'm sold — fair price for this quality Will buy again. 🔥 #bikelife #bikes #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1313128117",
+      "name": "Galih Saputra",
+      "screen_name": "galisapu6087",
+      "followers_count": 1592,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-650 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201167",
+    "created_at": "2025-01-31T18:02:49Z",
+    "text": "So glad I picked up the ML Touring Seat Assembly — feels solid and well made 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "105507561",
+      "name": "Andi Clark",
+      "screen_name": "andiclar9422",
+      "followers_count": 368,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201261",
+    "created_at": "2025-01-31T19:04:40Z",
+    "text": "Not happy with my Road Tire Tube at all — shipping took forever Avoid. #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "2632665954",
+      "name": "Galih Kim",
+      "screen_name": "galikim1594",
+      "followers_count": 2312,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000201211",
+    "created_at": "2025-01-31T21:20:09Z",
+    "text": "Hex Nut 9 dari AdventureWorks Cycles bikin nyesel — komplain didiemin 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "1060599024",
+      "name": "Eko Kim",
+      "screen_name": "ekokim2074",
+      "followers_count": 1250,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

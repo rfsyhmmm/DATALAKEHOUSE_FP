@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000069682",
+    "created_at": "2023-05-06T06:12:25Z",
+    "text": "HL Bottom Bracket bagus nggak buat harian? 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "6908101225",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow4939",
+      "followers_count": 3769,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069693",
+    "created_at": "2023-05-06T07:37:42Z",
+    "text": "Regret buying the LL Mountain Front Wheel — it broke after two weeks Never again. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "3744232456",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy3035",
+      "followers_count": 2050,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 44,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069765",
+    "created_at": "2023-05-06T09:00:28Z",
+    "text": "Capek deh sama Short-Sleeve Classic Jersey dari AdventureWorks Cycles — mahal nggak masuk akal Pelajaran mahal. 👎 #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9125318357",
+      "name": "Eko Garcia",
+      "screen_name": "ekogarc855",
+      "followers_count": 803,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Short-Sleeve Classic Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069806",
+    "created_at": "2023-05-06T19:03:05Z",
+    "text": "So glad I picked up the Mountain-100 Silver — the team was super helpful Highly recommend. 🙌 #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3196091797",
+      "name": "Maria Lee",
+      "screen_name": "marilee9409",
+      "followers_count": 2199,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-100 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069661",
+    "created_at": "2023-05-06T19:42:01Z",
+    "text": "Two stars for the Seat Lug from @AdventureWorks — the finish is sloppy Lesson learned. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "8720005651",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy7290",
+      "followers_count": 92,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Seat Lug",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069722",
+    "created_at": "2023-05-06T20:46:40Z",
+    "text": "LL Road Front Wheel dari @AWCycles bikin nyesel — cepet aus banget Kapok. 🙄 #AdventureWorks #bikes #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5584141304",
+      "name": "Putri Brown",
+      "screen_name": "putrbrow2735",
+      "followers_count": 1134,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069679",
+    "created_at": "2023-05-06T21:34:01Z",
+    "text": "Naik level gowes ku gara-gara Thin-Jam Lock Nut 6 — worth it banget Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9278568554",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija7376",
+      "followers_count": 1378,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 52,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069671",
+    "created_at": "2023-05-06T23:22:04Z",
+    "text": "Akhirnya pakai Metal Plate 1 dan puas pol — performanya mulus Nggak nyesel. 💯 #AdventureWorks #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "7241930077",
+      "name": "Rizky Garcia",
+      "screen_name": "rizkgarc2493",
+      "followers_count": 1475,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Plate 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

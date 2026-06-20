@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000230580",
+    "created_at": "2025-06-24T12:05:32Z",
+    "text": "Two stars for the Road-250 Black from AdventureWorks Cycles — it arrived late and damaged Avoid. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "3858129616",
+      "name": "Raka Putra",
+      "screen_name": "rakaputr3373",
+      "followers_count": 461,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-250 Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230661",
+    "created_at": "2025-06-24T12:29:13Z",
+    "text": "The HL Road Rim from AdventureWorks let me down — support ignored my emails Do better AdventureWorks. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "7611664637",
+      "name": "Raka Nguyen",
+      "screen_name": "rakanguy8147",
+      "followers_count": 3279,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230648",
+    "created_at": "2025-06-24T13:41:01Z",
+    "text": "So glad I picked up the Mountain-100 Black — arrived a day early, well packed 🚴 #cycling #AWcycles #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "5346967914",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc6659",
+      "followers_count": 191,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 45,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-100 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230642",
+    "created_at": "2025-06-24T13:56:43Z",
+    "text": "Two stars for the ML Road Frame - Red from @AdventureWorks — poor build, cheap materials Never again. ⚠️ #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "3689994879",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit8932",
+      "followers_count": 1876,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230693",
+    "created_at": "2025-06-24T13:58:10Z",
+    "text": "Nggak nyesel beli Lock Washer 3 — CS-nya cepat dan ramah Bakal beli lagi. ✨ #bikes #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "6692716090",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu291",
+      "followers_count": 1346,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230549",
+    "created_at": "2025-06-24T15:15:03Z",
+    "text": "Terkesan banget sama Lock Nut 20 — kualitasnya premium Bakal beli lagi. 👍 #AWcycles #cycling #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "5110174572",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope5147",
+      "followers_count": 2049,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230706",
+    "created_at": "2025-06-24T19:50:30Z",
+    "text": "Not happy with my ML Mountain Frame-W - Silver at all — the finish is sloppy Lesson learned. 😩 #cycling #bikes #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8812714759",
+      "name": "Dewi Santoso",
+      "screen_name": "dewisant9037",
+      "followers_count": 629,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000230617",
+    "created_at": "2025-06-24T22:23:20Z",
+    "text": "Is the Mountain-100 Black any good for daily rides? 🤷 #bikelife #bikes #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "7716704107",
+      "name": "Citra Clark",
+      "screen_name": "citrclar4197",
+      "followers_count": 2136,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 48,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-100 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

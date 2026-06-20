@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000055028",
+    "created_at": "2023-02-22T03:26:32Z",
+    "text": "RT @raka11: Bintang dua buat Mountain-400-W Silver dari @AdventureWorks — proses retur ribet Tolong @AdventureWorks dibenahi. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "8318852910",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat9267",
+      "followers_count": 1065,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain-400-W Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055113",
+    "created_at": "2023-02-22T11:17:12Z",
+    "text": "Hex Nut 5 dari AdventureWorks mantap sih — CS-nya cepat dan ramah Bakal beli lagi. 🙌 #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "1985674855",
+      "name": "Putri Lee",
+      "screen_name": "putrlee9628",
+      "followers_count": 1289,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055131",
+    "created_at": "2023-02-22T13:52:53Z",
+    "text": "Absolutely loving my new HL Road Pedal from @AWCycles — build quality feels premium 👍 #bikes #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8939974996",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope2931",
+      "followers_count": 218,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 62,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055068",
+    "created_at": "2023-02-22T15:02:58Z",
+    "text": "Udah sebulan pakai LL Touring Handlebars, oke terus — CS-nya cepat dan ramah Bakal beli lagi. #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "3254342191",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy7908",
+      "followers_count": 1220,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 55,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055083",
+    "created_at": "2023-02-22T17:53:21Z",
+    "text": "LL Mountain Frame - Black dari AdventureWorks mantap sih — masih awet setelah berbulan-bulan Bakal beli lagi. 👍 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "9653334114",
+      "name": "Mia Wijaya",
+      "screen_name": "miawija3647",
+      "followers_count": 1242,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055091",
+    "created_at": "2023-02-22T19:30:58Z",
+    "text": "Salut buat @AdventureWorks soal Mountain-500 Silver — pelayanannya membantu Nggak nyesel. #AWcycles #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "7462759255",
+      "name": "Sam Anwar",
+      "screen_name": "samanwa126",
+      "followers_count": 1629,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054990",
+    "created_at": "2023-02-22T19:53:28Z",
+    "text": "Upgraded to the Mountain-200 Black and no looking back — couldn't be happier Will buy again. 👍 #AWcycles #AdventureWorks #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "6369193077",
+      "name": "Dewi Kim",
+      "screen_name": "dewikim1960",
+      "followers_count": 120,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-200 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055127",
+    "created_at": "2023-02-22T21:13:37Z",
+    "text": "The LL Crankarm from AdventureWorks let me down — way too expensive 😩 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "8780748528",
+      "name": "Maya Brown",
+      "screen_name": "mayabrow3196",
+      "followers_count": 759,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

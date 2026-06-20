@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000097688",
+    "created_at": "2023-09-20T06:32:24Z",
+    "text": "Thin-Jam Hex Nut 13 dari @AdventureWorks mantap sih — harga sebanding kualitas Nggak nyesel. 🔥 #rideon #AdventureWorks #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "4205732529",
+      "name": "Jordan Wijaya",
+      "screen_name": "jordwija4395",
+      "followers_count": 10,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097762",
+    "created_at": "2023-09-20T14:05:13Z",
+    "text": "Kecewa banget sama ML Road Frame-W - Yellow — proses retur ribet Tolong AdventureWorks Cycles dibenahi. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "6447627776",
+      "name": "Tom Putra",
+      "screen_name": "tomputr6467",
+      "followers_count": 319,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Road Frame-W - Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097725",
+    "created_at": "2023-09-20T14:08:37Z",
+    "text": "RT @dewi67: Salut buat @AWCycles soal Touring-3000 Yellow — worth it banget",
+    "lang": "in",
+    "user": {
+      "id_str": "7855348651",
+      "name": "Chris Pratama",
+      "screen_name": "chriprat9768",
+      "followers_count": 66,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097879",
+    "created_at": "2023-09-20T14:09:00Z",
+    "text": "Thin-Jam Hex Nut 16 dari @AWCycles bikin nyesel — kirimnya lama banget #AdventureWorks #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3219925840",
+      "name": "Sofia Brown",
+      "screen_name": "sofibrow9920",
+      "followers_count": 1436,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097812",
+    "created_at": "2023-09-20T14:19:42Z",
+    "text": "Nggak puas sama Thin-Jam Lock Nut 3 ku — kirimnya lama banget Tolong AdventureWorks Cycles dibenahi. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "5507712912",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa6810",
+      "followers_count": 184,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097782",
+    "created_at": "2023-09-20T14:44:32Z",
+    "text": "Terkesan banget sama Mountain-400-W Silver — pengiriman cepat dan packing rapi Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "8648066497",
+      "name": "Galih Smith",
+      "screen_name": "galismit9998",
+      "followers_count": 3580,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-400-W Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097730",
+    "created_at": "2023-09-20T16:45:47Z",
+    "text": "Not happy with my Men's Sports Shorts at all — just a bad buy 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "9506016736",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu8460",
+      "followers_count": 1770,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 38,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Men's Sports Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000097858",
+    "created_at": "2023-09-20T19:17:52Z",
+    "text": "RT @mari73: Bintang dua buat Internal Lock Washer 8 dari @AdventureWorks — komplain didiemin 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "6163341188",
+      "name": "Bayu Smith",
+      "screen_name": "bayusmit9843",
+      "followers_count": 2346,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Internal Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

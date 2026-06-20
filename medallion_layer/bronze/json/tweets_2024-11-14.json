@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000185147",
+    "created_at": "2024-11-14T12:36:44Z",
+    "text": "Anyone using the LL Road Frame - Black from AdventureWorks? Worth it? 👀 #cycling #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3623869703",
+      "name": "Sofia Wijaya",
+      "screen_name": "sofiwija4438",
+      "followers_count": 3014,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000184997",
+    "created_at": "2024-11-14T17:07:55Z",
+    "text": "Just unboxed the Mountain-100 Black, will report back #cycling #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4208440671",
+      "name": "Bayu Clark",
+      "screen_name": "bayuclar1608",
+      "followers_count": 631,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-100 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000185036",
+    "created_at": "2024-11-14T17:13:52Z",
+    "text": "Really disappointed with the Mountain-500 Silver — rattles and feels flimsy 👎 #AWcycles #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8234629899",
+      "name": "Budi Kim",
+      "screen_name": "budikim2064",
+      "followers_count": 3075,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000185161",
+    "created_at": "2024-11-14T17:23:33Z",
+    "text": "Suka banget sama ML Road Rear Wheel dari @AWCycles — pelayanannya membantu Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "1762078518",
+      "name": "Nadia Smith",
+      "screen_name": "nadismit8255",
+      "followers_count": 1303,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000185075",
+    "created_at": "2024-11-14T20:16:56Z",
+    "text": "Absolutely loving my new Thin-Jam Lock Nut 2 from AdventureWorks Cycles — arrived a day early, well packed 😍 #bikes #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1446652690",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar14",
+      "followers_count": 2062,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000185066",
+    "created_at": "2024-11-14T20:34:45Z",
+    "text": "Expected so much more from the Thin-Jam Hex Nut 10 — overpriced for what you get Never again. 😡 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6348243001",
+      "name": "Olivia Pratama",
+      "screen_name": "olivprat6684",
+      "followers_count": 3848,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000185193",
+    "created_at": "2024-11-14T21:06:54Z",
+    "text": "Berharap lebih dari Freewheel — finishing-nya asal Pelajaran mahal. 😤 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "4498672545",
+      "name": "Jordan Halim",
+      "screen_name": "jordhali8831",
+      "followers_count": 765,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Freewheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000185101",
+    "created_at": "2024-11-14T21:56:19Z",
+    "text": "Akhirnya pakai Lock Washer 9 dan puas pol — performanya mulus",
+    "lang": "in",
+    "user": {
+      "id_str": "239488682",
+      "name": "Alex Smith",
+      "screen_name": "alexsmit6273",
+      "followers_count": 2095,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

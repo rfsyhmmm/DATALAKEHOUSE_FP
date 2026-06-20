@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000028183",
+    "created_at": "2022-10-15T07:44:09Z",
+    "text": "Done with the ML Road Tire honestly — just not worth the money ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "9624124185",
+      "name": "Bayu Kim",
+      "screen_name": "bayukim698",
+      "followers_count": 1009,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028204",
+    "created_at": "2022-10-15T08:16:13Z",
+    "text": "Naik level gowes ku gara-gara Mountain-100 Black — tahan banting dipakai berat 💯 #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7960374281",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat7873",
+      "followers_count": 3074,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-100 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028301",
+    "created_at": "2022-10-15T09:17:41Z",
+    "text": "The Mountain-500 Silver from AWC has been fantastic — arrived a day early, well packed 🚴 #bikes #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5996471678",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija8789",
+      "followers_count": 1888,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 49,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-500 Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028247",
+    "created_at": "2022-10-15T11:39:16Z",
+    "text": "Nggak nyesel beli Touring-1000 Yellow — performanya mulus 🚴 #AdventureWorks #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "3955140353",
+      "name": "Maria Wijaya",
+      "screen_name": "mariwija44",
+      "followers_count": 2818,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028138",
+    "created_at": "2022-10-15T13:47:31Z",
+    "text": "Udah sebulan pakai HL Road Frame - Red, oke terus — sampai lebih cepat, aman Bintang lima. 💯 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8649403502",
+      "name": "Tom Smith",
+      "screen_name": "tomsmit7167",
+      "followers_count": 252,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028209",
+    "created_at": "2022-10-15T16:44:17Z",
+    "text": "Really impressed with the LL Road Frame - Red — delivery was smooth Zero regrets. 🔥 #AdventureWorks #AWcycles #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "6844664242",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow8477",
+      "followers_count": 508,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028271",
+    "created_at": "2022-10-15T18:07:07Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Road-550-W Yellow — performs flawlessly Zero regrets. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "7226481194",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow1176",
+      "followers_count": 1499,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028333",
+    "created_at": "2022-10-15T21:06:41Z",
+    "text": "Suka banget sama Fender Set - Mountain dari AWC — masih awet setelah berbulan-bulan 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "1863275726",
+      "name": "Dimas Lee",
+      "screen_name": "dimalee3169",
+      "followers_count": 1140,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 28,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

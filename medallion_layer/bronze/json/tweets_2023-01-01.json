@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000044454",
+    "created_at": "2023-01-01T08:51:01Z",
+    "text": "Regret buying the Thin-Jam Hex Nut 14 — packaging was a mess 😡 #rideon #MTB #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "3400467092",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida925",
+      "followers_count": 622,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044487",
+    "created_at": "2023-01-01T09:39:44Z",
+    "text": "Nggak nyesel beli Touring-1000 Yellow — tahan banting dipakai berat Bakal beli lagi. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "3036315934",
+      "name": "Mia Hidayat",
+      "screen_name": "miahida9430",
+      "followers_count": 72,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-1000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044499",
+    "created_at": "2023-01-01T11:05:04Z",
+    "text": "Seat Post bagus nggak buat harian? 🧐 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9518069653",
+      "name": "Andi Hidayat",
+      "screen_name": "andihida5328",
+      "followers_count": 1577,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Seat Post",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044358",
+    "created_at": "2023-01-01T14:45:56Z",
+    "text": "RT @maya46: HL Road Frame - Black dari @AWCycles mantap sih — harga sebanding kualitas Nggak nyesel. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "1447148102",
+      "name": "Dewi Saputra",
+      "screen_name": "dewisapu9885",
+      "followers_count": 2215,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 55,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044323",
+    "created_at": "2023-01-01T15:50:47Z",
+    "text": "Salut buat @AdventureWorks soal Flat Washer 3 — sampai lebih cepat, aman 😎 #bikelife #cycling #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "3559761909",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa9269",
+      "followers_count": 1272,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044538",
+    "created_at": "2023-01-01T17:20:43Z",
+    "text": "Nyesel beli Lock Nut 19 — cepet aus banget Tolong @AWCycles dibenahi. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "2955437269",
+      "name": "Andi Wijaya",
+      "screen_name": "andiwija8080",
+      "followers_count": 1712,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 19",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044406",
+    "created_at": "2023-01-01T17:47:14Z",
+    "text": "Ada yang pakai HL Mountain Frame - Silver dari @AdventureWorks? Worth it nggak? 🧐",
+    "lang": "in",
+    "user": {
+      "id_str": "9605467753",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow1168",
+      "followers_count": 271,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Mountain Frame - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044539",
+    "created_at": "2023-01-01T21:09:22Z",
+    "text": "Absolutely loving my new ML Road Rear Wheel from AdventureWorks — shipping was fast and packaging perfect Highly recommend. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "4847717561",
+      "name": "Alex Pratama",
+      "screen_name": "alexprat7813",
+      "followers_count": 538,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

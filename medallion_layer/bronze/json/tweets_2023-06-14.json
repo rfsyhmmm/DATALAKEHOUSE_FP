@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000077771",
+    "created_at": "2023-06-14T09:09:41Z",
+    "text": "Suka banget sama LL Road Handlebars dari AdventureWorks Cycles — terasa kokoh dan rapi Recommended. 💯 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "1856682953",
+      "name": "Andi Smith",
+      "screen_name": "andismit6830",
+      "followers_count": 2041,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077815",
+    "created_at": "2023-06-14T09:39:44Z",
+    "text": "Done with the Keyed Washer honestly — it broke after two weeks Never again. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "306128710",
+      "name": "Sam Putra",
+      "screen_name": "samputr6725",
+      "followers_count": 1668,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Keyed Washer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077843",
+    "created_at": "2023-06-14T10:44:44Z",
+    "text": "Nyesel beli Internal Lock Washer 10 — nggak sebanding harganya 😤 #cycling #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7176931577",
+      "name": "Dewi Clark",
+      "screen_name": "dewiclar210",
+      "followers_count": 920,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077897",
+    "created_at": "2023-06-14T10:56:01Z",
+    "text": "Nggak nyesel beli Hex Nut 18 — CS-nya cepat dan ramah Nggak nyesel. 🔥 #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "3336659316",
+      "name": "Maria Lee",
+      "screen_name": "marilee9220",
+      "followers_count": 1196,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077783",
+    "created_at": "2023-06-14T18:38:55Z",
+    "text": "Naik level gowes ku gara-gara Lock Nut 19 — worth it banget",
+    "lang": "in",
+    "user": {
+      "id_str": "9483445641",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat1693",
+      "followers_count": 1105,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 19",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077786",
+    "created_at": "2023-06-14T19:39:17Z",
+    "text": "So glad I picked up the Metal Sheet 4 — delivery was smooth Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "5074707288",
+      "name": "Alex Saputra",
+      "screen_name": "alexsapu5956",
+      "followers_count": 2505,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Sheet 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077816",
+    "created_at": "2023-06-14T20:26:00Z",
+    "text": "The All-Purpose Bike Stand from @AWCycles let me down — poor build, cheap materials Lesson learned. #cycling #rideon #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8875989237",
+      "name": "Andi Halim",
+      "screen_name": "andihali2482",
+      "followers_count": 2010,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "All-Purpose Bike Stand",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077848",
+    "created_at": "2023-06-14T21:55:14Z",
+    "text": "Terkesan banget sama Short-Sleeve Classic Jersey — kualitasnya premium 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "6533775896",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy270",
+      "followers_count": 848,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

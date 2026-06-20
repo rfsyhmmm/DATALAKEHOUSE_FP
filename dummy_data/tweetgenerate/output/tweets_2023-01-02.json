@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000044698",
+    "created_at": "2023-01-02T07:12:54Z",
+    "text": "RT @kevi49: Shoutout to @AdventureWorks for the ML Road Seat/Saddle — exceeded my expectations 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "8766227597",
+      "name": "Nadia Putra",
+      "screen_name": "nadiputr4539",
+      "followers_count": 1800,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044625",
+    "created_at": "2023-01-02T07:55:03Z",
+    "text": "Suka banget sama Road-250 Red dari AWC — beli yang tepat sih Bakal beli lagi. 🔥 #AdventureWorks #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "608582001",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit4411",
+      "followers_count": 2149,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-250 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044656",
+    "created_at": "2023-01-02T16:18:26Z",
+    "text": "Done with the LL Road Frame - Black honestly — the return process is a nightmare Avoid. 😡 #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "7620312871",
+      "name": "Alex Brown",
+      "screen_name": "alexbrow302",
+      "followers_count": 451,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044603",
+    "created_at": "2023-01-02T16:30:30Z",
+    "text": "Absolutely loving my new Bike Wash - Dissolver from AdventureWorks Cycles — performs flawlessly Highly recommend. 🔥 #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8924076491",
+      "name": "Alex Brown",
+      "screen_name": "alexbrow3993",
+      "followers_count": 2906,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Bike Wash - Dissolver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044740",
+    "created_at": "2023-01-02T17:28:05Z",
+    "text": "Really disappointed with the LL Mountain Frame - Silver — wore out way too fast Do better AWC. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "5407762804",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee6123",
+      "followers_count": 730,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Mountain Frame - Silver, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044579",
+    "created_at": "2023-01-02T19:05:46Z",
+    "text": "Capek deh sama Rear Derailleur Cage dari AdventureWorks Cycles — CS-nya nggak guna Tolong AdventureWorks Cycles dibenahi. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "7204076273",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc6426",
+      "followers_count": 0,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Rear Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044615",
+    "created_at": "2023-01-02T20:53:06Z",
+    "text": "My Hex Nut 22 from AWC is excellent — arrived a day early, well packed Zero regrets. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "9398241130",
+      "name": "Kevin Santoso",
+      "screen_name": "kevisant4856",
+      "followers_count": 2227,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 55,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000044666",
+    "created_at": "2023-01-02T23:47:25Z",
+    "text": "Lock Nut 20 dari @AWCycles mantap sih — sampai lebih cepat, aman Bintang lima. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "4158899988",
+      "name": "Galih Brown",
+      "screen_name": "galibrow201",
+      "followers_count": 713,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 27,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

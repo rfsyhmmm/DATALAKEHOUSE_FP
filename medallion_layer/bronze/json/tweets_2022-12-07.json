@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000039325",
+    "created_at": "2022-12-07T11:24:03Z",
+    "text": "So glad I picked up the Touring-3000 Blue — shipping was fast and packaging perfect Highly recommend. #rideon #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5311807189",
+      "name": "Dimas Nguyen",
+      "screen_name": "dimanguy6473",
+      "followers_count": 1371,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039388",
+    "created_at": "2022-12-07T12:15:49Z",
+    "text": "RT @dima43: So glad I picked up the Road End Caps — build quality feels premium 🙌 #bikes #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6864303717",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa2495",
+      "followers_count": 2978,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039264",
+    "created_at": "2022-12-07T17:17:30Z",
+    "text": "Nyesel beli ML Road Front Wheel — bunyi-bunyi dan ringkih #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1057435058",
+      "name": "Mia Halim",
+      "screen_name": "miahali1480",
+      "followers_count": 1513,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039241",
+    "created_at": "2022-12-07T18:54:13Z",
+    "text": "Not happy with my Fender Set - Mountain at all — packaging was a mess 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "4625162660",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu7407",
+      "followers_count": 3449,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039298",
+    "created_at": "2022-12-07T18:55:39Z",
+    "text": "Salut buat AdventureWorks soal Road-450 Red — kirimnya lancar 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "698210433",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope8254",
+      "followers_count": 1688,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-450 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039250",
+    "created_at": "2022-12-07T19:17:43Z",
+    "text": "The Top Tube from @AdventureWorks has been fantastic — great value for the price Highly recommend. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "8413016347",
+      "name": "Tom Garcia",
+      "screen_name": "tomgarc8377",
+      "followers_count": 2094,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Top Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039287",
+    "created_at": "2022-12-07T21:23:17Z",
+    "text": "Frustrated with the Lock Nut 22 from AdventureWorks Cycles — poor build, cheap materials ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "115462670",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow1402",
+      "followers_count": 2137,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039344",
+    "created_at": "2022-12-07T22:09:32Z",
+    "text": "Nggak nyesel beli HL Shell — kirimnya lancar Bakal beli lagi. ✨ #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "2552268231",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar4609",
+      "followers_count": 281,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

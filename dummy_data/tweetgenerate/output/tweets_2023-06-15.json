@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000078060",
+    "created_at": "2023-06-15T11:22:26Z",
+    "text": "Berharap lebih dari ML Crankarm — nggak sebanding harganya 👎 #cycling #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "8782084186",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy5162",
+      "followers_count": 438,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077921",
+    "created_at": "2023-06-15T13:15:54Z",
+    "text": "Suka banget sama LL Touring Frame - Yellow dari AdventureWorks — performanya mulus",
+    "lang": "in",
+    "user": {
+      "id_str": "2610629366",
+      "name": "Andi Hidayat",
+      "screen_name": "andihida6401",
+      "followers_count": 1078,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078091",
+    "created_at": "2023-06-15T16:50:09Z",
+    "text": "Really impressed with the Women's Tights — delivery was smooth Five stars. ✨ #bikes #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8074470929",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija5182",
+      "followers_count": 298,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Women's Tights, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078116",
+    "created_at": "2023-06-15T18:27:30Z",
+    "text": "Naik level gowes ku gara-gara Crown Race — terasa kokoh dan rapi Recommended. 😎 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5861342691",
+      "name": "Sam Hidayat",
+      "screen_name": "samhida7314",
+      "followers_count": 1353,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Crown Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078028",
+    "created_at": "2023-06-15T19:32:22Z",
+    "text": "Touring-3000 Yellow dari AdventureWorks Cycles mantap sih — harga sebanding kualitas Recommended. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "4635425288",
+      "name": "Galih Santoso",
+      "screen_name": "galisant6899",
+      "followers_count": 256,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077983",
+    "created_at": "2023-06-15T20:15:13Z",
+    "text": "Nyesel beli Metal Tread Plate — packing-nya berantakan Tolong @AWCycles dibenahi. 😡 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6017028571",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat6450",
+      "followers_count": 846,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 52,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Metal Tread Plate",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000077936",
+    "created_at": "2023-06-15T20:15:55Z",
+    "text": "Udah sebulan pakai Mountain-500 Silver, oke terus — worth it banget Nggak nyesel. 😎 #bikelife #bikes #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "4008642405",
+      "name": "Kevin Brown",
+      "screen_name": "kevibrow3167",
+      "followers_count": 522,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-500 Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000078065",
+    "created_at": "2023-06-15T22:42:07Z",
+    "text": "Three weeks on the Lock Nut 4 and I'm sold — build quality feels premium 😍 #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4292807926",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu8259",
+      "followers_count": 3161,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

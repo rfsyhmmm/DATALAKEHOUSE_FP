@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000017101",
+    "created_at": "2022-08-19T09:49:42Z",
+    "text": "Salut buat @AdventureWorks soal Touring-1000 Yellow — sampai lebih cepat, aman Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "6510114897",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida8109",
+      "followers_count": 256,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000017146",
+    "created_at": "2022-08-19T10:59:33Z",
+    "text": "Udahan deh sama Rear Derailleur ini — rusak baru dua minggu Kapok. #bikes #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "4139868690",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali6413",
+      "followers_count": 1658,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000017134",
+    "created_at": "2022-08-19T11:36:12Z",
+    "text": "Expected so much more from the Road-150 Red — the finish is sloppy 😡 #cycling #bikelife #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7055867712",
+      "name": "Andi Kim",
+      "screen_name": "andikim6393",
+      "followers_count": 33,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000017046",
+    "created_at": "2022-08-19T15:49:59Z",
+    "text": "So glad I picked up the Lock Nut 15 — performs flawlessly 🔥 #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "780052083",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali3854",
+      "followers_count": 4671,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000017002",
+    "created_at": "2022-08-19T15:51:09Z",
+    "text": "Kecewa banget sama Top Tube — packing-nya berantakan ⚠️ #MTB #cycling #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8656222542",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc1413",
+      "followers_count": 153,
+      "verified": true
+    },
+    "retweet_count": 12,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Top Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016998",
+    "created_at": "2022-08-19T20:14:55Z",
+    "text": "Headlights - Dual-Beam dari @AWCycles bikin nyesel — finishing-nya asal Kapok. 🙄 #AWcycles #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6236173390",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat8075",
+      "followers_count": 198,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Headlights - Dual-Beam",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016951",
+    "created_at": "2022-08-19T21:57:29Z",
+    "text": "So glad I picked up the Mountain Tire Tube — shipping was fast and packaging perfect Highly recommend. #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2798380322",
+      "name": "Eko Garcia",
+      "screen_name": "ekogarc1677",
+      "followers_count": 558,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000017085",
+    "created_at": "2022-08-19T22:38:45Z",
+    "text": "Nyesel beli Men's Sports Shorts — komplain didiemin 😩 #rideon #MTB #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "6574813107",
+      "name": "Putri Kim",
+      "screen_name": "putrkim7404",
+      "followers_count": 3232,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Men's Sports Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

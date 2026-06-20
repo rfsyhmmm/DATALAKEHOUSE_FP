@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000169610",
+    "created_at": "2024-08-31T08:26:01Z",
+    "text": "Three weeks on the Women's Tights and I'm sold — delivery was smooth Will buy again.",
+    "lang": "en",
+    "user": {
+      "id_str": "2940500066",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc4142",
+      "followers_count": 223,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Women's Tights, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169782",
+    "created_at": "2024-08-31T13:52:18Z",
+    "text": "RT @hann20: Two stars for the Lock Nut 8 from AdventureWorks Cycles — shipping took forever Lesson learned. 👎 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6666574862",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope8622",
+      "followers_count": 1150,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 77,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169737",
+    "created_at": "2024-08-31T13:57:22Z",
+    "text": "Really impressed with the LL Mountain Rim — build quality feels premium Will buy again. #bikelife #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8342749604",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija4667",
+      "followers_count": 965,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 28,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169636",
+    "created_at": "2024-08-31T15:32:44Z",
+    "text": "Frustrated with the Road-450 Red from AWC — wore out way too fast Never again. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "5560557166",
+      "name": "Bayu Saputra",
+      "screen_name": "bayusapu2622",
+      "followers_count": 1240,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-450 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169596",
+    "created_at": "2024-08-31T15:55:48Z",
+    "text": "Two stars for the ML Mountain Frame - Black from AWC — customer service was useless Avoid. 😣 #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7697394364",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy3992",
+      "followers_count": 1141,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169804",
+    "created_at": "2024-08-31T16:44:11Z",
+    "text": "HL Road Frame - Red dari @AWCycles bikin nyesel — kirimnya lama banget 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "3726464466",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit310",
+      "followers_count": 987,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 28,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169713",
+    "created_at": "2024-08-31T18:32:40Z",
+    "text": "Upgraded to the Fender Set - Mountain and no looking back — shipping was fast and packaging perfect Highly recommend. 😎 #bikes #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1032198612",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu6942",
+      "followers_count": 550,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000169669",
+    "created_at": "2024-08-31T18:38:07Z",
+    "text": "Suka banget sama Thin-Jam Hex Nut 5 dari @AWCycles — pelayanannya membantu Bakal beli lagi. 😎 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3612112010",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar9595",
+      "followers_count": 1857,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

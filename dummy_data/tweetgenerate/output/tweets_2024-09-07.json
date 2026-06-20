@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000171090",
+    "created_at": "2024-09-07T09:20:30Z",
+    "text": "Kecewa banget sama Women's Mountain Shorts — jebol pas ride pertama Tolong AdventureWorks dibenahi. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "454116555",
+      "name": "Raka Lee",
+      "screen_name": "rakalee1143",
+      "followers_count": 2128,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Women's Mountain Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170928",
+    "created_at": "2024-09-07T09:41:01Z",
+    "text": "Really disappointed with the LL Road Pedal — support ignored my emails Do better @AdventureWorks. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "8394567352",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu6355",
+      "followers_count": 891,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "LL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171064",
+    "created_at": "2024-09-07T12:59:24Z",
+    "text": "Upgraded to the External Lock Washer 4 and no looking back — performs flawlessly Highly recommend. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "5895221009",
+      "name": "Sam Garcia",
+      "screen_name": "samgarc5571",
+      "followers_count": 674,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 72,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171026",
+    "created_at": "2024-09-07T18:03:07Z",
+    "text": "Nggak nyesel beli Internal Lock Washer 1 — tahan banting dipakai berat Bintang lima. #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "5658136080",
+      "name": "Galih Brown",
+      "screen_name": "galibrow7096",
+      "followers_count": 4424,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Internal Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170932",
+    "created_at": "2024-09-07T18:36:10Z",
+    "text": "The Sport-100 Helmet from @AdventureWorks let me down — wish I'd skipped it Never again. 👎 #rideon #AdventureWorks #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7820477285",
+      "name": "Olivia Nguyen",
+      "screen_name": "olivnguy5888",
+      "followers_count": 573,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170957",
+    "created_at": "2024-09-07T18:41:59Z",
+    "text": "Salut buat AdventureWorks Cycles soal HL Mountain Frame - Black — kuat di trek kasar Bakal beli lagi. 😍 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2925346713",
+      "name": "Kevin Kim",
+      "screen_name": "kevikim5234",
+      "followers_count": 290,
+      "verified": true
+    },
+    "retweet_count": 19,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170992",
+    "created_at": "2024-09-07T18:54:11Z",
+    "text": "Expected so much more from the Half-Finger Gloves — wore out way too fast Do better @AdventureWorks. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "4600704515",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat459",
+      "followers_count": 181,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Half-Finger Gloves, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171045",
+    "created_at": "2024-09-07T22:25:41Z",
+    "text": "Really impressed with the Chain — performs flawlessly Zero regrets. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "6609756145",
+      "name": "Citra Pratama",
+      "screen_name": "citrprat6212",
+      "followers_count": 1183,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

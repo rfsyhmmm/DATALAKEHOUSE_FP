@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000046763",
+    "created_at": "2023-01-13T05:29:41Z",
+    "text": "Salut buat @AdventureWorks soal Hex Nut 9 — terasa kokoh dan rapi 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "606283452",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee8903",
+      "followers_count": 2461,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046732",
+    "created_at": "2023-01-13T05:31:18Z",
+    "text": "Upgraded to the Internal Lock Washer 4 and no looking back — feels solid and well made 🙌 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6103598373",
+      "name": "Alex Brown",
+      "screen_name": "alexbrow1580",
+      "followers_count": 1304,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046915",
+    "created_at": "2023-01-13T07:08:28Z",
+    "text": "Just unboxed the ML Road Frame - Red, will report back 🤷 #rideon #AdventureWorks #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4761102753",
+      "name": "Sam Kim",
+      "screen_name": "samkim2109",
+      "followers_count": 1699,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046850",
+    "created_at": "2023-01-13T12:16:28Z",
+    "text": "Naik level gowes ku gara-gara Bearing Ball — sampai lebih cepat, aman ✨ #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "326336169",
+      "name": "Chris Wijaya",
+      "screen_name": "chriwija3315",
+      "followers_count": 1564,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 54,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Bearing Ball",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046944",
+    "created_at": "2023-01-13T15:27:17Z",
+    "text": "Akhirnya pakai HL Touring Frame - Yellow dan puas pol — sampai lebih cepat, aman Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "1541748771",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy7008",
+      "followers_count": 192,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Touring Frame - Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046806",
+    "created_at": "2023-01-13T18:41:06Z",
+    "text": "Three weeks on the Lock Nut 20 and I'm sold — zero wear after heavy use Five stars. 😍 #AWcycles #bikelife #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "2645051957",
+      "name": "Raka Kim",
+      "screen_name": "rakakim7371",
+      "followers_count": 2851,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046865",
+    "created_at": "2023-01-13T19:47:58Z",
+    "text": "Absolutely loving my new Taillights - Battery-Powered from AdventureWorks Cycles — feels solid and well made #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9997958921",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat4958",
+      "followers_count": 1397,
+      "verified": false
+    },
+    "retweet_count": 34,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Taillights - Battery-Powered",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000046847",
+    "created_at": "2023-01-13T21:05:53Z",
+    "text": "RT @andi37: Bintang dua buat Road-550-W Yellow dari AdventureWorks — nyesel ambil ini Tolong AdventureWorks dibenahi. 🙄 #bikes #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1010676886",
+      "name": "Kevin Santoso",
+      "screen_name": "kevisant3172",
+      "followers_count": 1391,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

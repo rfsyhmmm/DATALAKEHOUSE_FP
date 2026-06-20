@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000004869",
+    "created_at": "2022-06-21T07:25:36Z",
+    "text": "Udah sebulan pakai HL Crankset, oke terus — performanya mulus Nggak nyesel. 🔥 #bikelife #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "3450598093",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa1286",
+      "followers_count": 1993,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004977",
+    "created_at": "2022-06-21T08:22:39Z",
+    "text": "Salut buat AWC soal Cup-Shaped Race — kualitasnya premium Nggak nyesel. 👍 #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "7917415821",
+      "name": "Budi Brown",
+      "screen_name": "budibrow2420",
+      "followers_count": 1538,
+      "verified": true
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Cup-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004808",
+    "created_at": "2022-06-21T12:47:56Z",
+    "text": "Really disappointed with the Touring-2000 Blue — the finish is sloppy Do better AWC. ⚠️ #AdventureWorks #bikes #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "6678434127",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee3785",
+      "followers_count": 1077,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004956",
+    "created_at": "2022-06-21T13:27:49Z",
+    "text": "Shoutout to @AdventureWorks for the Bike Wash - Dissolver — delivery was smooth Zero regrets. 👍 #rideon #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "6242085555",
+      "name": "Sam Brown",
+      "screen_name": "sambrow1174",
+      "followers_count": 16,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Bike Wash - Dissolver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004776",
+    "created_at": "2022-06-21T15:04:02Z",
+    "text": "Absolutely loving my new Metal Sheet 6 from @AdventureWorks — shipping was fast and packaging perfect Highly recommend. 👍 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6930290429",
+      "name": "Olivia Clark",
+      "screen_name": "olivclar8616",
+      "followers_count": 1809,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 64,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Metal Sheet 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004919",
+    "created_at": "2022-06-21T17:40:24Z",
+    "text": "RT @mia51: Absolutely loving my new Lock Nut 5 from AdventureWorks — zero wear after heavy use 🚴 #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6250116885",
+      "name": "Nadia Putra",
+      "screen_name": "nadiputr3639",
+      "followers_count": 2188,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004820",
+    "created_at": "2022-06-21T19:36:22Z",
+    "text": "The Mountain-200 Silver from AWC let me down — it arrived late and damaged Never again. 😣 #bikes #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5991490448",
+      "name": "Lina Saputra",
+      "screen_name": "linasapu9013",
+      "followers_count": 941,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000004845",
+    "created_at": "2022-06-21T22:28:25Z",
+    "text": "Terkesan banget sama HL Touring Frame - Yellow — pelayanannya membantu Recommended. 😍 #AdventureWorks #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2555054143",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat4522",
+      "followers_count": 415,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000138563",
+    "created_at": "2024-04-06T05:11:21Z",
+    "text": "Akhirnya pakai Thin-Jam Hex Nut 4 dan puas pol — harga sebanding kualitas Bakal beli lagi. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "4173542337",
+      "name": "Raka Lee",
+      "screen_name": "rakalee4098",
+      "followers_count": 1020,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138584",
+    "created_at": "2024-04-06T09:27:48Z",
+    "text": "Kecewa banget sama Cable Lock — bunyi-bunyi dan ringkih Pelajaran mahal. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "3776934909",
+      "name": "Raka Brown",
+      "screen_name": "rakabrow4956",
+      "followers_count": 2263,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Cable Lock",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138550",
+    "created_at": "2024-04-06T14:01:13Z",
+    "text": "Capek deh sama Touring-1000 Blue dari @AWCycles — bahannya murahan Kapok.",
+    "lang": "in",
+    "user": {
+      "id_str": "1389828349",
+      "name": "Tom Smith",
+      "screen_name": "tomsmit4297",
+      "followers_count": 1050,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138499",
+    "created_at": "2024-04-06T15:45:13Z",
+    "text": "Absolutely loving my new LL Road Tire from @AWCycles — worth every penny Zero regrets. 😎 #rideon #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2540419234",
+      "name": "Raka Kim",
+      "screen_name": "rakakim1100",
+      "followers_count": 1997,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138440",
+    "created_at": "2024-04-06T17:18:07Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Half-Finger Gloves — performs flawlessly 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "2867723569",
+      "name": "Raka Clark",
+      "screen_name": "rakaclar2077",
+      "followers_count": 1349,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Half-Finger Gloves, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138526",
+    "created_at": "2024-04-06T19:22:46Z",
+    "text": "My LL Touring Frame - Yellow from AdventureWorks Cycles is excellent — holding up great on rough trails 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "8055294874",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy1625",
+      "followers_count": 3288,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Touring Frame - Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138407",
+    "created_at": "2024-04-06T19:38:57Z",
+    "text": "Suka banget sama Mountain-500 Silver dari AdventureWorks Cycles — performanya mulus Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "2667051776",
+      "name": "Sofia Anwar",
+      "screen_name": "sofianwa2068",
+      "followers_count": 1178,
+      "verified": true
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000138481",
+    "created_at": "2024-04-06T20:46:14Z",
+    "text": "Women's Mountain Shorts dari @AdventureWorks mantap sih — sampai lebih cepat, aman Bintang lima. 💯 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2986167998",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar3903",
+      "followers_count": 1332,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Women's Mountain Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

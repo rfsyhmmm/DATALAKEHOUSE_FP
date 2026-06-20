@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000005008",
+    "created_at": "2022-06-22T09:33:48Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Crown Race — the team was super helpful",
+    "lang": "en",
+    "user": {
+      "id_str": "4581721096",
+      "name": "Olivia Pratama",
+      "screen_name": "olivprat6171",
+      "followers_count": 1388,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Crown Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005176",
+    "created_at": "2022-06-22T12:44:49Z",
+    "text": "Shoutout to AWC for the Lock Nut 16 — feels solid and well made 👍 #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8369680715",
+      "name": "Budi Lopez",
+      "screen_name": "budilope246",
+      "followers_count": 35,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005260",
+    "created_at": "2022-06-22T16:33:48Z",
+    "text": "Saw the Seat Post in store today, looks interesting 🧐 #MTB #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3981257367",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit8471",
+      "followers_count": 2107,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Seat Post",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005057",
+    "created_at": "2022-06-22T17:15:32Z",
+    "text": "Terkesan banget sama Keyed Washer — admin responsif banget Recommended. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "8248305949",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija5600",
+      "followers_count": 445,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Keyed Washer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005136",
+    "created_at": "2022-06-22T18:48:20Z",
+    "text": "Frustrated with the Mountain-400-W Silver from AWC — rattles and feels flimsy 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "3446242886",
+      "name": "Mia Halim",
+      "screen_name": "miahali2490",
+      "followers_count": 1550,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-400-W Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005009",
+    "created_at": "2022-06-22T20:01:18Z",
+    "text": "Naik level gowes ku gara-gara LL Grip Tape — terasa kokoh dan rapi ✨ #AWcycles #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "192292243",
+      "name": "Bayu Hidayat",
+      "screen_name": "bayuhida9187",
+      "followers_count": 465,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005225",
+    "created_at": "2022-06-22T20:31:44Z",
+    "text": "Nggak nyesel beli Thin-Jam Lock Nut 15 — beli yang tepat sih Bakal beli lagi. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "3479795093",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu6458",
+      "followers_count": 830,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 87,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000005101",
+    "created_at": "2022-06-22T22:58:38Z",
+    "text": "Lock Nut 5 dari AdventureWorks Cycles mantap sih — worth it banget 😎 #bikelife #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9313359382",
+      "name": "Bayu Wijaya",
+      "screen_name": "bayuwija7047",
+      "followers_count": 293,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

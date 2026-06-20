@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000054191",
+    "created_at": "2023-02-18T01:00:31Z",
+    "text": "Shoutout to AdventureWorks for the Thin-Jam Lock Nut 2 — fair price for this quality Highly recommend. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "6898395357",
+      "name": "Lina Lee",
+      "screen_name": "linalee5106",
+      "followers_count": 2413,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054356",
+    "created_at": "2023-02-18T07:43:42Z",
+    "text": "Terkesan banget sama ML Crankset — kualitasnya premium Bakal beli lagi. 🙌 #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "6400940869",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida2562",
+      "followers_count": 2129,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054312",
+    "created_at": "2023-02-18T09:03:01Z",
+    "text": "Naik level gowes ku gara-gara HL Mountain Handlebars — kualitasnya premium 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "2231359401",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc2726",
+      "followers_count": 2676,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054162",
+    "created_at": "2023-02-18T10:23:59Z",
+    "text": "Upgraded to the Metal Sheet 2 and no looking back — still rock solid after months Five stars. #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6029779138",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida786",
+      "followers_count": 213,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054185",
+    "created_at": "2023-02-18T12:06:17Z",
+    "text": "Naik level gowes ku gara-gara LL Mountain Frame - Black — terasa kokoh dan rapi Bintang lima. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "6435808279",
+      "name": "Chris Brown",
+      "screen_name": "chribrow3077",
+      "followers_count": 1894,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054272",
+    "created_at": "2023-02-18T20:38:02Z",
+    "text": "Saw the External Lock Washer 6 in store today, looks interesting 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "1114052846",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu53",
+      "followers_count": 40,
+      "verified": true
+    },
+    "retweet_count": 6,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054326",
+    "created_at": "2023-02-18T21:21:37Z",
+    "text": "Lagi mikir mau beli Hex Nut 18. Ada review? 👀 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2632764887",
+      "name": "Raka Kim",
+      "screen_name": "rakakim4263",
+      "followers_count": 3322,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 49,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000054226",
+    "created_at": "2023-02-18T22:29:11Z",
+    "text": "Done with the HL Mountain Frame - Black honestly — shipping took forever Avoid. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "4689530854",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali3953",
+      "followers_count": 2231,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

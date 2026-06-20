@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000099909",
+    "created_at": "2023-10-01T05:26:00Z",
+    "text": "Absolutely loving my new ML Road Frame-W - Yellow from AdventureWorks — build quality feels premium Zero regrets. 🚴 #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "222985067",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida9394",
+      "followers_count": 145,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Frame-W - Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099790",
+    "created_at": "2023-10-01T07:12:02Z",
+    "text": "The Hex Nut 16 from AWC has been fantastic — build quality feels premium Five stars.",
+    "lang": "en",
+    "user": {
+      "id_str": "2993860769",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee1387",
+      "followers_count": 1236,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099860",
+    "created_at": "2023-10-01T11:17:29Z",
+    "text": "Really impressed with the Mountain-500 Silver — still rock solid after months Zero regrets. 🙌 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "591674963",
+      "name": "Putri Putra",
+      "screen_name": "putrputr2099",
+      "followers_count": 1751,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 50,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-500 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099747",
+    "created_at": "2023-10-01T13:48:18Z",
+    "text": "Salut buat AWC soal LL Road Frame - Black — kuat di trek kasar Recommended. 🚴 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "129023005",
+      "name": "Andi Lopez",
+      "screen_name": "andilope1741",
+      "followers_count": 315,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099958",
+    "created_at": "2023-10-01T14:56:00Z",
+    "text": "Two stars for the Hitch Rack - 4-Bike from @AWCycles — shipping took forever 😣 #cycling #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "7890994914",
+      "name": "Lina Kim",
+      "screen_name": "linakim5190",
+      "followers_count": 1560,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hitch Rack - 4-Bike",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000100013",
+    "created_at": "2023-10-01T16:50:28Z",
+    "text": "Flat Washer 8 dari AdventureWorks mantap sih — admin responsif banget 😍 #cycling #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6418761798",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee1646",
+      "followers_count": 3154,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Flat Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099831",
+    "created_at": "2023-10-01T18:44:06Z",
+    "text": "Really impressed with the Thin-Jam Hex Nut 8 — arrived a day early, well packed 👍 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7753970157",
+      "name": "Maria Brown",
+      "screen_name": "maribrow1026",
+      "followers_count": 2622,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000099994",
+    "created_at": "2023-10-01T22:42:28Z",
+    "text": "Lagi banding-bandingin Hex Nut 12 sama merek lain 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "8401401964",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant9642",
+      "followers_count": 1667,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 36,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

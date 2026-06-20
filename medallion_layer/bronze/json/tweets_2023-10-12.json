@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000102266",
+    "created_at": "2023-10-12T00:06:46Z",
+    "text": "Terkesan banget sama LL Touring Seat/Saddle — terasa kokoh dan rapi Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "8936935790",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee9290",
+      "followers_count": 1866,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102147",
+    "created_at": "2023-10-12T07:24:06Z",
+    "text": "The Top Tube from @AdventureWorks has been fantastic — arrived a day early, well packed Five stars. 😎 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "2082030593",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant5684",
+      "followers_count": 3627,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 54,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Top Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102195",
+    "created_at": "2023-10-12T07:28:52Z",
+    "text": "Road-250 Red dari @AWCycles bikin nyesel — kirimnya lama banget 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "9908034280",
+      "name": "Mia Santoso",
+      "screen_name": "miasant1535",
+      "followers_count": 2101,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102199",
+    "created_at": "2023-10-12T09:51:19Z",
+    "text": "Akhirnya pakai Lock Nut 2 dan puas pol — sampai lebih cepat, aman Recommended. 😍 #bikes #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2966777670",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida7500",
+      "followers_count": 2440,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102223",
+    "created_at": "2023-10-12T18:18:38Z",
+    "text": "Shoutout to AdventureWorks Cycles for the ML Mountain Seat/Saddle — support was quick and friendly",
+    "lang": "en",
+    "user": {
+      "id_str": "9954565810",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa7416",
+      "followers_count": 528,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102251",
+    "created_at": "2023-10-12T18:24:59Z",
+    "text": "RT @rizk22: Suka banget sama Road-550-W Yellow dari AWC — performanya mulus Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "3370552971",
+      "name": "Nadia Hidayat",
+      "screen_name": "nadihida7275",
+      "followers_count": 644,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102272",
+    "created_at": "2023-10-12T20:09:23Z",
+    "text": "Bintang dua buat ML Road Pedal dari AdventureWorks — CS-nya nggak guna Hindari. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "6438926260",
+      "name": "Maya Saputra",
+      "screen_name": "mayasapu3239",
+      "followers_count": 1126,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 58,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000102258",
+    "created_at": "2023-10-12T20:13:38Z",
+    "text": "The LL Shell from @AWCycles has been fantastic — fair price for this quality Will buy again. 😍 #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8888325824",
+      "name": "Andi Hidayat",
+      "screen_name": "andihida1429",
+      "followers_count": 705,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Shell",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

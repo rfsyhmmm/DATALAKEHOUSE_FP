@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000157948",
+    "created_at": "2024-07-06T06:34:00Z",
+    "text": "Bintang dua buat Crown Race dari AdventureWorks Cycles — bahannya murahan 🙄 #AWcycles #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "4135389213",
+      "name": "Andi Kim",
+      "screen_name": "andikim3926",
+      "followers_count": 1051,
+      "verified": true
+    },
+    "retweet_count": 5,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Crown Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157949",
+    "created_at": "2024-07-06T09:14:23Z",
+    "text": "Kecewa banget sama Road-650 Red — rusak baru dua minggu Kapok. 😣 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "1399396521",
+      "name": "Putri Wijaya",
+      "screen_name": "putrwija1135",
+      "followers_count": 1004,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 37,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-650 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157882",
+    "created_at": "2024-07-06T09:53:42Z",
+    "text": "Two stars for the Flat Washer 6 from AdventureWorks — overpriced for what you get Never again. 😩 #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "2319950783",
+      "name": "Mia Nguyen",
+      "screen_name": "mianguy5112",
+      "followers_count": 1961,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Flat Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158031",
+    "created_at": "2024-07-06T10:57:41Z",
+    "text": "So glad I picked up the Thin-Jam Hex Nut 4 — feels solid and well made Highly recommend. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "173873866",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc3637",
+      "followers_count": 138,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 64,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157900",
+    "created_at": "2024-07-06T18:18:21Z",
+    "text": "Suka banget sama Touring-1000 Yellow dari @AdventureWorks — kualitasnya premium 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "7558374890",
+      "name": "Chris Garcia",
+      "screen_name": "chrigarc2907",
+      "followers_count": 691,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 72,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000158070",
+    "created_at": "2024-07-06T18:20:43Z",
+    "text": "Shoutout to @AdventureWorks for the Chainring Bolts — customer service sorted it instantly Highly recommend.",
+    "lang": "en",
+    "user": {
+      "id_str": "1069759112",
+      "name": "Nadia Wijaya",
+      "screen_name": "nadiwija2871",
+      "followers_count": 2611,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Chainring Bolts",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157992",
+    "created_at": "2024-07-06T21:17:26Z",
+    "text": "RT @sofi7: Bintang dua buat Sport-100 Helmet dari @AdventureWorks — kirimnya lama banget ⚠️ #AWcycles #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "3046404119",
+      "name": "Putri Hidayat",
+      "screen_name": "putrhida8539",
+      "followers_count": 1614,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 21,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000157945",
+    "created_at": "2024-07-06T23:44:56Z",
+    "text": "So glad I picked up the Chainring Nut — build quality feels premium 🔥 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3865508152",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope2642",
+      "followers_count": 1731,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chainring Nut",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

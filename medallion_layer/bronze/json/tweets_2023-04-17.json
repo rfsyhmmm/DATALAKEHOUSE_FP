@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000065880",
+    "created_at": "2023-04-17T10:00:11Z",
+    "text": "Three weeks on the Flat Washer 4 and I'm sold — delivery was smooth Will buy again. ✨ #rideon #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "5687304656",
+      "name": "Raka Kim",
+      "screen_name": "rakakim376",
+      "followers_count": 1447,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Flat Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065872",
+    "created_at": "2023-04-17T10:43:28Z",
+    "text": "The Short-Sleeve Classic Jersey from AdventureWorks has been fantastic — shipping was fast and packaging perfect Will buy again. #AWcycles #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "7261543272",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope6374",
+      "followers_count": 1277,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Short-Sleeve Classic Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065770",
+    "created_at": "2023-04-17T12:34:33Z",
+    "text": "Done with the Lock Nut 1 honestly — shipping took forever Avoid. #AWcycles #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4086047241",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali2597",
+      "followers_count": 746,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065955",
+    "created_at": "2023-04-17T14:17:27Z",
+    "text": "My LL Touring Frame - Blue from AWC is excellent — shipping was fast and packaging perfect Five stars. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "5771386544",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida880",
+      "followers_count": 1326,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Touring Frame - Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065913",
+    "created_at": "2023-04-17T18:04:34Z",
+    "text": "Tadi liat LL Road Seat/Saddle di toko, lumayan menarik 🤷 #bikes #AWcycles #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "3017385840",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant7105",
+      "followers_count": 1378,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065817",
+    "created_at": "2023-04-17T18:30:01Z",
+    "text": "Shoutout to @AdventureWorks for the LL Spindle/Axle — performs flawlessly Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "258803545",
+      "name": "Alex Halim",
+      "screen_name": "alexhali9084",
+      "followers_count": 331,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065735",
+    "created_at": "2023-04-17T20:01:10Z",
+    "text": "Udahan deh sama Road-650 Red ini — mahal nggak masuk akal 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "1114561011",
+      "name": "Hannah Lee",
+      "screen_name": "hannlee4358",
+      "followers_count": 1107,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065830",
+    "created_at": "2023-04-17T21:25:22Z",
+    "text": "Naik level gowes ku gara-gara ML Road Rear Wheel — pelayanannya membantu 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "5585594279",
+      "name": "Budi Brown",
+      "screen_name": "budibrow4443",
+      "followers_count": 1919,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

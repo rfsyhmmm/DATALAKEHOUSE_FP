@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000133208",
+    "created_at": "2024-03-10T08:22:13Z",
+    "text": "The HL Road Frame - Black from @AdventureWorks let me down — overpriced for what you get ⚠️ #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4702267410",
+      "name": "Rizky Pratama",
+      "screen_name": "rizkprat5175",
+      "followers_count": 1896,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133127",
+    "created_at": "2024-03-10T14:45:56Z",
+    "text": "Shoutout to AdventureWorks for the Mountain-200 Black — feels solid and well made Five stars. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "8319989876",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant6648",
+      "followers_count": 579,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133288",
+    "created_at": "2024-03-10T15:18:04Z",
+    "text": "Nggak nyesel beli Headset Ball Bearings — pengiriman cepat dan packing rapi Bintang lima. 👍 #AWcycles #rideon #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "1184463471",
+      "name": "Olivia Santoso",
+      "screen_name": "olivsant2982",
+      "followers_count": 95,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Headset Ball Bearings",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133253",
+    "created_at": "2024-03-10T15:40:21Z",
+    "text": "Bintang dua buat Road-750 Black dari AdventureWorks — proses retur ribet Kapok.",
+    "lang": "in",
+    "user": {
+      "id_str": "158978537",
+      "name": "Chris Putra",
+      "screen_name": "chriputr2705",
+      "followers_count": 3054,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Road-750 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133096",
+    "created_at": "2024-03-10T15:55:32Z",
+    "text": "Absolutely loving my new HL Road Frame - Red from AWC — support was quick and friendly 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "2763461567",
+      "name": "Maria Putra",
+      "screen_name": "mariputr5147",
+      "followers_count": 2759,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133052",
+    "created_at": "2024-03-10T17:19:11Z",
+    "text": "RT @tom47: The HL Grip Tape from AWC has been fantastic — exceeded my expectations Will buy again. 🙌 #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "8311197037",
+      "name": "Rizky Smith",
+      "screen_name": "rizksmit3414",
+      "followers_count": 260,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133094",
+    "created_at": "2024-03-10T18:13:08Z",
+    "text": "Udah sebulan pakai Touring Rear Wheel, oke terus — kuat di trek kasar 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "5542962643",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant4728",
+      "followers_count": 351,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000133177",
+    "created_at": "2024-03-10T18:14:45Z",
+    "text": "So glad I picked up the Road-250 Red — great value for the price ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "9489768434",
+      "name": "Jordan Hidayat",
+      "screen_name": "jordhida6702",
+      "followers_count": 1987,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-250 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000224648",
+    "created_at": "2025-05-26T08:14:53Z",
+    "text": "Three weeks on the Long-Sleeve Logo Jersey and I'm sold — great value for the price Highly recommend. #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "938311617",
+      "name": "Maya Halim",
+      "screen_name": "mayahali9418",
+      "followers_count": 50,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Long-Sleeve Logo Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224713",
+    "created_at": "2025-05-26T09:15:21Z",
+    "text": "Salut buat AdventureWorks Cycles soal Road-250 Black — performanya mulus 💯 #bikelife #MTB #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4175158728",
+      "name": "Mia Clark",
+      "screen_name": "miaclar854",
+      "followers_count": 174,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224718",
+    "created_at": "2025-05-26T17:07:32Z",
+    "text": "Frustrated with the ML Road Seat Assembly from AWC — wore out way too fast ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "9719549961",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali7973",
+      "followers_count": 2206,
+      "verified": true
+    },
+    "retweet_count": 8,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224665",
+    "created_at": "2025-05-26T17:36:16Z",
+    "text": "Shoutout to @AWCycles for the Road-250 Red — feels solid and well made 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "1445783419",
+      "name": "Lina Halim",
+      "screen_name": "linahali5232",
+      "followers_count": 3537,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224783",
+    "created_at": "2025-05-26T18:55:32Z",
+    "text": "Bintang dua buat Internal Lock Washer 10 dari AWC — datang telat dan rusak Pelajaran mahal. 😡 #rideon #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1796581327",
+      "name": "Citra Lopez",
+      "screen_name": "citrlope5262",
+      "followers_count": 189,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 34,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Internal Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224738",
+    "created_at": "2025-05-26T20:00:54Z",
+    "text": "Akhirnya pakai Women's Mountain Shorts dan puas pol — sampai lebih cepat, aman Bakal beli lagi. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "6833973715",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant9410",
+      "followers_count": 1199,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Women's Mountain Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224646",
+    "created_at": "2025-05-26T21:21:43Z",
+    "text": "Touring-3000 Blue dari @AdventureWorks mantap sih — kirimnya lancar #cycling #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4677562743",
+      "name": "Raka Wijaya",
+      "screen_name": "rakawija6375",
+      "followers_count": 2017,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224625",
+    "created_at": "2025-05-26T22:09:13Z",
+    "text": "Lagi banding-bandingin Touring-3000 Blue sama merek lain 🤔 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8492477067",
+      "name": "Mia Lee",
+      "screen_name": "mialee5965",
+      "followers_count": 93,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-3000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

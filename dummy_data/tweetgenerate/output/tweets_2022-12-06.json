@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000039063",
+    "created_at": "2022-12-06T01:13:36Z",
+    "text": "Baru unboxing LL Touring Frame - Blue, nanti aku update 🤷 #bikes #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "5239155526",
+      "name": "Andi Lee",
+      "screen_name": "andilee8365",
+      "followers_count": 961,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039029",
+    "created_at": "2022-12-06T09:00:22Z",
+    "text": "Really impressed with the Road-150 Red — feels solid and well made 👍 #AdventureWorks #MTB #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "6976945776",
+      "name": "Budi Santoso",
+      "screen_name": "budisant5790",
+      "followers_count": 962,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039092",
+    "created_at": "2022-12-06T09:10:56Z",
+    "text": "Akhirnya pakai Men's Bib-Shorts dan puas pol — sampai lebih cepat, aman Bintang lima. 😎 #bikes #AdventureWorks #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1882245476",
+      "name": "Citra Clark",
+      "screen_name": "citrclar8346",
+      "followers_count": 2811,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Men's Bib-Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039173",
+    "created_at": "2022-12-06T11:48:56Z",
+    "text": "Nggak nyesel beli Road-550-W Yellow — beli yang tepat sih Bintang lima. 🔥 #AWcycles #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "5377997060",
+      "name": "Mia Nguyen",
+      "screen_name": "mianguy5184",
+      "followers_count": 406,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-550-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039221",
+    "created_at": "2022-12-06T17:03:42Z",
+    "text": "Not happy with my Lock Washer 8 at all — shipping took forever 😡 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "7656574777",
+      "name": "Kevin Smith",
+      "screen_name": "kevismit2908",
+      "followers_count": 356,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039050",
+    "created_at": "2022-12-06T18:14:48Z",
+    "text": "Shoutout to @AdventureWorks for the Mountain-300 Black — fair price for this quality Will buy again. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "3670796724",
+      "name": "Maya Smith",
+      "screen_name": "mayasmit6345",
+      "followers_count": 239,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-300 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039124",
+    "created_at": "2022-12-06T19:55:14Z",
+    "text": "Two stars for the HL Grip Tape from AdventureWorks — just a bad buy Lesson learned. 😤 #rideon #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1893774647",
+      "name": "Olivia Pratama",
+      "screen_name": "olivprat3428",
+      "followers_count": 452,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "HL Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000039193",
+    "created_at": "2022-12-06T23:20:08Z",
+    "text": "The Cable Lock from AWC let me down — wore out way too fast Do better AWC. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "7555261553",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee5156",
+      "followers_count": 324,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Cable Lock",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

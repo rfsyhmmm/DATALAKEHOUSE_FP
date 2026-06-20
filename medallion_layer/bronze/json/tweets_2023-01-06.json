@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000045481",
+    "created_at": "2023-01-06T07:58:37Z",
+    "text": "Udah sebulan pakai Lock Nut 11, oke terus — kualitasnya premium Recommended. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "4227215120",
+      "name": "Lina Kim",
+      "screen_name": "linakim252",
+      "followers_count": 2518,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045475",
+    "created_at": "2023-01-06T12:34:56Z",
+    "text": "Mountain-400-W Silver dari @AWCycles mantap sih — kualitasnya premium Nggak nyesel. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "3921517495",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar1317",
+      "followers_count": 1497,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-400-W Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045528",
+    "created_at": "2023-01-06T13:58:16Z",
+    "text": "Road-250 Black dari @AdventureWorks mantap sih — kirimnya lancar Bintang lima. 😎 #AdventureWorks #MTB #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8933401333",
+      "name": "Maria Halim",
+      "screen_name": "marihali5299",
+      "followers_count": 364,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045557",
+    "created_at": "2023-01-06T14:17:43Z",
+    "text": "Upgraded to the Touring-3000 Blue and no looking back — build quality feels premium Will buy again. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "9397415450",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali9085",
+      "followers_count": 1531,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045555",
+    "created_at": "2023-01-06T19:00:10Z",
+    "text": "So glad I picked up the Headset Ball Bearings — performs flawlessly Five stars. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "9783458125",
+      "name": "Olivia Putra",
+      "screen_name": "olivputr3084",
+      "followers_count": 1216,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 45,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Headset Ball Bearings",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045597",
+    "created_at": "2023-01-06T19:48:56Z",
+    "text": "RT @tom37: Just unboxed the LL Road Front Wheel, will report back 🧐 #bikes #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8689812829",
+      "name": "Tom Halim",
+      "screen_name": "tomhali6698",
+      "followers_count": 1260,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 18,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045426",
+    "created_at": "2023-01-06T20:23:32Z",
+    "text": "Capek deh sama Lock Nut 2 dari AdventureWorks Cycles — cepet aus banget Kapok. 😣 #AdventureWorks #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8593459998",
+      "name": "Andi Lee",
+      "screen_name": "andilee6149",
+      "followers_count": 2239,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 49,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000045434",
+    "created_at": "2023-01-06T22:07:58Z",
+    "text": "Naik level gowes ku gara-gara ML Road Tire — sampai lebih cepat, aman Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "8197718990",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa1543",
+      "followers_count": 908,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

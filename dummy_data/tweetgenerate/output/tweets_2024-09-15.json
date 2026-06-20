@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000172738",
+    "created_at": "2024-09-15T04:44:45Z",
+    "text": "Frustrated with the Mountain-200 Black from AWC — just not worth the money Never again. #AdventureWorks #cycling #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4675042346",
+      "name": "Rizky Saputra",
+      "screen_name": "rizksapu8421",
+      "followers_count": 3500,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-200 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172689",
+    "created_at": "2024-09-15T07:18:40Z",
+    "text": "Nggak nyesel beli Top Tube — kirimnya lancar Nggak nyesel. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "8053074235",
+      "name": "Dimas Brown",
+      "screen_name": "dimabrow7030",
+      "followers_count": 2438,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Top Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172657",
+    "created_at": "2024-09-15T08:07:27Z",
+    "text": "Really impressed with the Lock Nut 11 — still rock solid after months Will buy again. 🙌 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8711479812",
+      "name": "Dimas Halim",
+      "screen_name": "dimahali5386",
+      "followers_count": 454,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172732",
+    "created_at": "2024-09-15T08:32:37Z",
+    "text": "Frustrated with the Road-250 Red from @AdventureWorks — fell apart on the first ride 👎 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3059713486",
+      "name": "Jordan Santoso",
+      "screen_name": "jordsant210",
+      "followers_count": 2079,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172608",
+    "created_at": "2024-09-15T12:00:27Z",
+    "text": "Absolutely loving my new Hex Nut 11 from @AdventureWorks — performs flawlessly Five stars. 🔥 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "6466647662",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope8791",
+      "followers_count": 115,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172519",
+    "created_at": "2024-09-15T16:18:54Z",
+    "text": "Akhirnya pakai External Lock Washer 4 dan puas pol — kualitasnya premium Nggak nyesel. 😍 #AWcycles #AdventureWorks #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "7843406615",
+      "name": "Sam Pratama",
+      "screen_name": "samprat1328",
+      "followers_count": 361,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "External Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172700",
+    "created_at": "2024-09-15T16:22:52Z",
+    "text": "Suka banget sama Long-Sleeve Logo Jersey dari @AdventureWorks — murah buat kualitas segini Bintang lima. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "7160655104",
+      "name": "Galih Smith",
+      "screen_name": "galismit6459",
+      "followers_count": 3322,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000172562",
+    "created_at": "2024-09-15T17:19:41Z",
+    "text": "The Hex Nut 7 from AdventureWorks has been fantastic — feels solid and well made 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "1749282998",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant9740",
+      "followers_count": 1401,
+      "verified": true
+    },
+    "retweet_count": 4,
+    "favorite_count": 52,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

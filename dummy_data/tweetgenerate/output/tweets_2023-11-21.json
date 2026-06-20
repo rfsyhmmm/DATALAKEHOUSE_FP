@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000110668",
+    "created_at": "2023-11-21T00:59:02Z",
+    "text": "RT @budi15: Terkesan banget sama LL Crankarm — terasa kokoh dan rapi Recommended. ✨ #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5062669880",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope2363",
+      "followers_count": 2537,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110629",
+    "created_at": "2023-11-21T05:12:13Z",
+    "text": "Lagi mikir mau beli Men's Sports Shorts. Ada review? 🤷 #AdventureWorks #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3851499944",
+      "name": "Tom Putra",
+      "screen_name": "tomputr1013",
+      "followers_count": 1915,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 57,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110838",
+    "created_at": "2023-11-21T07:09:24Z",
+    "text": "The Lock Nut 17 from AdventureWorks Cycles has been fantastic — great value for the price ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "3790347593",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija5704",
+      "followers_count": 318,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110714",
+    "created_at": "2023-11-21T07:27:50Z",
+    "text": "Naik level gowes ku gara-gara HL Crankset — admin responsif banget Bintang lima. 🙌 #AdventureWorks #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2819324773",
+      "name": "Kevin Wijaya",
+      "screen_name": "keviwija7512",
+      "followers_count": 1808,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110750",
+    "created_at": "2023-11-21T15:48:25Z",
+    "text": "RT @mia44: Terkesan banget sama LL Touring Seat/Saddle — performanya mulus Recommended. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "7440948855",
+      "name": "Andi Garcia",
+      "screen_name": "andigarc5728",
+      "followers_count": 1538,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110777",
+    "created_at": "2023-11-21T19:15:50Z",
+    "text": "Udahan deh sama Metal Sheet 5 ini — zonk total Tolong @AdventureWorks dibenahi. ⚠️ #MTB #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "3258209085",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope9699",
+      "followers_count": 231,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Metal Sheet 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110592",
+    "created_at": "2023-11-21T21:10:04Z",
+    "text": "Naik level gowes ku gara-gara Thin-Jam Hex Nut 6 — kirimnya lancar Nggak nyesel. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "8609993483",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant5159",
+      "followers_count": 96,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110792",
+    "created_at": "2023-11-21T22:09:26Z",
+    "text": "Naik level gowes ku gara-gara ML Mountain Pedal — admin responsif banget Bakal beli lagi. 🔥 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8840907484",
+      "name": "Raka Lee",
+      "screen_name": "rakalee5808",
+      "followers_count": 1544,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "ML Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

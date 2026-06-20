@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000177551",
+    "created_at": "2024-10-09T00:39:39Z",
+    "text": "My Thin-Jam Hex Nut 9 from AdventureWorks Cycles is excellent — fair price for this quality Zero regrets. ✨ #cycling #rideon #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "2345547615",
+      "name": "Chris Clark",
+      "screen_name": "chriclar5928",
+      "followers_count": 2308,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177442",
+    "created_at": "2024-10-09T07:55:20Z",
+    "text": "So glad I picked up the Lock Nut 6 — still rock solid after months Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "3702002045",
+      "name": "Lina Wijaya",
+      "screen_name": "linawija4582",
+      "followers_count": 763,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 30,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177453",
+    "created_at": "2024-10-09T13:25:13Z",
+    "text": "LL Road Frame - Red dari @AWCycles mantap sih — kirimnya lancar 🔥 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "3438518978",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc9870",
+      "followers_count": 804,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177476",
+    "created_at": "2024-10-09T15:26:52Z",
+    "text": "Upgraded to the Long-Sleeve Logo Jersey and no looking back — feels solid and well made Zero regrets. 🚴 #bikes #MTB #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9624256837",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope3815",
+      "followers_count": 2982,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 33,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177536",
+    "created_at": "2024-10-09T16:11:03Z",
+    "text": "Nggak puas sama Hex Nut 1 ku — datang telat dan rusak Kapok. 😣 #bikes #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4328607086",
+      "name": "Chris Putra",
+      "screen_name": "chriputr2385",
+      "followers_count": 1008,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177472",
+    "created_at": "2024-10-09T18:40:47Z",
+    "text": "Nyesel beli Hex Nut 1 — kirimnya lama banget Pelajaran mahal. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "9458875689",
+      "name": "Tom Putra",
+      "screen_name": "tomputr6742",
+      "followers_count": 298,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177514",
+    "created_at": "2024-10-09T21:59:23Z",
+    "text": "Berharap lebih dari Thin-Jam Hex Nut 2 — packing-nya berantakan Hindari. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "2841266323",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope5960",
+      "followers_count": 937,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 60,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000177539",
+    "created_at": "2024-10-09T22:18:03Z",
+    "text": "Not happy with my Mountain-200 Black at all — overpriced for what you get 😡 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8602678465",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida4020",
+      "followers_count": 1090,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-200 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

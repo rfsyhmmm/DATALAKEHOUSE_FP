@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000062152",
+    "created_at": "2023-03-28T08:14:58Z",
+    "text": "Expected so much more from the LL Road Frame - Red — the finish is sloppy 😤 #MTB #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "5137146656",
+      "name": "Putri Putra",
+      "screen_name": "putrputr6922",
+      "followers_count": 624,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062057",
+    "created_at": "2023-03-28T10:22:02Z",
+    "text": "Berharap lebih dari Lock Nut 11 — packing-nya berantakan ⚠️ #rideon #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "2564174613",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit6341",
+      "followers_count": 120,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062158",
+    "created_at": "2023-03-28T11:17:19Z",
+    "text": "Kecewa banget sama Bike Wash - Dissolver — rusak baru dua minggu ⚠️ #bikelife #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2224966069",
+      "name": "Tom Putra",
+      "screen_name": "tomputr58",
+      "followers_count": 834,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Bike Wash - Dissolver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062045",
+    "created_at": "2023-03-28T14:35:43Z",
+    "text": "Akhirnya pakai Touring Tire dan puas pol — pengiriman cepat dan packing rapi Bintang lima. 😎 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1259756966",
+      "name": "Bayu Putra",
+      "screen_name": "bayuputr141",
+      "followers_count": 32,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062107",
+    "created_at": "2023-03-28T15:03:34Z",
+    "text": "Udah sebulan pakai Touring-3000 Yellow, oke terus — CS-nya cepat dan ramah Recommended. 🔥 #cycling #MTB #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "1584610568",
+      "name": "Nadia Hidayat",
+      "screen_name": "nadihida994",
+      "followers_count": 1012,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring-3000 Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062019",
+    "created_at": "2023-03-28T17:09:30Z",
+    "text": "My Classic Vest from @AWCycles is excellent — delivery was smooth 🙌 #MTB #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "3423766654",
+      "name": "Tom Lee",
+      "screen_name": "tomlee2184",
+      "followers_count": 1324,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Classic Vest, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062198",
+    "created_at": "2023-03-28T17:50:25Z",
+    "text": "Nggak nyesel beli HL Road Front Wheel — beli yang tepat sih Nggak nyesel. 😎 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "188049146",
+      "name": "Putri Pratama",
+      "screen_name": "putrprat4650",
+      "followers_count": 632,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000062095",
+    "created_at": "2023-03-28T19:54:00Z",
+    "text": "RT @dima47: Road-250 Red dari AWC mantap sih — harga sebanding kualitas 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "2864940289",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy795",
+      "followers_count": 623,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

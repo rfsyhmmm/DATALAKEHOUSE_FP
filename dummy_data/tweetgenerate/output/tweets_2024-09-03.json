@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000170246",
+    "created_at": "2024-09-03T11:33:13Z",
+    "text": "Naik level gowes ku gara-gara HL Crankarm — masih awet setelah berbulan-bulan 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "3171215896",
+      "name": "Sam Lopez",
+      "screen_name": "samlope3043",
+      "followers_count": 2537,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170401",
+    "created_at": "2024-09-03T12:18:50Z",
+    "text": "The Hex Nut 20 from AdventureWorks Cycles has been fantastic — shipping was fast and packaging perfect Five stars. 😍",
+    "lang": "en",
+    "user": {
+      "id_str": "1775739458",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc4245",
+      "followers_count": 3527,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170271",
+    "created_at": "2024-09-03T17:18:43Z",
+    "text": "Three weeks on the Road-650 Black and I'm sold — customer service sorted it instantly Zero regrets. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "3356726283",
+      "name": "Putri Hidayat",
+      "screen_name": "putrhida5451",
+      "followers_count": 961,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Road-650 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170443",
+    "created_at": "2024-09-03T18:34:52Z",
+    "text": "Three weeks on the Paint - Red and I'm sold — honestly a great buy Highly recommend. 💯 #bikelife #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6866362355",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu6671",
+      "followers_count": 2343,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170329",
+    "created_at": "2024-09-03T20:16:01Z",
+    "text": "Suka banget sama ML Road Rim dari @AWCycles — murah buat kualitas segini 🙌 #bikelife #bikes #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8141994003",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa8005",
+      "followers_count": 1687,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 35,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170267",
+    "created_at": "2024-09-03T20:23:38Z",
+    "text": "Udah sebulan pakai Hex Nut 15, oke terus — sampai lebih cepat, aman 🙌 #AdventureWorks #bikes #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2988098548",
+      "name": "Andi Smith",
+      "screen_name": "andismit7129",
+      "followers_count": 3460,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170288",
+    "created_at": "2024-09-03T20:24:14Z",
+    "text": "Anyone using the ML Road Handlebars from AdventureWorks Cycles? Worth it? 🤷 #bikes #bikelife #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4159782306",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee1880",
+      "followers_count": 1186,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000170375",
+    "created_at": "2024-09-03T20:45:16Z",
+    "text": "My Hex Nut 12 from AdventureWorks is excellent — exceeded my expectations Zero regrets. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "6806081463",
+      "name": "Maya Halim",
+      "screen_name": "mayahali3657",
+      "followers_count": 1830,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

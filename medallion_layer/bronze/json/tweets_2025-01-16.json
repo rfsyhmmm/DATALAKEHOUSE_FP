@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000198041",
+    "created_at": "2025-01-16T02:57:57Z",
+    "text": "My Road-350-W Yellow from AWC is excellent — zero wear after heavy use Highly recommend. 🔥 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "7797405586",
+      "name": "Dimas Hidayat",
+      "screen_name": "dimahida4999",
+      "followers_count": 6038,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-350-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198016",
+    "created_at": "2025-01-16T08:03:07Z",
+    "text": "So glad I picked up the Paint - Red — exceeded my expectations Highly recommend. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "5783023312",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope950",
+      "followers_count": 829,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 74,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198091",
+    "created_at": "2025-01-16T08:09:32Z",
+    "text": "Regret buying the Touring Tire — way too expensive 😡 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "6386443748",
+      "name": "Dewi Halim",
+      "screen_name": "dewihali6490",
+      "followers_count": 160,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198148",
+    "created_at": "2025-01-16T16:11:32Z",
+    "text": "My Lock Washer 12 from AdventureWorks Cycles is excellent — feels solid and well made Five stars. 🙌 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "6293395426",
+      "name": "Kevin Kim",
+      "screen_name": "kevikim2461",
+      "followers_count": 2141,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198126",
+    "created_at": "2025-01-16T18:58:22Z",
+    "text": "Just unboxed the Lock Nut 5, will report back 🧐 #AdventureWorks #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "8372437665",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc2711",
+      "followers_count": 860,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 46,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197977",
+    "created_at": "2025-01-16T19:32:41Z",
+    "text": "The ML Road Seat/Saddle from @AWCycles has been fantastic — feels solid and well made 🔥 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "796743873",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu7882",
+      "followers_count": 1415,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000198001",
+    "created_at": "2025-01-16T22:00:49Z",
+    "text": "The Hex Nut 6 from @AdventureWorks let me down — the finish is sloppy 😩 #AdventureWorks #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5482496406",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat9018",
+      "followers_count": 153,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000197982",
+    "created_at": "2025-01-16T22:57:07Z",
+    "text": "Steerer dari AWC mantap sih — worth it banget Nggak nyesel. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "8869621451",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc6564",
+      "followers_count": 96,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Steerer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

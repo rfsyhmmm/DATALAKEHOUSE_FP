@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000110356",
+    "created_at": "2023-11-19T05:45:59Z",
+    "text": "ML Mountain Frame-W - Silver dari @AdventureWorks mantap sih — pengiriman cepat dan packing rapi Bintang lima. ✨ #AdventureWorks #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5048233577",
+      "name": "Tom Brown",
+      "screen_name": "tombrow3829",
+      "followers_count": 1537,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame-W - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110161",
+    "created_at": "2023-11-19T07:27:27Z",
+    "text": "Two stars for the Long-Sleeve Logo Jersey from AdventureWorks Cycles — wore out way too fast Lesson learned. 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "6055749787",
+      "name": "Kevin Putra",
+      "screen_name": "keviputr5791",
+      "followers_count": 877,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110257",
+    "created_at": "2023-11-19T12:14:19Z",
+    "text": "Terkesan banget sama Lock Nut 20 — murah buat kualitas segini Nggak nyesel. 😎 #rideon #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9450959312",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope2989",
+      "followers_count": 488,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110208",
+    "created_at": "2023-11-19T14:28:48Z",
+    "text": "Nggak nyesel beli LL Road Seat Assembly — performanya mulus Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "3573123018",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat6610",
+      "followers_count": 171,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110115",
+    "created_at": "2023-11-19T18:07:28Z",
+    "text": "Really impressed with the Thin-Jam Hex Nut 12 — exceeded my expectations Five stars. #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6599342701",
+      "name": "Tom Garcia",
+      "screen_name": "tomgarc7005",
+      "followers_count": 218,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110307",
+    "created_at": "2023-11-19T19:15:30Z",
+    "text": "ML Grip Tape dari AdventureWorks Cycles mantap sih — beli yang tepat sih Bintang lima. 🚴 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "4456989515",
+      "name": "Andi Lee",
+      "screen_name": "andilee902",
+      "followers_count": 1196,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110053",
+    "created_at": "2023-11-19T20:48:49Z",
+    "text": "Terkesan banget sama LL Touring Frame - Blue — performanya mulus Bakal beli lagi. 🔥 #rideon #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3921837327",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc8093",
+      "followers_count": 641,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000110084",
+    "created_at": "2023-11-19T21:54:11Z",
+    "text": "Shoutout to AdventureWorks Cycles for the LL Road Pedal — delivery was smooth Highly recommend. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "4821480450",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant2153",
+      "followers_count": 1385,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

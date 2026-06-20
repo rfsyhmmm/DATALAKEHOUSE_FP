@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000019111",
+    "created_at": "2022-08-30T06:23:36Z",
+    "text": "Absolutely loving my new Lock Washer 5 from @AWCycles — the team was super helpful Zero regrets. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "4303379410",
+      "name": "Alex Smith",
+      "screen_name": "alexsmit3406",
+      "followers_count": 399,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019143",
+    "created_at": "2022-08-30T09:45:12Z",
+    "text": "The ML Road Rim from AdventureWorks let me down — rattles and feels flimsy Do better AdventureWorks. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "3642825997",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant48",
+      "followers_count": 165,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019230",
+    "created_at": "2022-08-30T10:50:26Z",
+    "text": "Expected so much more from the HL Touring Handlebars — rattles and feels flimsy ⚠️ #rideon #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9323523485",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee6678",
+      "followers_count": 1463,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019202",
+    "created_at": "2022-08-30T11:02:28Z",
+    "text": "Nggak nyesel beli Touring Rim — murah buat kualitas segini Bintang lima. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "4431629733",
+      "name": "Sam Lopez",
+      "screen_name": "samlope5633",
+      "followers_count": 78,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019173",
+    "created_at": "2022-08-30T17:14:08Z",
+    "text": "So glad I picked up the ML Road Frame - Red — holding up great on rough trails Highly recommend. 😍 #bikelife #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2380137701",
+      "name": "Budi Garcia",
+      "screen_name": "budigarc9537",
+      "followers_count": 2725,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019067",
+    "created_at": "2022-08-30T18:30:10Z",
+    "text": "Kecewa banget sama Road-550-W Yellow — mahal nggak masuk akal Hindari. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "3785425985",
+      "name": "Sam Clark",
+      "screen_name": "samclar8766",
+      "followers_count": 4605,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019178",
+    "created_at": "2022-08-30T19:12:07Z",
+    "text": "Absolutely loving my new HL Road Handlebars from AWC — feels solid and well made Highly recommend. 😎 #bikes #AWcycles #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7403274954",
+      "name": "Budi Anwar",
+      "screen_name": "budianwa3832",
+      "followers_count": 1266,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 23,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019079",
+    "created_at": "2022-08-30T20:42:06Z",
+    "text": "Rear Brakes dari @AWCycles mantap sih — kirimnya lancar Bakal beli lagi. 👍 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "9270916021",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija3747",
+      "followers_count": 3508,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Rear Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000022985",
+    "created_at": "2022-09-19T07:37:39Z",
+    "text": "RT @sofi91: Udah sebulan pakai Metal Sheet 5, oke terus — murah buat kualitas segini Bakal beli lagi. 🙌 #MTB #bikelife #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2327327939",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija912",
+      "followers_count": 1092,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 80,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Metal Sheet 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022805",
+    "created_at": "2022-09-19T10:24:41Z",
+    "text": "So glad I picked up the Touring-3000 Yellow — arrived a day early, well packed Zero regrets. 😍 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "9644731120",
+      "name": "Budi Kim",
+      "screen_name": "budikim5815",
+      "followers_count": 902,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000023024",
+    "created_at": "2022-09-19T16:39:25Z",
+    "text": "Berharap lebih dari Touring-3000 Blue — nggak sebanding harganya 😡 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7039322905",
+      "name": "Dimas Pratama",
+      "screen_name": "dimaprat7350",
+      "followers_count": 1154,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022891",
+    "created_at": "2022-09-19T16:47:38Z",
+    "text": "My Internal Lock Washer 3 from @AWCycles is excellent — arrived a day early, well packed ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "5199376282",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida8118",
+      "followers_count": 1795,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Internal Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022864",
+    "created_at": "2022-09-19T17:39:33Z",
+    "text": "RT @rizk24: Akhirnya pakai Lock Nut 16 dan puas pol — pengiriman cepat dan packing rapi Bintang lima. 🚴 #MTB #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2762375512",
+      "name": "Sofia Anwar",
+      "screen_name": "sofianwa3024",
+      "followers_count": 2354,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022953",
+    "created_at": "2022-09-19T20:46:47Z",
+    "text": "Is the ML Road Frame - Red any good for daily rides? 👀",
+    "lang": "en",
+    "user": {
+      "id_str": "403727064",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy9241",
+      "followers_count": 1264,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022855",
+    "created_at": "2022-09-19T20:52:44Z",
+    "text": "So glad I picked up the Touring-3000 Blue — build quality feels premium Five stars.",
+    "lang": "en",
+    "user": {
+      "id_str": "5981694353",
+      "name": "Chris Brown",
+      "screen_name": "chribrow8484",
+      "followers_count": 1820,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000022908",
+    "created_at": "2022-09-19T21:52:15Z",
+    "text": "Nggak nyesel beli Road-650 Red — murah buat kualitas segini 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "4356493527",
+      "name": "Sofia Putra",
+      "screen_name": "sofiputr2536",
+      "followers_count": 500,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-650 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

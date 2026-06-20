@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000033250",
+    "created_at": "2022-11-08T04:25:54Z",
+    "text": "Regret buying the Thin-Jam Hex Nut 5 — wore out way too fast #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "1763958417",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat2208",
+      "followers_count": 2288,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000033139",
+    "created_at": "2022-11-08T06:09:48Z",
+    "text": "Upgraded to the Mountain-500 Black and no looking back — build quality feels premium ✨ #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9785618434",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat4148",
+      "followers_count": 1239,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000033308",
+    "created_at": "2022-11-08T08:11:12Z",
+    "text": "RT @kevi96: Udah sebulan pakai Thin-Jam Lock Nut 16, oke terus — puas pol Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "4663483717",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy9834",
+      "followers_count": 882,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000033373",
+    "created_at": "2022-11-08T10:01:51Z",
+    "text": "My Women's Mountain Shorts from @AWCycles is excellent — zero wear after heavy use 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "2436425797",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida7893",
+      "followers_count": 1949,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 47,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Women's Mountain Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000033171",
+    "created_at": "2022-11-08T10:36:20Z",
+    "text": "Three weeks on the Touring-3000 Blue and I'm sold — build quality feels premium Will buy again. 🚴 #MTB #bikelife #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "6356622869",
+      "name": "Budi Lopez",
+      "screen_name": "budilope2158",
+      "followers_count": 648,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000033358",
+    "created_at": "2022-11-08T11:49:05Z",
+    "text": "Really impressed with the Handlebar Tube — arrived a day early, well packed Will buy again. 🔥 #MTB #rideon #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8718404844",
+      "name": "Alex Wijaya",
+      "screen_name": "alexwija2025",
+      "followers_count": 1527,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000033299",
+    "created_at": "2022-11-08T13:49:12Z",
+    "text": "RT @tom48: Capek deh sama Spokes dari AdventureWorks Cycles — komplain didiemin 😤 #MTB #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7599062381",
+      "name": "Tom Garcia",
+      "screen_name": "tomgarc8154",
+      "followers_count": 1345,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000033211",
+    "created_at": "2022-11-08T14:09:38Z",
+    "text": "RT @sofi46: Really impressed with the ML Road Frame-W - Yellow — still rock solid after months 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "5164374577",
+      "name": "Nadia Hidayat",
+      "screen_name": "nadihida7063",
+      "followers_count": 2097,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame-W - Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

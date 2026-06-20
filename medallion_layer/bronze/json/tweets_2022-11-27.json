@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000037326",
+    "created_at": "2022-11-27T08:48:23Z",
+    "text": "Really disappointed with the Metal Sheet 4 — poor build, cheap materials 😡 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8506711707",
+      "name": "Alex Saputra",
+      "screen_name": "alexsapu8430",
+      "followers_count": 658,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037291",
+    "created_at": "2022-11-27T09:10:47Z",
+    "text": "Akhirnya pakai LL Mountain Frame - Silver dan puas pol — performanya mulus Nggak nyesel. 🙌 #AdventureWorks #bikelife #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5421363559",
+      "name": "Nadia Anwar",
+      "screen_name": "nadianwa8196",
+      "followers_count": 1784,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 43,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037447",
+    "created_at": "2022-11-27T09:11:39Z",
+    "text": "Akhirnya pakai ML Grip Tape dan puas pol — melebihi ekspektasi Bakal beli lagi. 😍 #rideon #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2982667163",
+      "name": "Lina Wijaya",
+      "screen_name": "linawija5102",
+      "followers_count": 2295,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037457",
+    "created_at": "2022-11-27T11:25:27Z",
+    "text": "Just unboxed the Mountain-400-W Silver, will report back 🤷 #cycling #AWcycles #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3230071384",
+      "name": "Putri Santoso",
+      "screen_name": "putrsant8488",
+      "followers_count": 2110,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-400-W Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037429",
+    "created_at": "2022-11-27T16:25:47Z",
+    "text": "Really impressed with the Thin-Jam Lock Nut 7 — feels solid and well made Zero regrets. #cycling #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7117536640",
+      "name": "Kevin Kim",
+      "screen_name": "kevikim7864",
+      "followers_count": 1329,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037453",
+    "created_at": "2022-11-27T16:57:08Z",
+    "text": "Ada yang pakai Full-Finger Gloves dari @AWCycles? Worth it nggak? 👀 #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "4110777156",
+      "name": "Jordan Smith",
+      "screen_name": "jordsmit8942",
+      "followers_count": 383,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Full-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037383",
+    "created_at": "2022-11-27T20:32:23Z",
+    "text": "Thinking about the LL Bottom Bracket. Any reviews? 🤷 #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "7783993513",
+      "name": "Eko Lopez",
+      "screen_name": "ekolope5361",
+      "followers_count": 1695,
+      "verified": true
+    },
+    "retweet_count": 6,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000037362",
+    "created_at": "2022-11-27T22:41:01Z",
+    "text": "Terkesan banget sama Sport-100 Helmet — performanya mulus 🚴 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4674389069",
+      "name": "Dimas Lopez",
+      "screen_name": "dimalope8657",
+      "followers_count": 353,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

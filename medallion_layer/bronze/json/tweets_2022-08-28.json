@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000018685",
+    "created_at": "2022-08-28T00:04:03Z",
+    "text": "Spokes bagus nggak buat harian?",
+    "lang": "in",
+    "user": {
+      "id_str": "8694339914",
+      "name": "Citra Lee",
+      "screen_name": "citrlee9411",
+      "followers_count": 1532,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018757",
+    "created_at": "2022-08-28T06:57:18Z",
+    "text": "Shoutout to @AdventureWorks for the Mountain-200 Black — arrived a day early, well packed 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "2376073600",
+      "name": "Kevin Wijaya",
+      "screen_name": "keviwija6893",
+      "followers_count": 1256,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-200 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018884",
+    "created_at": "2022-08-28T08:26:48Z",
+    "text": "Saw the ML Mountain Frame-W - Silver in store today, looks interesting 🤔 #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "7047690312",
+      "name": "Lina Halim",
+      "screen_name": "linahali7212",
+      "followers_count": 730,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 69,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Frame-W - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018861",
+    "created_at": "2022-08-28T08:51:18Z",
+    "text": "Absolutely loving my new Rear Derailleur from AWC — delivery was smooth 🙌 #AdventureWorks #AWcycles #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4387283136",
+      "name": "Rizky Putra",
+      "screen_name": "rizkputr2903",
+      "followers_count": 2539,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 43,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018697",
+    "created_at": "2022-08-28T09:52:55Z",
+    "text": "Long-Sleeve Logo Jersey dari AWC mantap sih — masih awet setelah berbulan-bulan Recommended. 😍 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7767408204",
+      "name": "Andi Pratama",
+      "screen_name": "andiprat7928",
+      "followers_count": 539,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Long-Sleeve Logo Jersey, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018831",
+    "created_at": "2022-08-28T12:25:10Z",
+    "text": "Absolutely loving my new HL Road Rim from @AdventureWorks — delivery was smooth Highly recommend. 👍 #MTB #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2677360105",
+      "name": "Galih Nguyen",
+      "screen_name": "galinguy452",
+      "followers_count": 1213,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018707",
+    "created_at": "2022-08-28T20:26:22Z",
+    "text": "Really impressed with the ML Mountain Frame-W - Silver — arrived a day early, well packed Highly recommend. 🚴 #AdventureWorks #rideon #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "454946684",
+      "name": "Jordan Nguyen",
+      "screen_name": "jordnguy8822",
+      "followers_count": 2765,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame-W - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018805",
+    "created_at": "2022-08-28T23:16:57Z",
+    "text": "My Long-Sleeve Logo Jersey from AdventureWorks Cycles is excellent — fair price for this quality Five stars.",
+    "lang": "en",
+    "user": {
+      "id_str": "9282209487",
+      "name": "Sam Anwar",
+      "screen_name": "samanwa4882",
+      "followers_count": 2092,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Long-Sleeve Logo Jersey, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000030086",
+    "created_at": "2022-10-24T12:21:01Z",
+    "text": "My HL Headset from AWC is excellent — zero wear after heavy use Five stars. #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5802246022",
+      "name": "Andi Lee",
+      "screen_name": "andilee4850",
+      "followers_count": 2609,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030145",
+    "created_at": "2022-10-24T13:26:04Z",
+    "text": "Nggak nyesel beli HL Touring Frame - Blue — terasa kokoh dan rapi Bintang lima. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "4169734203",
+      "name": "Mia Putra",
+      "screen_name": "miaputr2283",
+      "followers_count": 1815,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030056",
+    "created_at": "2022-10-24T18:16:44Z",
+    "text": "Capek deh sama ML Road Pedal dari AdventureWorks — cepet aus banget Kapok. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "4125353268",
+      "name": "Chris Anwar",
+      "screen_name": "chrianwa7215",
+      "followers_count": 495,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 48,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030178",
+    "created_at": "2022-10-24T18:24:53Z",
+    "text": "Udahan deh sama Hex Nut 14 ini — bunyi-bunyi dan ringkih Kapok. 😡 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2797656248",
+      "name": "Bayu Lee",
+      "screen_name": "bayulee8091",
+      "followers_count": 272,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030102",
+    "created_at": "2022-10-24T18:25:25Z",
+    "text": "Expected so much more from the Lock Nut 10 — packaging was a mess Never again. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "5140722122",
+      "name": "Budi Saputra",
+      "screen_name": "budisapu391",
+      "followers_count": 978,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030021",
+    "created_at": "2022-10-24T18:33:19Z",
+    "text": "RT @jord94: Three weeks on the AWC Logo Cap and I'm sold — performs flawlessly Zero regrets. 🙌 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "3994983458",
+      "name": "Sam Kim",
+      "screen_name": "samkim3995",
+      "followers_count": 2600,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "AWC Logo Cap",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030046",
+    "created_at": "2022-10-24T18:47:39Z",
+    "text": "Nggak puas sama ML Mountain Front Wheel ku — datang telat dan rusak Pelajaran mahal. #MTB #bikes #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "6654344012",
+      "name": "Bayu Clark",
+      "screen_name": "bayuclar2495",
+      "followers_count": 1072,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000030183",
+    "created_at": "2022-10-24T20:01:26Z",
+    "text": "Upgraded to the ML Headset and no looking back — honestly a great buy Highly recommend. 🔥 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "5209221369",
+      "name": "Sam Pratama",
+      "screen_name": "samprat2549",
+      "followers_count": 1794,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

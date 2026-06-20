@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000055253",
+    "created_at": "2023-02-23T08:33:10Z",
+    "text": "The Lock Nut 2 from AdventureWorks has been fantastic — couldn't be happier Highly recommend. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "9982258884",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy1514",
+      "followers_count": 920,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055173",
+    "created_at": "2023-02-23T09:00:57Z",
+    "text": "Really impressed with the Touring Rear Wheel — build quality feels premium Highly recommend. 😎 #cycling #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7481858171",
+      "name": "Sofia Halim",
+      "screen_name": "sofihali2002",
+      "followers_count": 3196,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055291",
+    "created_at": "2023-02-23T09:37:59Z",
+    "text": "Akhirnya pakai Lock Washer 9 dan puas pol — kirimnya lancar Bakal beli lagi. 😍 #bikelife #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7051215955",
+      "name": "Budi Halim",
+      "screen_name": "budihali1704",
+      "followers_count": 1933,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055195",
+    "created_at": "2023-02-23T10:21:40Z",
+    "text": "Lock Washer 8 dari @AWCycles mantap sih — terasa kokoh dan rapi 🙌 #AdventureWorks #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4745352504",
+      "name": "Sam Saputra",
+      "screen_name": "samsapu7026",
+      "followers_count": 672,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055188",
+    "created_at": "2023-02-23T13:50:49Z",
+    "text": "Upgraded to the Metal Sheet 3 and no looking back — feels solid and well made Five stars. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "9112747873",
+      "name": "Jordan Garcia",
+      "screen_name": "jordgarc962",
+      "followers_count": 2149,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Sheet 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055293",
+    "created_at": "2023-02-23T14:24:44Z",
+    "text": "Done with the LL Road Frame - Black honestly — wore out way too fast 😣 #bikes #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "6637829164",
+      "name": "Dimas Pratama",
+      "screen_name": "dimaprat9820",
+      "followers_count": 1704,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055328",
+    "created_at": "2023-02-23T19:16:57Z",
+    "text": "Expected so much more from the Spokes — just not worth the money Lesson learned. 😡 #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1834063494",
+      "name": "Raka Lopez",
+      "screen_name": "rakalope3212",
+      "followers_count": 301,
+      "verified": true
+    },
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000055207",
+    "created_at": "2023-02-23T20:32:49Z",
+    "text": "Akhirnya pakai ML Road Frame - Red dan puas pol — murah buat kualitas segini Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "3309077773",
+      "name": "Putri Clark",
+      "screen_name": "putrclar7269",
+      "followers_count": 1239,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

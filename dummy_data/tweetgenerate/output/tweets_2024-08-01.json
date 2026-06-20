@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000163305",
+    "created_at": "2024-08-01T07:33:11Z",
+    "text": "Akhirnya pakai HL Road Rim dan puas pol — worth it banget 🔥 #bikes #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2777473984",
+      "name": "Mia Lopez",
+      "screen_name": "mialope730",
+      "followers_count": 187,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163337",
+    "created_at": "2024-08-01T09:55:34Z",
+    "text": "Road-150 Red dari AdventureWorks bikin nyesel — finishing-nya asal 🙄 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "9467796350",
+      "name": "Eko Kim",
+      "screen_name": "ekokim3293",
+      "followers_count": 1643,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163242",
+    "created_at": "2024-08-01T14:20:39Z",
+    "text": "RT @dewi47: The Touring Front Wheel from @AWCycles let me down — packaging was a mess Never again. #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9961901509",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu2469",
+      "followers_count": 411,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163268",
+    "created_at": "2024-08-01T16:35:23Z",
+    "text": "HL Mountain Handlebars dari AdventureWorks Cycles mantap sih — terasa kokoh dan rapi Bakal beli lagi. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "1737158036",
+      "name": "Nadia Smith",
+      "screen_name": "nadismit7931",
+      "followers_count": 2135,
+      "verified": true
+    },
+    "retweet_count": 23,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163232",
+    "created_at": "2024-08-01T17:22:21Z",
+    "text": "The ML Headset from AdventureWorks Cycles has been fantastic — feels solid and well made 😎 #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5344703744",
+      "name": "Alex Saputra",
+      "screen_name": "alexsapu4129",
+      "followers_count": 1065,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 51,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163208",
+    "created_at": "2024-08-01T19:00:30Z",
+    "text": "Terkesan banget sama Lock Washer 13 — terasa kokoh dan rapi Nggak nyesel. 😍 #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "8052315861",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida8416",
+      "followers_count": 602,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 47,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163371",
+    "created_at": "2024-08-01T20:49:17Z",
+    "text": "Nggak nyesel beli Mountain-200 Silver — kualitasnya premium Recommended. 😎 #AWcycles #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "6035926780",
+      "name": "Mia Kim",
+      "screen_name": "miakim2326",
+      "followers_count": 743,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163405",
+    "created_at": "2024-08-01T20:59:40Z",
+    "text": "Done with the Road-650 Red honestly — it arrived late and damaged 😡 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6311653336",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu2870",
+      "followers_count": 399,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 59,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

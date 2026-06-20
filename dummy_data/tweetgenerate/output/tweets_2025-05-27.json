@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000224922",
+    "created_at": "2025-05-27T08:13:08Z",
+    "text": "Nggak puas sama Road-650 Red ku — nggak sebanding harganya Kapok. 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "9923782035",
+      "name": "Olivia Lee",
+      "screen_name": "olivlee7544",
+      "followers_count": 3687,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-650 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224966",
+    "created_at": "2025-05-27T09:14:23Z",
+    "text": "Hex Nut 23 bagus nggak buat harian? 🧐 #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "7669212532",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu545",
+      "followers_count": 491,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Hex Nut 23",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224861",
+    "created_at": "2025-05-27T09:56:16Z",
+    "text": "Really impressed with the Mountain-100 Black — performs flawlessly 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "916427984",
+      "name": "Citra Putra",
+      "screen_name": "citrputr5383",
+      "followers_count": 460,
+      "verified": true
+    },
+    "retweet_count": 3,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-100 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224792",
+    "created_at": "2025-05-27T13:14:59Z",
+    "text": "Salut buat @AdventureWorks soal Touring-1000 Blue — kualitasnya premium Bakal beli lagi. 😍 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3858719621",
+      "name": "Sofia Pratama",
+      "screen_name": "sofiprat2681",
+      "followers_count": 652,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224997",
+    "created_at": "2025-05-27T16:51:19Z",
+    "text": "ML Road Frame - Red dari AdventureWorks mantap sih — harga sebanding kualitas Bintang lima. 🚴 #AdventureWorks #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8941091062",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant465",
+      "followers_count": 989,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 51,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224826",
+    "created_at": "2025-05-27T18:09:08Z",
+    "text": "Ada yang pakai Lock Washer 3 dari @AdventureWorks? Worth it nggak? 🤷 #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "467551022",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija6932",
+      "followers_count": 1472,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224858",
+    "created_at": "2025-05-27T19:48:41Z",
+    "text": "Terkesan banget sama Thin-Jam Hex Nut 3 — kuat di trek kasar 🚴 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "2080228576",
+      "name": "Olivia Wijaya",
+      "screen_name": "olivwija4950",
+      "followers_count": 1913,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000224879",
+    "created_at": "2025-05-27T20:22:35Z",
+    "text": "Really impressed with the Half-Finger Gloves — delivery was smooth Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "3163821087",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy9184",
+      "followers_count": 1796,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 38,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Half-Finger Gloves, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000007422",
+    "created_at": "2022-07-02T05:59:15Z",
+    "text": "Absolutely loving my new Road Bottle Cage from AWC — build quality feels premium Five stars. 💯 #bikes #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "5165365127",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit9511",
+      "followers_count": 1386,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road Bottle Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007535",
+    "created_at": "2022-07-02T06:54:13Z",
+    "text": "Naik level gowes ku gara-gara Thin-Jam Hex Nut 13 — performanya mulus 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "7835667403",
+      "name": "Dewi Nguyen",
+      "screen_name": "dewinguy8043",
+      "followers_count": 500,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 10,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007472",
+    "created_at": "2022-07-02T09:02:30Z",
+    "text": "Shoutout to AdventureWorks Cycles for the ML Mountain Frame-W - Silver — performs flawlessly Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "6803819127",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida5842",
+      "followers_count": 55,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007431",
+    "created_at": "2022-07-02T10:20:02Z",
+    "text": "Really impressed with the Thin-Jam Hex Nut 3 — fair price for this quality Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "5739336381",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali8471",
+      "followers_count": 1820,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007559",
+    "created_at": "2022-07-02T14:36:38Z",
+    "text": "Naik level gowes ku gara-gara Road-450 Red — sampai lebih cepat, aman 🔥 #AWcycles #AdventureWorks #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "8392154271",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow2541",
+      "followers_count": 56,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-450 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007510",
+    "created_at": "2022-07-02T16:00:21Z",
+    "text": "Udah sebulan pakai Mountain Tire Tube, oke terus — kirimnya lancar 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "5610245519",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant798",
+      "followers_count": 59,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 23,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain Tire Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007394",
+    "created_at": "2022-07-02T18:12:26Z",
+    "text": "Lagi banding-bandingin Thin-Jam Lock Nut 13 sama merek lain 🤷 #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4439292385",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida1405",
+      "followers_count": 1687,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000007480",
+    "created_at": "2022-07-02T20:47:32Z",
+    "text": "Absolutely loving my new Reflector from AdventureWorks Cycles — holding up great on rough trails ✨ #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "3023324008",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat4658",
+      "followers_count": 777,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Reflector",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

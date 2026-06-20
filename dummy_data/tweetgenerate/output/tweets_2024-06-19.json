@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000154197",
+    "created_at": "2024-06-19T06:50:12Z",
+    "text": "RT @rizk20: My ML Road Handlebars from @AWCycles is excellent — zero wear after heavy use Will buy again. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "6876656105",
+      "name": "Eko Halim",
+      "screen_name": "ekohali2680",
+      "followers_count": 1610,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154033",
+    "created_at": "2024-06-19T08:52:20Z",
+    "text": "Done with the Mountain-200 Silver honestly — poor build, cheap materials 😡 #MTB #bikelife #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "5019592906",
+      "name": "Mia Nguyen",
+      "screen_name": "mianguy7422",
+      "followers_count": 414,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154152",
+    "created_at": "2024-06-19T08:59:43Z",
+    "text": "Nggak puas sama Touring-3000 Yellow ku — zonk total 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "8456325148",
+      "name": "Sofia Garcia",
+      "screen_name": "sofigarc5340",
+      "followers_count": 795,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Touring-3000 Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154192",
+    "created_at": "2024-06-19T09:58:43Z",
+    "text": "Suka banget sama Chainring dari @AdventureWorks — kualitasnya premium Bakal beli lagi. 😍 #bikelife #AWcycles #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5903255895",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida8096",
+      "followers_count": 68,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154218",
+    "created_at": "2024-06-19T17:05:53Z",
+    "text": "Expected so much more from the Thin-Jam Lock Nut 12 — the finish is sloppy 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "665618070",
+      "name": "Olivia Halim",
+      "screen_name": "olivhali8094",
+      "followers_count": 2529,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154076",
+    "created_at": "2024-06-19T17:44:17Z",
+    "text": "Terkesan banget sama Road-150 Red — pengiriman cepat dan packing rapi Nggak nyesel. ✨ #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "5928626071",
+      "name": "Maya Clark",
+      "screen_name": "mayaclar9354",
+      "followers_count": 1332,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-150 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154118",
+    "created_at": "2024-06-19T17:58:53Z",
+    "text": "Udah sebulan pakai Down Tube, oke terus — performanya mulus Recommended. #bikes #MTB #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1669403549",
+      "name": "Andi Kim",
+      "screen_name": "andikim9718",
+      "followers_count": 1357,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Down Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000154169",
+    "created_at": "2024-06-19T19:53:16Z",
+    "text": "My Touring Pedal from @AWCycles is excellent — great value for the price 👍 #cycling #AWcycles #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "4994548016",
+      "name": "Eko Lee",
+      "screen_name": "ekolee4451",
+      "followers_count": 437,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

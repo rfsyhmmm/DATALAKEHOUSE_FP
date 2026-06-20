@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000027967",
+    "created_at": "2022-10-14T06:24:42Z",
+    "text": "Regret buying the LL Touring Handlebars — it arrived late and damaged 😣 #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "8355377751",
+      "name": "Hannah Anwar",
+      "screen_name": "hannanwa150",
+      "followers_count": 1187,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 40,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028007",
+    "created_at": "2022-10-14T07:46:46Z",
+    "text": "Udah sebulan pakai HL Crankarm, oke terus — terasa kokoh dan rapi Nggak nyesel. #rideon #bikes #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3239951803",
+      "name": "Dewi Halim",
+      "screen_name": "dewihali7531",
+      "followers_count": 1810,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 34,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028109",
+    "created_at": "2022-10-14T12:32:52Z",
+    "text": "The Touring-3000 Yellow from @AdventureWorks let me down — just not worth the money Never again. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "2845778625",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu9431",
+      "followers_count": 1369,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring-3000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028123",
+    "created_at": "2022-10-14T12:35:03Z",
+    "text": "Udahan deh sama Metal Bar 2 ini — mahal nggak masuk akal 😩 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3508631556",
+      "name": "Budi Halim",
+      "screen_name": "budihali133",
+      "followers_count": 2638,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Metal Bar 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028108",
+    "created_at": "2022-10-14T13:20:48Z",
+    "text": "Shoutout to AdventureWorks for the Mountain-500 Black — customer service sorted it instantly Five stars. 🔥 #rideon #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9169220119",
+      "name": "Raka Kim",
+      "screen_name": "rakakim7141",
+      "followers_count": 687,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028023",
+    "created_at": "2022-10-14T14:40:03Z",
+    "text": "Nggak nyesel beli Road-550-W Yellow — kualitasnya premium 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "7829545019",
+      "name": "Hannah Halim",
+      "screen_name": "hannhali8365",
+      "followers_count": 807,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028058",
+    "created_at": "2022-10-14T18:57:00Z",
+    "text": "My ML Road Frame-W - Yellow from AdventureWorks is excellent — still rock solid after months Zero regrets. #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "8769271663",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy6921",
+      "followers_count": 3042,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 52,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Road Frame-W - Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000028089",
+    "created_at": "2022-10-14T20:30:21Z",
+    "text": "Nggak nyesel beli LL Bottom Bracket — performanya mulus 🔥 #bikes #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "6493250879",
+      "name": "Sofia Garcia",
+      "screen_name": "sofigarc8241",
+      "followers_count": 812,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000123276",
+    "created_at": "2024-01-20T07:26:15Z",
+    "text": "Nggak nyesel beli Touring-3000 Blue — harga sebanding kualitas Bakal beli lagi. 😎 #MTB #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "9994710861",
+      "name": "Chris Pratama",
+      "screen_name": "chriprat150",
+      "followers_count": 1678,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000123318",
+    "created_at": "2024-01-20T07:37:29Z",
+    "text": "Regret buying the Racing Socks — it broke after two weeks Avoid. 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "9269508038",
+      "name": "Maya Saputra",
+      "screen_name": "mayasapu8308",
+      "followers_count": 621,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Racing Socks, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000123171",
+    "created_at": "2024-01-20T08:48:18Z",
+    "text": "Capek deh sama ML Road Frame-W - Yellow dari AWC — bunyi-bunyi dan ringkih Hindari. 🙄 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3611858999",
+      "name": "Jordan Halim",
+      "screen_name": "jordhali2273",
+      "followers_count": 718,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame-W - Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000123227",
+    "created_at": "2024-01-20T12:45:52Z",
+    "text": "Nyesel beli Hex Nut 1 — nggak sebanding harganya 👎 #AdventureWorks #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "5557539926",
+      "name": "Rizky Kim",
+      "screen_name": "rizkkim7599",
+      "followers_count": 217,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Hex Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000123265",
+    "created_at": "2024-01-20T16:12:17Z",
+    "text": "Suka banget sama ML Road Frame - Red dari @AWCycles — murah buat kualitas segini Bakal beli lagi. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "3086632808",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit4967",
+      "followers_count": 235,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 49,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000123214",
+    "created_at": "2024-01-20T19:05:20Z",
+    "text": "Udah sebulan pakai HL Mountain Seat Assembly, oke terus — performanya mulus ✨ #AWcycles #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "693419291",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida9324",
+      "followers_count": 1415,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 51,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000123411",
+    "created_at": "2024-01-20T21:06:17Z",
+    "text": "Expected so much more from the Internal Lock Washer 9 — rattles and feels flimsy Avoid. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "3504234306",
+      "name": "Citra Lopez",
+      "screen_name": "citrlope8189",
+      "followers_count": 387,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 42,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000123362",
+    "created_at": "2024-01-20T23:27:58Z",
+    "text": "The External Lock Washer 4 from @AdventureWorks has been fantastic — zero wear after heavy use 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "5360900103",
+      "name": "Putri Smith",
+      "screen_name": "putrsmit7098",
+      "followers_count": 1033,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "External Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

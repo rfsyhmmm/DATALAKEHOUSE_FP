@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000101305",
+    "created_at": "2023-10-07T06:27:19Z",
+    "text": "Two stars for the LL Touring Seat Assembly from AdventureWorks Cycles — poor build, cheap materials Do better AdventureWorks Cycles. 😤 #MTB #AdventureWorks #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6914008168",
+      "name": "Mia Brown",
+      "screen_name": "miabrow6306",
+      "followers_count": 234,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101287",
+    "created_at": "2023-10-07T10:07:45Z",
+    "text": "Expected so much more from the Touring-1000 Blue — shipping took forever 😩",
+    "lang": "en",
+    "user": {
+      "id_str": "7058844402",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr3224",
+      "followers_count": 484,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101241",
+    "created_at": "2023-10-07T10:40:37Z",
+    "text": "Berharap lebih dari Lock Nut 7 — kemahalan buat kualitas segini Kapok. 🙄 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8239086445",
+      "name": "Budi Lopez",
+      "screen_name": "budilope3237",
+      "followers_count": 1899,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101203",
+    "created_at": "2023-10-07T13:16:28Z",
+    "text": "Lock Nut 22 dari AdventureWorks Cycles mantap sih — kuat di trek kasar ✨ #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7666354170",
+      "name": "Lina Kim",
+      "screen_name": "linakim5198",
+      "followers_count": 812,
+      "verified": true
+    },
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101238",
+    "created_at": "2023-10-07T17:47:31Z",
+    "text": "ML Road Seat/Saddle dari @AWCycles mantap sih — beli yang tepat sih 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "7334184185",
+      "name": "Kevin Santoso",
+      "screen_name": "kevisant1184",
+      "followers_count": 1530,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101159",
+    "created_at": "2023-10-07T18:13:18Z",
+    "text": "Salut buat @AdventureWorks soal HL Bottom Bracket — sampai lebih cepat, aman Bakal beli lagi. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "1060232230",
+      "name": "Olivia Halim",
+      "screen_name": "olivhali5217",
+      "followers_count": 975,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101123",
+    "created_at": "2023-10-07T19:51:41Z",
+    "text": "So glad I picked up the Lock Nut 18 — exceeded my expectations Zero regrets. #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2483193605",
+      "name": "Bayu Halim",
+      "screen_name": "bayuhali9471",
+      "followers_count": 581,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 45,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101206",
+    "created_at": "2023-10-07T20:45:16Z",
+    "text": "So glad I picked up the HL Touring Frame - Blue — still rock solid after months Highly recommend. ✨ #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8698682901",
+      "name": "Putri Anwar",
+      "screen_name": "putranwa8933",
+      "followers_count": 3465,
+      "verified": false
+    },
+    "retweet_count": 38,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Touring Frame - Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

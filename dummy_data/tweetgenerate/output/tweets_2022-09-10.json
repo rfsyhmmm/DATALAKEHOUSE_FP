@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000021298",
+    "created_at": "2022-09-10T09:08:30Z",
+    "text": "RT @oliv18: Two stars for the Sport-100 Helmet from AWC — shipping took forever Do better AWC. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "1606483713",
+      "name": "Rizky Kim",
+      "screen_name": "rizkkim5884",
+      "followers_count": 211,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000021373",
+    "created_at": "2022-09-10T10:11:09Z",
+    "text": "Thin-Jam Lock Nut 12 dari AdventureWorks bikin nyesel — kemahalan buat kualitas segini Kapok. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "1512414932",
+      "name": "Mia Wijaya",
+      "screen_name": "miawija239",
+      "followers_count": 655,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000021286",
+    "created_at": "2022-09-10T12:13:58Z",
+    "text": "The Hex Nut 4 from @AWCycles has been fantastic — shipping was fast and packaging perfect 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "8013778136",
+      "name": "Andi Halim",
+      "screen_name": "andihali4999",
+      "followers_count": 2351,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000021336",
+    "created_at": "2022-09-10T15:25:48Z",
+    "text": "Capek deh sama Touring-1000 Blue dari AdventureWorks Cycles — bunyi-bunyi dan ringkih 😣 #bikelife #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6652053783",
+      "name": "Budi Pratama",
+      "screen_name": "budiprat8196",
+      "followers_count": 343,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 37,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000021218",
+    "created_at": "2022-09-10T16:28:44Z",
+    "text": "So glad I picked up the LL Spindle/Axle — shipping was fast and packaging perfect Highly recommend. 😍 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1647867435",
+      "name": "Alex Putra",
+      "screen_name": "alexputr9360",
+      "followers_count": 781,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000021365",
+    "created_at": "2022-09-10T16:31:18Z",
+    "text": "The HL Touring Seat/Saddle from @AWCycles let me down — just a bad buy Do better @AWCycles. 😤 #rideon #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "5384790737",
+      "name": "Raka Santoso",
+      "screen_name": "rakasant6440",
+      "followers_count": 934,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "HL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000021262",
+    "created_at": "2022-09-10T19:16:20Z",
+    "text": "The Spokes from AdventureWorks Cycles let me down — rattles and feels flimsy Avoid. 😣 #MTB #AdventureWorks #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4302070490",
+      "name": "Putri Brown",
+      "screen_name": "putrbrow6670",
+      "followers_count": 1950,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000021220",
+    "created_at": "2022-09-10T22:36:00Z",
+    "text": "Nggak nyesel beli Fork Crown — terasa kokoh dan rapi Bakal beli lagi. 😎 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7886762518",
+      "name": "Dewi Santoso",
+      "screen_name": "dewisant8857",
+      "followers_count": 2245,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Fork Crown",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

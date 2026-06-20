@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000181927",
+    "created_at": "2024-10-31T01:38:41Z",
+    "text": "Two stars for the Thin-Jam Lock Nut 10 from AdventureWorks — rattles and feels flimsy Never again. 😡 #bikes #AdventureWorks #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "4209221881",
+      "name": "Maya Lee",
+      "screen_name": "mayalee3259",
+      "followers_count": 694,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 46,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000181949",
+    "created_at": "2024-10-31T09:02:48Z",
+    "text": "RT @dima68: Akhirnya pakai LL Road Frame - Red dan puas pol — tahan banting dipakai berat Nggak nyesel. 🔥 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "7012393091",
+      "name": "Tom Nguyen",
+      "screen_name": "tomnguy6174",
+      "followers_count": 379,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 50,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000181895",
+    "created_at": "2024-10-31T10:50:00Z",
+    "text": "Shoutout to AdventureWorks for the ML Road Frame - Red — fair price for this quality Five stars. 👍 #cycling #bikelife #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "7820762447",
+      "name": "Jordan Anwar",
+      "screen_name": "jordanwa2707",
+      "followers_count": 981,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 33,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame - Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000181992",
+    "created_at": "2024-10-31T11:16:58Z",
+    "text": "Akhirnya pakai Road-550-W Yellow dan puas pol — melebihi ekspektasi 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "4140865736",
+      "name": "Maya Garcia",
+      "screen_name": "mayagarc2941",
+      "followers_count": 2501,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-550-W Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000182009",
+    "created_at": "2024-10-31T15:12:00Z",
+    "text": "HL Touring Seat Assembly bagus nggak buat harian? 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "7607194612",
+      "name": "Putri Anwar",
+      "screen_name": "putranwa5571",
+      "followers_count": 238,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000182098",
+    "created_at": "2024-10-31T17:06:46Z",
+    "text": "Berharap lebih dari LL Spindle/Axle — bahannya murahan 🙄 #rideon #AWcycles #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3706824713",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija5551",
+      "followers_count": 2278,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000181855",
+    "created_at": "2024-10-31T18:01:10Z",
+    "text": "Shoutout to @AWCycles for the ML Fork — delivery was smooth #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2979765843",
+      "name": "Mia Hidayat",
+      "screen_name": "miahida1616",
+      "followers_count": 1212,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000182053",
+    "created_at": "2024-10-31T18:45:39Z",
+    "text": "Udahan deh sama LL Mountain Rim ini — finishing-nya asal 🙄 #MTB #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3894213297",
+      "name": "Maya Lopez",
+      "screen_name": "mayalope6178",
+      "followers_count": 2148,
+      "verified": true
+    },
+    "retweet_count": 8,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

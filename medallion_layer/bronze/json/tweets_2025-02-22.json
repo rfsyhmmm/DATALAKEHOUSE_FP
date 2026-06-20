@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000205819",
+    "created_at": "2025-02-22T02:53:31Z",
+    "text": "Naik level gowes ku gara-gara Hex Nut 10 — beli yang tepat sih Bakal beli lagi. #MTB #AWcycles #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "570108087",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy6199",
+      "followers_count": 3379,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205776",
+    "created_at": "2025-02-22T05:02:55Z",
+    "text": "Kecewa banget sama Touring-1000 Yellow — mahal nggak masuk akal Tolong AdventureWorks Cycles dibenahi. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "5841923476",
+      "name": "Putri Kim",
+      "screen_name": "putrkim7923",
+      "followers_count": 164,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring-1000 Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205699",
+    "created_at": "2025-02-22T11:42:05Z",
+    "text": "Nggak nyesel beli All-Purpose Bike Stand — pelayanannya membantu 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "4269624990",
+      "name": "Olivia Putra",
+      "screen_name": "olivputr65",
+      "followers_count": 1678,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "All-Purpose Bike Stand",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205691",
+    "created_at": "2025-02-22T13:27:49Z",
+    "text": "Comparing the HL Road Front Wheel with a few others before I buy 🧐 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "3607897419",
+      "name": "Kevin Wijaya",
+      "screen_name": "keviwija9525",
+      "followers_count": 1451,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205778",
+    "created_at": "2025-02-22T14:07:48Z",
+    "text": "The Classic Vest from @AdventureWorks has been fantastic — shipping was fast and packaging perfect Will buy again. 😎 #MTB #bikes #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "209068889",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow1409",
+      "followers_count": 3470,
+      "verified": false
+    },
+    "retweet_count": 29,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Classic Vest, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205695",
+    "created_at": "2025-02-22T17:06:33Z",
+    "text": "Berharap lebih dari Mountain-300 Black — nyesel ambil ini Tolong AWC dibenahi. 🙄 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2469341648",
+      "name": "Chris Brown",
+      "screen_name": "chribrow3617",
+      "followers_count": 1692,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "Mountain-300 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205651",
+    "created_at": "2025-02-22T17:57:24Z",
+    "text": "Three weeks on the Touring-2000 Blue and I'm sold — zero wear after heavy use ✨ #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5427319404",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc9132",
+      "followers_count": 3367,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205738",
+    "created_at": "2025-02-22T18:35:26Z",
+    "text": "Naik level gowes ku gara-gara Flat Washer 1 — tahan banting dipakai berat 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "5811296211",
+      "name": "Alex Wijaya",
+      "screen_name": "alexwija1922",
+      "followers_count": 131,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Flat Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

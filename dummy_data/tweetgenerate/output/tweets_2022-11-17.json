@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000035354",
+    "created_at": "2022-11-17T06:21:31Z",
+    "text": "So glad I picked up the Thin-Jam Lock Nut 16 — great value for the price Zero regrets. 😍 #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "7159431874",
+      "name": "Eko Kim",
+      "screen_name": "ekokim7385",
+      "followers_count": 104,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035385",
+    "created_at": "2022-11-17T07:33:51Z",
+    "text": "Upgraded to the LL Mountain Frame - Black and no looking back — feels solid and well made",
+    "lang": "en",
+    "user": {
+      "id_str": "8489116887",
+      "name": "Alex Brown",
+      "screen_name": "alexbrow6058",
+      "followers_count": 1141,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035242",
+    "created_at": "2022-11-17T09:15:23Z",
+    "text": "Akhirnya pakai HL Road Frame - Black dan puas pol — pengiriman cepat dan packing rapi Bintang lima. 😎 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2582189969",
+      "name": "Galih Anwar",
+      "screen_name": "galianwa4165",
+      "followers_count": 1134,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035279",
+    "created_at": "2022-11-17T09:15:43Z",
+    "text": "Is the Sport-100 Helmet any good for daily rides? 🧐 #AWcycles #rideon #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6445562100",
+      "name": "Bayu Wijaya",
+      "screen_name": "bayuwija8448",
+      "followers_count": 950,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035318",
+    "created_at": "2022-11-17T10:32:07Z",
+    "text": "Men's Sports Shorts dari AdventureWorks mantap sih — harga sebanding kualitas 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "2041572775",
+      "name": "Putri Kim",
+      "screen_name": "putrkim2003",
+      "followers_count": 1225,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Men's Sports Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035333",
+    "created_at": "2022-11-17T11:59:00Z",
+    "text": "Salut buat @AdventureWorks soal Thin-Jam Hex Nut 16 — sampai lebih cepat, aman 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "2516107731",
+      "name": "Chris Clark",
+      "screen_name": "chriclar7906",
+      "followers_count": 178,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035202",
+    "created_at": "2022-11-17T12:03:31Z",
+    "text": "Done with the ML Road Frame - Red honestly — support ignored my emails 👎 #rideon #AWcycles #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6528009263",
+      "name": "Hannah Wijaya",
+      "screen_name": "hannwija1852",
+      "followers_count": 2793,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000035367",
+    "created_at": "2022-11-17T22:51:33Z",
+    "text": "Udah sebulan pakai Road-250 Red, oke terus — worth it banget Bakal beli lagi. 💯 #cycling #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "4462146968",
+      "name": "Dewi Smith",
+      "screen_name": "dewismit1106",
+      "followers_count": 1854,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Road-250 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

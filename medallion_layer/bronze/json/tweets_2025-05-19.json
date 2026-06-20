@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000223455",
+    "created_at": "2025-05-19T05:33:18Z",
+    "text": "Regret buying the HL Fork — customer service was useless Do better AdventureWorks Cycles. 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "6110894732",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope6757",
+      "followers_count": 505,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "HL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000223535",
+    "created_at": "2025-05-19T07:41:37Z",
+    "text": "Bintang dua buat Sport-100 Helmet dari AdventureWorks — CS-nya nggak guna Kapok. ⚠️ #AWcycles #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "9653991250",
+      "name": "Citra Smith",
+      "screen_name": "citrsmit2737",
+      "followers_count": 1016,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000223444",
+    "created_at": "2025-05-19T08:42:00Z",
+    "text": "Regret buying the Lock Washer 11 — packaging was a mess Never again. #rideon #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "9470840877",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu7266",
+      "followers_count": 2703,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000223529",
+    "created_at": "2025-05-19T09:03:11Z",
+    "text": "Shoutout to @AWCycles for the Road-650 Black — feels solid and well made Zero regrets. #bikes #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "7154245286",
+      "name": "Dewi Kim",
+      "screen_name": "dewikim4206",
+      "followers_count": 1587,
+      "verified": true
+    },
+    "retweet_count": 4,
+    "favorite_count": 44,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-650 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000223506",
+    "created_at": "2025-05-19T12:58:40Z",
+    "text": "Kecewa banget sama Down Tube — proses retur ribet 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "9391848861",
+      "name": "Rizky Smith",
+      "screen_name": "rizksmit2459",
+      "followers_count": 534,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Down Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000223421",
+    "created_at": "2025-05-19T13:15:33Z",
+    "text": "Suka banget sama Lock Nut 18 dari @AdventureWorks — terasa kokoh dan rapi Bakal beli lagi. ✨ #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "8915370976",
+      "name": "Nadia Lopez",
+      "screen_name": "nadilope4642",
+      "followers_count": 3835,
+      "verified": true
+    },
+    "retweet_count": 0,
+    "favorite_count": 26,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000223395",
+    "created_at": "2025-05-19T17:29:54Z",
+    "text": "Suka banget sama Fender Set - Mountain dari AdventureWorks Cycles — sampai lebih cepat, aman Bakal beli lagi. 👍 #AWcycles #bikes #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8650609074",
+      "name": "Rizky Smith",
+      "screen_name": "rizksmit1788",
+      "followers_count": 1671,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000223476",
+    "created_at": "2025-05-19T17:35:37Z",
+    "text": "Regret buying the Road-750 Black — rattles and feels flimsy Avoid. 😤 #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6423404448",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija1405",
+      "followers_count": 2182,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 45,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

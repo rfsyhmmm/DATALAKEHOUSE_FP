@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000107606",
+    "created_at": "2023-11-07T06:04:24Z",
+    "text": "Salut buat AWC soal Racing Socks — pengiriman cepat dan packing rapi Nggak nyesel. ✨ #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "3859435038",
+      "name": "Citra Halim",
+      "screen_name": "citrhali8666",
+      "followers_count": 623,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 56,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Racing Socks, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000107434",
+    "created_at": "2023-11-07T06:31:30Z",
+    "text": "Thin-Jam Lock Nut 1 dari AdventureWorks Cycles bikin nyesel — bunyi-bunyi dan ringkih 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "8006200596",
+      "name": "Galih Halim",
+      "screen_name": "galihali2023",
+      "followers_count": 1319,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000107483",
+    "created_at": "2023-11-07T07:28:23Z",
+    "text": "Really impressed with the HL Mountain Frame - Silver — performs flawlessly 👍 #MTB #bikelife #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "2867693647",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida7759",
+      "followers_count": 1747,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000107582",
+    "created_at": "2023-11-07T07:57:14Z",
+    "text": "Naik level gowes ku gara-gara Touring-1000 Blue — kualitasnya premium 👍 #bikelife #rideon #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "6027130906",
+      "name": "Mia Saputra",
+      "screen_name": "miasapu3069",
+      "followers_count": 2578,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-1000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000107412",
+    "created_at": "2023-11-07T11:36:57Z",
+    "text": "The Hex Nut 2 from AdventureWorks Cycles has been fantastic — build quality feels premium Zero regrets. 😍 #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1855080372",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida9475",
+      "followers_count": 2682,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000107379",
+    "created_at": "2023-11-07T18:35:51Z",
+    "text": "Udahan deh sama Taillights - Battery-Powered ini — finishing-nya asal Kapok. ⚠️ #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "2678930114",
+      "name": "Maya Lee",
+      "screen_name": "mayalee8746",
+      "followers_count": 1815,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Taillights - Battery-Powered",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000107533",
+    "created_at": "2023-11-07T19:03:36Z",
+    "text": "Not happy with my Men's Bib-Shorts at all — just not worth the money 🙄 #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4670887130",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant3280",
+      "followers_count": 876,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Men's Bib-Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000107523",
+    "created_at": "2023-11-07T19:27:41Z",
+    "text": "Really disappointed with the Touring End Caps — the return process is a nightmare 🙄 #AWcycles #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "8708148111",
+      "name": "Alex Pratama",
+      "screen_name": "alexprat8246",
+      "followers_count": 698,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Touring End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

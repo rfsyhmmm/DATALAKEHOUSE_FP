@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000001336",
+    "created_at": "2022-06-05T13:30:29Z",
+    "text": "So glad I picked up the Lock Washer 3 — customer service sorted it instantly 💯 #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "2103484425",
+      "name": "Dewi Saputra",
+      "screen_name": "dewisapu3961",
+      "followers_count": 675,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001407",
+    "created_at": "2022-06-05T13:56:16Z",
+    "text": "Three weeks on the LL Road Frame - Black and I'm sold — build quality feels premium Will buy again. 🙌 #cycling #bikes #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4810211115",
+      "name": "Nadia Halim",
+      "screen_name": "nadihali1947",
+      "followers_count": 2284,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001440",
+    "created_at": "2022-06-05T18:51:30Z",
+    "text": "So glad I picked up the Seat Tube — feels solid and well made 😎 #bikes #cycling #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "6681349462",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu8312",
+      "followers_count": 1425,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 51,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Seat Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001462",
+    "created_at": "2022-06-05T19:46:55Z",
+    "text": "Terkesan banget sama HL Road Frame - Black — kirimnya lancar 😎 #AdventureWorks #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1140226318",
+      "name": "Sofia Anwar",
+      "screen_name": "sofianwa2422",
+      "followers_count": 1291,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001363",
+    "created_at": "2022-06-05T19:59:36Z",
+    "text": "Comparing the Lock Nut 1 with a few others before I buy 🧐 #AWcycles #MTB #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9613972838",
+      "name": "Tom Hidayat",
+      "screen_name": "tomhida3945",
+      "followers_count": 2230,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001507",
+    "created_at": "2022-06-05T20:47:46Z",
+    "text": "Nggak nyesel beli Thin-Jam Lock Nut 15 — pelayanannya membantu Bintang lima. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "6684730597",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu2838",
+      "followers_count": 1365,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 36,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Thin-Jam Lock Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001568",
+    "created_at": "2022-06-05T21:41:16Z",
+    "text": "Nggak nyesel beli Flat Washer 1 — pelayanannya membantu Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "1127708670",
+      "name": "Alex Lee",
+      "screen_name": "alexlee9615",
+      "followers_count": 2591,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Flat Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001549",
+    "created_at": "2022-06-05T22:17:35Z",
+    "text": "Frustrated with the Rear Brakes from AdventureWorks Cycles — just not worth the money 🙄 #AWcycles #bikes #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9213379885",
+      "name": "Mia Halim",
+      "screen_name": "miahali4716",
+      "followers_count": 147,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Rear Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

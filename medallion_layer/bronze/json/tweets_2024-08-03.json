@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000163675",
+    "created_at": "2024-08-03T09:14:46Z",
+    "text": "Done with the Spokes honestly — shipping took forever Never again.",
+    "lang": "en",
+    "user": {
+      "id_str": "8130173753",
+      "name": "Sofia Saputra",
+      "screen_name": "sofisapu7652",
+      "followers_count": 3157,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Spokes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163677",
+    "created_at": "2024-08-03T11:33:05Z",
+    "text": "Shoutout to @AdventureWorks for the LL Touring Frame - Yellow — holding up great on rough trails Will buy again. #bikelife #MTB #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9425846558",
+      "name": "Chris Putra",
+      "screen_name": "chriputr1375",
+      "followers_count": 1008,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Touring Frame - Yellow, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163681",
+    "created_at": "2024-08-03T12:27:18Z",
+    "text": "Nggak nyesel beli Mountain-500 Black — kualitasnya premium 🙌 #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5990837396",
+      "name": "Galih Pratama",
+      "screen_name": "galiprat9226",
+      "followers_count": 866,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163769",
+    "created_at": "2024-08-03T15:29:28Z",
+    "text": "RT @kevi12: Comparing the HL Road Rear Wheel with a few others before I buy 👀 #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7209920553",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope8770",
+      "followers_count": 1280,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163664",
+    "created_at": "2024-08-03T21:05:08Z",
+    "text": "RT @eko1: Berharap lebih dari External Lock Washer 6 — zonk total Tolong @AWCycles dibenahi. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "7253824482",
+      "name": "Chris Clark",
+      "screen_name": "chriclar9656",
+      "followers_count": 965,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163815",
+    "created_at": "2024-08-03T22:05:11Z",
+    "text": "Pinch Bolt dari AdventureWorks Cycles mantap sih — tahan banting dipakai berat Bakal beli lagi. 😍 #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "1388737681",
+      "name": "Budi Smith",
+      "screen_name": "budismit2905",
+      "followers_count": 831,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 19,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163731",
+    "created_at": "2024-08-03T22:16:57Z",
+    "text": "Nggak nyesel beli HL Spindle/Axle — performanya mulus 🔥 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "3085095884",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy6771",
+      "followers_count": 2718,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000163640",
+    "created_at": "2024-08-03T22:45:56Z",
+    "text": "Absolutely loving my new Thin-Jam Hex Nut 2 from AdventureWorks Cycles — couldn't be happier 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "558692006",
+      "name": "Hannah Brown",
+      "screen_name": "hannbrow7730",
+      "followers_count": 863,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

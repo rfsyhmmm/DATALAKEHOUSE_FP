@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000118174",
+    "created_at": "2023-12-27T03:07:20Z",
+    "text": "Bintang dua buat Adjustable Race dari AdventureWorks Cycles — datang telat dan rusak Tolong AdventureWorks Cycles dibenahi. 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "3419672339",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar4300",
+      "followers_count": 930,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000118272",
+    "created_at": "2023-12-27T08:00:57Z",
+    "text": "Suka banget sama LL Nipple dari AdventureWorks — CS-nya cepat dan ramah Nggak nyesel. 😍",
+    "lang": "in",
+    "user": {
+      "id_str": "732775209",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy3368",
+      "followers_count": 683,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Nipple",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000118193",
+    "created_at": "2023-12-27T12:23:47Z",
+    "text": "Nggak puas sama Touring-2000 Blue ku — mahal nggak masuk akal 👎 #MTB #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "9350577527",
+      "name": "Putri Brown",
+      "screen_name": "putrbrow5150",
+      "followers_count": 3983,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring-2000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000118030",
+    "created_at": "2023-12-27T14:59:38Z",
+    "text": "Upgraded to the HL Mountain Pedal and no looking back — couldn't be happier Will buy again. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "6318012835",
+      "name": "Olivia Lopez",
+      "screen_name": "olivlope2797",
+      "followers_count": 2850,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000118125",
+    "created_at": "2023-12-27T15:32:23Z",
+    "text": "Naik level gowes ku gara-gara LL Mountain Frame - Silver — CS-nya cepat dan ramah 🔥 #bikes #rideon #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5154873781",
+      "name": "Sam Smith",
+      "screen_name": "samsmit2865",
+      "followers_count": 1189,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 75,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "LL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000118134",
+    "created_at": "2023-12-27T20:31:16Z",
+    "text": "Udah sebulan pakai Thin-Jam Hex Nut 15, oke terus — masih awet setelah berbulan-bulan 💯 #AWcycles #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "4494265387",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit2264",
+      "followers_count": 2091,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000118238",
+    "created_at": "2023-12-27T21:11:31Z",
+    "text": "Thinking about the ML Road Front Wheel. Any reviews? 🤷 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8182368485",
+      "name": "Rizky Pratama",
+      "screen_name": "rizkprat7647",
+      "followers_count": 3297,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000118077",
+    "created_at": "2023-12-27T23:36:40Z",
+    "text": "Lagi mikir mau beli External Lock Washer 6. Ada review? 🤷 #cycling #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "7048625385",
+      "name": "Sam Pratama",
+      "screen_name": "samprat1506",
+      "followers_count": 154,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 52,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

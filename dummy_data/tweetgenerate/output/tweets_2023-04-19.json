@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000066273",
+    "created_at": "2023-04-19T05:01:08Z",
+    "text": "Nggak nyesel beli HL Road Pedal — pelayanannya membantu Nggak nyesel. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "3028446954",
+      "name": "Dewi Santoso",
+      "screen_name": "dewisant9324",
+      "followers_count": 2473,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066285",
+    "created_at": "2023-04-19T07:17:50Z",
+    "text": "Upgraded to the Road-150 Red and no looking back — build quality feels premium Highly recommend. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "3031550847",
+      "name": "Eko Saputra",
+      "screen_name": "ekosapu3665",
+      "followers_count": 1911,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-150 Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066227",
+    "created_at": "2023-04-19T11:51:31Z",
+    "text": "HL Mountain Front Wheel dari AdventureWorks bikin nyesel — finishing-nya asal Kapok. 😩 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "9221964425",
+      "name": "Dewi Kim",
+      "screen_name": "dewikim1788",
+      "followers_count": 1157,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066112",
+    "created_at": "2023-04-19T17:50:43Z",
+    "text": "Really impressed with the Lock Washer 10 — customer service sorted it instantly Will buy again. 🙌 #bikes #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "1512784711",
+      "name": "Mia Garcia",
+      "screen_name": "miagarc2369",
+      "followers_count": 639,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066177",
+    "created_at": "2023-04-19T19:15:58Z",
+    "text": "Really impressed with the Lock Washer 13 — fair price for this quality Zero regrets. 👍 #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "2211818735",
+      "name": "Tom Lopez",
+      "screen_name": "tomlope5186",
+      "followers_count": 2297,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Washer 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066131",
+    "created_at": "2023-04-19T19:57:23Z",
+    "text": "Frustrated with the Road-150 Red from @AWCycles — fell apart on the first ride Do better @AWCycles. ⚠️ #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "9638603418",
+      "name": "Alex Brown",
+      "screen_name": "alexbrow4978",
+      "followers_count": 545,
+      "verified": false
+    },
+    "retweet_count": 34,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-150 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066189",
+    "created_at": "2023-04-19T20:20:50Z",
+    "text": "Absolutely loving my new Road-350-W Yellow from @AWCycles — arrived a day early, well packed Will buy again. #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3782270368",
+      "name": "Sam Garcia",
+      "screen_name": "samgarc1378",
+      "followers_count": 1420,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-350-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000066224",
+    "created_at": "2023-04-19T23:09:36Z",
+    "text": "Udah sebulan pakai Metal Plate 1, oke terus — admin responsif banget Bintang lima. #rideon #cycling #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "9262825735",
+      "name": "Andi Smith",
+      "screen_name": "andismit8688",
+      "followers_count": 2959,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Metal Plate 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

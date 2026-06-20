@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000136615",
+    "created_at": "2024-03-28T09:56:22Z",
+    "text": "My ML Touring Seat/Saddle from AWC is excellent — feels solid and well made 👍 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "2183916528",
+      "name": "Raka Clark",
+      "screen_name": "rakaclar915",
+      "followers_count": 674,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000136741",
+    "created_at": "2024-03-28T12:13:48Z",
+    "text": "RT @kevi7: Akhirnya pakai Hex Nut 11 dan puas pol — beli yang tepat sih Nggak nyesel. 💯 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4089332495",
+      "name": "Sofia Pratama",
+      "screen_name": "sofiprat5578",
+      "followers_count": 1087,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000136606",
+    "created_at": "2024-03-28T17:10:22Z",
+    "text": "Akhirnya pakai LL Mountain Frame - Silver dan puas pol — terasa kokoh dan rapi 🙌 #rideon #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6266525539",
+      "name": "Galih Pratama",
+      "screen_name": "galiprat8078",
+      "followers_count": 1698,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000136691",
+    "created_at": "2024-03-28T17:31:26Z",
+    "text": "Nggak puas sama Hex Nut 15 ku — finishing-nya asal Hindari. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "171613424",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee9795",
+      "followers_count": 3397,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 47,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hex Nut 15",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000136614",
+    "created_at": "2024-03-28T17:38:08Z",
+    "text": "Three weeks on the HL Road Frame - Red and I'm sold — fair price for this quality Will buy again. 😍 #rideon #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9177388534",
+      "name": "Tom Kim",
+      "screen_name": "tomkim2009",
+      "followers_count": 781,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 75,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Frame - Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000136653",
+    "created_at": "2024-03-28T19:28:49Z",
+    "text": "The Thin-Jam Lock Nut 1 from @AdventureWorks has been fantastic — great value for the price 🔥 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9849918150",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit9971",
+      "followers_count": 687,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Thin-Jam Lock Nut 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000136573",
+    "created_at": "2024-03-28T20:28:00Z",
+    "text": "Ada yang pakai LL Headset dari AdventureWorks? Worth it nggak? 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "7475793565",
+      "name": "Dewi Lopez",
+      "screen_name": "dewilope5256",
+      "followers_count": 936,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000136748",
+    "created_at": "2024-03-28T21:01:52Z",
+    "text": "Two stars for the LL Fork from AdventureWorks — it arrived late and damaged 😡 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6112130285",
+      "name": "Galih Brown",
+      "screen_name": "galibrow3623",
+      "followers_count": 1628,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000089413",
+    "created_at": "2023-08-10T08:07:19Z",
+    "text": "The ML Road Handlebars from AdventureWorks has been fantastic — delivery was smooth Highly recommend.",
+    "lang": "en",
+    "user": {
+      "id_str": "7767533866",
+      "name": "Andi Clark",
+      "screen_name": "andiclar8774",
+      "followers_count": 1195,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089206",
+    "created_at": "2023-08-10T08:19:26Z",
+    "text": "Baru unboxing LL Touring Frame - Yellow, nanti aku update 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "1449800811",
+      "name": "Dewi Lee",
+      "screen_name": "dewilee9683",
+      "followers_count": 1071,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Yellow, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089218",
+    "created_at": "2023-08-10T08:22:50Z",
+    "text": "Three weeks on the Lock Nut 20 and I'm sold — fair price for this quality Will buy again. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "4905886631",
+      "name": "Jordan Santoso",
+      "screen_name": "jordsant1875",
+      "followers_count": 507,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Lock Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089383",
+    "created_at": "2023-08-10T09:58:28Z",
+    "text": "Baru unboxing Lock Washer 8, nanti aku update 🤷 #AWcycles #bikelife #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5579511740",
+      "name": "Citra Garcia",
+      "screen_name": "citrgarc5136",
+      "followers_count": 1432,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089255",
+    "created_at": "2023-08-10T14:33:50Z",
+    "text": "Terkesan banget sama Men's Sports Shorts — CS-nya cepat dan ramah Bakal beli lagi. 💯 #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8658152197",
+      "name": "Putri Putra",
+      "screen_name": "putrputr4127",
+      "followers_count": 518,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Men's Sports Shorts, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089303",
+    "created_at": "2023-08-10T15:08:04Z",
+    "text": "RT @eko2: Absolutely loving my new AWC Logo Cap from @AWCycles — arrived a day early, well packed Will buy again. 🚴 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "1042361472",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc5002",
+      "followers_count": 1065,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "AWC Logo Cap",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089463",
+    "created_at": "2023-08-10T20:42:35Z",
+    "text": "The ML Crankarm from @AdventureWorks let me down — support ignored my emails Lesson learned. #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7810238084",
+      "name": "Sam Anwar",
+      "screen_name": "samanwa5035",
+      "followers_count": 189,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000089351",
+    "created_at": "2023-08-10T23:11:23Z",
+    "text": "Done with the Long-Sleeve Logo Jersey honestly — wore out way too fast 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "9590998584",
+      "name": "Alex Nguyen",
+      "screen_name": "alexnguy925",
+      "followers_count": 281,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Long-Sleeve Logo Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

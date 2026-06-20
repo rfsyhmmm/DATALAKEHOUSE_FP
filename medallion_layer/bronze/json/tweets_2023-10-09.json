@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000101642",
+    "created_at": "2023-10-09T08:54:43Z",
+    "text": "Lagi mikir mau beli Lock Nut 3. Ada review? 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "1216451037",
+      "name": "Dimas Clark",
+      "screen_name": "dimaclar5149",
+      "followers_count": 1109,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101596",
+    "created_at": "2023-10-09T13:55:14Z",
+    "text": "Really impressed with the Touring-3000 Blue — the team was super helpful Five stars. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "8868444385",
+      "name": "Putri Pratama",
+      "screen_name": "putrprat2563",
+      "followers_count": 1923,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring-3000 Blue, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101551",
+    "created_at": "2023-10-09T13:57:11Z",
+    "text": "Absolutely loving my new Men's Sports Shorts from AdventureWorks Cycles — arrived a day early, well packed Highly recommend. 👍 #rideon #cycling #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8525612070",
+      "name": "Galih Garcia",
+      "screen_name": "galigarc1048",
+      "followers_count": 1651,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Men's Sports Shorts, L",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101688",
+    "created_at": "2023-10-09T18:10:59Z",
+    "text": "Anyone using the Metal Sheet 4 from AdventureWorks Cycles? Worth it? 🧐",
+    "lang": "en",
+    "user": {
+      "id_str": "7911684354",
+      "name": "Dewi Anwar",
+      "screen_name": "dewianwa9550",
+      "followers_count": 589,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Metal Sheet 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101522",
+    "created_at": "2023-10-09T18:26:15Z",
+    "text": "Naik level gowes ku gara-gara Men's Bib-Shorts — beli yang tepat sih Bintang lima. 💯 #cycling #AWcycles #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "588751765",
+      "name": "Putri Clark",
+      "screen_name": "putrclar8415",
+      "followers_count": 2866,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Men's Bib-Shorts, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101588",
+    "created_at": "2023-10-09T19:30:15Z",
+    "text": "Akhirnya pakai HL Touring Handlebars dan puas pol — kualitasnya premium 😎 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5168966669",
+      "name": "Andi Saputra",
+      "screen_name": "andisapu2006",
+      "followers_count": 3560,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101548",
+    "created_at": "2023-10-09T20:26:59Z",
+    "text": "Udah sebulan pakai Mountain-300 Black, oke terus — terasa kokoh dan rapi ✨ #AWcycles #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "2878072205",
+      "name": "Citra Lopez",
+      "screen_name": "citrlope4122",
+      "followers_count": 1647,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Mountain-300 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101736",
+    "created_at": "2023-10-09T22:17:12Z",
+    "text": "Expected so much more from the Touring-2000 Blue — overpriced for what you get Lesson learned. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "1460441062",
+      "name": "Hannah Lopez",
+      "screen_name": "hannlope450",
+      "followers_count": 1499,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring-2000 Blue, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

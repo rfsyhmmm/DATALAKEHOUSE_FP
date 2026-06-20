@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000216901",
+    "created_at": "2025-04-17T08:26:40Z",
+    "text": "Shoutout to @AdventureWorks for the HL Spindle/Axle — honestly a great buy Five stars. ✨ #MTB #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1814907249",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija1614",
+      "followers_count": 909,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Spindle/Axle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216947",
+    "created_at": "2025-04-17T09:52:21Z",
+    "text": "Done with the BB Ball Bearing honestly — poor build, cheap materials 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "996762772",
+      "name": "Maya Halim",
+      "screen_name": "mayahali7629",
+      "followers_count": 927,
+      "verified": true
+    },
+    "retweet_count": 5,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "BB Ball Bearing",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216878",
+    "created_at": "2025-04-17T10:08:52Z",
+    "text": "Naik level gowes ku gara-gara ML Mountain Frame - Black — pengiriman cepat dan packing rapi Bintang lima. 🙌 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "2556304029",
+      "name": "Jordan Saputra",
+      "screen_name": "jordsapu6127",
+      "followers_count": 2162,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 41,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216933",
+    "created_at": "2025-04-17T16:59:06Z",
+    "text": "Udah sebulan pakai Men's Bib-Shorts, oke terus — pelayanannya membantu Bintang lima. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "9499185882",
+      "name": "Eko Pratama",
+      "screen_name": "ekoprat3325",
+      "followers_count": 211,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Men's Bib-Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216859",
+    "created_at": "2025-04-17T17:37:11Z",
+    "text": "Sport-100 Helmet dari @AdventureWorks bikin nyesel — cepet aus banget Hindari. 👎 #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "4494146357",
+      "name": "Citra Kim",
+      "screen_name": "citrkim2713",
+      "followers_count": 1528,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Sport-100 Helmet, Black",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216809",
+    "created_at": "2025-04-17T18:10:22Z",
+    "text": "Not happy with my Long-Sleeve Logo Jersey at all — the finish is sloppy 😩 #AdventureWorks #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7291983183",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee2530",
+      "followers_count": 836,
+      "verified": true
+    },
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Long-Sleeve Logo Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216842",
+    "created_at": "2025-04-17T18:33:02Z",
+    "text": "Kecewa banget sama LL Road Front Wheel — finishing-nya asal Kapok. 😡 #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "357332273",
+      "name": "Maya Lee",
+      "screen_name": "mayalee8027",
+      "followers_count": 578,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 35,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000216799",
+    "created_at": "2025-04-17T19:53:20Z",
+    "text": "LL Road Frame - Red dari AdventureWorks bikin nyesel — datang telat dan rusak Pelajaran mahal. 😣 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "8558448894",
+      "name": "Budi Kim",
+      "screen_name": "budikim4259",
+      "followers_count": 513,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000029424",
+    "created_at": "2022-10-20T13:00:02Z",
+    "text": "Absolutely loving my new Touring-3000 Yellow from @AdventureWorks — feels solid and well made Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "1846244541",
+      "name": "Maya Nguyen",
+      "screen_name": "mayanguy7427",
+      "followers_count": 2224,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029374",
+    "created_at": "2022-10-20T13:19:10Z",
+    "text": "Nggak nyesel beli ML Mountain Frame-W - Silver — puas pol Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "1615744164",
+      "name": "Galih Clark",
+      "screen_name": "galiclar7810",
+      "followers_count": 559,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "ML Mountain Frame-W - Silver, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029319",
+    "created_at": "2022-10-20T16:26:03Z",
+    "text": "Terkesan banget sama Chainring Nut — kualitasnya premium 😍 #bikes #AWcycles #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3678950639",
+      "name": "Maria Anwar",
+      "screen_name": "marianwa6258",
+      "followers_count": 271,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Chainring Nut",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029257",
+    "created_at": "2022-10-20T17:33:59Z",
+    "text": "Akhirnya pakai Road-250 Black dan puas pol — pengiriman cepat dan packing rapi Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "7168502818",
+      "name": "Chris Hidayat",
+      "screen_name": "chrihida3861",
+      "followers_count": 154,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-250 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029334",
+    "created_at": "2022-10-20T18:17:59Z",
+    "text": "Expected so much more from the Sport-100 Helmet — poor build, cheap materials Lesson learned. 👎 #AdventureWorks #AWcycles #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "5804828166",
+      "name": "Citra Halim",
+      "screen_name": "citrhali8051",
+      "followers_count": 1579,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029470",
+    "created_at": "2022-10-20T18:18:11Z",
+    "text": "Upgraded to the Metal Sheet 1 and no looking back — fair price for this quality Will buy again. 🔥 #bikelife #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "9654729629",
+      "name": "Lina Halim",
+      "screen_name": "linahali9354",
+      "followers_count": 1320,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Metal Sheet 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029277",
+    "created_at": "2022-10-20T20:39:57Z",
+    "text": "Nyesel beli Internal Lock Washer 1 — finishing-nya asal Pelajaran mahal. #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "2881375492",
+      "name": "Putri Brown",
+      "screen_name": "putrbrow8496",
+      "followers_count": 1851,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000029241",
+    "created_at": "2022-10-20T20:51:38Z",
+    "text": "Terkesan banget sama Touring-3000 Yellow — terasa kokoh dan rapi Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "9990038064",
+      "name": "Nadia Saputra",
+      "screen_name": "nadisapu7529",
+      "followers_count": 3889,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 26,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

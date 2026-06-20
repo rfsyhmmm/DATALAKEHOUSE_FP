@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000074994",
+    "created_at": "2023-05-31T00:45:10Z",
+    "text": "RT @sam46: Capek deh sama Stem dari @AdventureWorks — bahannya murahan 👎 #cycling #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8448575990",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope2165",
+      "followers_count": 581,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 36,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Stem",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075129",
+    "created_at": "2023-05-31T08:14:42Z",
+    "text": "Suka banget sama HL Road Frame - Black dari AdventureWorks Cycles — masih awet setelah berbulan-bulan 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "2469946334",
+      "name": "Hannah Smith",
+      "screen_name": "hannsmit6973",
+      "followers_count": 1097,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 2,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000074971",
+    "created_at": "2023-05-31T12:12:01Z",
+    "text": "Suka banget sama Lock Washer 7 dari @AdventureWorks — terasa kokoh dan rapi Bintang lima. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "6340628813",
+      "name": "Maria Pratama",
+      "screen_name": "mariprat2782",
+      "followers_count": 2299,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075044",
+    "created_at": "2023-05-31T17:57:24Z",
+    "text": "The HL Road Front Wheel from AWC has been fantastic — build quality feels premium 🚴 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1428519758",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa5081",
+      "followers_count": 672,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000074967",
+    "created_at": "2023-05-31T19:28:04Z",
+    "text": "My HL Touring Seat Assembly from @AdventureWorks is excellent — support was quick and friendly 😍 #bikes #MTB #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "1034443279",
+      "name": "Hannah Nguyen",
+      "screen_name": "hannnguy3341",
+      "followers_count": 1731,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075082",
+    "created_at": "2023-05-31T21:56:54Z",
+    "text": "Udah sebulan pakai LL Mountain Frame - Silver, oke terus — performanya mulus 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "9209921722",
+      "name": "Chris Smith",
+      "screen_name": "chrismit3086",
+      "followers_count": 1287,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 31,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Frame - Silver, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075139",
+    "created_at": "2023-05-31T22:21:23Z",
+    "text": "Expected so much more from the Lock Nut 18 — shipping took forever Lesson learned. 👎",
+    "lang": "en",
+    "user": {
+      "id_str": "3754152785",
+      "name": "Sam Saputra",
+      "screen_name": "samsapu5642",
+      "followers_count": 634,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Lock Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000075078",
+    "created_at": "2023-05-31T22:23:15Z",
+    "text": "RT @hann90: The Mountain-200 Black from @AdventureWorks has been fantastic — fair price for this quality 😎 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "2991029981",
+      "name": "Dimas Kim",
+      "screen_name": "dimakim6744",
+      "followers_count": 153,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-200 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

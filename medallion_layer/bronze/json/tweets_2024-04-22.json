@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000142219",
+    "created_at": "2024-04-22T07:32:08Z",
+    "text": "Really impressed with the Thin-Jam Lock Nut 13 — build quality feels premium Will buy again. ✨ #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5379028268",
+      "name": "Eko Smith",
+      "screen_name": "ekosmit4194",
+      "followers_count": 147,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142183",
+    "created_at": "2024-04-22T10:31:18Z",
+    "text": "Shoutout to AWC for the Lock Washer 4 — arrived a day early, well packed 😍 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1882733434",
+      "name": "Jordan Kim",
+      "screen_name": "jordkim8778",
+      "followers_count": 262,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142097",
+    "created_at": "2024-04-22T10:43:31Z",
+    "text": "LL Road Frame - Red dari AdventureWorks bikin nyesel — rusak baru dua minggu 😣 #MTB #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "7061441595",
+      "name": "Maya Anwar",
+      "screen_name": "mayaanwa9262",
+      "followers_count": 4793,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142060",
+    "created_at": "2024-04-22T12:07:52Z",
+    "text": "RT @tom60: HL Road Frame - Black dari @AdventureWorks mantap sih — kuat di trek kasar 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "9614239439",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant2515",
+      "followers_count": 1983,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Road Frame - Black, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142055",
+    "created_at": "2024-04-22T12:17:23Z",
+    "text": "My LL Mountain Frame - Black from AdventureWorks Cycles is excellent — worth every penny Highly recommend. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "1001391585",
+      "name": "Putri Kim",
+      "screen_name": "putrkim7992",
+      "followers_count": 3719,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "LL Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142012",
+    "created_at": "2024-04-22T16:28:42Z",
+    "text": "Salut buat AWC soal LL Touring Seat/Saddle — kirimnya lancar Recommended. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "9221295452",
+      "name": "Mia Wijaya",
+      "screen_name": "miawija5777",
+      "followers_count": 1914,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Touring Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142138",
+    "created_at": "2024-04-22T18:15:29Z",
+    "text": "Akhirnya pakai Road-250 Red dan puas pol — terasa kokoh dan rapi Bintang lima. 👍 #AWcycles #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6630347248",
+      "name": "Maria Anwar",
+      "screen_name": "marianwa5744",
+      "followers_count": 2388,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-250 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000142164",
+    "created_at": "2024-04-22T18:22:21Z",
+    "text": "Udah sebulan pakai HL Touring Frame - Blue, oke terus — CS-nya cepat dan ramah 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "6765947541",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy3921",
+      "followers_count": 84,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

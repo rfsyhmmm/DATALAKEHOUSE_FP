@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000001124",
+    "created_at": "2022-06-04T09:42:40Z",
+    "text": "Fender Set - Mountain dari AdventureWorks mantap sih — masih awet setelah berbulan-bulan Bintang lima. 💯 #cycling #bikelife #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "8447720574",
+      "name": "Maria Wijaya",
+      "screen_name": "mariwija1034",
+      "followers_count": 1779,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001157",
+    "created_at": "2022-06-04T10:48:41Z",
+    "text": "RT @dima43: Tadi liat Steerer di toko, lumayan menarik 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "8503012103",
+      "name": "Rizky Lee",
+      "screen_name": "rizklee6030",
+      "followers_count": 58,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 43,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Steerer",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001191",
+    "created_at": "2022-06-04T13:52:11Z",
+    "text": "Expected so much more from the Lock Nut 4 — customer service was useless Avoid. 😩 #bikes #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "2020407276",
+      "name": "Galih Hidayat",
+      "screen_name": "galihida5760",
+      "followers_count": 320,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Lock Nut 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001212",
+    "created_at": "2022-06-04T15:58:35Z",
+    "text": "Terkesan banget sama Mountain-500 Silver — pelayanannya membantu Bakal beli lagi. 🚴 #bikes #bikelife #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8968845806",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida2829",
+      "followers_count": 2250,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Mountain-500 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001310",
+    "created_at": "2022-06-04T17:46:57Z",
+    "text": "Really disappointed with the External Lock Washer 6 — overpriced for what you get Avoid. ⚠️ #MTB #rideon #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "6738204740",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat8160",
+      "followers_count": 2551,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 25,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001268",
+    "created_at": "2022-06-04T19:08:27Z",
+    "text": "The Road-650 Red from @AWCycles let me down — wore out way too fast Never again. 😡 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "1176341629",
+      "name": "Bayu Nguyen",
+      "screen_name": "bayunguy1293",
+      "followers_count": 454,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 2,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-650 Red, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001224",
+    "created_at": "2022-06-04T19:15:50Z",
+    "text": "Three weeks on the LL Touring Frame - Yellow and I'm sold — feels solid and well made 😍 #cycling #rideon #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2569178881",
+      "name": "Galih Clark",
+      "screen_name": "galiclar8613",
+      "followers_count": 2536,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Touring Frame - Yellow, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000001196",
+    "created_at": "2022-06-04T22:09:54Z",
+    "text": "RT @alex87: Absolutely loving my new HL Road Frame - Black from @AWCycles — shipping was fast and packaging perfect Highly recommend. 😎 #bikes #MTB #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "9020154998",
+      "name": "Nadia Kim",
+      "screen_name": "nadikim6096",
+      "followers_count": 1651,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000016588",
+    "created_at": "2022-08-16T04:26:54Z",
+    "text": "The Hex Nut 20 from AdventureWorks has been fantastic — delivery was smooth 🔥 #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4014909509",
+      "name": "Maya Pratama",
+      "screen_name": "mayaprat175",
+      "followers_count": 2028,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 20",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016456",
+    "created_at": "2022-08-16T07:03:17Z",
+    "text": "Upgraded to the HL Touring Frame - Blue and no looking back — great value for the price 🔥 #rideon #bikelife #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8468508491",
+      "name": "Dimas Garcia",
+      "screen_name": "dimagarc8970",
+      "followers_count": 2667,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 22,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016498",
+    "created_at": "2022-08-16T08:25:39Z",
+    "text": "Really impressed with the Front Derailleur Linkage — performs flawlessly Five stars. 👍 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4842042850",
+      "name": "Mia Lopez",
+      "screen_name": "mialope3505",
+      "followers_count": 2566,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 35,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Front Derailleur Linkage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016523",
+    "created_at": "2022-08-16T08:48:23Z",
+    "text": "Lagi banding-bandingin Lock Washer 12 sama merek lain 🤔 #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "3232088971",
+      "name": "Olivia Garcia",
+      "screen_name": "olivgarc4815",
+      "followers_count": 26,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Lock Washer 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016438",
+    "created_at": "2022-08-16T08:52:48Z",
+    "text": "RT @oliv34: Absolutely loving my new Lock Washer 1 from AdventureWorks Cycles — zero wear after heavy use Will buy again. #AWcycles #MTB #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7129435188",
+      "name": "Sam Anwar",
+      "screen_name": "samanwa5659",
+      "followers_count": 2842,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 22,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016574",
+    "created_at": "2022-08-16T09:33:16Z",
+    "text": "Akhirnya pakai Touring-3000 Yellow dan puas pol — beli yang tepat sih 💯 #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9221560480",
+      "name": "Sofia Hidayat",
+      "screen_name": "sofihida8622",
+      "followers_count": 4700,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 39,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Touring-3000 Yellow, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016560",
+    "created_at": "2022-08-16T19:46:06Z",
+    "text": "Regret buying the Mountain-500 Silver — just not worth the money Do better AdventureWorks Cycles. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "4556204585",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit5570",
+      "followers_count": 2087,
+      "verified": false
+    },
+    "retweet_count": 24,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Silver, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000016454",
+    "created_at": "2022-08-16T23:23:42Z",
+    "text": "Really impressed with the Sport-100 Helmet — build quality feels premium 💯 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5427433872",
+      "name": "Budi Lopez",
+      "screen_name": "budilope3407",
+      "followers_count": 1981,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

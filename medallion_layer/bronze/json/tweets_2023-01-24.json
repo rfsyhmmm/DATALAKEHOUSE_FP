@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000049380",
+    "created_at": "2023-01-24T08:47:31Z",
+    "text": "Salut buat @AdventureWorks soal Thin-Jam Hex Nut 5 — pengiriman cepat dan packing rapi Nggak nyesel. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "8776059497",
+      "name": "Jordan Putra",
+      "screen_name": "jordputr4781",
+      "followers_count": 132,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Thin-Jam Hex Nut 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049407",
+    "created_at": "2023-01-24T11:43:42Z",
+    "text": "RT @alex24: Two stars for the ML Road Pedal from AWC — rattles and feels flimsy Never again. 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "2805812724",
+      "name": "Putri Hidayat",
+      "screen_name": "putrhida9331",
+      "followers_count": 101,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049435",
+    "created_at": "2023-01-24T12:28:05Z",
+    "text": "Three weeks on the HL Road Frame - Red and I'm sold — customer service sorted it instantly #rideon #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "2259317791",
+      "name": "Kevin Wijaya",
+      "screen_name": "keviwija9792",
+      "followers_count": 1141,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Frame - Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049451",
+    "created_at": "2023-01-24T14:55:52Z",
+    "text": "Berharap lebih dari Lock Nut 10 — bunyi-bunyi dan ringkih 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "1531285994",
+      "name": "Citra Lee",
+      "screen_name": "citrlee9270",
+      "followers_count": 1352,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 56,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Lock Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049459",
+    "created_at": "2023-01-24T18:28:20Z",
+    "text": "Terkesan banget sama Mountain End Caps — kirimnya lancar 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "281583794",
+      "name": "Eko Hidayat",
+      "screen_name": "ekohida7721",
+      "followers_count": 117,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049345",
+    "created_at": "2023-01-24T18:56:40Z",
+    "text": "Suka banget sama HL Touring Frame - Yellow dari @AWCycles — pelayanannya membantu #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2098662466",
+      "name": "Chris Garcia",
+      "screen_name": "chrigarc5036",
+      "followers_count": 1657,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Touring Frame - Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049453",
+    "created_at": "2023-01-24T20:07:13Z",
+    "text": "Really impressed with the HL Road Frame - Red — great value for the price Zero regrets. 🙌 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "8522419305",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat3653",
+      "followers_count": 875,
+      "verified": false
+    },
+    "retweet_count": 21,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Road Frame - Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000049310",
+    "created_at": "2023-01-24T21:09:55Z",
+    "text": "Lock Ring dari @AWCycles bikin nyesel — nggak sebanding harganya #bikelife #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "6753398191",
+      "name": "Alex Hidayat",
+      "screen_name": "alexhida3934",
+      "followers_count": 334,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Ring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

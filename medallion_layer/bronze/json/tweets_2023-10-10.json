@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000101906",
+    "created_at": "2023-10-10T07:05:56Z",
+    "text": "Three weeks on the Hex Nut 16 and I'm sold — the team was super helpful 😎 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "2452792637",
+      "name": "Budi Halim",
+      "screen_name": "budihali678",
+      "followers_count": 1058,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101834",
+    "created_at": "2023-10-10T09:41:00Z",
+    "text": "Nggak nyesel beli Internal Lock Washer 4 — masih awet setelah berbulan-bulan 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "5088384462",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa6359",
+      "followers_count": 1014,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 14,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Internal Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101760",
+    "created_at": "2023-10-10T09:43:48Z",
+    "text": "RT @hann2: Upgraded to the Mountain-200 Black and no looking back — honestly a great buy Will buy again. 💯 #AWcycles #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5316917479",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu4184",
+      "followers_count": 1579,
+      "verified": false
+    },
+    "retweet_count": 25,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-200 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101808",
+    "created_at": "2023-10-10T10:25:01Z",
+    "text": "RT @hann23: Berharap lebih dari Touring-Panniers — proses retur ribet 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "7270701614",
+      "name": "Raka Smith",
+      "screen_name": "rakasmit1216",
+      "followers_count": 265,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 29,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Touring-Panniers, Large",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101971",
+    "created_at": "2023-10-10T15:28:06Z",
+    "text": "Patch Kit/8 Patches bagus nggak buat harian? 👀 #MTB #cycling #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7476267179",
+      "name": "Nadia Putra",
+      "screen_name": "nadiputr3452",
+      "followers_count": 522,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Patch Kit/8 Patches",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101922",
+    "created_at": "2023-10-10T17:26:17Z",
+    "text": "Salut buat @AdventureWorks soal Thin-Jam Hex Nut 14 — kualitasnya premium Nggak nyesel. 😍 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "8799595431",
+      "name": "Dewi Garcia",
+      "screen_name": "dewigarc7381",
+      "followers_count": 971,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101861",
+    "created_at": "2023-10-10T19:30:27Z",
+    "text": "Really disappointed with the Lock Washer 10 — way too expensive 😣 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "6913844532",
+      "name": "Citra Santoso",
+      "screen_name": "citrsant3735",
+      "followers_count": 2235,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 72,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000101898",
+    "created_at": "2023-10-10T22:35:19Z",
+    "text": "LL Crankset dari AdventureWorks bikin nyesel — bunyi-bunyi dan ringkih Pelajaran mahal. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "4572352183",
+      "name": "Sam Kim",
+      "screen_name": "samkim6766",
+      "followers_count": 2135,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

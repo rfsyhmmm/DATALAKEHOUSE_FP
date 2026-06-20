@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000002191",
+    "created_at": "2022-06-09T04:45:07Z",
+    "text": "Classic Vest dari AdventureWorks bikin nyesel — finishing-nya asal Kapok. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "5082744929",
+      "name": "Bayu Garcia",
+      "screen_name": "bayugarc9043",
+      "followers_count": 2719,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Classic Vest, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002334",
+    "created_at": "2022-06-09T10:34:18Z",
+    "text": "Two stars for the Down Tube from @AdventureWorks — the finish is sloppy #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "2446569443",
+      "name": "Lina Smith",
+      "screen_name": "linasmit7232",
+      "followers_count": 1495,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Down Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002255",
+    "created_at": "2022-06-09T12:54:29Z",
+    "text": "Really impressed with the Road-550-W Yellow — delivery was smooth 👍 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6588943393",
+      "name": "Maria Kim",
+      "screen_name": "marikim2317",
+      "followers_count": 88,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-550-W Yellow, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002425",
+    "created_at": "2022-06-09T13:47:17Z",
+    "text": "Shoutout to AdventureWorks Cycles for the Sport-100 Helmet — performs flawlessly 😎 #AdventureWorks #bikelife #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "8553047901",
+      "name": "Citra Anwar",
+      "screen_name": "citranwa3569",
+      "followers_count": 930,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Sport-100 Helmet, Black",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002297",
+    "created_at": "2022-06-09T14:08:11Z",
+    "text": "Just unboxed the Touring-2000 Blue, will report back 🤷 #AdventureWorks #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7335717104",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar6704",
+      "followers_count": 2759,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Touring-2000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002234",
+    "created_at": "2022-06-09T14:27:24Z",
+    "text": "RT @dewi69: My HL Road Frame - Red from AdventureWorks is excellent — customer service sorted it instantly ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "5241394879",
+      "name": "Maria Kim",
+      "screen_name": "marikim5341",
+      "followers_count": 1338,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Frame - Red, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002363",
+    "created_at": "2022-06-09T20:07:49Z",
+    "text": "Udah sebulan pakai Lock Nut 14, oke terus — kuat di trek kasar ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "3559340599",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant3391",
+      "followers_count": 461,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000002384",
+    "created_at": "2022-06-09T22:32:57Z",
+    "text": "Naik level gowes ku gara-gara Road-750 Black — kualitasnya premium Bintang lima. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "7450384902",
+      "name": "Alex Brown",
+      "screen_name": "alexbrow2397",
+      "followers_count": 2002,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 24,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-750 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

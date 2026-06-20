@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000217925",
+    "created_at": "2025-04-22T05:50:57Z",
+    "text": "The ML Mountain Frame - Black from @AdventureWorks let me down — shipping took forever Never again. #rideon #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9880495312",
+      "name": "Mia Anwar",
+      "screen_name": "miaanwa7188",
+      "followers_count": 1858,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217881",
+    "created_at": "2025-04-22T12:32:52Z",
+    "text": "Nggak puas sama Road-750 Black ku — kirimnya lama banget Tolong AWC dibenahi. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "3817464664",
+      "name": "Mia Lopez",
+      "screen_name": "mialope216",
+      "followers_count": 285,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Road-750 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217969",
+    "created_at": "2025-04-22T17:16:16Z",
+    "text": "Touring-3000 Blue dari @AWCycles bikin nyesel — mahal nggak masuk akal 👎",
+    "lang": "in",
+    "user": {
+      "id_str": "6812750807",
+      "name": "Putri Garcia",
+      "screen_name": "putrgarc2383",
+      "followers_count": 1392,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Touring-3000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217960",
+    "created_at": "2025-04-22T17:31:09Z",
+    "text": "The HL Mountain Pedal from AWC has been fantastic — holding up great on rough trails #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "7591427048",
+      "name": "Rizky Clark",
+      "screen_name": "rizkclar4042",
+      "followers_count": 3073,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "HL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217966",
+    "created_at": "2025-04-22T18:30:07Z",
+    "text": "RT @bayu12: Nggak nyesel beli Touring Tire — pelayanannya membantu Bintang lima. 😍 #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8599382157",
+      "name": "Jordan Smith",
+      "screen_name": "jordsmit6244",
+      "followers_count": 1870,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Touring Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217890",
+    "created_at": "2025-04-22T19:41:23Z",
+    "text": "Suka banget sama Seat Tube dari @AdventureWorks — CS-nya cepat dan ramah Nggak nyesel. 😎 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9747316500",
+      "name": "Eko Garcia",
+      "screen_name": "ekogarc631",
+      "followers_count": 948,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Seat Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217991",
+    "created_at": "2025-04-22T19:43:25Z",
+    "text": "Kecewa banget sama Hitch Rack - 4-Bike — datang telat dan rusak Kapok. ⚠️",
+    "lang": "in",
+    "user": {
+      "id_str": "1512413591",
+      "name": "Mia Brown",
+      "screen_name": "miabrow4512",
+      "followers_count": 605,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Hitch Rack - 4-Bike",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000217888",
+    "created_at": "2025-04-22T22:00:52Z",
+    "text": "Lagi banding-bandingin HL Headset sama merek lain 🤷",
+    "lang": "in",
+    "user": {
+      "id_str": "9270677997",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali4475",
+      "followers_count": 4230,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Headset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

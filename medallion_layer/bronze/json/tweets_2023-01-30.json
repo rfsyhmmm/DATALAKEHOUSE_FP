@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000050410",
+    "created_at": "2023-01-30T10:31:52Z",
+    "text": "Nggak nyesel beli Road-150 Red — kuat di trek kasar 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "7624800074",
+      "name": "Mia Santoso",
+      "screen_name": "miasant2316",
+      "followers_count": 870,
+      "verified": true
+    },
+    "retweet_count": 18,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-150 Red, 56",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050364",
+    "created_at": "2023-01-30T10:55:00Z",
+    "text": "Absolutely loving my new LL Road Handlebars from @AWCycles — shipping was fast and packaging perfect Zero regrets. 👍 #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3639130080",
+      "name": "Chris Nguyen",
+      "screen_name": "chringuy7366",
+      "followers_count": 1145,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Road Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050425",
+    "created_at": "2023-01-30T12:14:51Z",
+    "text": "RT @dewi51: So glad I picked up the Internal Lock Washer 6 — worth every penny Zero regrets. 😎 #bikes #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8293079039",
+      "name": "Sofia Santoso",
+      "screen_name": "sofisant3046",
+      "followers_count": 722,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050363",
+    "created_at": "2023-01-30T12:40:07Z",
+    "text": "Done with the ML Road Seat/Saddle honestly — packaging was a mess 😤 #rideon #AdventureWorks #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1124700318",
+      "name": "Lina Lopez",
+      "screen_name": "linalope5504",
+      "followers_count": 399,
+      "verified": true
+    },
+    "retweet_count": 5,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050447",
+    "created_at": "2023-01-30T13:34:25Z",
+    "text": "Expected so much more from the HL Road Seat/Saddle — it broke after two weeks Never again. 😩 #AWcycles #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3724239833",
+      "name": "Kevin Hidayat",
+      "screen_name": "kevihida5304",
+      "followers_count": 165,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "HL Road Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050316",
+    "created_at": "2023-01-30T16:21:50Z",
+    "text": "The Touring-1000 Blue from AWC has been fantastic — great value for the price Will buy again. 🙌 #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1959244549",
+      "name": "Lina Brown",
+      "screen_name": "linabrow7144",
+      "followers_count": 1121,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-1000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050416",
+    "created_at": "2023-01-30T17:06:40Z",
+    "text": "LL Touring Frame - Blue bagus nggak buat harian? 🤔 #MTB #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "2784229622",
+      "name": "Budi Halim",
+      "screen_name": "budihali319",
+      "followers_count": 1084,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 51,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000050453",
+    "created_at": "2023-01-30T17:29:09Z",
+    "text": "The Road-450 Red from @AdventureWorks has been fantastic — holding up great on rough trails Five stars. 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "4125507875",
+      "name": "Lina Smith",
+      "screen_name": "linasmit6731",
+      "followers_count": 146,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 38,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-450 Red, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

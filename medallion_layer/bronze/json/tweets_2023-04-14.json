@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000065208",
+    "created_at": "2023-04-14T00:17:23Z",
+    "text": "RT @kevi46: Expected so much more from the Minipump — the finish is sloppy 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "9431345919",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy7105",
+      "followers_count": 960,
+      "verified": true
+    },
+    "retweet_count": 1,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Minipump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065125",
+    "created_at": "2023-04-14T07:50:19Z",
+    "text": "Suka banget sama Lock Nut 17 dari AWC — kuat di trek kasar 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "2280366484",
+      "name": "Andi Putra",
+      "screen_name": "andiputr1250",
+      "followers_count": 1876,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 17",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065245",
+    "created_at": "2023-04-14T08:26:55Z",
+    "text": "Is the Classic Vest any good for daily rides?",
+    "lang": "en",
+    "user": {
+      "id_str": "2038348356",
+      "name": "Sam Hidayat",
+      "screen_name": "samhida7728",
+      "followers_count": 974,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Classic Vest, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065275",
+    "created_at": "2023-04-14T09:34:20Z",
+    "text": "The Road-750 Black from AdventureWorks let me down — wore out way too fast Do better AdventureWorks. ⚠️ #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9666236355",
+      "name": "Maya Clark",
+      "screen_name": "mayaclar2202",
+      "followers_count": 1188,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 24,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Road-750 Black, 52",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065076",
+    "created_at": "2023-04-14T11:06:11Z",
+    "text": "Terkesan banget sama HL Road Seat Assembly — pelayanannya membantu 🚴 #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6551980571",
+      "name": "Putri Saputra",
+      "screen_name": "putrsapu7448",
+      "followers_count": 85,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065171",
+    "created_at": "2023-04-14T14:03:07Z",
+    "text": "Frustrated with the ML Fork from AdventureWorks — support ignored my emails Avoid. 😡 #bikes #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6138467330",
+      "name": "Sam Wijaya",
+      "screen_name": "samwija5720",
+      "followers_count": 914,
+      "verified": false
+    },
+    "retweet_count": 28,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Fork",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065036",
+    "created_at": "2023-04-14T14:34:13Z",
+    "text": "Three weeks on the Mountain-100 Silver and I'm sold — arrived a day early, well packed Highly recommend. 🙌",
+    "lang": "en",
+    "user": {
+      "id_str": "7639422314",
+      "name": "Sofia Halim",
+      "screen_name": "sofihali5326",
+      "followers_count": 2104,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 55,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-100 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000065242",
+    "created_at": "2023-04-14T17:19:47Z",
+    "text": "Lagi banding-bandingin ML Mountain Frame - Black sama merek lain 👀 #cycling #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9887973816",
+      "name": "Maya Santoso",
+      "screen_name": "mayasant1281",
+      "followers_count": 428,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 39,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "ML Mountain Frame - Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

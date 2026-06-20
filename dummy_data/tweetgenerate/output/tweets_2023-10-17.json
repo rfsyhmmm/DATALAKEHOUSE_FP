@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000103233",
+    "created_at": "2023-10-17T16:20:05Z",
+    "text": "Capek deh sama Hex Nut 16 dari @AdventureWorks — cepet aus banget 😡 #cycling #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2612492622",
+      "name": "Maria Lee",
+      "screen_name": "marilee6933",
+      "followers_count": 1141,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103341",
+    "created_at": "2023-10-17T16:44:25Z",
+    "text": "RT @putr12: Seat Tube dari AdventureWorks Cycles mantap sih — performanya mulus Nggak nyesel. 👍 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "5957321842",
+      "name": "Alex Putra",
+      "screen_name": "alexputr4548",
+      "followers_count": 188,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 54,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Seat Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103277",
+    "created_at": "2023-10-17T18:21:56Z",
+    "text": "Udahan deh sama External Lock Washer 9 ini — kemahalan buat kualitas segini Kapok. 🙄 #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "6027143636",
+      "name": "Sam Garcia",
+      "screen_name": "samgarc4903",
+      "followers_count": 1202,
+      "verified": true
+    },
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "External Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103156",
+    "created_at": "2023-10-17T19:38:06Z",
+    "text": "Really disappointed with the Minipump — poor build, cheap materials Never again. 🙄 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8408715294",
+      "name": "Chris Putra",
+      "screen_name": "chriputr2964",
+      "followers_count": 202,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Minipump",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103258",
+    "created_at": "2023-10-17T20:44:40Z",
+    "text": "Shoutout to @AWCycles for the Road-750 Black — exceeded my expectations Highly recommend. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "7702243492",
+      "name": "Maria Saputra",
+      "screen_name": "marisapu9456",
+      "followers_count": 1108,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-750 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103219",
+    "created_at": "2023-10-17T20:49:53Z",
+    "text": "The Seat Lug from AWC let me down — support ignored my emails 😡",
+    "lang": "en",
+    "user": {
+      "id_str": "3174555581",
+      "name": "Sam Santoso",
+      "screen_name": "samsant8101",
+      "followers_count": 579,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Seat Lug",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103170",
+    "created_at": "2023-10-17T21:56:32Z",
+    "text": "Shoutout to @AWCycles for the Taillights - Battery-Powered — feels solid and well made Five stars. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "9000670691",
+      "name": "Raka Anwar",
+      "screen_name": "rakaanwa4660",
+      "followers_count": 2100,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Taillights - Battery-Powered",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000103293",
+    "created_at": "2023-10-17T22:03:42Z",
+    "text": "Saw the LL Touring Frame - Blue in store today, looks interesting 👀",
+    "lang": "en",
+    "user": {
+      "id_str": "3723132339",
+      "name": "Lina Garcia",
+      "screen_name": "linagarc317",
+      "followers_count": 436,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000222074",
+    "created_at": "2025-05-12T06:47:32Z",
+    "text": "Salut buat @AdventureWorks soal LL Mountain Front Wheel — performanya mulus Recommended.",
+    "lang": "in",
+    "user": {
+      "id_str": "9177082065",
+      "name": "Andi Brown",
+      "screen_name": "andibrow5782",
+      "followers_count": 2316,
+      "verified": false
+    },
+    "retweet_count": 18,
+    "favorite_count": 4,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222147",
+    "created_at": "2025-05-12T08:49:47Z",
+    "text": "Absolutely loving my new Road-150 Red from AWC — arrived a day early, well packed Five stars. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "5608580301",
+      "name": "Dewi Hidayat",
+      "screen_name": "dewihida7634",
+      "followers_count": 285,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-150 Red, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222211",
+    "created_at": "2025-05-12T10:11:23Z",
+    "text": "Suka banget sama LL Road Frame - Black dari AdventureWorks — tahan banting dipakai berat 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "5265045952",
+      "name": "Dimas Santoso",
+      "screen_name": "dimasant5672",
+      "followers_count": 997,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222120",
+    "created_at": "2025-05-12T14:13:21Z",
+    "text": "So glad I picked up the ML Mountain Seat/Saddle — worth every penny Will buy again.",
+    "lang": "en",
+    "user": {
+      "id_str": "6081790459",
+      "name": "Budi Putra",
+      "screen_name": "budiputr4673",
+      "followers_count": 834,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222178",
+    "created_at": "2025-05-12T15:39:01Z",
+    "text": "Udah sebulan pakai Crown Race, oke terus — melebihi ekspektasi Nggak nyesel. 😎 #bikes #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8059593541",
+      "name": "Raka Lopez",
+      "screen_name": "rakalope1513",
+      "followers_count": 2532,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Crown Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222079",
+    "created_at": "2025-05-12T16:47:54Z",
+    "text": "Hex Nut 7 dari @AWCycles mantap sih — pengiriman cepat dan packing rapi Bakal beli lagi. 🚴 #rideon #bikelife #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1238517927",
+      "name": "Rizky Pratama",
+      "screen_name": "rizkprat736",
+      "followers_count": 464,
+      "verified": true
+    },
+    "retweet_count": 16,
+    "favorite_count": 2,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Hex Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222251",
+    "created_at": "2025-05-12T17:39:13Z",
+    "text": "Really disappointed with the Adjustable Race — shipping took forever 😤 #bikes #AdventureWorks #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7245019969",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali9471",
+      "followers_count": 82,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000222033",
+    "created_at": "2025-05-12T17:42:28Z",
+    "text": "Really disappointed with the Thin-Jam Lock Nut 3 — rattles and feels flimsy 😣",
+    "lang": "en",
+    "user": {
+      "id_str": "216920712",
+      "name": "Galih Santoso",
+      "screen_name": "galisant5951",
+      "followers_count": 46,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

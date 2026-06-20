@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000188656",
+    "created_at": "2024-12-02T14:55:19Z",
+    "text": "Salut buat @AdventureWorks soal Mountain-500 Black — kirimnya lancar Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "3843466514",
+      "name": "Jordan Lee",
+      "screen_name": "jordlee7861",
+      "followers_count": 2429,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 14,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000188696",
+    "created_at": "2024-12-02T16:04:29Z",
+    "text": "Naik level gowes ku gara-gara Metal Sheet 2 — admin responsif banget 👍 #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "6767102935",
+      "name": "Bayu Pratama",
+      "screen_name": "bayuprat3145",
+      "followers_count": 852,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 30,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000188774",
+    "created_at": "2024-12-02T17:13:31Z",
+    "text": "So glad I picked up the Lock Washer 5 — zero wear after heavy use Five stars. 🙌 #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "5358594245",
+      "name": "Putri Clark",
+      "screen_name": "putrclar6227",
+      "followers_count": 1611,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 32,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 5",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000188739",
+    "created_at": "2024-12-02T17:56:39Z",
+    "text": "Nggak puas sama Handlebar Tube ku — bahannya murahan Pelajaran mahal. 😡 #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "8359466269",
+      "name": "Maya Lopez",
+      "screen_name": "mayalope392",
+      "followers_count": 3235,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Handlebar Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000188667",
+    "created_at": "2024-12-02T19:04:54Z",
+    "text": "Regret buying the Mountain-300 Black — rattles and feels flimsy Never again. 😣 #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "5356141173",
+      "name": "Hannah Clark",
+      "screen_name": "hannclar3120",
+      "followers_count": 702,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Mountain-300 Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000188626",
+    "created_at": "2024-12-02T19:47:19Z",
+    "text": "Udah sebulan pakai Touring-2000 Blue, oke terus — performanya mulus Bakal beli lagi. ✨ #bikes #AdventureWorks #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "277213290",
+      "name": "Lina Anwar",
+      "screen_name": "linaanwa6953",
+      "followers_count": 1084,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-2000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000188689",
+    "created_at": "2024-12-02T20:19:54Z",
+    "text": "HL Mountain Frame - Silver dari @AdventureWorks bikin nyesel — finishing-nya asal Pelajaran mahal. ⚠️ #AWcycles",
+    "lang": "in",
+    "user": {
+      "id_str": "9523488381",
+      "name": "Citra Halim",
+      "screen_name": "citrhali312",
+      "followers_count": 2211,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Mountain Frame - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000188819",
+    "created_at": "2024-12-02T23:45:33Z",
+    "text": "Nggak nyesel beli LL Hub — terasa kokoh dan rapi 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "2791373719",
+      "name": "Dimas Wijaya",
+      "screen_name": "dimawija6940",
+      "followers_count": 567,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 41,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

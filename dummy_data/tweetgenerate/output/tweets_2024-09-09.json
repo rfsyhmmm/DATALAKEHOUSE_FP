@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000171402",
+    "created_at": "2024-09-09T00:30:37Z",
+    "text": "My HL Crankarm from @AdventureWorks is excellent — feels solid and well made Five stars. 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "5252917207",
+      "name": "Mia Lee",
+      "screen_name": "mialee511",
+      "followers_count": 864,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Crankarm",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171414",
+    "created_at": "2024-09-09T07:13:11Z",
+    "text": "Suka banget sama Touring Pedal dari @AdventureWorks — sampai lebih cepat, aman Recommended. 😍 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8769871760",
+      "name": "Alex Santoso",
+      "screen_name": "alexsant8054",
+      "followers_count": 2086,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 25,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171334",
+    "created_at": "2024-09-09T07:42:25Z",
+    "text": "Udah sebulan pakai Lock Nut 16, oke terus — performanya mulus Nggak nyesel. ✨ #rideon #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "954432280",
+      "name": "Putri Clark",
+      "screen_name": "putrclar6928",
+      "followers_count": 894,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 16",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171496",
+    "created_at": "2024-09-09T10:36:37Z",
+    "text": "Bintang dua buat Touring-1000 Blue dari AdventureWorks — CS-nya nggak guna 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "3487670958",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa1811",
+      "followers_count": 367,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Touring-1000 Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171446",
+    "created_at": "2024-09-09T17:09:32Z",
+    "text": "LL Touring Seat Assembly dari @AdventureWorks mantap sih — masih awet setelah berbulan-bulan Recommended.",
+    "lang": "in",
+    "user": {
+      "id_str": "2805404062",
+      "name": "Rizky Garcia",
+      "screen_name": "rizkgarc5608",
+      "followers_count": 51,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 35,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Touring Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171505",
+    "created_at": "2024-09-09T18:08:21Z",
+    "text": "So glad I picked up the ML Mountain Seat Assembly — build quality feels premium 🚴 #bikelife #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "5958937693",
+      "name": "Maya Lee",
+      "screen_name": "mayalee4510",
+      "followers_count": 3895,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Mountain Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171345",
+    "created_at": "2024-09-09T20:03:26Z",
+    "text": "Not happy with my Road-650 Black at all — rattles and feels flimsy Never again. 😤 #AdventureWorks #cycling #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "389456747",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy1419",
+      "followers_count": 798,
+      "verified": true
+    },
+    "retweet_count": 9,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-650 Black, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000171368",
+    "created_at": "2024-09-09T20:32:01Z",
+    "text": "RT @chri2: Lock Nut 8 dari AWC bikin nyesel — jebol pas ride pertama Hindari. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "9738353970",
+      "name": "Jordan Hidayat",
+      "screen_name": "jordhida9226",
+      "followers_count": 306,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

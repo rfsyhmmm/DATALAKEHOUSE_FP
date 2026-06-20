@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000162939",
+    "created_at": "2024-07-30T08:58:01Z",
+    "text": "Really impressed with the HL Mountain Rim — performs flawlessly Highly recommend. 😎 #MTB #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8740659737",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu4602",
+      "followers_count": 13,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Mountain Rim",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000162852",
+    "created_at": "2024-07-30T09:27:05Z",
+    "text": "Nggak nyesel beli Road-250 Black — kuat di trek kasar Recommended. ✨",
+    "lang": "in",
+    "user": {
+      "id_str": "7267916670",
+      "name": "Mia Pratama",
+      "screen_name": "miaprat131",
+      "followers_count": 2090,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000162941",
+    "created_at": "2024-07-30T12:02:02Z",
+    "text": "RT @dewi41: My Metal Plate 1 from AdventureWorks is excellent — feels solid and well made 😍 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9222416692",
+      "name": "Eko Lee",
+      "screen_name": "ekolee556",
+      "followers_count": 2429,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 34,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Plate 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000162814",
+    "created_at": "2024-07-30T12:49:25Z",
+    "text": "Salut buat @AdventureWorks soal Thin-Jam Lock Nut 13 — kuat di trek kasar Bintang lima. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "1426145233",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant850",
+      "followers_count": 43,
+      "verified": false
+    },
+    "retweet_count": 26,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000162924",
+    "created_at": "2024-07-30T14:49:27Z",
+    "text": "Naik level gowes ku gara-gara LL Road Pedal — terasa kokoh dan rapi Nggak nyesel. 🙌 #AWcycles #MTB #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "5378121153",
+      "name": "Putri Kim",
+      "screen_name": "putrkim5463",
+      "followers_count": 2561,
+      "verified": false
+    },
+    "retweet_count": 16,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000162859",
+    "created_at": "2024-07-30T15:28:29Z",
+    "text": "So glad I picked up the Metal Sheet 2 — support was quick and friendly Five stars. 😍 #AdventureWorks #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9258734251",
+      "name": "Andi Lee",
+      "screen_name": "andilee1252",
+      "followers_count": 138,
+      "verified": false
+    },
+    "retweet_count": 22,
+    "favorite_count": 19,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Metal Sheet 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000162876",
+    "created_at": "2024-07-30T17:09:50Z",
+    "text": "Three weeks on the HL Mountain Seat/Saddle and I'm sold — honestly a great buy ✨ #rideon #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4596044402",
+      "name": "Dewi Pratama",
+      "screen_name": "dewiprat8260",
+      "followers_count": 2080,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 50,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Mountain Seat/Saddle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000162906",
+    "created_at": "2024-07-30T17:30:23Z",
+    "text": "Kecewa banget sama Chainring Bolts — bahannya murahan Tolong AdventureWorks dibenahi. 😣",
+    "lang": "in",
+    "user": {
+      "id_str": "9205916910",
+      "name": "Kevin Garcia",
+      "screen_name": "kevigarc7653",
+      "followers_count": 3816,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Chainring Bolts",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

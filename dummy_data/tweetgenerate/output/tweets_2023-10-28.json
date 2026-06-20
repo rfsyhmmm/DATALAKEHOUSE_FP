@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000105491",
+    "created_at": "2023-10-28T05:28:36Z",
+    "text": "Suka banget sama Rear Derailleur dari @AdventureWorks — murah buat kualitas segini Recommended. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "8350372327",
+      "name": "Alex Lopez",
+      "screen_name": "alexlope3366",
+      "followers_count": 827,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Rear Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105484",
+    "created_at": "2023-10-28T09:03:58Z",
+    "text": "Really impressed with the Touring-3000 Blue — worth every penny Will buy again. 😎 #AdventureWorks #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "152262059",
+      "name": "Hannah Pratama",
+      "screen_name": "hannprat6413",
+      "followers_count": 461,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-3000 Blue, 62",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105448",
+    "created_at": "2023-10-28T11:24:47Z",
+    "text": "Nyesel beli Fender Set - Mountain — bahannya murahan 😩 #rideon #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5075977539",
+      "name": "Mia Halim",
+      "screen_name": "miahali473",
+      "followers_count": 862,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Fender Set - Mountain",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105539",
+    "created_at": "2023-10-28T16:42:15Z",
+    "text": "LL Touring Frame - Blue bagus nggak buat harian? 🤔",
+    "lang": "in",
+    "user": {
+      "id_str": "9563040299",
+      "name": "Hannah Brown",
+      "screen_name": "hannbrow5199",
+      "followers_count": 788,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 23,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Touring Frame - Blue, 54",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105566",
+    "created_at": "2023-10-28T19:07:33Z",
+    "text": "Upgraded to the Bike Wash - Dissolver and no looking back — exceeded my expectations Will buy again. 🚴 #cycling #AWcycles #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7616633838",
+      "name": "Raka Pratama",
+      "screen_name": "rakaprat453",
+      "followers_count": 1093,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 65,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Bike Wash - Dissolver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105451",
+    "created_at": "2023-10-28T19:56:48Z",
+    "text": "Hex Nut 10 dari @AdventureWorks bikin nyesel — jebol pas ride pertama Hindari. ⚠️ #MTB #bikes #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5423270403",
+      "name": "Galih Kim",
+      "screen_name": "galikim5930",
+      "followers_count": 2514,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105614",
+    "created_at": "2023-10-28T20:02:55Z",
+    "text": "Berharap lebih dari External Lock Washer 9 — CS-nya nggak guna Kapok. 😤 #bikes #cycling #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1467671876",
+      "name": "Citra Hidayat",
+      "screen_name": "citrhida6384",
+      "followers_count": 198,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "External Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000105421",
+    "created_at": "2023-10-28T20:10:39Z",
+    "text": "Bintang dua buat Lock Washer 4 dari @AWCycles — kemahalan buat kualitas segini Pelajaran mahal. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "876262663",
+      "name": "Galih Kim",
+      "screen_name": "galikim3358",
+      "followers_count": 688,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Lock Washer 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

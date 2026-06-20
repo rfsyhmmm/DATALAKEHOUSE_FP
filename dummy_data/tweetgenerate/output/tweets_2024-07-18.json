@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000160374",
+    "created_at": "2024-07-18T09:23:35Z",
+    "text": "So glad I picked up the Road-450 Red — feels solid and well made Highly recommend. 💯 #cycling #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1056980070",
+      "name": "Nadia Santoso",
+      "screen_name": "nadisant9375",
+      "followers_count": 1749,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Road-450 Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000160459",
+    "created_at": "2024-07-18T09:25:29Z",
+    "text": "Udah sebulan pakai LL Road Rear Wheel, oke terus — kualitasnya premium Bakal beli lagi. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "4560855296",
+      "name": "Maria Clark",
+      "screen_name": "mariclar9134",
+      "followers_count": 1924,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "LL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000160422",
+    "created_at": "2024-07-18T13:34:20Z",
+    "text": "Kecewa banget sama Head Tube — finishing-nya asal Kapok. 👎 #bikelife #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "8050301644",
+      "name": "Alex Anwar",
+      "screen_name": "alexanwa3149",
+      "followers_count": 951,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 45,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Head Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000160304",
+    "created_at": "2024-07-18T16:00:41Z",
+    "text": "HL Touring Handlebars bagus nggak buat harian? 🤔 #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4862113868",
+      "name": "Rizky Anwar",
+      "screen_name": "rizkanwa4643",
+      "followers_count": 1133,
+      "verified": false
+    },
+    "retweet_count": 37,
+    "favorite_count": 8,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Touring Handlebars",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000160359",
+    "created_at": "2024-07-18T19:33:04Z",
+    "text": "Udah sebulan pakai Thin-Jam Hex Nut 11, oke terus — tahan banting dipakai berat 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "9953135456",
+      "name": "Jordan Nguyen",
+      "screen_name": "jordnguy6260",
+      "followers_count": 363,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 3,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Thin-Jam Hex Nut 11",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000160323",
+    "created_at": "2024-07-18T20:03:39Z",
+    "text": "Suka banget sama Touring End Caps dari @AWCycles — terasa kokoh dan rapi Nggak nyesel. 🔥 #AWcycles #bikelife #bikes",
+    "lang": "in",
+    "user": {
+      "id_str": "1075135184",
+      "name": "Dimas Kim",
+      "screen_name": "dimakim2643",
+      "followers_count": 183,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring End Caps",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000160391",
+    "created_at": "2024-07-18T20:20:26Z",
+    "text": "Is the Thin-Jam Lock Nut 3 any good for daily rides? 🤔",
+    "lang": "en",
+    "user": {
+      "id_str": "3382931001",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc1019",
+      "followers_count": 1921,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000160328",
+    "created_at": "2024-07-18T21:30:27Z",
+    "text": "Really impressed with the ML Grip Tape — shipping was fast and packaging perfect Will buy again. ✨ #bikelife #AWcycles #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6266466733",
+      "name": "Sofia Smith",
+      "screen_name": "sofismit6678",
+      "followers_count": 2092,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 39,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "ML Grip Tape",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

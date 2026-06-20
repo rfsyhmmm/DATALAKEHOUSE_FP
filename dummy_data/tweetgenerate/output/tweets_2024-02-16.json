@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000128493",
+    "created_at": "2024-02-16T09:57:29Z",
+    "text": "Shoutout to AdventureWorks for the Metal Angle — zero wear after heavy use Highly recommend. ✨ #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "6051786098",
+      "name": "Rizky Pratama",
+      "screen_name": "rizkprat5639",
+      "followers_count": 1035,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Metal Angle",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128669",
+    "created_at": "2024-02-16T10:47:57Z",
+    "text": "Ada yang pakai Thin-Jam Hex Nut 14 dari AWC? Worth it nggak? #AdventureWorks #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5632549200",
+      "name": "Maria Nguyen",
+      "screen_name": "maringuy1278",
+      "followers_count": 1954,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 27,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Thin-Jam Hex Nut 14",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128599",
+    "created_at": "2024-02-16T11:49:46Z",
+    "text": "Three weeks on the Road-650 Red and I'm sold — delivery was smooth Five stars. 😎 #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8877408114",
+      "name": "Dewi Santoso",
+      "screen_name": "dewisant9598",
+      "followers_count": 2376,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Road-650 Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128509",
+    "created_at": "2024-02-16T18:12:29Z",
+    "text": "LL Road Front Wheel dari @AWCycles bikin nyesel — bahannya murahan 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "9126635236",
+      "name": "Citra Nguyen",
+      "screen_name": "citrnguy5817",
+      "followers_count": 579,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "LL Road Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128480",
+    "created_at": "2024-02-16T18:13:00Z",
+    "text": "The Hex Nut 18 from @AdventureWorks has been fantastic — holding up great on rough trails Five stars. 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "3341154438",
+      "name": "Sofia Lee",
+      "screen_name": "sofilee1910",
+      "followers_count": 396,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 18",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128555",
+    "created_at": "2024-02-16T18:26:48Z",
+    "text": "Nggak nyesel beli ML Mountain Frame-W - Silver — masih awet setelah berbulan-bulan Bakal beli lagi. ✨ #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1383561030",
+      "name": "Raka Nguyen",
+      "screen_name": "rakanguy8295",
+      "followers_count": 2425,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "ML Mountain Frame-W - Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128635",
+    "created_at": "2024-02-16T19:22:07Z",
+    "text": "Regret buying the Hex Nut 22 — it broke after two weeks Lesson learned. 🙄",
+    "lang": "en",
+    "user": {
+      "id_str": "7542119458",
+      "name": "Alex Garcia",
+      "screen_name": "alexgarc2576",
+      "followers_count": 673,
+      "verified": false
+    },
+    "retweet_count": 15,
+    "favorite_count": 42,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Hex Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000128649",
+    "created_at": "2024-02-16T21:54:14Z",
+    "text": "Akhirnya pakai LL Mountain Frame - Black dan puas pol — kirimnya lancar Recommended. 😎 #AdventureWorks #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8746942775",
+      "name": "Nadia Smith",
+      "screen_name": "nadismit6565",
+      "followers_count": 3329,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 20,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

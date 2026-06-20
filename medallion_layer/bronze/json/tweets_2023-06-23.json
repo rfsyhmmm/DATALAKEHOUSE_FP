@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000079411",
+    "created_at": "2023-06-23T09:40:32Z",
+    "text": "Frustrated with the Road-250 Black from AWC — just not worth the money 🙄 #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "417563904",
+      "name": "Alex Saputra",
+      "screen_name": "alexsapu8236",
+      "followers_count": 1298,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Road-250 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079363",
+    "created_at": "2023-06-23T10:14:23Z",
+    "text": "Bintang dua buat ML Mountain Frame-W - Silver dari AdventureWorks Cycles — kemahalan buat kualitas segini Pelajaran mahal. 😩 #bikes #MTB #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "1266115415",
+      "name": "Maria Wijaya",
+      "screen_name": "mariwija3951",
+      "followers_count": 694,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 40,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "ML Mountain Frame-W - Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079492",
+    "created_at": "2023-06-23T11:25:40Z",
+    "text": "Regret buying the LL Road Rear Wheel — just not worth the money Avoid. #AdventureWorks #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "2996918354",
+      "name": "Alex Lee",
+      "screen_name": "alexlee7938",
+      "followers_count": 721,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "LL Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079446",
+    "created_at": "2023-06-23T12:44:29Z",
+    "text": "The Front Brakes from AdventureWorks Cycles has been fantastic — worth every penny Five stars. 💯 #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "2907306976",
+      "name": "Mia Putra",
+      "screen_name": "miaputr305",
+      "followers_count": 2632,
+      "verified": true
+    },
+    "retweet_count": 11,
+    "favorite_count": 58,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Front Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079383",
+    "created_at": "2023-06-23T15:09:35Z",
+    "text": "Udah sebulan pakai Touring-1000 Yellow, oke terus — murah buat kualitas segini 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "394298457",
+      "name": "Budi Hidayat",
+      "screen_name": "budihida9423",
+      "followers_count": 539,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Touring-1000 Yellow, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079531",
+    "created_at": "2023-06-23T19:16:44Z",
+    "text": "Nyesel beli Touring Tire — bahannya murahan Tolong @AdventureWorks dibenahi. 😩 #AdventureWorks #rideon",
+    "lang": "in",
+    "user": {
+      "id_str": "1594139544",
+      "name": "Hannah Santoso",
+      "screen_name": "hannsant4672",
+      "followers_count": 710,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 31,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Touring Tire",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079517",
+    "created_at": "2023-06-23T19:34:31Z",
+    "text": "Nggak puas sama AWC Logo Cap ku — zonk total Pelajaran mahal. 😩 #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4299502018",
+      "name": "Rizky Pratama",
+      "screen_name": "rizkprat7596",
+      "followers_count": 1671,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "umum",
+      "product": "AWC Logo Cap",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000079468",
+    "created_at": "2023-06-23T22:29:40Z",
+    "text": "Naik level gowes ku gara-gara ML Road Frame-W - Yellow — worth it banget Nggak nyesel. #MTB #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4335724210",
+      "name": "Bayu Brown",
+      "screen_name": "bayubrow6950",
+      "followers_count": 711,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 31,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "ML Road Frame-W - Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

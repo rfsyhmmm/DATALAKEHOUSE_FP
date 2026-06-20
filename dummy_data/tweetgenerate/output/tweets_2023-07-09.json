@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000082311",
+    "created_at": "2023-07-09T00:49:27Z",
+    "text": "Paint - Red dari @AdventureWorks mantap sih — kualitasnya premium 🙌 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "6074799936",
+      "name": "Lina Brown",
+      "screen_name": "linabrow8340",
+      "followers_count": 1232,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Paint - Red",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082435",
+    "created_at": "2023-07-09T01:22:13Z",
+    "text": "Really impressed with the Metal Bar 1 — performs flawlessly Zero regrets. 🚴",
+    "lang": "en",
+    "user": {
+      "id_str": "4701198300",
+      "name": "Mia Wijaya",
+      "screen_name": "miawija8197",
+      "followers_count": 1332,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Metal Bar 1",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082479",
+    "created_at": "2023-07-09T10:52:31Z",
+    "text": "Chainring dari AWC mantap sih — beli yang tepat sih 👍 #bikes #rideon #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "6057617111",
+      "name": "Chris Kim",
+      "screen_name": "chrikim9460",
+      "followers_count": 2393,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Chainring",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082321",
+    "created_at": "2023-07-09T11:27:45Z",
+    "text": "Terkesan banget sama Front Derailleur Cage — kualitasnya premium Bintang lima. 😍 #AWcycles #bikelife #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4171881845",
+      "name": "Raka Putra",
+      "screen_name": "rakaputr3969",
+      "followers_count": 137,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Front Derailleur Cage",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082415",
+    "created_at": "2023-07-09T12:29:58Z",
+    "text": "Not happy with my ML Mountain Frame - Black at all — packaging was a mess Do better AdventureWorks Cycles. 😣 #cycling",
+    "lang": "en",
+    "user": {
+      "id_str": "134328071",
+      "name": "Maria Putra",
+      "screen_name": "mariputr3219",
+      "followers_count": 126,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "ML Mountain Frame - Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082382",
+    "created_at": "2023-07-09T13:04:03Z",
+    "text": "Two stars for the LL Mountain Rear Wheel from AWC — packaging was a mess 😤",
+    "lang": "en",
+    "user": {
+      "id_str": "7101654967",
+      "name": "Galih Clark",
+      "screen_name": "galiclar6846",
+      "followers_count": 371,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 60,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "LL Mountain Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082354",
+    "created_at": "2023-07-09T18:14:55Z",
+    "text": "Two stars for the ML Road Pedal from @AWCycles — support ignored my emails Never again. 😡 #MTB #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "4370017293",
+      "name": "Budi Brown",
+      "screen_name": "budibrow2227",
+      "followers_count": 66,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 28,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "ML Road Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000082392",
+    "created_at": "2023-07-09T19:48:02Z",
+    "text": "Lock Washer 7 dari AdventureWorks Cycles mantap sih — kirimnya lancar Recommended. 😍 #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3816372577",
+      "name": "Bayu Santoso",
+      "screen_name": "bayusant6495",
+      "followers_count": 537,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Lock Washer 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000129339",
+    "created_at": "2024-02-20T00:41:18Z",
+    "text": "Nyesel beli Road-550-W Yellow — bunyi-bunyi dan ringkih 😤",
+    "lang": "in",
+    "user": {
+      "id_str": "368965173",
+      "name": "Dimas Lee",
+      "screen_name": "dimalee1418",
+      "followers_count": 2875,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000129414",
+    "created_at": "2024-02-20T05:50:48Z",
+    "text": "Nggak nyesel beli Rear Brakes — puas pol Nggak nyesel.",
+    "lang": "in",
+    "user": {
+      "id_str": "8730291099",
+      "name": "Sofia Santoso",
+      "screen_name": "sofisant5317",
+      "followers_count": 427,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 8,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Rear Brakes",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000129380",
+    "created_at": "2024-02-20T13:24:15Z",
+    "text": "Saw the Pinch Bolt in store today, looks interesting",
+    "lang": "en",
+    "user": {
+      "id_str": "5815778981",
+      "name": "Maria Anwar",
+      "screen_name": "marianwa9566",
+      "followers_count": 1310,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000129290",
+    "created_at": "2024-02-20T17:40:11Z",
+    "text": "Salut buat @AdventureWorks soal Water Bottle - 30 oz. — melebihi ekspektasi Nggak nyesel. 😎",
+    "lang": "in",
+    "user": {
+      "id_str": "6016811750",
+      "name": "Citra Brown",
+      "screen_name": "citrbrow5954",
+      "followers_count": 1961,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Water Bottle - 30 oz.",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000129280",
+    "created_at": "2024-02-20T19:07:37Z",
+    "text": "Akhirnya pakai Internal Lock Washer 8 dan puas pol — murah buat kualitas segini 👍 #AdventureWorks #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "112919377",
+      "name": "Eko Anwar",
+      "screen_name": "ekoanwa8314",
+      "followers_count": 1563,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Internal Lock Washer 8",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000129411",
+    "created_at": "2024-02-20T19:24:35Z",
+    "text": "Comparing the LL Hub with a few others before I buy #AdventureWorks #rideon #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "8442537588",
+      "name": "Olivia Brown",
+      "screen_name": "olivbrow3124",
+      "followers_count": 458,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "LL Hub",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000129341",
+    "created_at": "2024-02-20T20:17:06Z",
+    "text": "Not happy with my Internal Lock Washer 10 at all — poor build, cheap materials Lesson learned. 😤 #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3063731437",
+      "name": "Lina Saputra",
+      "screen_name": "linasapu5220",
+      "followers_count": 1308,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 51,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Internal Lock Washer 10",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000129338",
+    "created_at": "2024-02-20T22:44:40Z",
+    "text": "Terkesan banget sama Hex Nut 3 — performanya mulus Nggak nyesel. 😍 #MTB #bikes #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "8459861415",
+      "name": "Citra Halim",
+      "screen_name": "citrhali7859",
+      "followers_count": 657,
+      "verified": false
+    },
+    "retweet_count": 10,
+    "favorite_count": 13,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Hex Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -55,6 +55,12 @@ SPEC = {
         "pk": "source_key", "fks": [],
         "columns": [("source_key", "BIGINT"), ("source_type", "VARCHAR(20)")],
     },
+    # --- inventory-private dimension ---
+    "dim_location": {
+        "pk": "location_key", "fks": [],
+        "columns": [("location_key", "BIGINT"), ("location_id", "BIGINT"),
+                    ("location_name", "VARCHAR(50)"), ("cost_rate", "NUMERIC(10,4)")],
+    },
     # --- sentiment-private dimensions ---
     "dim_aspect": {
         "pk": "aspect_key", "fks": [],
@@ -86,10 +92,22 @@ SPEC = {
         "columns": [("sales_key", "BIGINT"), ("date_key", "BIGINT"),
                     ("customer_key", "BIGINT"), ("product_key", "BIGINT"),
                     ("channel_key", "BIGINT"), ("source_key", "BIGINT"),
-                    ("sales_order_id", "BIGINT"),
+                    ("sales_line_id", "VARCHAR(40)"), ("sales_order_id", "BIGINT"),
                     ("order_qty", "BIGINT"), ("unit_price", "NUMERIC(18,4)"),
                     ("unit_price_discount", "NUMERIC(18,4)"), ("line_total", "NUMERIC(18,4)"),
                     ("sales_count", "BIGINT")],
+    },
+    "fact_inventory": {
+        "pk": "inventory_key",
+        "fks": [("date_key",     "dim_date",     "date_key"),
+                ("product_key",  "dim_product",  "product_key"),
+                ("location_key", "dim_location", "location_key")],
+        "columns": [("inventory_key",    "BIGINT"),
+                    ("date_key",         "BIGINT"),
+                    ("product_key",      "BIGINT"),
+                    ("location_key",     "BIGINT"),
+                    ("quantity_on_hand", "BIGINT"),
+                    ("inv_key",          "VARCHAR(40)")],
     },
     "fact_sentiment": {
         "pk": "sentiment_fact_key",
@@ -112,8 +130,9 @@ SPEC = {
 
 # DDL emit order: all dims before facts (FK dependency)
 TABLE_ORDER = ["dim_date", "dim_product", "dim_customer", "dim_channel", "dim_source",
+               "dim_location",
                "dim_aspect", "dim_sentiment", "dim_author", "dim_tweet_context",
-               "fact_sales", "fact_sentiment"]
+               "fact_sales", "fact_inventory", "fact_sentiment"]
 KEY_SUFFIX = "_key"
 
 

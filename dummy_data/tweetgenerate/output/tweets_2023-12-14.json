@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000115533",
+    "created_at": "2023-12-14T01:35:52Z",
+    "text": "Thinking about the Internal Lock Washer 9. Any reviews? #AdventureWorks #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "4312009919",
+      "name": "Nadia Nguyen",
+      "screen_name": "nadinguy3524",
+      "followers_count": 2397,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115434",
+    "created_at": "2023-12-14T04:25:59Z",
+    "text": "Shoutout to AWC for the Short-Sleeve Classic Jersey — performs flawlessly 🚴 #AWcycles #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "3786559730",
+      "name": "Budi Kim",
+      "screen_name": "budikim9492",
+      "followers_count": 2045,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Short-Sleeve Classic Jersey, S",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115398",
+    "created_at": "2023-12-14T05:31:04Z",
+    "text": "The Mountain-500 Black from @AWCycles let me down — overpriced for what you get Lesson learned. 😤 #AdventureWorks #bikelife #rideon #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "8107157204",
+      "name": "Hannah Lopez",
+      "screen_name": "hannlope648",
+      "followers_count": 1087,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115598",
+    "created_at": "2023-12-14T07:48:05Z",
+    "text": "Akhirnya pakai HL Bottom Bracket dan puas pol — harga sebanding kualitas Recommended. 🙌",
+    "lang": "in",
+    "user": {
+      "id_str": "9677750116",
+      "name": "Tom Putra",
+      "screen_name": "tomputr5505",
+      "followers_count": 687,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 1,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115553",
+    "created_at": "2023-12-14T08:29:37Z",
+    "text": "Really impressed with the HL Road Seat Assembly — build quality feels premium Will buy again. 💯 #AdventureWorks #cycling #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "1538176795",
+      "name": "Eko Lee",
+      "screen_name": "ekolee714",
+      "followers_count": 75,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 16,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Road Seat Assembly",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115425",
+    "created_at": "2023-12-14T14:50:51Z",
+    "text": "Kecewa banget sama Mountain-500 Black — nggak sebanding harganya Hindari. 😩 #AdventureWorks #rideon #bikelife",
+    "lang": "in",
+    "user": {
+      "id_str": "5737946563",
+      "name": "Rizky Brown",
+      "screen_name": "rizkbrow1691",
+      "followers_count": 312,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Mountain-500 Black, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115445",
+    "created_at": "2023-12-14T19:53:19Z",
+    "text": "Two stars for the HL Road Frame - Black from @AWCycles — poor build, cheap materials Avoid. 😤 #AWcycles #rideon #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "5872235658",
+      "name": "Galih Smith",
+      "screen_name": "galismit1620",
+      "followers_count": 1772,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 13,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "HL Road Frame - Black, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000115494",
+    "created_at": "2023-12-14T21:39:12Z",
+    "text": "Upgraded to the Thin-Jam Lock Nut 3 and no looking back — feels solid and well made Five stars.",
+    "lang": "en",
+    "user": {
+      "id_str": "9871343171",
+      "name": "Tom Anwar",
+      "screen_name": "tomanwa3994",
+      "followers_count": 1487,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

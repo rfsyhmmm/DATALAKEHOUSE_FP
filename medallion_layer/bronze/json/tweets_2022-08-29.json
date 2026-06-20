@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000018966",
+    "created_at": "2022-08-29T02:25:31Z",
+    "text": "RT @chri28: So glad I picked up the Road-250 Black — honestly a great buy Five stars. 🙌 #bikelife #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1780032283",
+      "name": "Tom Saputra",
+      "screen_name": "tomsapu4180",
+      "followers_count": 860,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Road-250 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019019",
+    "created_at": "2022-08-29T05:53:15Z",
+    "text": "Kecewa banget sama Road-550-W Yellow — finishing-nya asal Kapok. 😤 #rideon #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "641519541",
+      "name": "Nadia Pratama",
+      "screen_name": "nadiprat9763",
+      "followers_count": 1417,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-550-W Yellow, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018919",
+    "created_at": "2022-08-29T06:34:19Z",
+    "text": "Nggak nyesel beli Flat Washer 2 — pelayanannya membantu Bintang lima. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "6830566825",
+      "name": "Maria Kim",
+      "screen_name": "marikim5671",
+      "followers_count": 3682,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Flat Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000019020",
+    "created_at": "2022-08-29T07:50:38Z",
+    "text": "Three weeks on the Internal Lock Washer 9 and I'm sold — the team was super helpful Highly recommend. 🔥 #bikelife #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "6555906622",
+      "name": "Maya Lee",
+      "screen_name": "mayalee1837",
+      "followers_count": 98,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 30,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Internal Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018970",
+    "created_at": "2022-08-29T09:14:19Z",
+    "text": "The HL Mountain Front Wheel from AdventureWorks Cycles has been fantastic — exceeded my expectations 🔥",
+    "lang": "en",
+    "user": {
+      "id_str": "1629736332",
+      "name": "Dimas Lopez",
+      "screen_name": "dimalope761",
+      "followers_count": 3348,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 33,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018971",
+    "created_at": "2022-08-29T12:14:50Z",
+    "text": "Capek deh sama Head Tube dari @AdventureWorks — finishing-nya asal Tolong @AdventureWorks dibenahi. 😡",
+    "lang": "in",
+    "user": {
+      "id_str": "6332631533",
+      "name": "Nadia Saputra",
+      "screen_name": "nadisapu9218",
+      "followers_count": 126,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Head Tube",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018891",
+    "created_at": "2022-08-29T14:35:03Z",
+    "text": "RT @andi51: Absolutely loving my new HL Touring Frame - Yellow from AdventureWorks Cycles — build quality feels premium 💯",
+    "lang": "en",
+    "user": {
+      "id_str": "152419297",
+      "name": "Putri Santoso",
+      "screen_name": "putrsant4982",
+      "followers_count": 74,
+      "verified": true
+    },
+    "retweet_count": 11,
+    "favorite_count": 26,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "HL Touring Frame - Yellow, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000018946",
+    "created_at": "2022-08-29T17:25:36Z",
+    "text": "Absolutely loving my new Mountain-500 Black from AWC — exceeded my expectations #AWcycles #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "9836930852",
+      "name": "Sam Clark",
+      "screen_name": "samclar8208",
+      "followers_count": 211,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "umum",
+      "product": "Mountain-500 Black, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

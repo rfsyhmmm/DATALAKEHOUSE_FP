@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000193610",
+    "created_at": "2024-12-26T02:59:31Z",
+    "text": "Done with the HL Mountain Front Wheel honestly — packaging was a mess Do better AdventureWorks. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "5992934549",
+      "name": "Budi Putra",
+      "screen_name": "budiputr2553",
+      "followers_count": 784,
+      "verified": false
+    },
+    "retweet_count": 23,
+    "favorite_count": 18,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "HL Mountain Front Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193712",
+    "created_at": "2024-12-26T05:05:26Z",
+    "text": "The HL Bottom Bracket from @AdventureWorks let me down — overpriced for what you get Do better @AdventureWorks. 😤 #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "9973647039",
+      "name": "Dewi Anwar",
+      "screen_name": "dewianwa3171",
+      "followers_count": 60,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 27,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "HL Bottom Bracket",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193632",
+    "created_at": "2024-12-26T05:41:11Z",
+    "text": "Capek deh sama Road-350-W Yellow dari @AdventureWorks — bunyi-bunyi dan ringkih Kapok. #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "2323693034",
+      "name": "Kevin Pratama",
+      "screen_name": "keviprat8411",
+      "followers_count": 1523,
+      "verified": false
+    },
+    "retweet_count": 13,
+    "favorite_count": 87,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Road-350-W Yellow, 40",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193761",
+    "created_at": "2024-12-26T06:57:52Z",
+    "text": "RT @nadi65: Kecewa banget sama ML Mountain Frame-W - Silver — bahannya murahan Kapok. ⚠️ #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9365906516",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope2964",
+      "followers_count": 2614,
+      "verified": false
+    },
+    "retweet_count": 11,
+    "favorite_count": 66,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Mountain Frame-W - Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193668",
+    "created_at": "2024-12-26T09:29:50Z",
+    "text": "Naik level gowes ku gara-gara Mountain-100 Black — kuat di trek kasar Bintang lima.",
+    "lang": "in",
+    "user": {
+      "id_str": "3106627083",
+      "name": "Eko Lee",
+      "screen_name": "ekolee3636",
+      "followers_count": 2897,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 20,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-100 Black, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193741",
+    "created_at": "2024-12-26T12:35:40Z",
+    "text": "Udahan deh sama Long-Sleeve Logo Jersey ini — kirimnya lama banget Tolong @AdventureWorks dibenahi. 🙄",
+    "lang": "in",
+    "user": {
+      "id_str": "3341306175",
+      "name": "Rizky Halim",
+      "screen_name": "rizkhali3951",
+      "followers_count": 268,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 17,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Long-Sleeve Logo Jersey, XL",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193763",
+    "created_at": "2024-12-26T15:14:23Z",
+    "text": "Regret buying the Men's Bib-Shorts — overpriced for what you get Never again. #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "4267227992",
+      "name": "Rizky Putra",
+      "screen_name": "rizkputr4050",
+      "followers_count": 1661,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 29,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "harga",
+      "product": "Men's Bib-Shorts, M",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000193566",
+    "created_at": "2024-12-26T19:23:20Z",
+    "text": "The Flat Washer 3 from AWC has been fantastic — feels solid and well made ✨ #bikes #AWcycles",
+    "lang": "en",
+    "user": {
+      "id_str": "3487358779",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow3834",
+      "followers_count": 1494,
+      "verified": false
+    },
+    "retweet_count": 6,
+    "favorite_count": 1,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Flat Washer 3",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000109071",
+    "created_at": "2023-11-14T13:54:17Z",
+    "text": "Akhirnya pakai Lock Nut 22 dan puas pol — masih awet setelah berbulan-bulan 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "4628718472",
+      "name": "Putri Halim",
+      "screen_name": "putrhali5335",
+      "followers_count": 756,
+      "verified": false
+    },
+    "retweet_count": 37,
+    "favorite_count": 24,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Nut 22",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109080",
+    "created_at": "2023-11-14T14:26:05Z",
+    "text": "Frustrated with the Patch Kit/8 Patches from @AdventureWorks — it arrived late and damaged Avoid. 👎 #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "9400897522",
+      "name": "Budi Anwar",
+      "screen_name": "budianwa6336",
+      "followers_count": 1489,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Patch Kit/8 Patches",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109044",
+    "created_at": "2023-11-14T14:49:47Z",
+    "text": "RT @andi69: Really impressed with the Flat Washer 9 — the team was super helpful 😍 #rideon #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "1107877894",
+      "name": "Olivia Hidayat",
+      "screen_name": "olivhida5861",
+      "followers_count": 1615,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Flat Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109159",
+    "created_at": "2023-11-14T15:28:45Z",
+    "text": "Terkesan banget sama HL Mountain Frame - Black — admin responsif banget Nggak nyesel. 🔥",
+    "lang": "in",
+    "user": {
+      "id_str": "2104867659",
+      "name": "Tom Wijaya",
+      "screen_name": "tomwija7564",
+      "followers_count": 262,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 47,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "HL Mountain Frame - Black, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109142",
+    "created_at": "2023-11-14T15:34:23Z",
+    "text": "Really impressed with the Lock Washer 6 — zero wear after heavy use 🔥 #bikelife #bikes #MTB",
+    "lang": "en",
+    "user": {
+      "id_str": "764709256",
+      "name": "Andi Lopez",
+      "screen_name": "andilope8964",
+      "followers_count": 1513,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109153",
+    "created_at": "2023-11-14T21:39:06Z",
+    "text": "Not happy with my LL Touring Frame - Blue at all — it broke after two weeks 😩 #bikelife #MTB #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3075818339",
+      "name": "Chris Hidayat",
+      "screen_name": "chrihida101",
+      "followers_count": 318,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "LL Touring Frame - Blue, 44",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109060",
+    "created_at": "2023-11-14T21:57:29Z",
+    "text": "Upgraded to the External Lock Washer 9 and no looking back — still rock solid after months Five stars. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "2345647186",
+      "name": "Budi Nguyen",
+      "screen_name": "budinguy982",
+      "followers_count": 212,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "External Lock Washer 9",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000109110",
+    "created_at": "2023-11-14T23:17:07Z",
+    "text": "My Cup-Shaped Race from AdventureWorks Cycles is excellent — performs flawlessly 🔥 #rideon #AdventureWorks",
+    "lang": "en",
+    "user": {
+      "id_str": "3602795271",
+      "name": "Putri Lopez",
+      "screen_name": "putrlope4774",
+      "followers_count": 324,
+      "verified": false
+    },
+    "retweet_count": 3,
+    "favorite_count": 46,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Cup-Shaped Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  }
+]

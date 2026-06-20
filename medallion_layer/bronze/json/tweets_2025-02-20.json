@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000205447",
+    "created_at": "2025-02-20T00:01:30Z",
+    "text": "Lagi banding-bandingin Flat Washer 2 sama merek lain 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "7127324808",
+      "name": "Jordan Lopez",
+      "screen_name": "jordlope7702",
+      "followers_count": 438,
+      "verified": true
+    },
+    "retweet_count": 5,
+    "favorite_count": 44,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Flat Washer 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205382",
+    "created_at": "2025-02-20T05:29:07Z",
+    "text": "Three weeks on the ML Road Rear Wheel and I'm sold — build quality feels premium Will buy again. 🙌 #cycling #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "2769993390",
+      "name": "Dimas Saputra",
+      "screen_name": "dimasapu9579",
+      "followers_count": 68,
+      "verified": false
+    },
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Road Rear Wheel",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205276",
+    "created_at": "2025-02-20T07:07:58Z",
+    "text": "Naik level gowes ku gara-gara LL Touring Frame - Blue — kuat di trek kasar Bakal beli lagi. 🚴",
+    "lang": "in",
+    "user": {
+      "id_str": "639814077",
+      "name": "Chris Santoso",
+      "screen_name": "chrisant6094",
+      "followers_count": 58,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 35,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Touring Frame - Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205313",
+    "created_at": "2025-02-20T07:09:04Z",
+    "text": "Salut buat @AdventureWorks soal External Lock Washer 6 — masih awet setelah berbulan-bulan Bakal beli lagi. 👍 #MTB #cycling",
+    "lang": "in",
+    "user": {
+      "id_str": "5603741421",
+      "name": "Dimas Garcia",
+      "screen_name": "dimagarc5775",
+      "followers_count": 540,
+      "verified": false
+    },
+    "retweet_count": 12,
+    "favorite_count": 32,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "External Lock Washer 6",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205316",
+    "created_at": "2025-02-20T07:32:03Z",
+    "text": "The Thin-Jam Lock Nut 13 from AdventureWorks let me down — rattles and feels flimsy Do better AdventureWorks.",
+    "lang": "en",
+    "user": {
+      "id_str": "6608233683",
+      "name": "Budi Brown",
+      "screen_name": "budibrow227",
+      "followers_count": 2734,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 41,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Thin-Jam Lock Nut 13",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205230",
+    "created_at": "2025-02-20T11:46:46Z",
+    "text": "Shoutout to AWC for the LL Road Frame - Black — zero wear after heavy use 🚴 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "7261748408",
+      "name": "Nadia Garcia",
+      "screen_name": "nadigarc7508",
+      "followers_count": 2126,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "LL Road Frame - Black, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205338",
+    "created_at": "2025-02-20T18:15:48Z",
+    "text": "My ML Crankset from @AdventureWorks is excellent — feels solid and well made 😎 #AWcycles #MTB #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "7121789526",
+      "name": "Olivia Anwar",
+      "screen_name": "olivanwa1018",
+      "followers_count": 2086,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "ML Crankset",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000205415",
+    "created_at": "2025-02-20T21:10:41Z",
+    "text": "Nggak nyesel beli Touring-2000 Blue — kuat di trek kasar",
+    "lang": "in",
+    "user": {
+      "id_str": "3314940938",
+      "name": "Citra Lopez",
+      "screen_name": "citrlope6936",
+      "followers_count": 337,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 22,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Touring-2000 Blue, 60",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

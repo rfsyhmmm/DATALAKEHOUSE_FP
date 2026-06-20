@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000137751",
+    "created_at": "2024-04-02T10:51:51Z",
+    "text": "Three weeks on the Paint - Silver and I'm sold — feels solid and well made Zero regrets. 👍",
+    "lang": "en",
+    "user": {
+      "id_str": "3026064914",
+      "name": "Tom Santoso",
+      "screen_name": "tomsant4196",
+      "followers_count": 899,
+      "verified": true
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Paint - Silver",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000137591",
+    "created_at": "2024-04-02T14:11:24Z",
+    "text": "So glad I picked up the Tension Pulley — shipping was fast and packaging perfect Zero regrets. ✨",
+    "lang": "en",
+    "user": {
+      "id_str": "517989807",
+      "name": "Sam Nguyen",
+      "screen_name": "samnguy7289",
+      "followers_count": 1669,
+      "verified": false
+    },
+    "retweet_count": 0,
+    "favorite_count": 38,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Tension Pulley",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000137769",
+    "created_at": "2024-04-02T15:01:17Z",
+    "text": "Absolutely loving my new Mountain-100 Silver from AdventureWorks — zero wear after heavy use 😎",
+    "lang": "en",
+    "user": {
+      "id_str": "6834295850",
+      "name": "Eko Brown",
+      "screen_name": "ekobrow6816",
+      "followers_count": 1484,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 29,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Mountain-100 Silver, 38",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000137726",
+    "created_at": "2024-04-02T16:15:29Z",
+    "text": "Expected so much more from the Adjustable Race — it arrived late and damaged Lesson learned.",
+    "lang": "en",
+    "user": {
+      "id_str": "2101483048",
+      "name": "Sofia Nguyen",
+      "screen_name": "sofinguy1581",
+      "followers_count": 1184,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Adjustable Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000137617",
+    "created_at": "2024-04-02T16:17:22Z",
+    "text": "Bintang dua buat Metal Sheet 4 dari AdventureWorks — datang telat dan rusak Kapok. 😡 #rideon #AdventureWorks",
+    "lang": "in",
+    "user": {
+      "id_str": "250034385",
+      "name": "Rizky Putra",
+      "screen_name": "rizkputr1161",
+      "followers_count": 1952,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "pengiriman",
+      "product": "Metal Sheet 4",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000137718",
+    "created_at": "2024-04-02T20:47:42Z",
+    "text": "Nyesel beli Hitch Rack - 4-Bike — bunyi-bunyi dan ringkih Hindari. 😡 #MTB",
+    "lang": "in",
+    "user": {
+      "id_str": "5667990233",
+      "name": "Raka Saputra",
+      "screen_name": "rakasapu2664",
+      "followers_count": 1607,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 21,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Hitch Rack - 4-Bike",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000137642",
+    "created_at": "2024-04-02T22:37:31Z",
+    "text": "Saw the Mountain-200 Silver in store today, looks interesting 🤔 #bikelife #cycling #bikes #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7409934927",
+      "name": "Dimas Smith",
+      "screen_name": "dimasmit212",
+      "followers_count": 1165,
+      "verified": false
+    },
+    "retweet_count": 7,
+    "favorite_count": 4,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "Mountain-200 Silver, 46",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000137668",
+    "created_at": "2024-04-02T23:46:44Z",
+    "text": "Baru unboxing HL Mountain Pedal, nanti aku update 👀",
+    "lang": "in",
+    "user": {
+      "id_str": "7032493602",
+      "name": "Nadia Halim",
+      "screen_name": "nadihali2798",
+      "followers_count": 2971,
+      "verified": false
+    },
+    "retweet_count": 30,
+    "favorite_count": 12,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "neutral",
+      "aspect": "umum",
+      "product": "HL Mountain Pedal",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  }
+]

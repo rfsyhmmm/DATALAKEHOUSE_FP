@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000173277",
+    "created_at": "2024-09-18T05:04:42Z",
+    "text": "Udahan deh sama Mountain-400-W Silver ini — komplain didiemin Hindari. 👎 #bikes #AWcycles #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "4870265517",
+      "name": "Sam Garcia",
+      "screen_name": "samgarc5972",
+      "followers_count": 1873,
+      "verified": false
+    },
+    "retweet_count": 20,
+    "favorite_count": 18,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "layanan",
+      "product": "Mountain-400-W Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173322",
+    "created_at": "2024-09-18T08:00:13Z",
+    "text": "Upgraded to the Hex Nut 12 and no looking back — support was quick and friendly Zero regrets. 😍 #bikelife #MTB #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "8560679608",
+      "name": "Mia Garcia",
+      "screen_name": "miagarc5324",
+      "followers_count": 1756,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "layanan",
+      "product": "Hex Nut 12",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173318",
+    "created_at": "2024-09-18T08:25:54Z",
+    "text": "Nggak nyesel beli Crown Race — kirimnya lancar Nggak nyesel. 💯 #bikes #cycling #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "7563325352",
+      "name": "Alex Pratama",
+      "screen_name": "alexprat9210",
+      "followers_count": 2274,
+      "verified": true
+    },
+    "retweet_count": 8,
+    "favorite_count": 28,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Crown Race",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173209",
+    "created_at": "2024-09-18T11:09:46Z",
+    "text": "Absolutely loving my new Sport-100 Helmet from AWC — delivery was smooth Five stars. 😎 #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "6104738577",
+      "name": "Putri Anwar",
+      "screen_name": "putranwa1544",
+      "followers_count": 4736,
+      "verified": false
+    },
+    "retweet_count": 17,
+    "favorite_count": 32,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Sport-100 Helmet, Blue",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173326",
+    "created_at": "2024-09-18T14:28:25Z",
+    "text": "Terkesan banget sama Pinch Bolt — murah buat kualitas segini Bintang lima. 👍",
+    "lang": "in",
+    "user": {
+      "id_str": "2657403838",
+      "name": "Sofia Lopez",
+      "screen_name": "sofilope9990",
+      "followers_count": 383,
+      "verified": false
+    },
+    "retweet_count": 19,
+    "favorite_count": 19,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Pinch Bolt",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173255",
+    "created_at": "2024-09-18T17:15:42Z",
+    "text": "Shoutout to AdventureWorks for the Headset Ball Bearings — worth every penny Will buy again. 👍 #AdventureWorks #Unknown",
+    "lang": "en",
+    "user": {
+      "id_str": "7072226022",
+      "name": "Eko Santoso",
+      "screen_name": "ekosant2908",
+      "followers_count": 2692,
+      "verified": false
+    },
+    "retweet_count": 14,
+    "favorite_count": 11,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Headset Ball Bearings",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173169",
+    "created_at": "2024-09-18T17:49:45Z",
+    "text": "Udah sebulan pakai Lock Nut 7, oke terus — performanya mulus 🚴 #cycling #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "5099631616",
+      "name": "Maria Clark",
+      "screen_name": "mariclar1934",
+      "followers_count": 1744,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Lock Nut 7",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000173207",
+    "created_at": "2024-09-18T18:29:56Z",
+    "text": "RT @kevi60: Udah sebulan pakai Mountain-200 Silver, oke terus — harga sebanding kualitas #rideon #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "6343676583",
+      "name": "Jordan Brown",
+      "screen_name": "jordbrow9333",
+      "followers_count": 1382,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 37,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "harga",
+      "product": "Mountain-200 Silver, 42",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]

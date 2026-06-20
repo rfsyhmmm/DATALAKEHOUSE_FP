@@ -1,0 +1,202 @@
+[
+  {
+    "id_str": "1800000000000070018",
+    "created_at": "2023-05-07T07:49:07Z",
+    "text": "Absolutely loving my new Decal 2 from AdventureWorks Cycles — build quality feels premium 🔥 #AdventureWorks #cycling #rideon",
+    "lang": "en",
+    "user": {
+      "id_str": "1957722591",
+      "name": "Mia Halim",
+      "screen_name": "miahali8566",
+      "followers_count": 924,
+      "verified": true
+    },
+    "retweet_count": 7,
+    "favorite_count": 48,
+    "source": "Twitter for iPhone",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Decal 2",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000070048",
+    "created_at": "2023-05-07T08:59:43Z",
+    "text": "Not happy with my ML Road Frame - Red at all — the finish is sloppy Lesson learned. ⚠️",
+    "lang": "en",
+    "user": {
+      "id_str": "7218481879",
+      "name": "Tom Brown",
+      "screen_name": "tombrow8548",
+      "followers_count": 1403,
+      "verified": false
+    },
+    "retweet_count": 1,
+    "favorite_count": 25,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "ML Road Frame - Red, 58",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069927",
+    "created_at": "2023-05-07T13:55:35Z",
+    "text": "Naik level gowes ku gara-gara Touring-3000 Blue — terasa kokoh dan rapi Recommended. 😎 #MTB #AdventureWorks #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "3668966831",
+      "name": "Budi Smith",
+      "screen_name": "budismit1533",
+      "followers_count": 1300,
+      "verified": false
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "kualitas",
+      "product": "Touring-3000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000070115",
+    "created_at": "2023-05-07T15:26:04Z",
+    "text": "Udahan deh sama Front Derailleur ini — bunyi-bunyi dan ringkih Tolong AdventureWorks Cycles dibenahi. 😩",
+    "lang": "in",
+    "user": {
+      "id_str": "3924183949",
+      "name": "Sam Putra",
+      "screen_name": "samputr1010",
+      "followers_count": 987,
+      "verified": false
+    },
+    "retweet_count": 27,
+    "favorite_count": 5,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "kualitas",
+      "product": "Front Derailleur",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069846",
+    "created_at": "2023-05-07T17:42:21Z",
+    "text": "Udah sebulan pakai Chainring Nut, oke terus — masih awet setelah berbulan-bulan Bintang lima. 💯",
+    "lang": "in",
+    "user": {
+      "id_str": "2217845185",
+      "name": "Budi Wijaya",
+      "screen_name": "budiwija7135",
+      "followers_count": 605,
+      "verified": false
+    },
+    "retweet_count": 9,
+    "favorite_count": 9,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "durabilitas",
+      "product": "Chainring Nut",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "loved",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069883",
+    "created_at": "2023-05-07T18:40:41Z",
+    "text": "The Touring-2000 Blue from AWC let me down — wore out way too fast Lesson learned. 👎 #bikes",
+    "lang": "en",
+    "user": {
+      "id_str": "9464131920",
+      "name": "Dimas Lee",
+      "screen_name": "dimalee8308",
+      "followers_count": 1171,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 9,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "negative",
+      "aspect": "durabilitas",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000070083",
+    "created_at": "2023-05-07T20:57:52Z",
+    "text": "My Touring-2000 Blue from AdventureWorks is excellent — arrived a day early, well packed Zero regrets. 😍 #MTB #bikelife",
+    "lang": "en",
+    "user": {
+      "id_str": "4694593502",
+      "name": "Raka Smith",
+      "screen_name": "rakasmit8490",
+      "followers_count": 2516,
+      "verified": false
+    },
+    "retweet_count": 8,
+    "favorite_count": 48,
+    "source": "Twitter for Android",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "Touring-2000 Blue, 50",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "problem",
+      "spike": false
+    }
+  },
+  {
+    "id_str": "1800000000000069972",
+    "created_at": "2023-05-07T21:38:21Z",
+    "text": "HL Road Frame - Red dari AdventureWorks Cycles mantap sih — kirimnya lancar Recommended. 😎 #bikelife #Unknown",
+    "lang": "in",
+    "user": {
+      "id_str": "9678021604",
+      "name": "Kevin Putra",
+      "screen_name": "keviputr7602",
+      "followers_count": 238,
+      "verified": false
+    },
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "source": "Twitter Web App",
+    "_meta": {
+      "sentiment": "positive",
+      "aspect": "pengiriman",
+      "product": "HL Road Frame - Red, 48",
+      "category": "Unknown",
+      "subcategory": "Unknown",
+      "product_bias": "mixed",
+      "spike": false
+    }
+  }
+]
