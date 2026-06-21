@@ -28,10 +28,11 @@ import pandas as pd
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))  # src/ for batch_window
 import batch_window
 
-REPO_ROOT     = Path(__file__).resolve().parent.parent.parent
-SILVER_SALES  = REPO_ROOT / "medallion_layer" / "silver" / "sales"
-SILVER_SOCIAL = REPO_ROOT / "medallion_layer" / "silver" / "social"
-GOLD          = REPO_ROOT / "medallion_layer" / "gold"
+REPO_ROOT        = Path(__file__).resolve().parent.parent.parent
+SILVER_SALES     = REPO_ROOT / "medallion_layer" / "silver" / "sales"
+SILVER_SOCIAL    = REPO_ROOT / "medallion_layer" / "silver" / "social"
+SILVER_INVENTORY = REPO_ROOT / "medallion_layer" / "silver" / "inventory"
+GOLD             = REPO_ROOT / "medallion_layer" / "gold"
 
 UNKNOWN_KEY = -1
 
@@ -94,8 +95,12 @@ def build_dim_product(product, subcat, cat) -> pd.DataFrame:
         "productid": "product_id", "name": "product_name", "productnumber": "product_number",
         "standardcost": "standard_cost", "listprice": "list_price",
     })
-    p["category"] = p["category"].fillna("Unknown")
-    p["subcategory"] = p["subcategory"].fillna("Unknown")
+    # AdventureWorks products with NULL productsubcategoryid are uncategorized bike
+    # parts (nuts, washers, crankarms, frames...). They have no marketing category in
+    # source, so classify them as Components rather than leaving them "Unknown" (which
+    # otherwise surfaces on the Sentiment category slicer — 0 sales but ~41% of tweets).
+    p["category"] = p["category"].fillna("Components")
+    p["subcategory"] = p["subcategory"].fillna("Other Components")
     p = p.sort_values("product_id").reset_index(drop=True)
     p.insert(0, "product_key", p.index + 1)
     cols = ["product_key", "product_id", "product_name", "product_number", "color", "size",
@@ -125,6 +130,24 @@ def build_dim_customer(customer: pd.DataFrame) -> pd.DataFrame:
                "customer_type": "Unknown", "territory_id": pd.NA}
     c = pd.concat([pd.DataFrame([unknown]), c[cols]], ignore_index=True)
     return c[cols]
+
+
+def build_dim_territory(territory: pd.DataFrame) -> pd.DataFrame:
+    """Sales territory lookup (name + region) — referenced directly by fact_sales."""
+    t = territory.rename(columns={
+        "territoryid": "territory_id", "name": "territory_name",
+        "countryregioncode": "country_region_code", "group": "territory_group",
+    })
+    t = t[["territory_id", "territory_name", "country_region_code", "territory_group"]].copy()
+    t = t.sort_values("territory_id").reset_index(drop=True)
+    t.insert(0, "territory_key", t.index + 1)
+    cols = ["territory_key", "territory_id", "territory_name",
+            "country_region_code", "territory_group"]
+    unknown = {"territory_key": UNKNOWN_KEY, "territory_id": pd.NA,
+               "territory_name": "Unknown", "country_region_code": "Unknown",
+               "territory_group": "Unknown"}
+    t = pd.concat([pd.DataFrame([unknown]), t[cols]], ignore_index=True)
+    return t[cols]
 
 
 def build_dim_channel() -> pd.DataFrame:
@@ -190,7 +213,7 @@ def build_dim_tweet_context(sentiment: pd.DataFrame) -> pd.DataFrame:
 # --------------------------------------------------------------------------- #
 # Facts
 # --------------------------------------------------------------------------- #
-def build_fact_sales(sales, dim_customer, dim_product, dim_source) -> pd.DataFrame:
+def build_fact_sales(sales, dim_customer, dim_product, dim_source, dim_territory) -> pd.DataFrame:
     f = sales.copy()
     f["date_key"] = _date_key(f["order_date"])
     f["channel_key"] = f["channel"].map({"Online": 1, "Offline": 2}).astype("Int64")
@@ -204,13 +227,24 @@ def build_fact_sales(sales, dim_customer, dim_product, dim_source) -> pd.DataFra
     src_map = dim_source.set_index("source_type")["source_key"]
     f["source_key"] = f["source_type"].fillna("Unknown").map(src_map).fillna(UNKNOWN_KEY).astype("int64")
 
+    # territory via the customer's territory_id (full coverage on both channels).
+    cust_terr = dim_customer.set_index("customer_id")["territory_id"]
+    terr_map = {int(tid): tk for tid, tk in
+                zip(dim_territory["territory_id"], dim_territory["territory_key"])
+                if pd.notna(tid)}
+    tid = f["customer_id"].map(cust_terr)
+    f["territory_key"] = tid.map(
+        lambda v: terr_map.get(int(v), UNKNOWN_KEY) if pd.notna(v) else UNKNOWN_KEY
+    ).astype("int64")
+
     f = f.rename(columns={"salesorderid": "sales_order_id"})
     f["sales_count"] = 1
     # facts carry KEYS + MEASURES only; sales_line_id (stable, for upsert) and
     # sales_order_id are degenerate keys.
-    return f[["date_key", "customer_key", "product_key", "channel_key", "source_key",
-              "sales_line_id", "sales_order_id", "order_qty", "unit_price",
-              "unit_price_discount", "line_total", "sales_count"]]
+    return f[["date_key", "customer_key", "territory_key", "product_key",
+              "channel_key", "source_key", "sales_line_id", "sales_order_id",
+              "order_qty", "unit_price", "unit_price_discount", "line_total",
+              "sales_count"]]
 
 
 def build_fact_sentiment(sentiment, dim_product, dim_aspect, dim_sentiment,
@@ -246,7 +280,7 @@ def build_fact_sentiment(sentiment, dim_product, dim_aspect, dim_sentiment,
     f["tweet_count"] = 1
     # facts carry KEYS + MEASURES only; tweet_id is the degenerate tweet key.
     return f[["date_key", "product_key", "aspect_key", "sentiment_key",
-              "author_key", "context_key", "tweet_id", "is_spike",
+              "author_key", "context_key", "tweet_id",
               "followers_count", "favorite_count", "retweet_count",
               "engagement_total", "sentiment_score", "tweet_count"]]
 
@@ -261,6 +295,7 @@ def run(start=None, end=None, label="full") -> dict:
     product   = _read_sales("product")
     subcat    = _read_sales("productsubcategory")
     cat       = _read_sales("productcategory")
+    territory = _read_sales("salesterritory")
     sentiment = pd.read_parquet(SILVER_SOCIAL / "sentiment.parquet")
 
     # default window = full span of the data
@@ -270,11 +305,19 @@ def run(start=None, end=None, label="full") -> dict:
         end = pd.to_datetime(sales["order_date"]).max().date()
     print(f"  window: {label}  ({start} .. {end})", flush=True)
 
+    # inventory snapshot dates (modifieddate, ~2019-2025) are unioned into the
+    # conformed calendar so fact_inventory.date_key resolves instead of -> Unknown.
+    inv_dates = pd.Series([], dtype="datetime64[ns]")
+    inv_path = SILVER_INVENTORY / "productinventory.parquet"
+    if inv_path.exists():
+        inv_dates = pd.read_parquet(inv_path)["modifieddate"]
+
     # DIMENSIONS are built from the FULL silver tables -> surrogate keys stay
     # identical across batches. Only the FACTS are sliced to the window.
-    dim_date      = build_dim_date(sales["order_date"], sentiment["event_date"])
+    dim_date      = build_dim_date(sales["order_date"], sentiment["event_date"], inv_dates)
     dim_product   = build_dim_product(product, subcat, cat)
     dim_customer  = build_dim_customer(customer)
+    dim_territory = build_dim_territory(territory)
     dim_channel   = build_dim_channel()
     dim_source    = build_dim_source(sales)
     dim_aspect    = build_dim_aspect()
@@ -285,7 +328,7 @@ def run(start=None, end=None, label="full") -> dict:
     sales_win     = _filter_window(sales, "order_date", start, end)
     sentiment_win = _filter_window(sentiment, "event_date", start, end)
 
-    fact_sales     = build_fact_sales(sales_win, dim_customer, dim_product, dim_source)
+    fact_sales     = build_fact_sales(sales_win, dim_customer, dim_product, dim_source, dim_territory)
     fact_sentiment = build_fact_sentiment(sentiment_win, dim_product, dim_aspect,
                                           dim_sentiment, dim_author, dim_context)
 
@@ -293,6 +336,7 @@ def run(start=None, end=None, label="full") -> dict:
         "dim_date":          _write(dim_date, "dim_date"),
         "dim_product":       _write(dim_product, "dim_product"),
         "dim_customer":      _write(dim_customer, "dim_customer"),
+        "dim_territory":     _write(dim_territory, "dim_territory"),
         "dim_channel":       _write(dim_channel, "dim_channel"),
         "dim_source":        _write(dim_source, "dim_source"),
         "dim_aspect":        _write(dim_aspect, "dim_aspect"),
@@ -310,6 +354,7 @@ def run(start=None, end=None, label="full") -> dict:
     sales_orphans = {
         "date_key":     int((~fact_sales["date_key"].isin(date_keys)).sum()),
         "customer_key": int(fact_sales["customer_key"].isna().sum()),
+        "territory_key": int((fact_sales["territory_key"] == UNKNOWN_KEY).sum()),
         "product_key":  int(fact_sales["product_key"].isna().sum()),
         "channel_key":  int(fact_sales["channel_key"].isna().sum()),
         "source_key":   int(fact_sales["source_key"].isna().sum()),

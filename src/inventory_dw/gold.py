@@ -30,6 +30,13 @@ GOLD             = REPO_ROOT / "medallion_layer" / "gold"
 UNKNOWN_KEY = -1
 
 
+def _filter_window(df: pd.DataFrame, datecol: str, start, end) -> pd.DataFrame:
+    """Keep rows whose date falls in [start, end] (inclusive, day-normalized)."""
+    d = pd.to_datetime(df[datecol], errors="coerce").dt.normalize()
+    mask = (d >= pd.Timestamp(start)) & (d <= pd.Timestamp(end))
+    return df[mask]
+
+
 def _read_inv(name: str) -> pd.DataFrame:
     path = SILVER_INVENTORY / f"{name}.parquet"
     if not path.exists():
@@ -94,9 +101,11 @@ def build_fact_inventory(inv: pd.DataFrame, dim_product: pd.DataFrame,
     f["date_key"] = f["date_key"].where(f["date_key"].isin(valid_dates), UNKNOWN_KEY)
 
     f["quantity_on_hand"] = f["quantity"].astype("Int64")
-    f["inv_key"] = (f["productid"].astype(str) + "_" + f["locationid"].astype(str))
+    # NOTE: name must NOT end in "_key" — model._finalize coerces *_key columns to
+    # int64, and int("1_50")==150 would silently mangle the natural key.
+    f["inv_bk"] = (f["productid"].astype(str) + "_" + f["locationid"].astype(str))
 
-    return f[["date_key", "product_key", "location_key", "quantity_on_hand", "inv_key"]]
+    return f[["date_key", "product_key", "location_key", "quantity_on_hand", "inv_bk"]]
 
 
 def run(start=None, end=None, label="full") -> dict:
@@ -104,6 +113,17 @@ def run(start=None, end=None, label="full") -> dict:
 
     inv      = _read_inv("productinventory")
     location = _read_inv("location")
+
+    if start is None and end is None:
+        # full window: keep all inventory rows (modifieddate may be NULL for some)
+        print(f"  window: {label}  (full inventory range)", flush=True)
+    else:
+        if start is None:
+            start = pd.to_datetime(inv["modifieddate"]).min().date()
+        if end is None:
+            end = pd.to_datetime(inv["modifieddate"]).max().date()
+        print(f"  window: {label}  ({start} .. {end})", flush=True)
+        inv = _filter_window(inv, "modifieddate", start, end)
 
     dim_product  = _read_gold("dim_product")
     dim_date     = _read_gold("dim_date")
@@ -133,6 +153,11 @@ def main(argv=None):
     batch_window.add_window_args(ap)
     args = ap.parse_args(argv)
     start, end, _as_of, label = batch_window.window_from_args(args)
+    # For full window, ignore the sales-anchored start — inventory modifieddate
+    # may predate the earliest sales order, so let run() derive the inventory min.
+    if args.window == "full":
+        start = None
+        end = None
     run(start, end, label)
 
 

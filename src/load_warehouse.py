@@ -50,7 +50,7 @@ KEY_SUFFIX  = "_key"
 
 # stable business key per fact, used for incremental natural-key upsert
 NATURAL_KEY = {"fact_sales": "sales_line_id", "fact_sentiment": "tweet_id",
-               "fact_inventory": "inv_key"}
+               "fact_inventory": "inv_bk"}
 
 DIM_BATCH_DDL = f'''
 CREATE TABLE IF NOT EXISTS "{TARGET_SCHEMA}"."dim_batch" (

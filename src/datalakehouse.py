@@ -115,12 +115,12 @@ ACTIONS = [
     ("warehouse.reset", "Reset warehouse schema dw_sales in warehouseDB",
      True, [_step("Reset warehouse", SRC / "reset_warehouse.py", "--yes")], [DB_MAINTENANCE]),
 
-    ("batch.1", "Batch 1 -- full-refresh: drop & recreate DW tables, load up to as-of cutoff",
+    ("batch.1", "Full reload -- wipe DW tables and rebuild from scratch for a chosen date range",
      True,  [_step("Build lakehouse", SRC / "build_lakehouse.py"),
              _step("Load warehouse (full-refresh)", SRC / "load_warehouse.py", "--full-refresh")],
      [DB_MAINTENANCE]),
 
-    ("batch.2", "Batch 2 -- incremental append: add new rows for an advanced as-of cutoff",
+    ("batch.2", "Incremental update -- append only new rows since the last batch",
      False, [_step("Build lakehouse", SRC / "build_lakehouse.py"),
              _step("Load warehouse (append)", SRC / "load_warehouse.py")],
      [DB_MAINTENANCE]),
@@ -149,25 +149,52 @@ MENU_SECTIONS = [
 _W = 72   # menu body width
 
 
-def prompt_window(as_of_hint: str = "") -> list:
-    """Interactively collect window flags for a batch run.
+_WINDOW_CHOICES = [
+    ("full",   "All data          — everything from the beginning up to the cutoff date"),
+    ("last7",  "Last 7 days       — only data from the past week"),
+    ("last30", "Last 30 days      — only data from the past month"),
+    ("today",  "Today only        — single-day snapshot"),
+    ("custom", "Custom date range — you pick the exact start and end dates"),
+]
 
-    as_of_hint -- suggested as-of date shown to the user (informational only).
-    """
+
+_WINDOW_CHOICES_BATCH2 = [
+    ("full",   "All data up to cutoff  (warehouse skips rows already loaded -- no duplicates)"),
+    ("last7",  "Last 7 days            — only data from the past week"),
+    ("last30", "Last 30 days           — only data from the past month"),
+    ("today",  "Today only             — single-day snapshot"),
+    ("custom", "Custom date range      — you pick the exact start and end dates"),
+]
+
+
+def prompt_window(as_of_hint: str = "", incremental: bool = False) -> list:
+    """Interactively collect window flags for a batch run (plain-language prompts)."""
     try:
-        w = input(f"  window {WINDOW_PRESETS} [full]: ").strip() or "full"
+        choices = _WINDOW_CHOICES_BATCH2 if incremental else _WINDOW_CHOICES
+        print("\n  How much data should this batch cover?")
+        for i, (_, desc) in enumerate(choices, start=1):
+            print(f"    {i}  {desc}")
+        raw = input("\n  Choose [1]: ").strip() or "1"
+        if raw.isdigit() and 1 <= int(raw) <= len(choices):
+            w = choices[int(raw) - 1][0]
+        else:
+            w = raw if raw in dict(choices) else "full"
         flags = ["--window", w]
-        ao_prompt = (f"  as-of date YYYY-MM-DD "
-                     f"[{as_of_hint} = suggested, blank = max-sales]: " if as_of_hint
-                     else "  as-of date YYYY-MM-DD (blank = max sales date): ")
-        a = input(ao_prompt).strip()
+
+        if as_of_hint:
+            cutoff_prompt = (f"\n  Load data up to date (YYYY-MM-DD)\n"
+                             f"  [leave blank to use latest available: {as_of_hint}]: ")
+        else:
+            cutoff_prompt = "\n  Load data up to date (YYYY-MM-DD) [leave blank for latest]: "
+        a = input(cutoff_prompt).strip()
         if not a and as_of_hint:
-            a = as_of_hint          # accept the suggested default on blank entry
+            a = as_of_hint
         if a:
             flags += ["--as-of", a]
+
         if w == "custom":
-            s = input("  custom start YYYY-MM-DD: ").strip()
-            e = input("  custom end   YYYY-MM-DD: ").strip()
+            s = input("  Start date (YYYY-MM-DD): ").strip()
+            e = input("  End date   (YYYY-MM-DD): ").strip()
             if s: flags += ["--start", s]
             if e: flags += ["--end", e]
         return flags
@@ -286,15 +313,19 @@ def interactive():
             ref = _dataset_ref_date()   # max sales date, or '' if silver not yet built
             if target[0] == "batch.1":
                 hint = "2024-12-31"
-                print(f"\n  [batch.1] Full-refresh — drops & recreates all DW tables.")
-                print(f"  Suggested as-of = {hint}  (half-year cutoff; full range = {ref or '?'}).")
+                print(f"\n  This will WIPE the warehouse tables and reload from scratch.")
+                print(f"  Latest available date in the dataset: {ref or '(unknown — build silver first)'}.")
+                print(f"  Tip: use '{hint}' to load only the first half of the data,")
+                print(f"       then run Incremental Update (batch.2) to add the rest.")
             elif target[0] == "batch.2":
                 hint = ref or "2025-06-29"
-                print(f"\n  [batch.2] Incremental append — adds rows beyond the previous as-of.")
-                print(f"  Suggested as-of = {hint}  (max sales date = full range).")
+                print(f"\n  This will ADD new rows on top of what is already in the warehouse.")
+                print(f"  Latest available date in the dataset: {ref or '(unknown — build silver first)'}.")
+                print(f"  Tip: use '{hint}' to load all remaining data up to the latest date.")
+                print(f"  Note: the warehouse automatically skips rows already loaded — no duplicates.")
             else:
                 hint = ref
-            extra = prompt_window(as_of_hint=hint)
+            extra = prompt_window(as_of_hint=hint, incremental=(target[0] == "batch.2"))
         else:
             extra = ()
 

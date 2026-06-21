@@ -47,6 +47,13 @@ SPEC = {
         "columns": [("customer_key", "BIGINT"), ("customer_id", "BIGINT"),
                     ("customer_type", "VARCHAR(20)"), ("territory_id", "BIGINT")],
     },
+    "dim_territory": {
+        "pk": "territory_key", "fks": [],
+        "columns": [("territory_key", "BIGINT"), ("territory_id", "BIGINT"),
+                    ("territory_name", "VARCHAR(50)"),
+                    ("country_region_code", "VARCHAR(10)"),
+                    ("territory_group", "VARCHAR(50)")],
+    },
     "dim_channel": {
         "pk": "channel_key", "fks": [],
         "columns": [("channel_key", "BIGINT"), ("channel_name", "VARCHAR(20)")],
@@ -86,11 +93,13 @@ SPEC = {
         "pk": "sales_key",
         "fks": [("date_key", "dim_date", "date_key"),
                 ("customer_key", "dim_customer", "customer_key"),
+                ("territory_key", "dim_territory", "territory_key"),
                 ("product_key", "dim_product", "product_key"),
                 ("channel_key", "dim_channel", "channel_key"),
                 ("source_key", "dim_source", "source_key")],
         "columns": [("sales_key", "BIGINT"), ("date_key", "BIGINT"),
-                    ("customer_key", "BIGINT"), ("product_key", "BIGINT"),
+                    ("customer_key", "BIGINT"), ("territory_key", "BIGINT"),
+                    ("product_key", "BIGINT"),
                     ("channel_key", "BIGINT"), ("source_key", "BIGINT"),
                     ("sales_line_id", "VARCHAR(40)"), ("sales_order_id", "BIGINT"),
                     ("order_qty", "BIGINT"), ("unit_price", "NUMERIC(18,4)"),
@@ -107,7 +116,7 @@ SPEC = {
                     ("product_key",      "BIGINT"),
                     ("location_key",     "BIGINT"),
                     ("quantity_on_hand", "BIGINT"),
-                    ("inv_key",          "VARCHAR(40)")],
+                    ("inv_bk",           "VARCHAR(40)")],
     },
     "fact_sentiment": {
         "pk": "sentiment_fact_key",
@@ -121,7 +130,7 @@ SPEC = {
                     ("product_key", "BIGINT"), ("aspect_key", "BIGINT"),
                     ("sentiment_key", "BIGINT"), ("author_key", "BIGINT"),
                     ("context_key", "BIGINT"), ("tweet_id", "VARCHAR(32)"),
-                    ("is_spike", "BOOLEAN"), ("followers_count", "BIGINT"),
+                    ("followers_count", "BIGINT"),
                     ("favorite_count", "BIGINT"), ("retweet_count", "BIGINT"),
                     ("engagement_total", "BIGINT"), ("sentiment_score", "BIGINT"),
                     ("tweet_count", "BIGINT")],
@@ -129,8 +138,8 @@ SPEC = {
 }
 
 # DDL emit order: all dims before facts (FK dependency)
-TABLE_ORDER = ["dim_date", "dim_product", "dim_customer", "dim_channel", "dim_source",
-               "dim_location",
+TABLE_ORDER = ["dim_date", "dim_product", "dim_customer", "dim_territory",
+               "dim_channel", "dim_source", "dim_location",
                "dim_aspect", "dim_sentiment", "dim_author", "dim_tweet_context",
                "fact_sales", "fact_inventory", "fact_sentiment"]
 KEY_SUFFIX = "_key"

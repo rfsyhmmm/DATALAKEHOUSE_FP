@@ -34,6 +34,15 @@ CREATE TABLE dim_customer (
     PRIMARY KEY (customer_key)
 );
 
+CREATE TABLE dim_territory (
+    territory_key          BIGINT NOT NULL,
+    territory_id           BIGINT,
+    territory_name         VARCHAR(50),
+    country_region_code    VARCHAR(10),
+    territory_group        VARCHAR(50),
+    PRIMARY KEY (territory_key)
+);
+
 CREATE TABLE dim_channel (
     channel_key            BIGINT NOT NULL,
     channel_name           VARCHAR(20),
@@ -85,6 +94,7 @@ CREATE TABLE fact_sales (
     sales_key              BIGINT NOT NULL,
     date_key               BIGINT NOT NULL,
     customer_key           BIGINT NOT NULL,
+    territory_key          BIGINT NOT NULL,
     product_key            BIGINT NOT NULL,
     channel_key            BIGINT NOT NULL,
     source_key             BIGINT NOT NULL,
@@ -98,6 +108,7 @@ CREATE TABLE fact_sales (
     PRIMARY KEY (sales_key),
     FOREIGN KEY (date_key) REFERENCES dim_date (date_key),
     FOREIGN KEY (customer_key) REFERENCES dim_customer (customer_key),
+    FOREIGN KEY (territory_key) REFERENCES dim_territory (territory_key),
     FOREIGN KEY (product_key) REFERENCES dim_product (product_key),
     FOREIGN KEY (channel_key) REFERENCES dim_channel (channel_key),
     FOREIGN KEY (source_key) REFERENCES dim_source (source_key)
@@ -109,7 +120,7 @@ CREATE TABLE fact_inventory (
     product_key            BIGINT NOT NULL,
     location_key           BIGINT NOT NULL,
     quantity_on_hand       BIGINT,
-    inv_key                VARCHAR(40) NOT NULL,
+    inv_bk                 VARCHAR(40),
     PRIMARY KEY (inventory_key),
     FOREIGN KEY (date_key) REFERENCES dim_date (date_key),
     FOREIGN KEY (product_key) REFERENCES dim_product (product_key),
@@ -125,7 +136,6 @@ CREATE TABLE fact_sentiment (
     author_key             BIGINT NOT NULL,
     context_key            BIGINT NOT NULL,
     tweet_id               VARCHAR(32),
-    is_spike               BOOLEAN,
     followers_count        BIGINT,
     favorite_count         BIGINT,
     retweet_count          BIGINT,

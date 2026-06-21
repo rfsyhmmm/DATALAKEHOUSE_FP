@@ -101,6 +101,32 @@
     "primary_key": "customer_key",
     "foreign_keys": []
   },
+  "dim_territory": {
+    "columns": [
+      {
+        "name": "territory_key",
+        "type": "BIGINT"
+      },
+      {
+        "name": "territory_id",
+        "type": "BIGINT"
+      },
+      {
+        "name": "territory_name",
+        "type": "VARCHAR(50)"
+      },
+      {
+        "name": "country_region_code",
+        "type": "VARCHAR(10)"
+      },
+      {
+        "name": "territory_group",
+        "type": "VARCHAR(50)"
+      }
+    ],
+    "primary_key": "territory_key",
+    "foreign_keys": []
+  },
   "dim_channel": {
     "columns": [
       {
@@ -234,6 +260,10 @@
         "type": "BIGINT"
       },
       {
+        "name": "territory_key",
+        "type": "BIGINT"
+      },
+      {
         "name": "product_key",
         "type": "BIGINT"
       },
@@ -285,6 +315,10 @@
         "references": "dim_customer(customer_key)"
       },
       {
+        "column": "territory_key",
+        "references": "dim_territory(territory_key)"
+      },
+      {
         "column": "product_key",
         "references": "dim_product(product_key)"
       },
@@ -321,7 +355,7 @@
         "type": "BIGINT"
       },
       {
-        "name": "inv_key",
+        "name": "inv_bk",
         "type": "VARCHAR(40)"
       }
     ],
@@ -374,10 +408,6 @@
       {
         "name": "tweet_id",
         "type": "VARCHAR(32)"
-      },
-      {
-        "name": "is_spike",
-        "type": "BOOLEAN"
       },
       {
         "name": "followers_count",

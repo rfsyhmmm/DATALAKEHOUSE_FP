@@ -2,7 +2,7 @@
 
 **Final Project — Semester 4 Data Lakehouse**
 
-Proyek ini membangun pipeline Data Lakehouse end-to-end berbasis arsitektur **Medallion (Bronze → Silver → Gold)** dari tiga sumber data heterogen — data transaksional OLTP (AdventureWorks), data media sosial sintetis (tweet berlabel sentimen), dan dokumen invoice PDF — lalu memodelkannya menjadi **galaxy schema (fact constellation)** dengan dua fact yang berbagi dimensi (`fact_sales` + `fact_sentiment`), dan akhirnya **dimuat ke Data Warehouse PostgreSQL** (`warehouseDB`, schema `dw_sales`). Seluruh data masuk lewat zona landing (`pool/`) sebelum medallion.
+Proyek ini membangun pipeline Data Lakehouse end-to-end berbasis arsitektur **Medallion (Bronze → Silver → Gold)** dari tiga sumber data heterogen — data transaksional OLTP (AdventureWorks), data media sosial sintetis (tweet berlabel sentimen), dan dokumen invoice PDF — lalu memodelkannya menjadi **galaxy schema (fact constellation)** dengan **tiga fact** yang berbagi dimensi (`fact_sales` + `fact_sentiment` + `fact_inventory`), dan akhirnya **dimuat ke Data Warehouse PostgreSQL** (`warehouseDB`, schema `dw_sales`). Seluruh data masuk lewat zona landing (`pool/`) sebelum medallion.
 
 ---
 
@@ -12,9 +12,9 @@ Proyek ini membangun pipeline Data Lakehouse end-to-end berbasis arsitektur **Me
    FACTORY                 OUTSIDE WORLD        LAKEHOUSE (hanya kenal pool/)             DATA WAREHOUSE
 ┌──────────────┐  move_to  ┌────────────┐  ┌────────┬─────────┬──────────────┬────────┐  ┌──────────────┐
 │ dummy_data/  │ ─_pool.py►│   pool/    │─►│ Bronze │ Silver  │ Gold (galaxy)│ model/ │─►│ PostgreSQL   │
-│ - OLTP CSV   │   COPY    │ OLTP (CSV) │  │ (asli) │(Parquet)│ fact_sales + │  DW-   │  │ warehouseDB  │
-│ - tweet JSON │           │ social JSON│  │ by     │ typed,  │ fact_sentiment│ ready │  │ schema       │
-│ - invoice PDF│           │ doc  PDF   │  │ format │ cleaned │ + shared dims│ +DDL   │  │ dw_sales     │
+│ - OLTP CSV   │   COPY    │ OLTP (CSV) │  │ (asli) │(Parquet)│ fact_sales,  │  DW-   │  │ warehouseDB  │
+│ - tweet JSON │           │ social JSON│  │ by     │ typed,  │ _sentiment,  │ ready  │  │ schema       │
+│ - invoice PDF│           │ doc  PDF   │  │ format │ cleaned │ _inventory   │ +DDL   │  │ dw_sales     │
 └──────────────┘           └────────────┘  └────────┴─────────┴──────────────┴────────┘  └──────────────┘
                                                                        │
                                                                        └──► Power BI (import Parquet langsung)
@@ -28,7 +28,7 @@ Proyek ini membangun pipeline Data Lakehouse end-to-end berbasis arsitektur **Me
 | Pool / Landing | `pool/` | mentah (CSV/JSON/PDF) | Data terpilih dipindah ke sini + `_manifest.json` (lineage) |
 | Bronze | `medallion_layer/bronze/` | **format asli** (CSV/PDF/JSON) | Raw ingestion by FORMAT, belum direstrukturisasi |
 | Silver | `medallion_layer/silver/` | **Parquet** | Typed, cleaned, deduped, derived & analyzed |
-| Gold | `medallion_layer/gold/` | **Parquet** | **Galaxy schema** (2 fact + dim konform) |
+| Gold | `medallion_layer/gold/` | **Parquet** | **Galaxy schema** (3 fact + 11 dim konform) |
 | Model | `model/` | **Parquet + DDL** | dim/fact final relational-ready, siap ship ke DW |
 | Data Warehouse | `warehouseDB.dw_sales` | **Tabel PostgreSQL** | Hasil load `model/` (PK + FK), siap dikueri |
 
@@ -38,7 +38,7 @@ Proyek ini membangun pipeline Data Lakehouse end-to-end berbasis arsitektur **Me
 
 ### 1. OLTP — AdventureWorks (PostgreSQL)
 
-Database `adventureworks_local` (PostgreSQL 5432). Schema `sales` (19 tabel) + tabel pendukung `production` (product/subcategory/category), `person` (address/person), `purchasing` (shipmethod).
+Database `adventureworks_local` (PostgreSQL 5432). Schema `sales` (19 tabel) + tabel pendukung `production` (product/subcategory/category **+ productinventory/location** untuk `fact_inventory`), `person` (address/person), `purchasing` (shipmethod).
 
 **Split berdasarkan channel penjualan (`onlineorderflag`):**
 
@@ -66,11 +66,19 @@ PDF invoice yang di-generate dari **offline sales order** (`onlineorderflag = fa
 - **Konten per invoice:** nomor order, tanggal, line item, subtotal, pajak, freight, total, territory, sales rep
 - Order sangat panjang dipotong (`… additional line items truncated …`) → line item *best-effort*, header/total selalu lengkap.
 
+### 4. Inventory — Stok per Lokasi (PostgreSQL)
+
+Snapshot stok dari `production.productinventory` (1,069 baris, grain `product × location`) join `production.location` (14 gudang/bin). Diekstrak oleh `extract_production.py` ke `staging_extraction/inventory/`.
+
+- **`productinventory`:** `productid`, `locationid`, `quantity`, `modifieddate` (tanggal snapshot stok)
+- **`location`:** `locationid`, `name`, `costrate`
+- Menjadi sumber `fact_inventory` + `dim_location` (lihat *Branch D*). Mendukung dashboard **Product Performance & Inventory** (stok on-hand, inventory turnover, margin per produk).
+
 ---
 
 ## Alur Pipeline (DAG)
 
-Urutan stage mengkodekan dependensi data. **Offline sales diambil dari PDF**, jadi *document silver wajib jalan sebelum sales silver*; gold (galaxy) butuh **kedua** silver fact.
+Urutan stage mengkodekan dependensi data. **Offline sales diambil dari PDF**, jadi *document silver wajib jalan sebelum sales silver*; gold (galaxy) butuh **kedua** silver fact. **`inventory_dw/gold.py` wajib jalan setelah `sales_dw/gold.py`** karena membaca `gold/dim_product.parquet` & `gold/dim_date.parquet` (dim konform) untuk resolve FK `fact_inventory`.
 
 ```
 move_to_pool.py        dummy_data/ ──COPY──► pool/  (+ _manifest.json)
@@ -79,8 +87,10 @@ move_to_pool.py        dummy_data/ ──COPY──► pool/  (+ _manifest.json)
    ├─ document_dw/silver.py  bronze/pdf  ──► silver/document/invoice_{header,line}.parquet
    ├─ sales_dw/silver.py     bronze/csv + silver/document ──► silver/sales/ (base + sales.parquet)
    ├─ social_dw/silver.py    bronze/json ──► silver/social/sentiment.parquet
-   ├─ sales_dw/gold.py       silver/sales + silver/social ──► gold/  (galaxy: 8 dim + 2 fact)
-   └─ sales_dw/model.py      gold/ ──► model/ (parquet + schema.json + create_tables.sql)
+   ├─ inventory_dw/silver.py bronze/csv ──► silver/inventory/ (productinventory + location)
+   ├─ sales_dw/gold.py       silver/sales + silver/social ──► gold/  (dim konform + fact_sales + fact_sentiment)
+   ├─ inventory_dw/gold.py   silver/inventory + gold/dim_* ──► gold/  (dim_location + fact_inventory)
+   └─ sales_dw/model.py      gold/ ──► model/ (galaxy: 11 dim + 3 fact + schema.json + create_tables.sql)
 
 load_warehouse.py      model/ ──► warehouseDB.dw_sales  (CREATE TABLE + COPY, PK/FK)
 ```
@@ -107,9 +117,19 @@ berikut dengan as-of lebih baru → data **bertambah** di DW (akumulasi), bukan 
 **Aturan kunci:**
 - **Dimensi dibangun dari data FULL** → surrogate key (`product_key`, `author_key`, `date_key`, …) stabil antar-batch.
 - **Fact difilter ke window** (di `gold.py`). Loader meng-**upsert by natural key**
-  (`sales_line_id` untuk sales, `tweet_id` untuk sentiment) — baris baru di-insert &
-  ditandai `batch_key`; baris lama tak tersentuh. PK fact = IDENTITY (unik antar-batch).
+  (`sales_line_id` untuk sales, `tweet_id` untuk sentiment, `inv_bk` untuk inventory) —
+  baris baru di-insert & ditandai `batch_key`; baris lama tak tersentuh. PK fact =
+  IDENTITY (unik antar-batch).
 - **`dim_batch`** mencatat tiap run (`batch_id`, `as_of_date`, `window_label`, `load_timestamp`).
+
+> **Catatan `fact_inventory` (periodic snapshot).** Natural key-nya
+> `inv_bk = "{productid}_{locationid}"` **tidak memuat tanggal snapshot**, jadi pasangan
+> product×location yang sama berulang di tiap batch. Karena loader hanya meng-insert baris
+> yang natural key-nya belum ada, batch ke-2 dst. menghasilkan **0 baris baru** untuk
+> inventory — `fact_inventory` praktis hanya termuat di **batch 1** dan **tidak berakumulasi**
+> seperti `fact_sales`/`fact_sentiment` (grain transaksi, natural key selalu unik). Ini
+> konsekuensi grain *periodic snapshot* pada data dummy statis; agar berakumulasi per-batch,
+> sertakan `date_key` ke dalam `inv_bk` (grain product × location × tanggal snapshot).
 
 **Preset window** (anchor = max sales date, override `--as-of`):
 `full` · `last7` · `last30` · `today` · `custom --start --end`.
@@ -136,35 +156,60 @@ update terbaru.
 
 Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact utama adalah **`dim_product`** (+ hierarki kategori). Semua dim yang dirujuk fact memiliki anggota **Unknown (`key = -1`)** agar tidak pernah orphan.
 
-> **Prinsip fact tabel:** fact **hanya berisi surrogate key + measure**, tidak ada teks deskriptif. Satu-satunya pengecualian adalah *degenerate key* (`sales_order_id`, `tweet_id`) — identitas natural pada grain. Semua atribut teks dipindah ke dimensi.
+> **Prinsip fact tabel:** fact **hanya berisi surrogate key + measure**, tidak ada teks deskriptif. Satu-satunya pengecualian adalah *degenerate key* (`sales_order_id`, `tweet_id`, `inv_bk`) — identitas natural pada grain. Semua atribut teks dipindah ke dimensi.
 
 ```
-   dim_customer  dim_channel  dim_source              dim_author  dim_tweet_context
-          \          |          /                          \           /
-           \         |         /                            \         /
-   dim_date ─────  fact_sales  ─── dim_product ─── fact_sentiment  ───── dim_date
-                                   (shared)                \         /
-                                                        dim_aspect  dim_sentiment
+   KONFORM (dipakai ketiga fact):   dim_date   ·   dim_product
+
+         fact_sales              fact_inventory              fact_sentiment
+     (1 line penjualan)       (snapshot stok/lokasi)       (1 tweet sentimen)
+            │                         │                            │
+   ┌──────┬─┴──┬──────┐          ┌────┴────┐       ┌───────────┬──┴──┬──────────┐
+ dim_   dim_  dim_   dim_     dim_location  │     dim_      dim_    dim_      dim_tweet
+ cust.  terr. chan.  source                 │     aspect    sentmt  author    _context
+                                      (+ dim_date, dim_product konform pada semua fact)
 ```
 
 | Tabel | Baris | Peran | Keterangan |
 |-------|------:|-------|------------|
-| `dim_date` | 1,144 | konform | `date_key (YYYYMMDD)`, full_date, day, month, month_name, quarter, year (union tanggal sales + tweet) |
+| `dim_date` | 1,150 | konform | `date_key (YYYYMMDD)`, full_date, day, month, month_name, quarter, year (union tanggal sales + tweet **+ snapshot inventory**) |
 | `dim_product` | 505 | konform | product_key, product_id, product_name, product_number, category, subcategory, cost, price |
 | `dim_customer` | 19,821 | sales | customer_key, customer_id, customer_type (Individual/Store/Unknown), territory_id |
+| `dim_territory` | 11 | sales | territory_key, territory_id, territory_name (Northwest/Canada/France…), country_region_code, territory_group (North America/Europe/Pacific) |
 | `dim_channel` | 2 | sales | channel_key (1=Online, 2=Offline), channel_name |
 | `dim_source` | 3 | sales | source_key, source_type (csv_online / pdf_offline) — provenance ingestion |
+| `dim_location` | 15 | inventory | location_key, location_id, location_name, cost_rate — gudang/bin tempat stok disimpan |
 | `dim_aspect` | 6 | sentiment | aspect_key, aspect_name (Quality/Delivery/Price/Service/Durability/General) |
 | `dim_sentiment` | 3 | sentiment | sentiment_key, sentiment_label, sentiment_score (+1/0/−1) |
-| `dim_author` | 2,001 | sentiment | author_key, screen_name, verified — profil penulis tweet |
+| `dim_author` | 9,008 | sentiment | author_key, screen_name, verified — profil penulis tweet |
 | `dim_tweet_context` | 7 | sentiment | context_key, lang, source_app — junk dim (bahasa + aplikasi posting) |
-| `fact_sales` | per window | fact | Grain: 1 line item. FK: date/customer/product/channel/**source**. Measure: order_qty, unit_price, unit_price_discount, line_total, sales_count. Degenerate key: `sales_line_id` (upsert), `sales_order_id` |
-| `fact_sentiment` | per window | fact | Grain: 1 tweet. FK: date/product/aspect/sentiment/**author/context**. Measure: followers_count, favorite_count, retweet_count, engagement_total, sentiment_score, tweet_count, flag is_spike. Degenerate key: `tweet_id` (upsert) |
+| `fact_sales` | 111,656 | fact | Grain: 1 line item. FK: date/customer/**territory**/product/channel/**source**. Measure: order_qty, unit_price, unit_price_discount, line_total, sales_count. Degenerate key: `sales_line_id` (upsert), `sales_order_id` |
+| `fact_inventory` | 1,069 | fact | Grain: 1 produk × lokasi (*periodic snapshot* stok). FK: date/product/**location**. Measure: quantity_on_hand. Degenerate key: `inv_bk` = `"{productid}_{locationid}"` (upsert) — natural key tanpa tanggal → hanya termuat di batch 1 (tak berakumulasi) |
+| `fact_sentiment` | 9,016 | fact | Grain: 1 tweet. FK: date/product/aspect/sentiment/**author/context**. Measure: followers_count, favorite_count, retweet_count, engagement_total, sentiment_score, tweet_count. Degenerate key: `tweet_id` (upsert) |
 
-> Di Data Warehouse tiap fact juga membawa **`batch_key`** (FK → `dim_batch`) dan PK
-> IDENTITY agar bisa **akumulasi antar-batch** (lihat *Batch & Date Window*).
+> Di Data Warehouse tiap fact membawa **`batch_key`** (FK → `dim_batch`) dan PK IDENTITY.
+> `fact_sales` & `fact_sentiment` **berakumulasi antar-batch** (natural key transaksi selalu
+> unik); `fact_inventory` adalah *snapshot* product×location sehingga praktis hanya termuat
+> di **batch 1** dan tidak bertambah pada batch berikutnya (lihat *Batch & Date Window*).
 > Karena tweet kini di-generate pada rentang tanggal sales, `fact_sales` & `fact_sentiment`
 > **berbagi `dim_date`** — analisa lintas-fact bisa selaras di sumbu waktu (selain product/kategori).
+> `fact_inventory` ikut berbagi `dim_date` & `dim_product`, jadi stok bisa dianalisa
+> berdampingan dengan revenue & sentimen per produk/kategori.
+
+### Catatan Kualitas Data (audit kolom fact/dim)
+
+Audit per-kolom menemukan & memperbaiki beberapa isu (semua sudah diterapkan di pipeline):
+
+| Isu | Perbaikan |
+|-----|-----------|
+| **`inv_bk` corruption** — natural key `fact_inventory` semula bernama `inv_key`; `model.py` meng-coerce semua kolom ber-suffix `_key` ke int64, dan `int("1_50")==150` (underscore = pemisah digit) → key teracak | Di-rename `inv_key` → **`inv_bk`** (suffix non-`_key`, mengikuti pola `sales_line_id`/`tweet_id`) |
+| **Unknown category/subcategory** — 209 produk AdventureWorks tanpa `productsubcategoryid` (Hex Nut, Washer, Crankarm, Frame…) tampil "Unknown"; 0 sales tapi ~41% tweet | Di-isi **`category='Components'`, `subcategory='Other Components'`** (semua 209 memang komponen sepeda); anggota guard `product_key=-1` tetap "Unknown" |
+| **`is_spike` mati** — selalu `False` (0/9,016 spike di sumber) | Kolom **di-drop** dari `fact_sentiment` + schema + DW |
+| **`fact_inventory.date_key` 72% Unknown** — `modifieddate` inventory (2019–2025) di luar `dim_date` (yang hanya dari tanggal sales+tweet) | **`dim_date` diperluas** dengan union tanggal inventory → date_key resolve (-1 turun dari 767 ke 0) |
+
+> Sengaja dibiarkan: `fact_sales[sales_count]` & `fact_sentiment[tweet_count]` konstan `1` — itu *COUNT helper* standar (jumlahkan untuk menghitung baris), bukan bug.
+>
+> **Dampak Power BI:** slicer kategori di halaman Sentiment yang dulu "Unknown" (3,679 tweet) kini jadi **Components**. Sisa "Unknown" hanya anggota guard `product_key=-1` (tanpa fact) — sembunyikan dengan filter `product_key > 0` bila perlu.
 
 ---
 
@@ -193,7 +238,18 @@ Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact ut
 
 ### Branch C — Social (tweet → sentimen terstruktur) → `silver/social/sentiment.parquet`
 
-`social_dw/silver.py` mem-flatten tweet + `_meta`, dedupe `tweet_id`, lalu menambah fitur analitik: `sentiment_score` (+1/0/−1), `aspect_en` (Indonesia→Inggris), `engagement_total`, `event_date`, `clean_text` (emoji/mention/URL dibersihkan). Output 1 baris/tweet (2,000).
+`social_dw/silver.py` mem-flatten tweet + `_meta`, dedupe `tweet_id`, lalu menambah fitur analitik: `sentiment_score` (+1/0/−1), `aspect_en` (Indonesia→Inggris), `engagement_total`, `event_date`, `clean_text` (emoji/mention/URL dibersihkan). Output 1 baris/tweet (9,016).
+
+### Branch D — Inventory (snapshot stok per lokasi) → `silver/inventory/`
+
+`inventory_dw/silver.py` mem-typing 2 tabel dari `bronze/csv`, dedupe pada natural key:
+
+| Tabel | Baris | Natural key | Keterangan |
+|-------|------:|-------------|------------|
+| `productinventory` | 1,069 | `productid + locationid` | quantity (stok on-hand), modifieddate (tanggal snapshot) |
+| `location` | 14 | `locationid` | name, costrate |
+
+`inventory_dw/gold.py` lalu membangun **`dim_location`** + **`fact_inventory`**, resolve FK `product_key`/`date_key` dari dim konform (`gold/dim_product`, `gold/dim_date`) yang sudah dibuat `sales_dw/gold.py`.
 
 ---
 
@@ -206,7 +262,9 @@ Dua fact pada grain berbeda berbagi **dimensi konform**. Jembatan lintas-fact ut
 2. **Ensure schema + tabel** `dw_sales` (dibuat saat batch pertama; **tidak** di-drop).
 3. **Open batch** → 1 baris `dim_batch` (`batch_id`, `as_of_date`, `window_label`, `load_timestamp`).
 4. **Upsert dim** (`INSERT … ON CONFLICT DO NOTHING` — key stabil) lalu **upsert fact by
-   natural key** (`sales_line_id`/`tweet_id`): hanya baris baru di-insert & ditandai `batch_key`.
+   natural key** (`sales_line_id` / `tweet_id` / `inv_bk`): hanya baris baru di-insert & ditandai `batch_key`.
+   *(Untuk `fact_inventory` yang snapshot, pasangan product×location berulang → batch ≥2
+   menambah 0 baris; lihat catatan di* Batch & Date Window*.)*
 5. **Verify** count per-batch + kumulatif + query lintas-fact (revenue × avg sentiment per kategori).
 
 ```powershell
@@ -297,10 +355,13 @@ Surrogate key integer membuat relationship dim→fact auto-detect. Pilih salah s
 |-------------------|-------|------|
 | Revenue per kategori/produk | `dim_product[category/product_name]` × `fact_sales[line_total]` | `Revenue = SUM(fact_sales[line_total])` |
 | Online vs Offline | `dim_channel[channel_name]` × Revenue | bar/donut |
+| Revenue per territory | `dim_territory[territory_name / territory_group]` × `fact_sales[line_total]` | bar/map (pakai nama, bukan `territory_id`) |
 | Revenue × sentimen (lintas-fact) | `dim_product[category]`, agregasi `fact_sales` & `fact_sentiment` terpisah lalu gabung | quadrant champions/at-risk |
 | Pain point per aspek | `dim_aspect[aspect_name]` × `fact_sentiment` (negatif) | bar |
-| Spike (recall) | `fact_sentiment[is_spike]` × produk/kategori | tabel |
-| Perubahan antar-batch | slicer `dim_batch[batch_id/as_of_date]` × measure apa pun | trend / before-after |
+| Margin per produk | `dim_product[product_name]`, `fact_sales[line_total]` − `order_qty`×`dim_product[standard_cost]` | `Gross Margin`, `Margin %` |
+| Stok on-hand per lokasi | `dim_location[location_name]` × `fact_inventory[quantity_on_hand]` | bar/treemap |
+| Inventory turnover | `COGS` ÷ `AVG(fact_inventory[quantity_on_hand])` per kategori | bar |
+| Perubahan antar-batch | slicer `dim_batch[batch_id/as_of_date]` × measure apa pun | trend / before-after (akumulasi hanya pada `fact_sales`/`fact_sentiment`; `fact_inventory` snapshot batch 1) |
 
 Pola umum: **dim_* = sumbu/slicer/legend**, **fact = measure**. Jangan join dua fact baris-ke-baris pada `product_key` (fan-out) — agregasikan ke grain kategori dulu.
 
@@ -317,6 +378,7 @@ DATALAKEHOUSE_FP/
 │   ├── staging_extraction/
 │   │   ├── extract_sales.py · extract_production.py · split_by_channel.py
 │   │   ├── <tabel>/                             # CSV per tabel (full)
+│   │   ├── inventory/                           # productinventory + location (fact_inventory)
 │   │   ├── online_store_csv/  · offline_store_csv/   # hasil split per channel
 │   ├── tweetgenerate/  generate_tweets.py · output/tweets_*.json
 │   └── generate_invoice/ awc_invoices.py · output_invoices/*.pdf
@@ -333,8 +395,10 @@ DATALAKEHOUSE_FP/
 │   │   ├── silver.py · gold.py · model.py · build_sales_dw.py
 │   ├── document_dw/                             # PDF -> silver/document
 │   │   ├── silver.py · build_document_dw.py
-│   └── social_dw/                               # tweet -> silver/social/sentiment
-│       ├── silver.py · build_social_dw.py
+│   ├── social_dw/                               # tweet -> silver/social/sentiment
+│   │   ├── silver.py · build_social_dw.py
+│   └── inventory_dw/                            # stok -> silver/inventory · gold(dim_location + fact_inventory)
+│       ├── silver.py · gold.py
 │
 ├── pool/                                        # OUTSIDE WORLD (transient, FLAT, terkuras)
 │   ├── _manifest.json · OLTP/*.csv · social_media/tweets_*.json · document/*.pdf
@@ -344,11 +408,12 @@ DATALAKEHOUSE_FP/
 │   ├── silver/
 │   │   ├── sales/    *.parquet + sales.parquet  # base typed + unified sales fact
 │   │   ├── document/ invoice_{header,line}.parquet
-│   │   └── social/   sentiment.parquet
-│   └── gold/                                    # GALAXY (flat): dim_*.parquet + fact_sales/fact_sentiment
+│   │   ├── social/   sentiment.parquet
+│   │   └── inventory/ productinventory.parquet + location.parquet
+│   └── gold/                                    # GALAXY (flat): dim_*.parquet + fact_sales/fact_inventory/fact_sentiment
 │
 └── model/                                       # DW-READY (flat, jembatan ke warehouseDB)
-    ├── dim_*.parquet · fact_sales.parquet · fact_sentiment.parquet
+    ├── dim_*.parquet · fact_sales.parquet · fact_inventory.parquet · fact_sentiment.parquet
     ├── schema.json                             # kolom+tipe, PK, FK (galaxy)
     └── create_tables.sql                       # DDL load ke DW (PK + FK)
 ```

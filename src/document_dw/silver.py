@@ -126,6 +126,22 @@ def run() -> dict:
         sys.exit(1)
 
     SILVER.mkdir(parents=True, exist_ok=True)
+
+    # Skip re-parsing if silver outputs are already newer than the source PDF.
+    silver_header = SILVER / "invoice_header.parquet"
+    silver_line   = SILVER / "invoice_line.parquet"
+    if silver_header.exists() and silver_line.exists():
+        newest_pdf    = max(p.stat().st_mtime for p in pdfs)
+        oldest_silver = min(silver_header.stat().st_mtime, silver_line.stat().st_mtime)
+        if oldest_silver >= newest_pdf:
+            h = len(pd.read_parquet(silver_header))
+            l = len(pd.read_parquet(silver_line))
+            print("[SILVER] bronze/document -> silver/document (parse PDF -> Parquet)",
+                  flush=True)
+            print(f"  [SKIP] silver already up-to-date -- "
+                  f"invoice_header={h:,}  invoice_line={l:,}", flush=True)
+            return {"invoice_header": h, "invoice_line": l}
+
     headers, all_lines = [], []
 
     # flush=True on every status line: a multi-thousand-page PDF takes tens of
