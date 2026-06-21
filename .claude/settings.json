@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Lenovo/Desktop/DATALAKEHOUSE_FP/**)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -c ' *)",
+      "Bash(.venv/Scripts/python.exe -m py_compile dummy_data/run_extractions.py src/batch_window.py src/sales_dw/silver.py src/sales_dw/gold.py src/sales_dw/model.py)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -u src/sales_dw/silver.py)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -u src/sales_dw/gold.py --window last30)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -c \"import pandas as pd; df=pd.read_parquet\\('model/fact_sales.parquet'\\); print\\('cols:', list\\(df.columns\\)\\); print\\(df[['sales_line_id']].head\\(3\\).to_string\\(\\)\\)\")",
+      "Bash(set -e)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -u src/sales_dw/gold.py --window full --as-of 2024-12-31)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -u src/load_warehouse.py --full-refresh --as-of 2024-12-31 --window-label \"b1<=2024-12-31\")",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -u src/sales_dw/gold.py --window full --as-of 2025-06-29)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -u src/load_warehouse.py --as-of 2025-06-29 --window-label \"b2<=2025-06-29\")",
+      "Bash(.venv/Scripts/python.exe -m py_compile src/build_lakehouse.py src/datalakehouse.py src/load_warehouse.py)",
+      "Bash(.venv/Scripts/python.exe src/build_lakehouse.py --help)",
+      "Bash(.venv/Scripts/python.exe src/load_warehouse.py --help)",
+      "Bash(PYTHONIOENCODING=utf-8 .venv/Scripts/python.exe -u src/build_lakehouse.py)",
+      "Bash(echo \"EXIT $?\")"
+    ]
+  }
+}
